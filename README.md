@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-18T19:21:06.685636
+Last Updated: 2023-10-18T19:31:07.575323
 
 ## **plc.directory**
 
@@ -359,4 +359,5 @@ Last Updated: 2023-10-18T19:21:06.685636
 |https://nerdynate.io|❌|❓|
 |https://pds.vriska.dev|✅|✅|
 |https://matthews-kennington.com|✅|✅|
+|https://bs.jefferyho.cc|✅|✅|
 
