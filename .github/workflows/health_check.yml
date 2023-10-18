@@ -1,0 +1,30 @@
+name: PDS Health Check
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */5 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: dart-lang/setup-dart@v1.3
+      - name: Install dependencies
+        run: dart pub get
+
+      - name: Check PDS Health
+        run: dart run ./bin/health_check.dart
+
+      - name: Update README
+        run: dart run ./bin/update_readme.dart
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "🩺 Checked PDS Health"
+          commit_user_name: 'Healer'
+          commit_user_email: 'github-actions[bot]@users.noreply.github.com'
+          commit_author: 'github-actions[bot] <github-actions[bot]@users.noreply.github.com>'
