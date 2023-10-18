@@ -26,5 +26,5 @@ jobs:
         with:
           commit_message: "🔎 Indexed New PDS"
           commit_user_name: 'Crawler'
-          commit_user_email: 'github-actions[bot]@users.noreply.github.com'
-          commit_author: 'github-actions[bot] <github-actions[bot]@users.noreply.github.com>'
+          commit_user_email: 'pirmax@users.noreply.github.com'
+          commit_author: 'Maxence Rose <pirmax@users.noreply.github.com>'
