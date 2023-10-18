@@ -3,7 +3,7 @@ name: Crawl ATProto PDS
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */5 * * *"
+    - cron: "*/10 * * * *"
 
 jobs:
   build:
