@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-19T01:12:41.688218
+Last Updated: 2023-10-19T01:21:50.375015
 
 ## **plc.directory**
 
@@ -274,7 +274,7 @@ Last Updated: 2023-10-19T01:12:41.688218
 |https://social.anineko.net|❌|❓|
 |https://bsky-v3.dolciss.net|✅|✅|
 |https://bs.lf.je|❌|❓|
-|https://pds.jaz.sh|✅|✅|
+|https://pds.jaz.sh|❌|❓|
 |https://atproto.eralyon.net|✅|✅|
 |http://127.0.0.1:8080|❌|❓|
 |https://ketamine.dog|✅|✅|
