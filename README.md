@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-21T01:12:31.811521
+Last Updated: 2023-10-21T01:19:52.057478
 
 ## **plc.directory**
 
@@ -374,6 +374,6 @@ Last Updated: 2023-10-21T01:12:31.811521
 |https://kevin.fur.vip|✅|✅|
 |https://bs.vrccl.life|✅|✅|
 |https://bsky.fursion.top|✅|✅|
-|https://bsky.riversideleft.org.uk|❌|❓|
+|https://bsky.riversideleft.org.uk|✅|✅|
 |https://siriussocial.de|✅|✅|
 
