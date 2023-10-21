@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-21T07:41:06.391921
+Last Updated: 2023-10-21T07:48:03.152380
 
 ## **plc.directory**
 
@@ -72,7 +72,7 @@ Last Updated: 2023-10-21T07:41:06.391921
 |https://sandbox.pds.h3y6e.com|❌|❓|
 |https://dev.otaso-sky.blue|❌|❓|
 |https://labo.moe|✅|✅|
-|https://test-pds.gwei.cz|❌|❓|
+|https://test-pds.gwei.cz|✅|✅|
 |https://bsky.coma.social|❌|❓|
 |https://robramos.xyz|❌|❓|
 |https://atsand.blueraccoon.tech|❌|❓|
@@ -266,7 +266,7 @@ Last Updated: 2023-10-21T07:41:06.391921
 |https://pds.staging.bteklabs.com|❌|❓|
 |https://afternooncurry.com|❌|❓|
 |https://bsky.whoverse.nexus|❌|❓|
-|https://zima.ge|❌|❓|
+|https://zima.ge|✅|✅|
 |https://bsk.lukas-diekmann.de|❌|❓|
 |https://bluesky.demokratie.cool|❌|❓|
 |https://itsastretch.net|❌|❓|
@@ -367,7 +367,7 @@ Last Updated: 2023-10-21T07:41:06.391921
 |https://furartist.art|❌|❓|
 |https://void.zct-mrl.com|✅|✅|
 |https://bluesky.migennes.org|✅|✅|
-|https://bsky.meis.space|✅|✅|
+|https://bsky.meis.space|❌|❓|
 |https://bs.raccoon-city.at|❌|❓|
 |https://belana.epicgreen.nl|✅|✅|
 |https://cjdd.me|❌|❓|
