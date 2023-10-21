@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-21T11:51:03.904546
+Last Updated: 2023-10-21T11:59:09.029155
 
 ## **plc.directory**
 
@@ -117,7 +117,7 @@ Last Updated: 2023-10-21T11:51:03.904546
 |https://zalupa.in.ua|❌|❓|
 |https://bluesky.formless.xyz|❌|❓|
 |https://mywaverly.com|❌|❓|
-|https://disbursement.center|❌|❓|
+|https://disbursement.center|✅|❌|
 |https://bsky-pds.dolciss.net|❌|❓|
 |https://sandbox.erechorse.com|✅|✅|
 |https://atp.mywaverly.com|❌|❓|
