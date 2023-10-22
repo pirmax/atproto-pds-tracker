@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-22T15:50:48.262434
+Last Updated: 2023-10-22T16:00:43.447654
 
 ## **plc.directory**
 
@@ -220,7 +220,7 @@ Last Updated: 2023-10-22T15:50:48.262434
 |https://at.bee.lol|❌|❓|
 |https://pdz.bsky.nyc|❌|❓|
 |https://pds.zhuzhihao.me|❌|❓|
-|https://hooray.social|❌|❓|
+|https://hooray.social|✅|❌|
 |https://pdsbx1.barine.co|❌|❓|
 |https://bsky-sand.dolciss.net|❌|❓|
 |https://parra.social|✅|✅|
