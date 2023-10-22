@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-22T18:01:09.434481
+Last Updated: 2023-10-22T18:13:50.815862
 
 ## **plc.directory**
 
@@ -384,6 +384,6 @@ Last Updated: 2023-10-22T18:01:09.434481
 |https://baisodro.me|✅|✅|
 |https://bluesky-pds.fly.dev|❌|❓|
 |https://bluesky.suit.at|❌|❓|
-|https://bs.nahlers.de|✅|✅|
-|https://nobs.nahlers.de|✅|✅|
+|https://bs.nahlers.de|❌|❓|
+|https://nobs.nahlers.de|❌|❓|
 
