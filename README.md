@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-23T17:40:58.056067
+Last Updated: 2023-10-23T17:50:04.836245
 
 ## **plc.directory**
 
@@ -103,7 +103,7 @@ Last Updated: 2023-10-23T17:40:58.056067
 |https://bsky.phazed.xyz|❌|❓|
 |https://bskysandbox.snek.dev|❌|❓|
 |https://bluesky.skcmcream.uk|❌|❓|
-|https://at.malte.re|✅|✅|
+|https://at.malte.re|❌|❓|
 |https://sleepy.cafe|❌|❓|
 |https://sifir1.com|❌|❓|
 |https://bsky.belearner.dev|❌|❓|
@@ -293,7 +293,7 @@ Last Updated: 2023-10-23T17:40:58.056067
 |https://bluesky.jayp.io|❌|❓|
 |https://this-is-epic.space|✅|✅|
 |https://tsuki.social|✅|✅|
-|https://x-mweya.duckdns.org|❌|❓|
+|https://x-mweya.duckdns.org|✅|✅|
 |https://fraudulent.link|❌|❓|
 |https://utatane.blue|✅|✅|
 |https://b.browsersource.dev|❌|❓|
