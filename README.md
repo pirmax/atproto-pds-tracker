@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-23T20:50:59.092314
+Last Updated: 2023-10-23T20:59:21.047325
 
 ## **plc.directory**
 
@@ -62,7 +62,7 @@ Last Updated: 2023-10-23T20:50:59.092314
 |https://bsky.picopico.party|❌|❓|
 |https://dirtybird.social|❌|❓|
 |https://matrix89.me|❌|❓|
-|https://at.thecubic.net|✅|✅|
+|https://at.thecubic.net|❌|❓|
 |https://pds.insanemode.org|❌|❓|
 |https://bsky.asuna.dev|❌|❓|
 |https://pds-sb-1.goykasi.com|❌|❓|
@@ -293,7 +293,7 @@ Last Updated: 2023-10-23T20:50:59.092314
 |https://bluesky.jayp.io|❌|❓|
 |https://this-is-epic.space|✅|✅|
 |https://tsuki.social|✅|✅|
-|https://x-mweya.duckdns.org|✅|✅|
+|https://x-mweya.duckdns.org|❌|❓|
 |https://fraudulent.link|❌|❓|
 |https://utatane.blue|✅|✅|
 |https://b.browsersource.dev|❌|❓|
@@ -355,7 +355,7 @@ Last Updated: 2023-10-23T20:50:59.092314
 |https://bskysandbox.edavis.dev|✅|✅|
 |https://social.derg.fr|✅|✅|
 |https://hug.mx|✅|✅|
-|https://bsky.zoeyvid.de|❌|❓|
+|https://bsky.zoeyvid.de|✅|✅|
 |https://maddesjg.eu|✅|✅|
 |https://joost.social|✅|✅|
 |https://journalist.social|✅|✅|
