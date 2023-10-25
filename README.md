@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-25T11:21:06.607963
+Last Updated: 2023-10-25T11:30:50.598753
 
 ## **plc.directory**
 
@@ -213,8 +213,8 @@ Last Updated: 2023-10-25T11:21:06.607963
 |https://chirpnest.net|❌|❓|
 |https://waypast.cool|❌|❓|
 |https://cumdmp.me|✅|✅|
-|https://usemastodon.feathered.link|✅|✅|
-|https://usefedi.feathered.link|✅|✅|
+|https://usemastodon.feathered.link|❌|❓|
+|https://usefedi.feathered.link|❌|❓|
 |https://furmeet.me|✅|✅|
 |https://pds.bee.lol|❌|❓|
 |https://at.bee.lol|❌|❓|
