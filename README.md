@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-26T15:31:04.276847
+Last Updated: 2023-10-26T15:40:34.156552
 
 ## **plc.directory**
 
@@ -267,7 +267,7 @@ Last Updated: 2023-10-26T15:31:04.276847
 |https://pds.staging.bteklabs.com|❌|❓|
 |https://afternooncurry.com|❌|❓|
 |https://bsky.whoverse.nexus|❌|❓|
-|https://zima.ge|❌|❓|
+|https://zima.ge|✅|✅|
 |https://bsk.lukas-diekmann.de|❌|❓|
 |https://bluesky.demokratie.cool|❌|❓|
 |https://itsastretch.net|❌|❓|
@@ -293,7 +293,7 @@ Last Updated: 2023-10-26T15:31:04.276847
 |https://bluesky.jayp.io|❌|❓|
 |https://this-is-epic.space|✅|✅|
 |https://tsuki.social|✅|✅|
-|https://x-mweya.duckdns.org|❌|❓|
+|https://x-mweya.duckdns.org|✅|✅|
 |https://fraudulent.link|❌|❓|
 |https://utatane.blue|✅|✅|
 |https://b.browsersource.dev|❌|❓|
