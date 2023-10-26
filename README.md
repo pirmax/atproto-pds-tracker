@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-26T06:51:02.707842
+Last Updated: 2023-10-26T07:01:43.845739
 
 ## **plc.directory**
 
@@ -390,4 +390,5 @@ Last Updated: 2023-10-26T06:51:02.707842
 |https://yggdrasil.daetsisi.es|✅|✅|
 |https://bsky.muzzlespace.com|❌|❓|
 |https://bs1.tuusulan.com|✅|✅|
+|https://bluesky.gautier.gg|❌|❓|
 
