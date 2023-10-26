@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-26T05:41:15.301033
+Last Updated: 2023-10-26T05:51:04.626967
 
 ## **plc.directory**
 
@@ -367,7 +367,7 @@ Last Updated: 2023-10-26T05:41:15.301033
 |https://pds.ssauer.co.za|❌|❓|
 |https://furartist.art|❌|❓|
 |https://void.zct-mrl.com|✅|✅|
-|https://bluesky.migennes.org|✅|✅|
+|https://bluesky.migennes.org|❌|❓|
 |https://bsky.meis.space|✅|✅|
 |https://bs.raccoon-city.at|❌|❓|
 |https://belana.epicgreen.nl|✅|✅|
@@ -386,7 +386,7 @@ Last Updated: 2023-10-26T05:41:15.301033
 |https://bluesky.suit.at|❌|❓|
 |https://bs.nahlers.de|❌|❓|
 |https://nobs.nahlers.de|❌|❓|
-|https://trapobezieher.de|✅|✅|
+|https://trapobezieher.de|❌|❓|
 |https://yggdrasil.daetsisi.es|✅|✅|
 |https://bsky.muzzlespace.com|❌|❓|
 |https://bs1.tuusulan.com|✅|✅|
