@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-27T14:51:04.805050
+Last Updated: 2023-10-27T15:00:00.884672
 
 ## **plc.directory**
 
@@ -295,7 +295,7 @@ Last Updated: 2023-10-27T14:51:04.805050
 |https://tsuki.social|✅|✅|
 |https://x-mweya.duckdns.org|✅|✅|
 |https://fraudulent.link|❌|❓|
-|https://utatane.blue|✅|✅|
+|https://utatane.blue|❌|❓|
 |https://b.browsersource.dev|❌|❓|
 |https://bbs.fraudulent.link|✅|✅|
 |https://foo.example|❌|❓|
