@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-27T12:15:09.402313
+Last Updated: 2023-10-27T12:28:12.964875
 
 ## **plc.directory**
 
@@ -392,4 +392,5 @@ Last Updated: 2023-10-27T12:15:09.402313
 |https://bs1.tuusulan.com|✅|✅|
 |https://bluesky.gautier.gg|❌|❓|
 |https://qcrg.space|❌|❓|
+|https://pds.qcrg.space|❌|❓|
 
