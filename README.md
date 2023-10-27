@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-27T15:50:54.766329
+Last Updated: 2023-10-27T16:01:27.261369
 
 ## **plc.directory**
 
@@ -394,4 +394,5 @@ Last Updated: 2023-10-27T15:50:54.766329
 |https://qcrg.space|❌|❓|
 |https://pds.qcrg.space|❌|❓|
 |https://databurst.org|❌|❓|
+|https://bsky.akurosia.de|✅|✅|
 
