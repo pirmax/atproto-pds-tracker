@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-29T14:12:52.963264
+Last Updated: 2023-10-29T14:20:56.301555
 
 ## **plc.directory**
 
@@ -42,7 +42,7 @@ Last Updated: 2023-10-29T14:12:52.963264
 |https://take2.dholms.xyz|❌|❓|
 |https://pds.dev.retr0.id|❌|❓|
 |https://cloudcaine.thecubic.net|❌|❓|
-|https://hellthread.pro|❌|❓|
+|https://hellthread.pro|✅|✅|
 |https://bsky.pupbrained.xyz|❌|❓|
 |https://henshaw.org|❌|❓|
 |https://pds.canidae.systems|✅|✅|
@@ -155,7 +155,7 @@ Last Updated: 2023-10-29T14:12:52.963264
 |https://tinypds.h3y6e.com|❌|❓|
 |https://none.social|❌|❓|
 |https://revpub.net|❌|❓|
-|https://dawn.atproto.zigler.ai|✅|✅|
+|https://dawn.atproto.zigler.ai|❌|❓|
 |https://pds.stevenselph.com|❌|❓|
 |https://bsky.felipecruz.es|❌|❓|
 |https://sunairo.moegi.stream|✅|❌|
@@ -265,7 +265,7 @@ Last Updated: 2023-10-29T14:12:52.963264
 |https://bsky.social-hell.uk|✅|✅|
 |http://localhost:8080/|❌|❓|
 |https://pds.staging.bteklabs.com|❌|❓|
-|https://afternooncurry.com|❌|❓|
+|https://afternooncurry.com|✅|✅|
 |https://bsky.whoverse.nexus|❌|❓|
 |https://zima.ge|✅|✅|
 |https://bsk.lukas-diekmann.de|❌|❓|
@@ -293,7 +293,7 @@ Last Updated: 2023-10-29T14:12:52.963264
 |https://bluesky.jayp.io|❌|❓|
 |https://this-is-epic.space|✅|✅|
 |https://tsuki.social|✅|✅|
-|https://x-mweya.duckdns.org|❌|❓|
+|https://x-mweya.duckdns.org|✅|✅|
 |https://fraudulent.link|❌|❓|
 |https://utatane.blue|✅|✅|
 |https://b.browsersource.dev|❌|❓|
@@ -367,7 +367,7 @@ Last Updated: 2023-10-29T14:12:52.963264
 |https://pds.ssauer.co.za|❌|❓|
 |https://furartist.art|❌|❓|
 |https://void.zct-mrl.com|✅|✅|
-|https://bluesky.migennes.org|❌|❓|
+|https://bluesky.migennes.org|✅|✅|
 |https://bsky.meis.space|✅|✅|
 |https://bs.raccoon-city.at|❌|❓|
 |https://belana.epicgreen.nl|✅|✅|
