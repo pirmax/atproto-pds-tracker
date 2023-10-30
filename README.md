@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-30T15:50:59.122810
+Last Updated: 2023-10-30T15:58:31.923093
 
 ## **plc.directory**
 
@@ -53,7 +53,7 @@ Last Updated: 2023-10-30T15:50:59.122810
 |https://bsky.flicknow.xyz|❌|❓|
 |https://thomasjerome.com|❌|❓|
 |https://sky.lalafell.org|✅|✅|
-|https://pds.ubanis.mydns.jp|❌|❓|
+|https://pds.ubanis.mydns.jp|✅|✅|
 |https://pds.bsky.sh|❌|❓|
 |https://tjs-pds-sandbox.shop|❌|❓|
 |http://localhost:3000|❌|❓|
@@ -163,7 +163,7 @@ Last Updated: 2023-10-30T15:50:59.122810
 |https://bsky.felipecruz.es|❌|❓|
 |https://sunairo.moegi.stream|✅|❌|
 |https://hus.gay|❌|❓|
-|https://bsky.syui.ai|✅|❌|
+|https://bsky.syui.ai|❌|❓|
 |https://pixilin.social|❌|❓|
 |https://tagz.social|❌|❓|
 |https://pds.solarplex.xyz|❌|❓|
@@ -268,7 +268,7 @@ Last Updated: 2023-10-30T15:50:59.122810
 |https://bsky.social-hell.uk|✅|✅|
 |http://localhost:8080/|❌|❓|
 |https://pds.staging.bteklabs.com|❌|❓|
-|https://afternooncurry.com|❌|❓|
+|https://afternooncurry.com|✅|✅|
 |https://bsky.whoverse.nexus|❌|❓|
 |https://zima.ge|✅|✅|
 |https://bsk.lukas-diekmann.de|❌|❓|
