@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-30T01:12:30.014599
+Last Updated: 2023-10-30T01:38:00.387530
 
 ## **plc.directory**
 
@@ -28,6 +28,7 @@ Last Updated: 2023-10-30T01:12:30.014599
 |https://pds.dev.retr0.id|❌|❓|
 |http://localhost:62912|❌|❓|
 |http://localhost:62923|❌|❓|
+|http://localhost:63373|❌|❓|
 
 ## **plc.bsky-sandbox.dev**
 
