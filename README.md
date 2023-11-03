@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-03T13:02:59.778800
+Last Updated: 2023-11-03T13:13:28.229001
 
 ## **plc.directory**
 
@@ -400,7 +400,7 @@ Last Updated: 2023-11-03T13:02:59.778800
 |https://bsky.akurosia.de|✅|✅|
 |https://bsky.netopia.me|❌|❓|
 |https://bsky.favoslav.cz|❌|❓|
-|https://blugrisbi.es|✅|✅|
+|https://blugrisbi.es|❌|❓|
 |https://bsky.maxkeb.fr|✅|✅|
 |https://bsky.adrianrey.dev|❌|❓|
 |https://bsky.action0.com|✅|✅|
