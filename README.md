@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-05T07:41:02.664309
+Last Updated: 2023-11-05T07:50:09.032004
 
 ## **plc.directory**
 
@@ -284,7 +284,7 @@ Last Updated: 2023-11-05T07:41:02.664309
 |https://pds.jaz.sh|✅|✅|
 |https://atproto.eralyon.net|✅|✅|
 |http://127.0.0.1:8080|❌|❓|
-|https://ketamine.dog|✅|✅|
+|https://ketamine.dog|❌|❓|
 |https://blacksky.app|✅|✅|
 |https://eper.tail3825e.ts.net|❌|❓|
 |http://localhost:2583|❌|❓|
@@ -370,7 +370,7 @@ Last Updated: 2023-11-05T07:41:02.664309
 |https://pds.ssauer.co.za|❌|❓|
 |https://furartist.art|❌|❓|
 |https://void.zct-mrl.com|✅|✅|
-|https://bluesky.migennes.org|✅|✅|
+|https://bluesky.migennes.org|❌|❓|
 |https://bsky.meis.space|✅|✅|
 |https://bs.raccoon-city.at|❌|❓|
 |https://belana.epicgreen.nl|❌|❓|
