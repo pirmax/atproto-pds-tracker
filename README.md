@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-06T22:30:53.726757
+Last Updated: 2023-11-06T22:41:09.111280
 
 ## **plc.directory**
 
@@ -29,6 +29,7 @@ Last Updated: 2023-11-06T22:30:53.726757
 |http://localhost:62912|❌|❓|
 |http://localhost:62923|❌|❓|
 |http://localhost:63373|❌|❓|
+|https://morel.us-east.host.bsky.network|✅|✅|
 
 ## **plc.bsky-sandbox.dev**
 
