@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-06T15:41:17.886374
+Last Updated: 2023-11-06T15:51:08.898824
 
 ## **plc.directory**
 
@@ -25,7 +25,7 @@ Last Updated: 2023-11-06T15:41:17.886374
 |https://redocen.one|❌|❓|
 |http://localhost:12025|❌|❓|
 |https://rebroad.com|✅|❌|
-|https://pds.dev.retr0.id|✅|✅|
+|https://pds.dev.retr0.id|❌|❓|
 |http://localhost:62912|❌|❓|
 |http://localhost:62923|❌|❓|
 |http://localhost:63373|❌|❓|
@@ -135,7 +135,7 @@ Last Updated: 2023-11-06T15:41:17.886374
 |https://bsky.shigepon.net|❌|❓|
 |https://bsky.jk.al|❌|❓|
 |https://kyderp.com|❌|❓|
-|https://pds.holmosapien.com|✅|✅|
+|https://pds.holmosapien.com|❌|❓|
 |https://bs.sarukichi.yokohama|❌|❓|
 |https://bryanbskytest.cloudns.ph|❌|❓|
 |https://playtime.fm|❌|❓|
@@ -358,7 +358,7 @@ Last Updated: 2023-11-06T15:41:17.886374
 |https://bskysandbox.edavis.dev|✅|✅|
 |https://social.derg.fr|✅|✅|
 |https://hug.mx|✅|✅|
-|https://bsky.zoeyvid.de|✅|✅|
+|https://bsky.zoeyvid.de|❌|❓|
 |https://maddesjg.eu|✅|✅|
 |https://joost.social|✅|✅|
 |https://journalist.social|✅|✅|
@@ -390,7 +390,7 @@ Last Updated: 2023-11-06T15:41:17.886374
 |https://bs.nahlers.de|❌|❓|
 |https://nobs.nahlers.de|❌|❓|
 |https://trapobezieher.de|❌|❓|
-|https://yggdrasil.daetsisi.es|❌|❓|
+|https://yggdrasil.daetsisi.es|✅|✅|
 |https://bsky.muzzlespace.com|❌|❓|
 |https://bs1.tuusulan.com|❌|❓|
 |https://bluesky.gautier.gg|❌|❓|
