@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-06T16:51:06.690075
+Last Updated: 2023-11-06T17:01:03.534598
 
 ## **plc.directory**
 
@@ -25,7 +25,7 @@ Last Updated: 2023-11-06T16:51:06.690075
 |https://redocen.one|❌|❓|
 |http://localhost:12025|❌|❓|
 |https://rebroad.com|✅|❌|
-|https://pds.dev.retr0.id|❌|❓|
+|https://pds.dev.retr0.id|✅|✅|
 |http://localhost:62912|❌|❓|
 |http://localhost:62923|❌|❓|
 |http://localhost:63373|❌|❓|
@@ -43,7 +43,7 @@ Last Updated: 2023-11-06T16:51:06.690075
 |https://pds.anshnanda.com|❌|❓|
 |https://friendlypds.cloud|✅|✅|
 |https://take2.dholms.xyz|❌|❓|
-|https://pds.dev.retr0.id|❌|❓|
+|https://pds.dev.retr0.id|✅|✅|
 |https://cloudcaine.thecubic.net|❌|❓|
 |https://hellthread.pro|✅|✅|
 |https://bsky.pupbrained.xyz|❌|❓|
