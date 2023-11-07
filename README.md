@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-07T11:40:57.898519
+Last Updated: 2023-11-07T11:49:50.070257
 
 ## **plc.directory**
 
@@ -176,7 +176,7 @@ Last Updated: 2023-11-07T11:40:57.898519
 |https://bsky.jakebrough.io|✅|✅|
 |https://protogen.world|❌|❓|
 |https://dev.skyport.me|❌|❓|
-|https://pds.tenshicorn.dog|❌|❓|
+|https://pds.tenshicorn.dog|✅|✅|
 |https://gluon.rkevin.dev|✅|✅|
 |https://tenshicorn.dog|✅|✅|
 |https://pds.bdev.loves.reisen|❌|❓|
@@ -343,7 +343,7 @@ Last Updated: 2023-11-07T11:40:57.898519
 |https://pds.flm9.me|❌|❓|
 |https://instanzfreun.de|❌|❓|
 |https://bluesky.euer.tv|✅|✅|
-|https://pds.apppel.nl|✅|✅|
+|https://pds.apppel.nl|❌|❓|
 |https://bluesky.home.foxocube.xyz|❌|❓|
 |https://mediumeffortmedia.co.uk|❌|❓|
 |https://bluesky.p82.it|❌|❓|
@@ -365,7 +365,7 @@ Last Updated: 2023-11-07T11:40:57.898519
 |https://journalist.social|✅|✅|
 |https://creaton.social|✅|✅|
 |https://nerdynate.io|❌|❓|
-|https://pds.vriska.dev|❌|❓|
+|https://pds.vriska.dev|✅|✅|
 |https://matthews-kennington.com|✅|✅|
 |https://bs.jefferyho.cc|✅|✅|
 |https://pds.ssauer.co.za|❌|❓|
