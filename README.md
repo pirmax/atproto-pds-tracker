@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-08T15:01:10.291096
+Last Updated: 2023-11-08T15:11:51.360110
 
 ## **plc.directory**
 
@@ -30,7 +30,7 @@ Last Updated: 2023-11-08T15:01:10.291096
 |http://localhost:62923|❌|❓|
 |http://localhost:63373|❌|❓|
 |https://morel.us-east.host.bsky.network|✅|✅|
-|https://bsky.mrsquaare.fr|✅|✅|
+|https://bsky.mrsquaare.fr|❌|❓|
 
 ## **plc.bsky-sandbox.dev**
 
@@ -108,7 +108,7 @@ Last Updated: 2023-11-08T15:01:10.291096
 |https://bsky.phazed.xyz|❌|❓|
 |https://bskysandbox.snek.dev|✅|✅|
 |https://bluesky.skcmcream.uk|❌|❓|
-|https://at.malte.re|✅|✅|
+|https://at.malte.re|❌|❓|
 |https://sleepy.cafe|❌|❓|
 |https://sifir1.com|❌|❓|
 |https://bsky.belearner.dev|❌|❓|
@@ -298,7 +298,7 @@ Last Updated: 2023-11-08T15:01:10.291096
 |https://bluesky.jayp.io|❌|❓|
 |https://this-is-epic.space|✅|✅|
 |https://tsuki.social|✅|✅|
-|https://x-mweya.duckdns.org|❌|❓|
+|https://x-mweya.duckdns.org|✅|✅|
 |https://fraudulent.link|❌|❓|
 |https://utatane.blue|✅|✅|
 |https://b.browsersource.dev|❌|❓|
@@ -417,5 +417,5 @@ Last Updated: 2023-11-08T15:01:10.291096
 |https://bsky.powerg.love|✅|✅|
 |https://atproto.brid.gy/|✅|✅|
 |https://abluehope.com|✅|✅|
-|https://bsky.mrsquaare.fr|✅|✅|
+|https://bsky.mrsquaare.fr|❌|❓|
 
