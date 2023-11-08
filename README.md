@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-08T03:01:08.171892
+Last Updated: 2023-11-08T03:10:38.518416
 
 ## **plc.directory**
 
@@ -347,7 +347,7 @@ Last Updated: 2023-11-08T03:01:08.171892
 |https://bluesky.home.foxocube.xyz|❌|❓|
 |https://mediumeffortmedia.co.uk|❌|❓|
 |https://bluesky.p82.it|❌|❓|
-|https://aozora.yockow.jp|❌|❓|
+|https://aozora.yockow.jp|✅|✅|
 |https://econcom.org|❌|❓|
 |https://pds.entreco.org|✅|✅|
 |https://himmelblau.bigbl4ckw0lf.de|❌|❓|
@@ -365,7 +365,7 @@ Last Updated: 2023-11-08T03:01:08.171892
 |https://journalist.social|✅|✅|
 |https://creaton.social|✅|✅|
 |https://nerdynate.io|❌|❓|
-|https://pds.vriska.dev|✅|✅|
+|https://pds.vriska.dev|❌|❓|
 |https://matthews-kennington.com|✅|✅|
 |https://bs.jefferyho.cc|✅|✅|
 |https://pds.ssauer.co.za|❌|❓|
