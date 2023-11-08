@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-08T20:13:47.273063
+Last Updated: 2023-11-08T20:21:11.927319
 
 ## **plc.directory**
 
@@ -392,7 +392,7 @@ Last Updated: 2023-11-08T20:13:47.273063
 |https://bs.nahlers.de|❌|❓|
 |https://nobs.nahlers.de|❌|❓|
 |https://trapobezieher.de|❌|❓|
-|https://yggdrasil.daetsisi.es|❌|❓|
+|https://yggdrasil.daetsisi.es|✅|✅|
 |https://bsky.muzzlespace.com|❌|❓|
 |https://bs1.tuusulan.com|❌|❓|
 |https://bluesky.gautier.gg|❌|❓|
