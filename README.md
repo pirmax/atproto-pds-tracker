@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-08T10:01:08.883952
+Last Updated: 2023-11-08T10:08:35.526425
 
 ## **plc.directory**
 
@@ -411,7 +411,7 @@ Last Updated: 2023-11-08T10:01:08.883952
 |https://bsky.softwhere.ca|❌|❓|
 |https://wkswan.com|✅|✅|
 |https://aituns.com|✅|✅|
-|https://italiansky.mooo.com|❌|❓|
+|https://italiansky.mooo.com|✅|✅|
 |https://sky.n3otrax.fr|✅|✅|
 |https://bsky.powerg.love|✅|✅|
 |https://atproto.brid.gy/|✅|✅|
