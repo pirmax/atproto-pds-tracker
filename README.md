@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-09T03:22:27.828324
+Last Updated: 2023-11-09T03:30:36.373271
 
 ## **plc.directory**
 
@@ -15,7 +15,7 @@ Last Updated: 2023-11-09T03:22:27.828324
 |https://bsky.sacckey.dev|❌|❓|
 |https://kitsune.nexus|✅|✅|
 |https://neosky.dev|❌|❓|
-|https://furmeet.me|❌|❓|
+|https://furmeet.me|✅|✅|
 |https://bsky.syui.ai|✅|❌|
 |http://localhost:3583|❌|❓|
 |https://atproto.forza7.org|❌|❓|
