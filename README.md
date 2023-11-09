@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-09T05:50:40.192512
+Last Updated: 2023-11-09T05:58:54.699224
 
 ## **plc.directory**
 
@@ -298,7 +298,7 @@ Last Updated: 2023-11-09T05:50:40.192512
 |https://bluesky.jayp.io|❌|❓|
 |https://this-is-epic.space|✅|✅|
 |https://tsuki.social|✅|✅|
-|https://x-mweya.duckdns.org|✅|✅|
+|https://x-mweya.duckdns.org|❌|❓|
 |https://fraudulent.link|❌|❓|
 |https://utatane.blue|✅|✅|
 |https://b.browsersource.dev|❌|❓|
@@ -331,7 +331,7 @@ Last Updated: 2023-11-09T05:50:40.192512
 |https://rent-a-shitstorm.eu|✅|✅|
 |https://bskies.de|❌|❓|
 |https://due-it.com|❌|❓|
-|https://blue.cb-homelab.de|✅|✅|
+|https://blue.cb-homelab.de|❌|❓|
 |https://x.kex.biz|❌|❓|
 |https://kiichigo.cloud|✅|✅|
 |https://atsandbox.kyriog.fr|✅|✅|
@@ -381,7 +381,7 @@ Last Updated: 2023-11-09T05:50:40.192512
 |https://bs.vrccl.life|✅|✅|
 |https://bsky.fursion.top|✅|✅|
 |https://bsky.riversideleft.org.uk|✅|✅|
-|https://siriussocial.de|❌|❓|
+|https://siriussocial.de|✅|✅|
 |https://bsky.kemono.in.th|❌|❓|
 |https://bsky.ponscele.fr|✅|✅|
 |https://bluesky.animint.fr|✅|✅|
