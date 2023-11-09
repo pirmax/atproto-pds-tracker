@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-09T01:12:51.073332
+Last Updated: 2023-11-09T01:23:23.891042
 
 ## **plc.directory**
 
@@ -29,7 +29,7 @@ Last Updated: 2023-11-09T01:12:51.073332
 |http://localhost:62912|❌|❓|
 |http://localhost:62923|❌|❓|
 |http://localhost:63373|❌|❓|
-|https://morel.us-east.host.bsky.network|❌|❓|
+|https://morel.us-east.host.bsky.network|✅|✅|
 |https://bsky.mrsquaare.fr|❌|❓|
 
 ## **plc.bsky-sandbox.dev**
@@ -300,7 +300,7 @@ Last Updated: 2023-11-09T01:12:51.073332
 |https://tsuki.social|✅|✅|
 |https://x-mweya.duckdns.org|✅|✅|
 |https://fraudulent.link|❌|❓|
-|https://utatane.blue|❌|❓|
+|https://utatane.blue|✅|✅|
 |https://b.browsersource.dev|❌|❓|
 |https://bbs.fraudulent.link|❌|❓|
 |https://foo.example|❌|❓|
