@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-09T13:02:12.949991
+Last Updated: 2023-11-09T13:10:40.546615
 
 ## **plc.directory**
 
@@ -400,7 +400,7 @@ Last Updated: 2023-11-09T13:02:12.949991
 |https://qcrg.space|❌|❓|
 |https://pds.qcrg.space|❌|❓|
 |https://databurst.org|❌|❓|
-|https://bsky.akurosia.de|✅|✅|
+|https://bsky.akurosia.de|❌|❓|
 |https://bsky.netopia.me|❌|❓|
 |https://bsky.favoslav.cz|❌|❓|
 |https://blugrisbi.es|✅|✅|
@@ -421,5 +421,5 @@ Last Updated: 2023-11-09T13:02:12.949991
 |https://bsky.mrsquaare.fr|❌|❓|
 |https://montpeyroux.social|✅|✅|
 |https://blueskysweden.se|✅|✅|
-|https://pds.home.rjp.is|❌|❓|
+|https://pds.home.rjp.is|✅|✅|
 
