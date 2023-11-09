@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-09T15:13:44.293607
+Last Updated: 2023-11-09T15:22:48.429608
 
 ## **plc.directory**
 
@@ -422,4 +422,5 @@ Last Updated: 2023-11-09T15:13:44.293607
 |https://montpeyroux.social|✅|✅|
 |https://blueskysweden.se|✅|✅|
 |https://pds.home.rjp.is|✅|✅|
+|https://posting.expert|✅|✅|
 
