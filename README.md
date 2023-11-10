@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-10T22:31:03.349746
+Last Updated: 2023-11-10T22:41:07.604932
 
 ## **plc.directory**
 
@@ -425,4 +425,5 @@ Last Updated: 2023-11-10T22:31:03.349746
 |https://pds.home.rjp.is|✅|✅|
 |https://posting.expert|❌|❓|
 |https://pds.timburga.social|✅|✅|
+|https://bs.foss.gay|✅|✅|
 
