@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-10T01:12:47.787669
+Last Updated: 2023-11-10T01:25:02.171802
 
 ## **plc.directory**
 
@@ -79,7 +79,7 @@ Last Updated: 2023-11-10T01:12:47.787669
 |https://sandbox.pds.h3y6e.com|❌|❓|
 |https://dev.otaso-sky.blue|❌|❓|
 |https://labo.moe|✅|✅|
-|https://test-pds.gwei.cz|❌|❓|
+|https://test-pds.gwei.cz|✅|✅|
 |https://bsky.coma.social|❌|❓|
 |https://robramos.xyz|❌|❓|
 |https://atsand.blueraccoon.tech|❌|❓|
@@ -179,7 +179,7 @@ Last Updated: 2023-11-10T01:12:47.787669
 |https://protogen.world|❌|❓|
 |https://dev.skyport.me|❌|❓|
 |https://pds.tenshicorn.dog|✅|✅|
-|https://gluon.rkevin.dev|❌|❓|
+|https://gluon.rkevin.dev|✅|✅|
 |https://tenshicorn.dog|✅|✅|
 |https://pds.bdev.loves.reisen|❌|❓|
 |https://d-twitter.com|❌|❓|
