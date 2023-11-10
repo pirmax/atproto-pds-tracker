@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-10T08:31:05.082202
+Last Updated: 2023-11-10T08:38:59.503949
 
 ## **plc.directory**
 
@@ -382,7 +382,7 @@ Last Updated: 2023-11-10T08:31:05.082202
 |https://bs.vrccl.life|✅|✅|
 |https://bsky.fursion.top|✅|✅|
 |https://bsky.riversideleft.org.uk|✅|✅|
-|https://siriussocial.de|✅|✅|
+|https://siriussocial.de|❌|❓|
 |https://bsky.kemono.in.th|❌|❓|
 |https://bsky.ponscele.fr|✅|✅|
 |https://bluesky.animint.fr|✅|✅|
