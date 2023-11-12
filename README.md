@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-12T21:20:50.967798
+Last Updated: 2023-11-12T21:31:05.126634
 
 ## **plc.directory**
 
@@ -34,6 +34,7 @@ Last Updated: 2023-11-12T21:20:50.967798
 |https://puffball.us-east.host.bsky.network|✅|✅|
 |https://inkcap.us-east.host.bsky.network|✅|✅|
 |https://oyster.us-east.host.bsky.network|✅|✅|
+|https://enoki.us-east.host.bsky.network|✅|✅|
 
 ## **plc.bsky-sandbox.dev**
 
