@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-13T12:28:29.379296
+Last Updated: 2023-11-13T12:41:59.554968
 
 ## **plc.directory**
 
@@ -429,4 +429,5 @@ Last Updated: 2023-11-13T12:28:29.379296
 |https://pds.timburga.social|✅|✅|
 |https://bs.foss.gay|✅|✅|
 |https://bsky.fracergu.dev|❌|❓|
+|https://briiz.com|✅|✅|
 
