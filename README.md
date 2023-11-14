@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-14T16:40:50.017170
+Last Updated: 2023-11-14T16:51:53.165969
 
 ## **plc.directory**
 
@@ -143,7 +143,7 @@ Last Updated: 2023-11-14T16:40:50.017170
 |https://bsky.shigepon.net|❌|❓|
 |https://bsky.jk.al|❌|❓|
 |https://kyderp.com|❌|❓|
-|https://pds.holmosapien.com|❌|❓|
+|https://pds.holmosapien.com|✅|✅|
 |https://bs.sarukichi.yokohama|❌|❓|
 |https://bryanbskytest.cloudns.ph|❌|❓|
 |https://playtime.fm|❌|❓|
@@ -378,7 +378,7 @@ Last Updated: 2023-11-14T16:40:50.017170
 |https://pds.ssauer.co.za|❌|❓|
 |https://furartist.art|❌|❓|
 |https://void.zct-mrl.com|❌|❓|
-|https://bluesky.migennes.org|❌|❓|
+|https://bluesky.migennes.org|✅|✅|
 |https://bsky.meis.space|✅|✅|
 |https://bs.raccoon-city.at|❌|❓|
 |https://belana.epicgreen.nl|❌|❓|
@@ -418,7 +418,7 @@ Last Updated: 2023-11-14T16:40:50.017170
 |https://bsky.softwhere.ca|❌|❓|
 |https://wkswan.com|✅|✅|
 |https://aituns.com|✅|✅|
-|https://italiansky.mooo.com|❌|❓|
+|https://italiansky.mooo.com|✅|✅|
 |https://sky.n3otrax.fr|✅|✅|
 |https://bsky.powerg.love|✅|✅|
 |https://atproto.brid.gy/|✅|✅|
