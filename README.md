@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-14T14:13:30.970714
+Last Updated: 2023-11-14T14:23:01.559402
 
 ## **plc.directory**
 
@@ -143,7 +143,7 @@ Last Updated: 2023-11-14T14:13:30.970714
 |https://bsky.shigepon.net|❌|❓|
 |https://bsky.jk.al|❌|❓|
 |https://kyderp.com|❌|❓|
-|https://pds.holmosapien.com|✅|✅|
+|https://pds.holmosapien.com|❌|❓|
 |https://bs.sarukichi.yokohama|❌|❓|
 |https://bryanbskytest.cloudns.ph|❌|❓|
 |https://playtime.fm|❌|❓|
@@ -304,7 +304,7 @@ Last Updated: 2023-11-14T14:13:30.970714
 |https://bluesky.jayp.io|❌|❓|
 |https://this-is-epic.space|✅|✅|
 |https://tsuki.social|✅|✅|
-|https://x-mweya.duckdns.org|❌|❓|
+|https://x-mweya.duckdns.org|✅|✅|
 |https://fraudulent.link|❌|❓|
 |https://utatane.blue|✅|✅|
 |https://b.browsersource.dev|❌|❓|
@@ -339,7 +339,7 @@ Last Updated: 2023-11-14T14:13:30.970714
 |https://due-it.com|❌|❓|
 |https://blue.cb-homelab.de|❌|❓|
 |https://x.kex.biz|❌|❓|
-|https://kiichigo.cloud|❌|❓|
+|https://kiichigo.cloud|✅|✅|
 |https://atsandbox.kyriog.fr|✅|✅|
 |https://bsky-sandbox.amith.sbs|❌|❓|
 |https://bskysbox.amith.sbs|✅|✅|
@@ -358,7 +358,7 @@ Last Updated: 2023-11-14T14:13:30.970714
 |https://econcom.org|❌|❓|
 |https://pds.entreco.org|✅|✅|
 |https://himmelblau.bigbl4ckw0lf.de|❌|❓|
-|https://bsky.bigbl4ckw0lf.de|✅|✅|
+|https://bsky.bigbl4ckw0lf.de|❌|❓|
 |https://social.nicht-existent.de|❌|❓|
 |https://pds.fortunaexmachina.com|✅|✅|
 |http://localhost:12025|❌|❓|
@@ -379,7 +379,7 @@ Last Updated: 2023-11-14T14:13:30.970714
 |https://furartist.art|❌|❓|
 |https://void.zct-mrl.com|❌|❓|
 |https://bluesky.migennes.org|✅|✅|
-|https://bsky.meis.space|❌|❓|
+|https://bsky.meis.space|✅|✅|
 |https://bs.raccoon-city.at|❌|❓|
 |https://belana.epicgreen.nl|❌|❓|
 |https://cjdd.me|❌|❓|
