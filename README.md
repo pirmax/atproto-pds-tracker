@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-14T14:50:46.112835
+Last Updated: 2023-11-14T15:00:07.579995
 
 ## **plc.directory**
 
@@ -358,7 +358,7 @@ Last Updated: 2023-11-14T14:50:46.112835
 |https://econcom.org|❌|❓|
 |https://pds.entreco.org|✅|✅|
 |https://himmelblau.bigbl4ckw0lf.de|❌|❓|
-|https://bsky.bigbl4ckw0lf.de|❌|❓|
+|https://bsky.bigbl4ckw0lf.de|✅|✅|
 |https://social.nicht-existent.de|❌|❓|
 |https://pds.fortunaexmachina.com|✅|✅|
 |http://localhost:12025|❌|❓|
@@ -379,7 +379,7 @@ Last Updated: 2023-11-14T14:50:46.112835
 |https://furartist.art|❌|❓|
 |https://void.zct-mrl.com|❌|❓|
 |https://bluesky.migennes.org|✅|✅|
-|https://bsky.meis.space|✅|✅|
+|https://bsky.meis.space|❌|❓|
 |https://bs.raccoon-city.at|❌|❓|
 |https://belana.epicgreen.nl|❌|❓|
 |https://cjdd.me|❌|❓|
