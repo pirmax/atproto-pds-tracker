@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-15T21:01:07.566264
+Last Updated: 2023-11-15T21:11:24.531569
 
 ## **plc.directory**
 
@@ -84,7 +84,7 @@ Last Updated: 2023-11-15T21:01:07.566264
 |https://sandbox.pds.h3y6e.com|❌|❓|
 |https://dev.otaso-sky.blue|❌|❓|
 |https://labo.moe|✅|✅|
-|https://test-pds.gwei.cz|✅|✅|
+|https://test-pds.gwei.cz|❌|❓|
 |https://bsky.coma.social|❌|❓|
 |https://robramos.xyz|❌|❓|
 |https://atsand.blueraccoon.tech|❌|❓|
@@ -378,7 +378,7 @@ Last Updated: 2023-11-15T21:01:07.566264
 |https://pds.ssauer.co.za|❌|❓|
 |https://furartist.art|❌|❓|
 |https://void.zct-mrl.com|❌|❓|
-|https://bluesky.migennes.org|✅|✅|
+|https://bluesky.migennes.org|❌|❓|
 |https://bsky.meis.space|✅|✅|
 |https://bs.raccoon-city.at|❌|❓|
 |https://belana.epicgreen.nl|❌|❓|
@@ -426,7 +426,7 @@ Last Updated: 2023-11-15T21:01:07.566264
 |https://bsky.mrsquaare.fr|❌|❓|
 |https://montpeyroux.social|✅|✅|
 |https://blueskysweden.se|✅|✅|
-|https://pds.home.rjp.is|✅|✅|
+|https://pds.home.rjp.is|❌|❓|
 |https://posting.expert|❌|❓|
 |https://pds.timburga.social|✅|✅|
 |https://bs.foss.gay|✅|✅|
