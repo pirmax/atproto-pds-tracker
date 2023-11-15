@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-15T04:14:11.836069
+Last Updated: 2023-11-15T04:23:11.111222
 
 ## **plc.directory**
 
@@ -273,10 +273,10 @@ Last Updated: 2023-11-15T04:14:11.836069
 |https://bsky.davidfernandez.xyz|❌|❓|
 |https://vengeful.eu|✅|✅|
 |https://draconic.host|❌|❓|
-|https://bsky.social-hell.uk|❌|❓|
+|https://bsky.social-hell.uk|✅|✅|
 |http://localhost:8080/|❌|❓|
 |https://pds.staging.bteklabs.com|❌|❓|
-|https://afternooncurry.com|✅|✅|
+|https://afternooncurry.com|❌|❓|
 |https://bsky.whoverse.nexus|❌|❓|
 |https://zima.ge|✅|✅|
 |https://bsk.lukas-diekmann.de|❌|❓|
@@ -418,7 +418,7 @@ Last Updated: 2023-11-15T04:14:11.836069
 |https://bsky.softwhere.ca|❌|❓|
 |https://wkswan.com|✅|✅|
 |https://aituns.com|✅|✅|
-|https://italiansky.mooo.com|✅|✅|
+|https://italiansky.mooo.com|❌|❓|
 |https://sky.n3otrax.fr|✅|✅|
 |https://bsky.powerg.love|✅|✅|
 |https://atproto.brid.gy/|✅|✅|
@@ -426,7 +426,7 @@ Last Updated: 2023-11-15T04:14:11.836069
 |https://bsky.mrsquaare.fr|❌|❓|
 |https://montpeyroux.social|✅|✅|
 |https://blueskysweden.se|✅|✅|
-|https://pds.home.rjp.is|✅|✅|
+|https://pds.home.rjp.is|❌|❓|
 |https://posting.expert|❌|❓|
 |https://pds.timburga.social|✅|✅|
 |https://bs.foss.gay|✅|✅|
