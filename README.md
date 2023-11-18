@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-18T04:32:08.062883
+Last Updated: 2023-11-18T04:40:10.421501
 
 ## **plc.directory**
 
@@ -362,7 +362,7 @@ Last Updated: 2023-11-18T04:32:08.062883
 |https://social.nicht-existent.de|❌|❓|
 |https://pds.fortunaexmachina.com|✅|✅|
 |http://localhost:12025|❌|❓|
-|https://b.schroedingerscat.org|✅|✅|
+|https://b.schroedingerscat.org|❌|❓|
 |https://bskysandbox.edavis.dev|✅|✅|
 |https://social.derg.fr|✅|✅|
 |https://hug.mx|✅|✅|
