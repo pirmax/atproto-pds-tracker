@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-19T01:31:27.403633
+Last Updated: 2023-11-19T01:42:47.437187
 
 ## **plc.directory**
 
@@ -437,4 +437,5 @@ Last Updated: 2023-11-19T01:31:27.403633
 |https://briiz.com|✅|✅|
 |https://uat.lol|✅|✅|
 |https://bsky.c-onner.de|❌|❓|
+|https://americocarelli.com.br|✅|✅|
 
