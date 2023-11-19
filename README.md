@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-19T21:20:47.820128
+Last Updated: 2023-11-19T21:29:47.046808
 
 ## **plc.directory**
 
@@ -316,7 +316,7 @@ Last Updated: 2023-11-19T21:20:47.820128
 |https://atptest.lep.wtf|✅|✅|
 |https://galaxy.neo7.kim|❌|❓|
 |https://broad.re|❌|❓|
-|https://fed.brid.gy/|✅|✅|
+|https://fed.brid.gy/|❌|❓|
 |https://bsky.kwilium.xyz|❌|❓|
 |https://sky.hideside.de|✅|✅|
 |https://pds.jpco.io|❌|❓|
@@ -432,7 +432,7 @@ Last Updated: 2023-11-19T21:20:47.820128
 |https://pds.home.rjp.is|✅|✅|
 |https://posting.expert|❌|❓|
 |https://pds.timburga.social|✅|✅|
-|https://bs.foss.gay|✅|✅|
+|https://bs.foss.gay|❌|❓|
 |https://bsky.fracergu.dev|❌|❓|
 |https://briiz.com|✅|✅|
 |https://uat.lol|✅|✅|
