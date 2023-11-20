@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-20T07:41:07.893103
+Last Updated: 2023-11-20T07:50:44.957716
 
 ## **plc.directory**
 
@@ -274,7 +274,7 @@ Last Updated: 2023-11-20T07:41:07.893103
 |https://bum.ninja|✅|✅|
 |https://purplesky.sesilaso.com|❌|❓|
 |https://bsky.davidfernandez.xyz|❌|❓|
-|https://vengeful.eu|❌|❓|
+|https://vengeful.eu|✅|✅|
 |https://draconic.host|❌|❓|
 |https://bsky.social-hell.uk|❌|❓|
 |http://localhost:8080/|❌|❓|
@@ -305,7 +305,7 @@ Last Updated: 2023-11-20T07:41:07.893103
 |https://bluesky.furryrefuge.com|❌|❓|
 |https://pds.evns.dev|❌|❓|
 |https://bluesky.jayp.io|❌|❓|
-|https://this-is-epic.space|❌|❓|
+|https://this-is-epic.space|✅|✅|
 |https://tsuki.social|❌|❓|
 |https://x-mweya.duckdns.org|✅|✅|
 |https://fraudulent.link|❌|❓|
