@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-21T07:51:07.293314
+Last Updated: 2023-11-21T07:59:20.336182
 
 ## **plc.directory**
 
@@ -274,7 +274,7 @@ Last Updated: 2023-11-21T07:51:07.293314
 |https://bum.ninja|✅|✅|
 |https://purplesky.sesilaso.com|❌|❓|
 |https://bsky.davidfernandez.xyz|❌|❓|
-|https://vengeful.eu|❌|❓|
+|https://vengeful.eu|✅|✅|
 |https://draconic.host|❌|❓|
 |https://bsky.social-hell.uk|❌|❓|
 |http://localhost:8080/|❌|❓|
@@ -442,6 +442,6 @@ Last Updated: 2023-11-21T07:51:07.293314
 |https://musicproduction.world|❌|❓|
 |https://corgi.dance|❌|❓|
 |https://atproto.stereosteve.com|✅|✅|
-|https://casadeladra.ddnss.de|❌|❓|
+|https://casadeladra.ddnss.de|✅|✅|
 |https://blues.psionprotocol.com|✅|✅|
 
