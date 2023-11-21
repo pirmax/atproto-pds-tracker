@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-21T07:40:58.251171
+Last Updated: 2023-11-21T07:50:18.885247
 
 ## **plc.directory**
 
@@ -369,7 +369,7 @@ Last Updated: 2023-11-21T07:40:58.251171
 |https://bskysandbox.edavis.dev|✅|✅|
 |https://social.derg.fr|✅|✅|
 |https://hug.mx|✅|✅|
-|https://bsky.zoeyvid.de|❌|❓|
+|https://bsky.zoeyvid.de|✅|✅|
 |https://maddesjg.eu|✅|✅|
 |https://joost.social|✅|✅|
 |https://journalist.social|❌|❓|
@@ -442,6 +442,6 @@ Last Updated: 2023-11-21T07:40:58.251171
 |https://musicproduction.world|❌|❓|
 |https://corgi.dance|❌|❓|
 |https://atproto.stereosteve.com|✅|✅|
-|https://casadeladra.ddnss.de|✅|✅|
+|https://casadeladra.ddnss.de|❌|❓|
 |https://blues.psionprotocol.com|✅|✅|
 
