@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-21T12:15:22.531370
+Last Updated: 2023-11-21T12:27:21.100641
 
 ## **plc.directory**
 
@@ -64,7 +64,7 @@ Last Updated: 2023-11-21T12:15:22.531370
 |https://bsky.flicknow.xyz|❌|❓|
 |https://thomasjerome.com|❌|❓|
 |https://sky.lalafell.org|✅|✅|
-|https://pds.ubanis.mydns.jp|❌|❓|
+|https://pds.ubanis.mydns.jp|✅|✅|
 |https://pds.bsky.sh|❌|❓|
 |https://tjs-pds-sandbox.shop|❌|❓|
 |http://localhost:3000|❌|❓|
