@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-21T01:13:08.667941
+Last Updated: 2023-11-21T01:28:00.608812
 
 ## **plc.directory**
 
@@ -25,7 +25,7 @@ Last Updated: 2023-11-21T01:13:08.667941
 |https://redocen.one|❌|❓|
 |http://localhost:12025|❌|❓|
 |https://rebroad.com|✅|❌|
-|https://pds.dev.retr0.id|✅|✅|
+|https://pds.dev.retr0.id|❌|❓|
 |http://localhost:62912|❌|❓|
 |http://localhost:62923|❌|❓|
 |http://localhost:63373|❌|❓|
@@ -47,14 +47,14 @@ Last Updated: 2023-11-21T01:13:08.667941
 |---|:---:|:---:|
 |https://at.syui.ai|❌|❓|
 |https://n.redocean.one|❌|❓|
-|https://sandbox.whyr.us|✅|✅|
+|https://sandbox.whyr.us|❌|❓|
 |https://pds.dholms.xyz|✅|✅|
 |https://asia.friendlypds.cloud|❌|❓|
 |https://alt.dholms.xyz|❌|❓|
 |https://pds.anshnanda.com|❌|❓|
 |https://friendlypds.cloud|✅|✅|
 |https://take2.dholms.xyz|❌|❓|
-|https://pds.dev.retr0.id|✅|✅|
+|https://pds.dev.retr0.id|❌|❓|
 |https://cloudcaine.thecubic.net|❌|❓|
 |https://hellthread.pro|✅|✅|
 |https://bsky.pupbrained.xyz|❌|❓|
@@ -421,7 +421,7 @@ Last Updated: 2023-11-21T01:13:08.667941
 |https://bsky.softwhere.ca|❌|❓|
 |https://wkswan.com|✅|✅|
 |https://aituns.com|✅|✅|
-|https://italiansky.mooo.com|❌|❓|
+|https://italiansky.mooo.com|✅|✅|
 |https://sky.n3otrax.fr|✅|✅|
 |https://bsky.powerg.love|✅|✅|
 |https://atproto.brid.gy/|✅|✅|
@@ -442,5 +442,5 @@ Last Updated: 2023-11-21T01:13:08.667941
 |https://musicproduction.world|❌|❓|
 |https://corgi.dance|❌|❓|
 |https://atproto.stereosteve.com|✅|✅|
-|https://casadeladra.ddnss.de|❌|❓|
+|https://casadeladra.ddnss.de|✅|✅|
 
