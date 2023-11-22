@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-22T01:13:06.131551
+Last Updated: 2023-11-22T01:27:30.699278
 
 ## **plc.directory**
 
@@ -16,7 +16,7 @@ Last Updated: 2023-11-22T01:13:06.131551
 |https://kitsune.nexus|✅|✅|
 |https://neosky.dev|❌|❓|
 |https://furmeet.me|✅|✅|
-|https://bsky.syui.ai|❌|❓|
+|https://bsky.syui.ai|✅|❌|
 |http://localhost:3583|❌|❓|
 |https://atproto.forza7.org|❌|❓|
 |https://api.redocean.one|❌|❓|
@@ -174,7 +174,7 @@ Last Updated: 2023-11-22T01:13:06.131551
 |https://bsky.felipecruz.es|❌|❓|
 |https://sunairo.moegi.stream|✅|❌|
 |https://hus.gay|❌|❓|
-|https://bsky.syui.ai|❌|❓|
+|https://bsky.syui.ai|✅|❌|
 |https://pixilin.social|❌|❓|
 |https://tagz.social|❌|❓|
 |https://pds.solarplex.xyz|❌|❓|
@@ -307,7 +307,7 @@ Last Updated: 2023-11-22T01:13:06.131551
 |https://bluesky.jayp.io|❌|❓|
 |https://this-is-epic.space|✅|✅|
 |https://tsuki.social|❌|❓|
-|https://x-mweya.duckdns.org|✅|✅|
+|https://x-mweya.duckdns.org|❌|❓|
 |https://fraudulent.link|❌|❓|
 |https://utatane.blue|✅|✅|
 |https://b.browsersource.dev|❌|❓|
