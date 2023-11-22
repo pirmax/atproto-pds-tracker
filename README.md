@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-22T20:01:09.580109
+Last Updated: 2023-11-22T20:11:55.932261
 
 ## **plc.directory**
 
@@ -191,7 +191,7 @@ Last Updated: 2023-11-22T20:01:09.580109
 |https://tenshicorn.dog|✅|✅|
 |https://pds.bdev.loves.reisen|❌|❓|
 |https://d-twitter.com|❌|❓|
-|https://furry.nexus|❌|❓|
+|https://furry.nexus|✅|✅|
 |https://example.com|❌|❓|
 |https://linuxnerd.party|❌|❓|
 |https://server.cafepots.net|❌|❓|
