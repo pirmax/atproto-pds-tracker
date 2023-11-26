@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-26T10:01:05.350992
+Last Updated: 2023-11-26T10:09:34.245022
 
 ## **plc.directory**
 
@@ -24,7 +24,7 @@ Last Updated: 2023-11-26T10:01:05.350992
 |https://pds.example.com|❌|❓|
 |https://redocen.one|❌|❓|
 |http://localhost:12025|❌|❓|
-|https://rebroad.com|❌|❓|
+|https://rebroad.com|✅|❌|
 |https://pds.dev.retr0.id|❌|❓|
 |http://localhost:62912|❌|❓|
 |http://localhost:62923|❌|❓|
@@ -307,7 +307,7 @@ Last Updated: 2023-11-26T10:01:05.350992
 |https://bluesky.jayp.io|❌|❓|
 |https://this-is-epic.space|✅|✅|
 |https://tsuki.social|❌|❓|
-|https://x-mweya.duckdns.org|❌|❓|
+|https://x-mweya.duckdns.org|✅|✅|
 |https://fraudulent.link|❌|❓|
 |https://utatane.blue|✅|✅|
 |https://b.browsersource.dev|❌|❓|
@@ -335,7 +335,7 @@ Last Updated: 2023-11-26T10:01:05.350992
 |https://fed.brid.gy|✅|✅|
 |https://mdthh.de|❌|❓|
 |https://equus.quest|✅|✅|
-|https://rebroad.com|❌|❓|
+|https://rebroad.com|✅|❌|
 |https://pds.hazyville.com|❌|❓|
 |https://rent-a-shitstorm.eu|✅|✅|
 |https://bskies.de|❌|❓|
@@ -390,7 +390,7 @@ Last Updated: 2023-11-26T10:01:05.350992
 |https://bs.vrccl.life|✅|✅|
 |https://bsky.fursion.top|✅|✅|
 |https://bsky.riversideleft.org.uk|✅|✅|
-|https://siriussocial.de|✅|✅|
+|https://siriussocial.de|❌|❓|
 |https://bsky.kemono.in.th|❌|❓|
 |https://bsky.ponscele.fr|✅|✅|
 |https://bluesky.animint.fr|✅|✅|
