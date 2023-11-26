@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-26T16:40:54.683230
+Last Updated: 2023-11-26T16:50:09.015503
 
 ## **plc.directory**
 
@@ -376,7 +376,7 @@ Last Updated: 2023-11-26T16:40:54.683230
 |https://creaton.social|✅|✅|
 |https://nerdynate.io|❌|❓|
 |https://pds.vriska.dev|✅|✅|
-|https://matthews-kennington.com|❌|❓|
+|https://matthews-kennington.com|✅|✅|
 |https://bs.jefferyho.cc|✅|✅|
 |https://pds.ssauer.co.za|❌|❓|
 |https://furartist.art|❌|❓|
@@ -443,7 +443,7 @@ Last Updated: 2023-11-26T16:40:54.683230
 |https://corgi.dance|❌|❓|
 |https://atproto.stereosteve.com|✅|✅|
 |https://casadeladra.ddnss.de|✅|✅|
-|https://blues.psionprotocol.com|✅|✅|
+|https://blues.psionprotocol.com|❌|❓|
 |https://bs.corrigan.xyz|❌|❓|
 |https://pds.octelly.lol|❌|❓|
 |https://is.lalafell.fun|✅|✅|
