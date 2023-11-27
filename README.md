@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-27T01:12:51.754139
+Last Updated: 2023-11-27T01:28:04.058483
 
 ## **plc.directory**
 
@@ -435,14 +435,14 @@ Last Updated: 2023-11-27T01:12:51.754139
 |https://bs.foss.gay|❌|❓|
 |https://bsky.fracergu.dev|❌|❓|
 |https://briiz.com|✅|✅|
-|https://uat.lol|❌|❓|
+|https://uat.lol|✅|✅|
 |https://bsky.c-onner.de|❌|❓|
 |https://americocarelli.com.br|❌|❓|
 |https://derpzilla.net|✅|✅|
 |https://musicproduction.world|❌|❓|
 |https://corgi.dance|❌|❓|
 |https://atproto.stereosteve.com|✅|✅|
-|https://casadeladra.ddnss.de|❌|❓|
+|https://casadeladra.ddnss.de|✅|✅|
 |https://blues.psionprotocol.com|❌|❓|
 |https://bs.corrigan.xyz|❌|❓|
 |https://pds.octelly.lol|❌|❓|
