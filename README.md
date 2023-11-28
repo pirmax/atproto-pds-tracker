@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-28T17:01:09.718628
+Last Updated: 2023-11-28T17:11:19.704813
 
 ## **plc.directory**
 
@@ -243,7 +243,7 @@ Last Updated: 2023-11-28T17:01:09.718628
 |https://sbx.barine.co|❌|❓|
 |https://at.syui.ai:3040|❌|❓|
 |https://pdsbx.barine.co|❌|❓|
-|https://pds-dev.upcraft.dev|✅|✅|
+|https://pds-dev.upcraft.dev|❌|❓|
 |https://lil.mn|❌|❓|
 |https://bsky.bulles.social|❌|❓|
 |https://nextsky.tokimeki.blue|❌|❓|
@@ -450,7 +450,7 @@ Last Updated: 2023-11-28T17:01:09.718628
 |https://oyster.us-east.host.bsky.network|✅|✅|
 |https://bsky.retronerd.at|❌|❓|
 |https://bs.undreaming.org|✅|✅|
-|https://social.born2beroot.org|✅|✅|
+|https://social.born2beroot.org|❌|❓|
 |https://bsky-hcc8588.f5.si|❌|❓|
 |https://bingerin.online|✅|✅|
 
