@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-29T19:20:59.417690
+Last Updated: 2023-11-29T19:29:12.370173
 
 ## **plc.directory**
 
@@ -280,7 +280,7 @@ Last Updated: 2023-11-29T19:20:59.417690
 |https://bsky.social-hell.uk|✅|✅|
 |http://localhost:8080/|❌|❓|
 |https://pds.staging.bteklabs.com|❌|❓|
-|https://afternooncurry.com|✅|✅|
+|https://afternooncurry.com|❌|❓|
 |https://bsky.whoverse.nexus|❌|❓|
 |https://zima.ge|✅|✅|
 |https://bsk.lukas-diekmann.de|❌|❓|
@@ -441,7 +441,7 @@ Last Updated: 2023-11-29T19:20:59.417690
 |https://americocarelli.com.br|❌|❓|
 |https://derpzilla.net|✅|✅|
 |https://musicproduction.world|❌|❓|
-|https://corgi.dance|❌|❓|
+|https://corgi.dance|✅|✅|
 |https://atproto.stereosteve.com|✅|✅|
 |https://casadeladra.ddnss.de|✅|✅|
 |https://blues.psionprotocol.com|❌|❓|
