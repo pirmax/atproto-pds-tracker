@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-29T10:50:47.133739
+Last Updated: 2023-11-29T11:01:11.058626
 
 ## **plc.directory**
 
@@ -454,4 +454,5 @@ Last Updated: 2023-11-29T10:50:47.133739
 |https://social.born2beroot.org|✅|✅|
 |https://bsky-hcc8588.f5.si|❌|❓|
 |https://bingerin.online|❌|❓|
+|https://pdshosting.xyz|❌|❓|
 
