@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-29T20:01:09.072193
+Last Updated: 2023-11-29T20:11:52.187174
 
 ## **plc.directory**
 
@@ -88,7 +88,7 @@ Last Updated: 2023-11-29T20:01:09.072193
 |https://sandbox.pds.h3y6e.com|❌|❓|
 |https://dev.otaso-sky.blue|❌|❓|
 |https://labo.moe|✅|✅|
-|https://test-pds.gwei.cz|✅|✅|
+|https://test-pds.gwei.cz|❌|❓|
 |https://bsky.coma.social|❌|❓|
 |https://robramos.xyz|❌|❓|
 |https://atsand.blueraccoon.tech|❌|❓|
@@ -280,7 +280,7 @@ Last Updated: 2023-11-29T20:01:09.072193
 |https://bsky.social-hell.uk|✅|✅|
 |http://localhost:8080/|❌|❓|
 |https://pds.staging.bteklabs.com|❌|❓|
-|https://afternooncurry.com|❌|❓|
+|https://afternooncurry.com|✅|✅|
 |https://bsky.whoverse.nexus|❌|❓|
 |https://zima.ge|✅|✅|
 |https://bsk.lukas-diekmann.de|❌|❓|
@@ -442,7 +442,7 @@ Last Updated: 2023-11-29T20:01:09.072193
 |https://derpzilla.net|✅|✅|
 |https://musicproduction.world|❌|❓|
 |https://corgi.dance|✅|✅|
-|https://atproto.stereosteve.com|✅|✅|
+|https://atproto.stereosteve.com|❌|❓|
 |https://casadeladra.ddnss.de|✅|✅|
 |https://blues.psionprotocol.com|❌|❓|
 |https://bs.corrigan.xyz|❌|❓|
