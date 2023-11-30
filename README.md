@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-30T02:31:37.245796
+Last Updated: 2023-11-30T02:41:50.437870
 
 ## **plc.directory**
 
@@ -116,7 +116,7 @@ Last Updated: 2023-11-30T02:31:37.245796
 |https://sandbox.shitposting.vip|❌|❓|
 |https://bsky.imoein.com|✅|✅|
 |https://bsky.phazed.xyz|❌|❓|
-|https://bskysandbox.snek.dev|❌|❓|
+|https://bskysandbox.snek.dev|✅|✅|
 |https://bluesky.skcmcream.uk|❌|❓|
 |https://at.malte.re|✅|✅|
 |https://sleepy.cafe|❌|❓|
