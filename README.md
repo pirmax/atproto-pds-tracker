@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-30T13:51:00.279346
+Last Updated: 2023-11-30T14:00:05.611966
 
 ## **plc.directory**
 
@@ -275,7 +275,7 @@ Last Updated: 2023-11-30T13:51:00.279346
 |https://bum.ninja|✅|✅|
 |https://purplesky.sesilaso.com|❌|❓|
 |https://bsky.davidfernandez.xyz|❌|❓|
-|https://vengeful.eu|❌|❓|
+|https://vengeful.eu|✅|✅|
 |https://draconic.host|❌|❓|
 |https://bsky.social-hell.uk|✅|✅|
 |http://localhost:8080/|❌|❓|
@@ -451,10 +451,10 @@ Last Updated: 2023-11-30T13:51:00.279346
 |https://oyster.us-east.host.bsky.network|✅|✅|
 |https://bsky.retronerd.at|❌|❓|
 |https://bs.undreaming.org|✅|✅|
-|https://social.born2beroot.org|❌|❓|
+|https://social.born2beroot.org|✅|✅|
 |https://bsky-hcc8588.f5.si|❌|❓|
 |https://bingerin.online|❌|❓|
 |https://pdshosting.xyz|✅|✅|
 |https://bs.mymx.me|✅|✅|
-|https://harrmitchexp.serveo.net|✅|✅|
+|https://harrmitchexp.serveo.net|❌|❓|
 
