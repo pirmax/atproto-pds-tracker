@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-30T19:40:45.288996
+Last Updated: 2023-11-30T19:50:00.550101
 
 ## **plc.directory**
 
@@ -394,7 +394,7 @@ Last Updated: 2023-11-30T19:40:45.288996
 |https://siriussocial.de|✅|✅|
 |https://bsky.kemono.in.th|❌|❓|
 |https://bsky.ponscele.fr|✅|✅|
-|https://bluesky.animint.fr|❌|❓|
+|https://bluesky.animint.fr|✅|✅|
 |https://sardine.pics|✅|✅|
 |https://baisodro.me|✅|✅|
 |https://bluesky-pds.fly.dev|❌|❓|
@@ -412,7 +412,7 @@ Last Updated: 2023-11-30T19:40:45.288996
 |https://bsky.akurosia.de|✅|✅|
 |https://bsky.netopia.me|❌|❓|
 |https://bsky.favoslav.cz|❌|❓|
-|https://blugrisbi.es|❌|❓|
+|https://blugrisbi.es|✅|✅|
 |https://bsky.maxkeb.fr|❌|❓|
 |https://bsky.adrianrey.dev|❌|❓|
 |https://bsky.action0.com|✅|✅|
@@ -423,7 +423,7 @@ Last Updated: 2023-11-30T19:40:45.288996
 |https://wkswan.com|✅|✅|
 |https://aituns.com|❌|❓|
 |https://italiansky.mooo.com|✅|✅|
-|https://sky.n3otrax.fr|✅|✅|
+|https://sky.n3otrax.fr|❌|❓|
 |https://bsky.powerg.love|✅|✅|
 |https://atproto.brid.gy/|✅|✅|
 |https://abluehope.com|❌|❓|
