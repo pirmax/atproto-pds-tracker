@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-30T18:41:04.343788
+Last Updated: 2023-11-30T18:49:56.598808
 
 ## **plc.directory**
 
@@ -165,7 +165,7 @@ Last Updated: 2023-11-30T18:41:04.343788
 |https://nd9o.radio|❌|❓|
 |https://tansu.me|❌|❓|
 |https://raios.xyz|❌|❓|
-|https://otaku.blue|❌|❓|
+|https://otaku.blue|✅|✅|
 |https://mybskypds.dmoncada.com|❌|❓|
 |https://tinypds.h3y6e.com|❌|❓|
 |https://none.social|❌|❓|
@@ -394,7 +394,7 @@ Last Updated: 2023-11-30T18:41:04.343788
 |https://siriussocial.de|✅|✅|
 |https://bsky.kemono.in.th|❌|❓|
 |https://bsky.ponscele.fr|✅|✅|
-|https://bluesky.animint.fr|✅|✅|
+|https://bluesky.animint.fr|❌|❓|
 |https://sardine.pics|✅|✅|
 |https://baisodro.me|✅|✅|
 |https://bluesky-pds.fly.dev|❌|❓|
@@ -412,7 +412,7 @@ Last Updated: 2023-11-30T18:41:04.343788
 |https://bsky.akurosia.de|✅|✅|
 |https://bsky.netopia.me|❌|❓|
 |https://bsky.favoslav.cz|❌|❓|
-|https://blugrisbi.es|✅|✅|
+|https://blugrisbi.es|❌|❓|
 |https://bsky.maxkeb.fr|❌|❓|
 |https://bsky.adrianrey.dev|❌|❓|
 |https://bsky.action0.com|✅|✅|
