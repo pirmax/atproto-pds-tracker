@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-12-01T17:30:57.447589
+Last Updated: 2023-12-01T17:40:49.976049
 
 ## **plc.directory**
 
@@ -394,7 +394,7 @@ Last Updated: 2023-12-01T17:30:57.447589
 |https://siriussocial.de|✅|✅|
 |https://bsky.kemono.in.th|❌|❓|
 |https://bsky.ponscele.fr|✅|✅|
-|https://bluesky.animint.fr|✅|✅|
+|https://bluesky.animint.fr|❌|❓|
 |https://sardine.pics|✅|✅|
 |https://baisodro.me|✅|✅|
 |https://bluesky-pds.fly.dev|❌|❓|
@@ -439,7 +439,7 @@ Last Updated: 2023-12-01T17:30:57.447589
 |https://uat.lol|✅|✅|
 |https://bsky.c-onner.de|❌|❓|
 |https://americocarelli.com.br|❌|❓|
-|https://derpzilla.net|❌|❓|
+|https://derpzilla.net|✅|✅|
 |https://musicproduction.world|❌|❓|
 |https://corgi.dance|✅|✅|
 |https://atproto.stereosteve.com|❌|❓|
