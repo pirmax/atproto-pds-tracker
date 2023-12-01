@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-12-01T14:31:15.468816
+Last Updated: 2023-12-01T14:39:30.923405
 
 ## **plc.directory**
 
@@ -280,7 +280,7 @@ Last Updated: 2023-12-01T14:31:15.468816
 |https://bsky.social-hell.uk|✅|✅|
 |http://localhost:8080/|❌|❓|
 |https://pds.staging.bteklabs.com|❌|❓|
-|https://afternooncurry.com|✅|✅|
+|https://afternooncurry.com|❌|❓|
 |https://bsky.whoverse.nexus|❌|❓|
 |https://zima.ge|✅|✅|
 |https://bsk.lukas-diekmann.de|❌|❓|
@@ -308,7 +308,7 @@ Last Updated: 2023-12-01T14:31:15.468816
 |https://bluesky.jayp.io|❌|❓|
 |https://this-is-epic.space|✅|✅|
 |https://tsuki.social|❌|❓|
-|https://x-mweya.duckdns.org|❌|❓|
+|https://x-mweya.duckdns.org|✅|✅|
 |https://fraudulent.link|❌|❓|
 |https://utatane.blue|❌|❓|
 |https://b.browsersource.dev|❌|❓|
@@ -325,7 +325,7 @@ Last Updated: 2023-12-01T14:31:15.468816
 |https://social.lsmp.online|❌|❓|
 |https://aozora.yockow.test|❌|❓|
 |https://veryun.cool|✅|✅|
-|https://xky.social|❌|❓|
+|https://xky.social|✅|✅|
 |https://furryrefuge.com|✅|✅|
 |https://b1.infra.hex.camp|❌|❓|
 |https://bsky.flagner.dev|❌|❓|
@@ -402,7 +402,7 @@ Last Updated: 2023-12-01T14:31:15.468816
 |https://bs.nahlers.de|❌|❓|
 |https://nobs.nahlers.de|❌|❓|
 |https://trapobezieher.de|❌|❓|
-|https://yggdrasil.daetsisi.es|✅|✅|
+|https://yggdrasil.daetsisi.es|❌|❓|
 |https://bsky.muzzlespace.com|❌|❓|
 |https://bs1.tuusulan.com|❌|❓|
 |https://bluesky.gautier.gg|❌|❓|
@@ -430,7 +430,7 @@ Last Updated: 2023-12-01T14:31:15.468816
 |https://bsky.mrsquaare.fr|❌|❓|
 |https://montpeyroux.social|✅|✅|
 |https://blueskysweden.se|❌|❓|
-|https://pds.home.rjp.is|❌|❓|
+|https://pds.home.rjp.is|✅|✅|
 |https://posting.expert|❌|❓|
 |https://pds.timburga.social|✅|✅|
 |https://bs.foss.gay|❌|❓|
