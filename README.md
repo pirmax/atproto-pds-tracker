@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-12-02T23:50:58.691069
+Last Updated: 2023-12-02T23:59:07.718079
 
 ## **plc.directory**
 
@@ -457,5 +457,5 @@ Last Updated: 2023-12-02T23:50:58.691069
 |https://pdshosting.xyz|✅|✅|
 |https://bs.mymx.me|✅|✅|
 |https://harrmitchexp.serveo.net|❌|❓|
-|https://pds.y-force.info|❌|❓|
+|https://pds.y-force.info|✅|✅|
 
