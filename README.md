@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-12-02T01:12:38.980437
+Last Updated: 2023-12-02T01:36:20.919807
 
 ## **plc.directory**
 
@@ -280,7 +280,7 @@ Last Updated: 2023-12-02T01:12:38.980437
 |https://bsky.social-hell.uk|✅|✅|
 |http://localhost:8080/|❌|❓|
 |https://pds.staging.bteklabs.com|❌|❓|
-|https://afternooncurry.com|❌|❓|
+|https://afternooncurry.com|✅|✅|
 |https://bsky.whoverse.nexus|❌|❓|
 |https://zima.ge|✅|✅|
 |https://bsk.lukas-diekmann.de|❌|❓|
@@ -346,7 +346,7 @@ Last Updated: 2023-12-02T01:12:38.980437
 |https://kiichigo.cloud|❌|❓|
 |https://atsandbox.kyriog.fr|✅|✅|
 |https://bsky-sandbox.amith.sbs|❌|❓|
-|https://bskysbox.amith.sbs|❌|❓|
+|https://bskysbox.amith.sbs|✅|✅|
 |https://ag.pet|❌|❓|
 |https://bsky.demo.kubero.dev|❌|❓|
 |https://bsky.cu2d.com|❌|❓|
