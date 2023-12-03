@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-12-03T02:19:28.140219
+Last Updated: 2023-12-03T02:31:33.290803
 
 ## **plc.directory**
 
@@ -244,7 +244,7 @@ Last Updated: 2023-12-03T02:19:28.140219
 |https://sbx.barine.co|❌|❓|
 |https://at.syui.ai:3040|❌|❓|
 |https://pdsbx.barine.co|❌|❓|
-|https://pds-dev.upcraft.dev|✅|✅|
+|https://pds-dev.upcraft.dev|❌|❓|
 |https://lil.mn|❌|❓|
 |https://bsky.bulles.social|❌|❓|
 |https://nextsky.tokimeki.blue|❌|❓|
@@ -280,7 +280,7 @@ Last Updated: 2023-12-03T02:19:28.140219
 |https://bsky.social-hell.uk|✅|✅|
 |http://localhost:8080/|❌|❓|
 |https://pds.staging.bteklabs.com|❌|❓|
-|https://afternooncurry.com|❌|❓|
+|https://afternooncurry.com|✅|✅|
 |https://bsky.whoverse.nexus|❌|❓|
 |https://zima.ge|✅|✅|
 |https://bsk.lukas-diekmann.de|❌|❓|
@@ -388,7 +388,7 @@ Last Updated: 2023-12-03T02:19:28.140219
 |https://belana.epicgreen.nl|❌|❓|
 |https://cjdd.me|❌|❓|
 |https://kevin.fur.vip|❌|❓|
-|https://bs.vrccl.life|❌|❓|
+|https://bs.vrccl.life|✅|✅|
 |https://bsky.fursion.top|✅|✅|
 |https://bsky.riversideleft.org.uk|✅|✅|
 |https://siriussocial.de|✅|✅|
