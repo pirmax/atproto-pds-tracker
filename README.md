@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-12-03T21:01:05.738646
+Last Updated: 2023-12-03T21:11:23.522382
 
 ## **plc.directory**
 
@@ -60,7 +60,7 @@ Last Updated: 2023-12-03T21:01:05.738646
 |https://hellthread.pro|✅|✅|
 |https://bsky.pupbrained.xyz|❌|❓|
 |https://henshaw.org|❌|❓|
-|https://pds.canidae.systems|❌|❓|
+|https://pds.canidae.systems|✅|✅|
 |https://pds.jet.tf|❌|❓|
 |https://bsky.flicknow.xyz|❌|❓|
 |https://thomasjerome.com|❌|❓|
@@ -430,7 +430,7 @@ Last Updated: 2023-12-03T21:01:05.738646
 |https://bsky.mrsquaare.fr|❌|❓|
 |https://montpeyroux.social|✅|✅|
 |https://blueskysweden.se|❌|❓|
-|https://pds.home.rjp.is|✅|✅|
+|https://pds.home.rjp.is|❌|❓|
 |https://posting.expert|❌|❓|
 |https://pds.timburga.social|✅|✅|
 |https://bs.foss.gay|❌|❓|
