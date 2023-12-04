@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-12-04T10:01:07.417261
+Last Updated: 2023-12-04T10:10:12.833993
 
 ## **plc.directory**
 
@@ -60,7 +60,7 @@ Last Updated: 2023-12-04T10:01:07.417261
 |https://hellthread.pro|✅|✅|
 |https://bsky.pupbrained.xyz|❌|❓|
 |https://henshaw.org|❌|❓|
-|https://pds.canidae.systems|❌|❓|
+|https://pds.canidae.systems|✅|✅|
 |https://pds.jet.tf|❌|❓|
 |https://bsky.flicknow.xyz|❌|❓|
 |https://thomasjerome.com|❌|❓|
@@ -382,7 +382,7 @@ Last Updated: 2023-12-04T10:01:07.417261
 |https://pds.ssauer.co.za|❌|❓|
 |https://furartist.art|❌|❓|
 |https://void.zct-mrl.com|❌|❓|
-|https://bluesky.migennes.org|❌|❓|
+|https://bluesky.migennes.org|✅|✅|
 |https://bsky.meis.space|✅|✅|
 |https://bs.raccoon-city.at|❌|❓|
 |https://belana.epicgreen.nl|❌|❓|
@@ -443,7 +443,7 @@ Last Updated: 2023-12-04T10:01:07.417261
 |https://musicproduction.world|❌|❓|
 |https://corgi.dance|✅|✅|
 |https://atproto.stereosteve.com|❌|❓|
-|https://casadeladra.ddnss.de|❌|❓|
+|https://casadeladra.ddnss.de|✅|✅|
 |https://blues.psionprotocol.com|❌|❓|
 |https://bs.corrigan.xyz|❌|❓|
 |https://pds.octelly.lol|❌|❓|
