@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-12-04T09:51:06.088974
+Last Updated: 2023-12-04T10:01:07.417261
 
 ## **plc.directory**
 
@@ -382,7 +382,7 @@ Last Updated: 2023-12-04T09:51:06.088974
 |https://pds.ssauer.co.za|❌|❓|
 |https://furartist.art|❌|❓|
 |https://void.zct-mrl.com|❌|❓|
-|https://bluesky.migennes.org|✅|✅|
+|https://bluesky.migennes.org|❌|❓|
 |https://bsky.meis.space|✅|✅|
 |https://bs.raccoon-city.at|❌|❓|
 |https://belana.epicgreen.nl|❌|❓|
@@ -402,7 +402,7 @@ Last Updated: 2023-12-04T09:51:06.088974
 |https://bs.nahlers.de|❌|❓|
 |https://nobs.nahlers.de|❌|❓|
 |https://trapobezieher.de|❌|❓|
-|https://yggdrasil.daetsisi.es|❌|❓|
+|https://yggdrasil.daetsisi.es|✅|✅|
 |https://bsky.muzzlespace.com|❌|❓|
 |https://bs1.tuusulan.com|❌|❓|
 |https://bluesky.gautier.gg|❌|❓|
@@ -430,7 +430,7 @@ Last Updated: 2023-12-04T09:51:06.088974
 |https://bsky.mrsquaare.fr|❌|❓|
 |https://montpeyroux.social|✅|✅|
 |https://blueskysweden.se|❌|❓|
-|https://pds.home.rjp.is|❌|❓|
+|https://pds.home.rjp.is|✅|✅|
 |https://posting.expert|❌|❓|
 |https://pds.timburga.social|✅|✅|
 |https://bs.foss.gay|❌|❓|
@@ -443,7 +443,7 @@ Last Updated: 2023-12-04T09:51:06.088974
 |https://musicproduction.world|❌|❓|
 |https://corgi.dance|✅|✅|
 |https://atproto.stereosteve.com|❌|❓|
-|https://casadeladra.ddnss.de|✅|✅|
+|https://casadeladra.ddnss.de|❌|❓|
 |https://blues.psionprotocol.com|❌|❓|
 |https://bs.corrigan.xyz|❌|❓|
 |https://pds.octelly.lol|❌|❓|
