@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-12-05T19:30:44.350850
+Last Updated: 2023-12-05T19:40:00.133272
 
 ## **plc.directory**
 
@@ -332,13 +332,13 @@ Last Updated: 2023-12-05T19:30:44.350850
 |https://jobo.eu.org|❌|❓|
 |https://bingerin.de|❌|❓|
 |https://blueskyde.cloud|❌|❓|
-|https://bsky.primeapps.net|✅|✅|
+|https://bsky.primeapps.net|❌|❓|
 |https://fed.brid.gy|✅|✅|
 |https://mdthh.de|❌|❓|
 |https://equus.quest|❌|❓|
 |https://rebroad.com|✅|❌|
 |https://pds.hazyville.com|❌|❓|
-|https://rent-a-shitstorm.eu|✅|✅|
+|https://rent-a-shitstorm.eu|❌|❓|
 |https://bskies.de|❌|❓|
 |https://due-it.com|❌|❓|
 |https://blue.cb-homelab.de|❌|❓|
@@ -378,7 +378,7 @@ Last Updated: 2023-12-05T19:30:44.350850
 |https://nerdynate.io|❌|❓|
 |https://pds.vriska.dev|✅|✅|
 |https://matthews-kennington.com|❌|❓|
-|https://bs.jefferyho.cc|✅|✅|
+|https://bs.jefferyho.cc|❌|❓|
 |https://pds.ssauer.co.za|❌|❓|
 |https://furartist.art|❌|❓|
 |https://void.zct-mrl.com|❌|❓|
@@ -430,7 +430,7 @@ Last Updated: 2023-12-05T19:30:44.350850
 |https://bsky.mrsquaare.fr|❌|❓|
 |https://montpeyroux.social|✅|✅|
 |https://blueskysweden.se|❌|❓|
-|https://pds.home.rjp.is|✅|✅|
+|https://pds.home.rjp.is|❌|❓|
 |https://posting.expert|❌|❓|
 |https://pds.timburga.social|✅|✅|
 |https://bs.foss.gay|❌|❓|
@@ -443,7 +443,7 @@ Last Updated: 2023-12-05T19:30:44.350850
 |https://musicproduction.world|❌|❓|
 |https://corgi.dance|✅|✅|
 |https://atproto.stereosteve.com|❌|❓|
-|https://casadeladra.ddnss.de|✅|✅|
+|https://casadeladra.ddnss.de|❌|❓|
 |https://blues.psionprotocol.com|❌|❓|
 |https://bs.corrigan.xyz|❌|❓|
 |https://pds.octelly.lol|❌|❓|
