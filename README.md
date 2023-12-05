@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-12-05T21:01:08.114945
+Last Updated: 2023-12-05T21:09:38.845302
 
 ## **plc.directory**
 
@@ -332,13 +332,13 @@ Last Updated: 2023-12-05T21:01:08.114945
 |https://jobo.eu.org|❌|❓|
 |https://bingerin.de|❌|❓|
 |https://blueskyde.cloud|❌|❓|
-|https://bsky.primeapps.net|❌|❓|
+|https://bsky.primeapps.net|✅|✅|
 |https://fed.brid.gy|✅|✅|
 |https://mdthh.de|❌|❓|
 |https://equus.quest|❌|❓|
 |https://rebroad.com|✅|❌|
 |https://pds.hazyville.com|❌|❓|
-|https://rent-a-shitstorm.eu|❌|❓|
+|https://rent-a-shitstorm.eu|✅|✅|
 |https://bskies.de|❌|❓|
 |https://due-it.com|❌|❓|
 |https://blue.cb-homelab.de|❌|❓|
@@ -378,7 +378,7 @@ Last Updated: 2023-12-05T21:01:08.114945
 |https://nerdynate.io|❌|❓|
 |https://pds.vriska.dev|✅|✅|
 |https://matthews-kennington.com|❌|❓|
-|https://bs.jefferyho.cc|❌|❓|
+|https://bs.jefferyho.cc|✅|✅|
 |https://pds.ssauer.co.za|❌|❓|
 |https://furartist.art|❌|❓|
 |https://void.zct-mrl.com|❌|❓|
@@ -443,7 +443,7 @@ Last Updated: 2023-12-05T21:01:08.114945
 |https://musicproduction.world|❌|❓|
 |https://corgi.dance|✅|✅|
 |https://atproto.stereosteve.com|❌|❓|
-|https://casadeladra.ddnss.de|❌|❓|
+|https://casadeladra.ddnss.de|✅|✅|
 |https://blues.psionprotocol.com|❌|❓|
 |https://bs.corrigan.xyz|❌|❓|
 |https://pds.octelly.lol|❌|❓|
