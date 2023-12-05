@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-12-05T00:44:50.235487
+Last Updated: 2023-12-05T00:55:21.957039
 
 ## **plc.directory**
 
@@ -13,7 +13,7 @@ Last Updated: 2023-12-05T00:44:50.235487
 |https://bluesky.nokotaro.com|❌|❓|
 |https://stems.social|❌|❓|
 |https://bsky.sacckey.dev|❌|❓|
-|https://kitsune.nexus|✅|✅|
+|https://kitsune.nexus|❌|❓|
 |https://neosky.dev|❌|❓|
 |https://furmeet.me|✅|✅|
 |https://bsky.syui.ai|❌|❓|
@@ -308,7 +308,7 @@ Last Updated: 2023-12-05T00:44:50.235487
 |https://bluesky.jayp.io|❌|❓|
 |https://this-is-epic.space|✅|✅|
 |https://tsuki.social|❌|❓|
-|https://x-mweya.duckdns.org|❌|❓|
+|https://x-mweya.duckdns.org|✅|✅|
 |https://fraudulent.link|❌|❓|
 |https://utatane.blue|❌|❓|
 |https://b.browsersource.dev|❌|❓|
@@ -364,7 +364,7 @@ Last Updated: 2023-12-05T00:44:50.235487
 |https://himmelblau.bigbl4ckw0lf.de|❌|❓|
 |https://bsky.bigbl4ckw0lf.de|✅|✅|
 |https://social.nicht-existent.de|❌|❓|
-|https://pds.fortunaexmachina.com|✅|✅|
+|https://pds.fortunaexmachina.com|❌|❓|
 |http://localhost:12025|❌|❓|
 |https://b.schroedingerscat.org|✅|✅|
 |https://bskysandbox.edavis.dev|✅|✅|
