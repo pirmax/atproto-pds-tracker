@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-12-09T04:00:06.605005
+Last Updated: 2023-12-09T04:01:06.002819
 
 ## **plc.directory**
 
@@ -459,4 +459,5 @@ Last Updated: 2023-12-09T04:00:06.605005
 |https://harrmitchexp.serveo.net|❌|❓|
 |https://pds.y-force.info|✅|✅|
 |https://hexside.at|❌|❓|
+|https://bsky.wstrn.world|✅|✅|
 
