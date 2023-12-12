@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-12-12T09:30:48.539813
+Last Updated: 2023-12-12T09:39:38.882091
 
 ## **plc.directory**
 
@@ -221,7 +221,7 @@ Last Updated: 2023-12-12T09:30:48.539813
 |https://sheslashher.net|❌|❓|
 |https://bsky.minescripts.me|❌|❓|
 |https://ubanis.mydns.jp|❌|❓|
-|https://blue-archive.social|❌|❓|
+|https://blue-archive.social|✅|❌|
 |https://reckoneer.dev|❌|❓|
 |https://bsky.irodev.xyz|❌|❓|
 |https://arroba-pds.appspot.com|❌|❓|
@@ -382,7 +382,7 @@ Last Updated: 2023-12-12T09:30:48.539813
 |https://pds.ssauer.co.za|❌|❓|
 |https://furartist.art|❌|❓|
 |https://void.zct-mrl.com|❌|❓|
-|https://bluesky.migennes.org|❌|❓|
+|https://bluesky.migennes.org|✅|✅|
 |https://bsky.meis.space|✅|✅|
 |https://bs.raccoon-city.at|❌|❓|
 |https://belana.epicgreen.nl|❌|❓|
