@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-12-12T08:01:04.781930
+Last Updated: 2023-12-12T08:10:29.719561
 
 ## **plc.directory**
 
@@ -443,7 +443,7 @@ Last Updated: 2023-12-12T08:01:04.781930
 |https://musicproduction.world|❌|❓|
 |https://corgi.dance|✅|✅|
 |https://atproto.stereosteve.com|❌|❓|
-|https://casadeladra.ddnss.de|✅|✅|
+|https://casadeladra.ddnss.de|❌|❓|
 |https://blues.psionprotocol.com|❌|❓|
 |https://bs.corrigan.xyz|❌|❓|
 |https://pds.octelly.lol|❌|❓|
