@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-12-12T19:30:42.978854
+Last Updated: 2023-12-12T19:40:49.813566
 
 ## **plc.directory**
 
@@ -460,4 +460,5 @@ Last Updated: 2023-12-12T19:30:42.978854
 |https://pds.y-force.info|✅|✅|
 |https://hexside.at|❌|❓|
 |https://bsky.wstrn.world|✅|✅|
+|https://bk.bitfyer.net|✅|✅|
 
