@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-12-12T09:01:04.358422
+Last Updated: 2023-12-12T09:10:05.357084
 
 ## **plc.directory**
 
@@ -221,7 +221,7 @@ Last Updated: 2023-12-12T09:01:04.358422
 |https://sheslashher.net|❌|❓|
 |https://bsky.minescripts.me|❌|❓|
 |https://ubanis.mydns.jp|❌|❓|
-|https://blue-archive.social|✅|❌|
+|https://blue-archive.social|❌|❓|
 |https://reckoneer.dev|❌|❓|
 |https://bsky.irodev.xyz|❌|❓|
 |https://arroba-pds.appspot.com|❌|❓|
@@ -308,7 +308,7 @@ Last Updated: 2023-12-12T09:01:04.358422
 |https://bluesky.jayp.io|❌|❓|
 |https://this-is-epic.space|✅|✅|
 |https://tsuki.social|❌|❓|
-|https://x-mweya.duckdns.org|❌|❓|
+|https://x-mweya.duckdns.org|✅|✅|
 |https://fraudulent.link|❌|❓|
 |https://utatane.blue|❌|❓|
 |https://b.browsersource.dev|❌|❓|
@@ -382,7 +382,7 @@ Last Updated: 2023-12-12T09:01:04.358422
 |https://pds.ssauer.co.za|❌|❓|
 |https://furartist.art|❌|❓|
 |https://void.zct-mrl.com|❌|❓|
-|https://bluesky.migennes.org|✅|✅|
+|https://bluesky.migennes.org|❌|❓|
 |https://bsky.meis.space|✅|✅|
 |https://bs.raccoon-city.at|❌|❓|
 |https://belana.epicgreen.nl|❌|❓|
