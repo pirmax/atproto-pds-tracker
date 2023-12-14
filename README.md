@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-12-14T00:02:26.109661
+Last Updated: 2023-12-14T00:20:37.508397
 
 ## **plc.directory**
 
@@ -275,7 +275,7 @@ Last Updated: 2023-12-14T00:02:26.109661
 |https://bum.ninja|✅|✅|
 |https://purplesky.sesilaso.com|❌|❓|
 |https://bsky.davidfernandez.xyz|❌|❓|
-|https://vengeful.eu|❌|❓|
+|https://vengeful.eu|✅|✅|
 |https://draconic.host|❌|❓|
 |https://bsky.social-hell.uk|❌|❓|
 |http://localhost:8080/|❌|❓|
@@ -317,7 +317,7 @@ Last Updated: 2023-12-14T00:02:26.109661
 |https://atptest.lep.wtf|✅|✅|
 |https://galaxy.neo7.kim|❌|❓|
 |https://broad.re|❌|❓|
-|https://fed.brid.gy/|✅|✅|
+|https://fed.brid.gy/|❌|❓|
 |https://bsky.kwilium.xyz|❌|❓|
 |https://sky.hideside.de|✅|✅|
 |https://pds.jpco.io|❌|❓|
@@ -430,7 +430,7 @@ Last Updated: 2023-12-14T00:02:26.109661
 |https://bsky.mrsquaare.fr|❌|❓|
 |https://montpeyroux.social|✅|✅|
 |https://blueskysweden.se|❌|❓|
-|https://pds.home.rjp.is|✅|✅|
+|https://pds.home.rjp.is|❌|❓|
 |https://posting.expert|❌|❓|
 |https://pds.timburga.social|✅|✅|
 |https://bs.foss.gay|❌|❓|
@@ -455,7 +455,7 @@ Last Updated: 2023-12-14T00:02:26.109661
 |https://bsky-hcc8588.f5.si|❌|❓|
 |https://bingerin.online|❌|❓|
 |https://pdshosting.xyz|✅|✅|
-|https://bs.mymx.me|❌|❓|
+|https://bs.mymx.me|✅|✅|
 |https://harrmitchexp.serveo.net|❌|❓|
 |https://pds.y-force.info|✅|✅|
 |https://hexside.at|❌|❓|
