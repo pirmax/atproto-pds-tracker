@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-12-14T15:00:54.915777
+Last Updated: 2023-12-14T15:09:46.330930
 
 ## **plc.directory**
 
@@ -280,7 +280,7 @@ Last Updated: 2023-12-14T15:00:54.915777
 |https://bsky.social-hell.uk|❌|❓|
 |http://localhost:8080/|❌|❓|
 |https://pds.staging.bteklabs.com|❌|❓|
-|https://afternooncurry.com|✅|✅|
+|https://afternooncurry.com|❌|❓|
 |https://bsky.whoverse.nexus|❌|❓|
 |https://zima.ge|✅|✅|
 |https://bsk.lukas-diekmann.de|❌|❓|
@@ -308,7 +308,7 @@ Last Updated: 2023-12-14T15:00:54.915777
 |https://bluesky.jayp.io|❌|❓|
 |https://this-is-epic.space|✅|✅|
 |https://tsuki.social|❌|❓|
-|https://x-mweya.duckdns.org|❌|❓|
+|https://x-mweya.duckdns.org|✅|✅|
 |https://fraudulent.link|❌|❓|
 |https://utatane.blue|❌|❓|
 |https://b.browsersource.dev|❌|❓|
@@ -388,7 +388,7 @@ Last Updated: 2023-12-14T15:00:54.915777
 |https://belana.epicgreen.nl|❌|❓|
 |https://cjdd.me|❌|❓|
 |https://kevin.fur.vip|❌|❓|
-|https://bs.vrccl.life|✅|✅|
+|https://bs.vrccl.life|❌|❓|
 |https://bsky.fursion.top|✅|✅|
 |https://bsky.riversideleft.org.uk|✅|✅|
 |https://siriussocial.de|✅|✅|
