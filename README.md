@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-12-15T01:28:37.044408
+Last Updated: 2023-12-15T01:41:02.488145
 
 ## **plc.directory**
 
@@ -41,6 +41,7 @@ Last Updated: 2023-12-15T01:28:37.044408
 |https://lionsmane.us-east.host.bsky.network|✅|✅|
 |https://shiitake.us-east.host.bsky.network|✅|✅|
 |https://example.com|❌|❓|
+|https://na|❌|❓|
 
 ## **plc.bsky-sandbox.dev**
 
