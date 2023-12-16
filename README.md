@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-12-16T19:30:56.064084
+Last Updated: 2023-12-16T19:40:42.717452
 
 ## **plc.directory**
 
@@ -218,7 +218,7 @@ Last Updated: 2023-12-16T19:30:56.064084
 |https://sandboxpds.bsky.sh|❌|❓|
 |https://susurrus.net|❌|❓|
 |https://bsky.fedi-multi-verse.eu|❌|❓|
-|https://bsky.wildtree.jp|✅|✅|
+|https://bsky.wildtree.jp|❌|❓|
 |https://sheslashher.net|❌|❓|
 |https://bsky.minescripts.me|❌|❓|
 |https://ubanis.mydns.jp|❌|❓|
