@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-12-18T01:12:58.132825
+Last Updated: 2023-12-18T01:32:54.963485
 
 ## **plc.directory**
 
@@ -13,7 +13,7 @@ Last Updated: 2023-12-18T01:12:58.132825
 |https://bluesky.nokotaro.com|❌|❓|
 |https://stems.social|❌|❓|
 |https://bsky.sacckey.dev|❌|❓|
-|https://kitsune.nexus|✅|✅|
+|https://kitsune.nexus|❌|❓|
 |https://neosky.dev|❌|❓|
 |https://furmeet.me|✅|✅|
 |https://bsky.syui.ai|❌|❓|
@@ -416,14 +416,14 @@ Last Updated: 2023-12-18T01:12:58.132825
 |https://blugrisbi.es|✅|✅|
 |https://bsky.maxkeb.fr|❌|❓|
 |https://bsky.adrianrey.dev|❌|❓|
-|https://bsky.action0.com|✅|✅|
+|https://bsky.action0.com|❌|❓|
 |https://bsky.stefan-erbe.com|❌|❓|
 |https://web4k.eu|❌|❓|
 |https://bluesky.benradford.me|❌|❓|
 |https://bsky.softwhere.ca|❌|❓|
 |https://wkswan.com|✅|✅|
 |https://aituns.com|❌|❓|
-|https://italiansky.mooo.com|❌|❓|
+|https://italiansky.mooo.com|✅|✅|
 |https://sky.n3otrax.fr|❌|❓|
 |https://bsky.powerg.love|✅|✅|
 |https://atproto.brid.gy/|✅|✅|
@@ -431,7 +431,7 @@ Last Updated: 2023-12-18T01:12:58.132825
 |https://bsky.mrsquaare.fr|❌|❓|
 |https://montpeyroux.social|✅|✅|
 |https://blueskysweden.se|❌|❓|
-|https://pds.home.rjp.is|❌|❓|
+|https://pds.home.rjp.is|✅|✅|
 |https://posting.expert|❌|❓|
 |https://pds.timburga.social|✅|✅|
 |https://bs.foss.gay|❌|❓|
@@ -466,5 +466,5 @@ Last Updated: 2023-12-18T01:12:58.132825
 |https://bluesky.ocusaseclorum.de|✅|✅|
 |https://bluesky.kosti.dev|✅|✅|
 |https://fammar.synology.com|❌|❓|
-|https://social.theculture.fm|✅|✅|
+|https://social.theculture.fm|❌|❓|
 
