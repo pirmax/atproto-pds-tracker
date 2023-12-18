@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-12-18T16:01:09.758920
+Last Updated: 2023-12-18T16:11:14.965955
 
 ## **plc.directory**
 
@@ -327,7 +327,7 @@ Last Updated: 2023-12-18T16:01:09.758920
 |https://aozora.yockow.test|❌|❓|
 |https://veryun.cool|✅|✅|
 |https://xky.social|✅|✅|
-|https://furryrefuge.com|✅|✅|
+|https://furryrefuge.com|❌|❓|
 |https://b1.infra.hex.camp|❌|❓|
 |https://bsky.flagner.dev|❌|❓|
 |https://jobo.eu.org|❌|❓|
@@ -383,7 +383,7 @@ Last Updated: 2023-12-18T16:01:09.758920
 |https://pds.ssauer.co.za|❌|❓|
 |https://furartist.art|❌|❓|
 |https://void.zct-mrl.com|✅|✅|
-|https://bluesky.migennes.org|❌|❓|
+|https://bluesky.migennes.org|✅|✅|
 |https://bsky.meis.space|✅|✅|
 |https://bs.raccoon-city.at|❌|❓|
 |https://belana.epicgreen.nl|❌|❓|
@@ -423,9 +423,9 @@ Last Updated: 2023-12-18T16:01:09.758920
 |https://bsky.softwhere.ca|❌|❓|
 |https://wkswan.com|✅|✅|
 |https://aituns.com|❌|❓|
-|https://italiansky.mooo.com|❌|❓|
+|https://italiansky.mooo.com|✅|✅|
 |https://sky.n3otrax.fr|❌|❓|
-|https://bsky.powerg.love|✅|✅|
+|https://bsky.powerg.love|❌|❓|
 |https://atproto.brid.gy/|✅|✅|
 |https://abluehope.com|❌|❓|
 |https://bsky.mrsquaare.fr|❌|❓|
