@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-12-19T10:51:03.274182
+Last Updated: 2023-12-19T11:00:09.881594
 
 ## **plc.directory**
 
@@ -82,7 +82,7 @@ Last Updated: 2023-12-19T10:51:03.274182
 |https://pds.insanemode.org|❌|❓|
 |https://bsky.asuna.dev|❌|❓|
 |https://pds-sb-1.goykasi.com|❌|❓|
-|https://bsky.pmj.rocks|❌|❓|
+|https://bsky.pmj.rocks|✅|✅|
 |https://kawaikute-gomen.com|❌|❓|
 |https://pds-sb-2.goykasi.com|❌|❓|
 |https://bs.bridgey.dev|❌|❓|
@@ -309,7 +309,7 @@ Last Updated: 2023-12-19T10:51:03.274182
 |https://bluesky.jayp.io|❌|❓|
 |https://this-is-epic.space|✅|✅|
 |https://tsuki.social|❌|❓|
-|https://x-mweya.duckdns.org|❌|❓|
+|https://x-mweya.duckdns.org|✅|✅|
 |https://fraudulent.link|❌|❓|
 |https://utatane.blue|❌|❓|
 |https://b.browsersource.dev|❌|❓|
@@ -423,7 +423,7 @@ Last Updated: 2023-12-19T10:51:03.274182
 |https://bsky.softwhere.ca|❌|❓|
 |https://wkswan.com|✅|✅|
 |https://aituns.com|❌|❓|
-|https://italiansky.mooo.com|✅|✅|
+|https://italiansky.mooo.com|❌|❓|
 |https://sky.n3otrax.fr|❌|❓|
 |https://bsky.powerg.love|✅|✅|
 |https://atproto.brid.gy/|✅|✅|
@@ -455,7 +455,7 @@ Last Updated: 2023-12-19T10:51:03.274182
 |https://social.born2beroot.org|❌|❓|
 |https://bsky-hcc8588.f5.si|❌|❓|
 |https://bingerin.online|❌|❓|
-|https://pdshosting.xyz|✅|✅|
+|https://pdshosting.xyz|❌|❓|
 |https://bs.mymx.me|✅|✅|
 |https://harrmitchexp.serveo.net|❌|❓|
 |https://pds.y-force.info|✅|✅|
