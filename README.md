@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-12-20T22:51:01.947557
+Last Updated: 2023-12-20T23:00:47.608225
 
 ## **plc.directory**
 
@@ -307,7 +307,7 @@ Last Updated: 2023-12-20T22:51:01.947557
 |https://bluesky.furryrefuge.com|❌|❓|
 |https://pds.evns.dev|❌|❓|
 |https://bluesky.jayp.io|❌|❓|
-|https://this-is-epic.space|❌|❓|
+|https://this-is-epic.space|✅|✅|
 |https://tsuki.social|❌|❓|
 |https://x-mweya.duckdns.org|✅|✅|
 |https://fraudulent.link|❌|❓|
@@ -423,7 +423,7 @@ Last Updated: 2023-12-20T22:51:01.947557
 |https://bsky.softwhere.ca|❌|❓|
 |https://wkswan.com|✅|✅|
 |https://aituns.com|❌|❓|
-|https://italiansky.mooo.com|❌|❓|
+|https://italiansky.mooo.com|✅|✅|
 |https://sky.n3otrax.fr|❌|❓|
 |https://bsky.powerg.love|✅|✅|
 |https://atproto.brid.gy/|✅|✅|
@@ -431,7 +431,7 @@ Last Updated: 2023-12-20T22:51:01.947557
 |https://bsky.mrsquaare.fr|❌|❓|
 |https://montpeyroux.social|✅|✅|
 |https://blueskysweden.se|❌|❓|
-|https://pds.home.rjp.is|✅|✅|
+|https://pds.home.rjp.is|❌|❓|
 |https://posting.expert|❌|❓|
 |https://pds.timburga.social|✅|✅|
 |https://bs.foss.gay|❌|❓|
@@ -458,7 +458,7 @@ Last Updated: 2023-12-20T22:51:01.947557
 |https://pdshosting.xyz|✅|✅|
 |https://bs.mymx.me|✅|✅|
 |https://harrmitchexp.serveo.net|❌|❓|
-|https://pds.y-force.info|✅|✅|
+|https://pds.y-force.info|❌|❓|
 |https://hexside.at|❌|❓|
 |https://bsky.wstrn.world|✅|✅|
 |https://bk.bitfyer.net|❌|❓|
