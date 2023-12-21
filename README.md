@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-12-21T13:51:00.984012
+Last Updated: 2023-12-21T14:00:23.643960
 
 ## **plc.directory**
 
@@ -245,7 +245,7 @@ Last Updated: 2023-12-21T13:51:00.984012
 |https://sbx.barine.co|❌|❓|
 |https://at.syui.ai:3040|❌|❓|
 |https://pdsbx.barine.co|❌|❓|
-|https://pds-dev.upcraft.dev|❌|❓|
+|https://pds-dev.upcraft.dev|✅|✅|
 |https://lil.mn|❌|❓|
 |https://bsky.bulles.social|❌|❓|
 |https://nextsky.tokimeki.blue|❌|❓|
@@ -281,7 +281,7 @@ Last Updated: 2023-12-21T13:51:00.984012
 |https://bsky.social-hell.uk|❌|❓|
 |http://localhost:8080/|❌|❓|
 |https://pds.staging.bteklabs.com|❌|❓|
-|https://afternooncurry.com|❌|❓|
+|https://afternooncurry.com|✅|✅|
 |https://bsky.whoverse.nexus|❌|❓|
 |https://zima.ge|✅|✅|
 |https://bsk.lukas-diekmann.de|❌|❓|
@@ -309,7 +309,7 @@ Last Updated: 2023-12-21T13:51:00.984012
 |https://bluesky.jayp.io|❌|❓|
 |https://this-is-epic.space|✅|✅|
 |https://tsuki.social|❌|❓|
-|https://x-mweya.duckdns.org|✅|✅|
+|https://x-mweya.duckdns.org|❌|❓|
 |https://fraudulent.link|❌|❓|
 |https://utatane.blue|❌|❓|
 |https://b.browsersource.dev|❌|❓|
@@ -431,7 +431,7 @@ Last Updated: 2023-12-21T13:51:00.984012
 |https://bsky.mrsquaare.fr|❌|❓|
 |https://montpeyroux.social|✅|✅|
 |https://blueskysweden.se|❌|❓|
-|https://pds.home.rjp.is|❌|❓|
+|https://pds.home.rjp.is|✅|✅|
 |https://posting.expert|❌|❓|
 |https://pds.timburga.social|✅|✅|
 |https://bs.foss.gay|❌|❓|
@@ -469,5 +469,5 @@ Last Updated: 2023-12-21T13:51:00.984012
 |https://social.theculture.fm|✅|✅|
 |https://bluesky.schmueth.de|✅|✅|
 |https://cfultz.wtf|❌|❓|
-|https://vybihal.cz|✅|✅|
+|https://vybihal.cz|❌|❓|
 
