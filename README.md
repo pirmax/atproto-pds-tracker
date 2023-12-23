@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-12-23T21:30:54.582946
+Last Updated: 2023-12-23T21:40:53.588694
 
 ## **plc.directory**
 
@@ -474,4 +474,5 @@ Last Updated: 2023-12-23T21:30:54.582946
 |https://sturmdev.com|✅|✅|
 |https://bluesky.cyberveins.eu|✅|✅|
 |https://home.cyberveins.eu|❌|❓|
+|https://bsky.social|✅|✅|
 
