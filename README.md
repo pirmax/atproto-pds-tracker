@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-12-23T09:21:30.121562
+Last Updated: 2023-12-23T09:30:26.925552
 
 ## **plc.directory**
 
@@ -298,7 +298,7 @@ Last Updated: 2023-12-23T09:21:30.121562
 |https://atproto.eralyon.net|✅|✅|
 |http://127.0.0.1:8080|❌|❓|
 |https://ketamine.dog|❌|❓|
-|https://blacksky.app|❌|❓|
+|https://blacksky.app|✅|✅|
 |https://eper.tail3825e.ts.net|❌|❓|
 |http://localhost:2583|❌|❓|
 |https://bsk.carl0scheca.com|✅|✅|
@@ -413,7 +413,7 @@ Last Updated: 2023-12-23T09:21:30.121562
 |https://bsky.akurosia.de|✅|✅|
 |https://bsky.netopia.me|❌|❓|
 |https://bsky.favoslav.cz|❌|❓|
-|https://blugrisbi.es|❌|❓|
+|https://blugrisbi.es|✅|✅|
 |https://bsky.maxkeb.fr|❌|❓|
 |https://bsky.adrianrey.dev|❌|❓|
 |https://bsky.action0.com|✅|✅|
@@ -466,7 +466,7 @@ Last Updated: 2023-12-23T09:21:30.121562
 |https://bluesky.ocusaseclorum.de|❌|❓|
 |https://bluesky.kosti.dev|✅|✅|
 |https://fammar.synology.com|❌|❓|
-|https://social.theculture.fm|✅|✅|
+|https://social.theculture.fm|❌|❓|
 |https://bluesky.schmueth.de|✅|✅|
 |https://cfultz.wtf|❌|❓|
 |https://vybihal.cz|❌|❓|
