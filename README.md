@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-12-25T04:01:06.365842
+Last Updated: 2023-12-25T04:10:53.655325
 
 ## **plc.directory**
 
@@ -171,7 +171,7 @@ Last Updated: 2023-12-25T04:01:06.365842
 |https://tinypds.h3y6e.com|❌|❓|
 |https://none.social|❌|❓|
 |https://revpub.net|❌|❓|
-|https://dawn.atproto.zigler.ai|✅|✅|
+|https://dawn.atproto.zigler.ai|❌|❓|
 |https://pds.stevenselph.com|❌|❓|
 |https://bsky.felipecruz.es|❌|❓|
 |https://sunairo.moegi.stream|✅|❌|
@@ -228,7 +228,7 @@ Last Updated: 2023-12-25T04:01:06.365842
 |https://arroba-pds.appspot.com|❌|❓|
 |https://chirpnest.net|❌|❓|
 |https://waypast.cool|❌|❓|
-|https://cumdmp.me|❌|❓|
+|https://cumdmp.me|✅|✅|
 |https://usemastodon.feathered.link|❌|❓|
 |https://usefedi.feathered.link|❌|❓|
 |https://furmeet.me|✅|✅|
@@ -431,7 +431,7 @@ Last Updated: 2023-12-25T04:01:06.365842
 |https://bsky.mrsquaare.fr|❌|❓|
 |https://montpeyroux.social|✅|✅|
 |https://blueskysweden.se|❌|❓|
-|https://pds.home.rjp.is|✅|✅|
+|https://pds.home.rjp.is|❌|❓|
 |https://posting.expert|❌|❓|
 |https://pds.timburga.social|✅|✅|
 |https://bs.foss.gay|❌|❓|
@@ -475,6 +475,6 @@ Last Updated: 2023-12-25T04:01:06.365842
 |https://bluesky.cyberveins.eu|✅|✅|
 |https://home.cyberveins.eu|❌|❓|
 |https://bsky.social|✅|✅|
-|https://cultured.black|❌|❓|
+|https://cultured.black|✅|✅|
 |https://thekayou.com|✅|✅|
 
