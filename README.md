@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-12-25T17:41:00.440760
+Last Updated: 2023-12-25T17:50:25.555701
 
 ## **plc.directory**
 
@@ -460,7 +460,7 @@ Last Updated: 2023-12-25T17:41:00.440760
 |https://harrmitchexp.serveo.net|❌|❓|
 |https://pds.y-force.info|✅|✅|
 |https://hexside.at|❌|❓|
-|https://bsky.wstrn.world|✅|✅|
+|https://bsky.wstrn.world|❌|❓|
 |https://bk.bitfyer.net|❌|❓|
 |https://insult.org|❌|❓|
 |https://bluesky.ocusaseclorum.de|❌|❓|
@@ -477,6 +477,6 @@ Last Updated: 2023-12-25T17:41:00.440760
 |https://bsky.social|✅|✅|
 |https://cultured.black|✅|✅|
 |https://thekayou.com|✅|✅|
-|https://sky.manikineko.nl|✅|✅|
+|https://sky.manikineko.nl|❌|❓|
 |https://maneki-neko.nl|✅|✅|
 
