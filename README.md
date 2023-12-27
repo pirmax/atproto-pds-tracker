@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-12-27T15:01:03.447009
+Last Updated: 2023-12-27T15:10:19.652787
 
 ## **plc.directory**
 
@@ -228,7 +228,7 @@ Last Updated: 2023-12-27T15:01:03.447009
 |https://arroba-pds.appspot.com|❌|❓|
 |https://chirpnest.net|❌|❓|
 |https://waypast.cool|❌|❓|
-|https://cumdmp.me|❌|❓|
+|https://cumdmp.me|✅|✅|
 |https://usemastodon.feathered.link|❌|❓|
 |https://usefedi.feathered.link|❌|❓|
 |https://furmeet.me|✅|✅|
