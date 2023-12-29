@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-12-29T09:30:57.022236
+Last Updated: 2023-12-29T09:40:58.529442
 
 ## **plc.directory**
 
@@ -496,4 +496,5 @@ Last Updated: 2023-12-29T09:30:57.022236
 |https://bsky.cryptomata.com|✅|✅|
 |https://arl-bsky-pds.arl.jp|❌|❓|
 |https://turboshitpost.ing|✅|✅|
+|https://goodhew.lol|✅|✅|
 
