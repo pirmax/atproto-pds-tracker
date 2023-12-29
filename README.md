@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-12-29T18:03:16.541153
+Last Updated: 2023-12-29T18:12:50.621
 
 ## **plc.directory**
 
@@ -489,7 +489,7 @@ Last Updated: 2023-12-29T18:03:16.541153
 |https://home.cyberveins.eu|❌|❓|
 |https://bsky.social|✅|✅|
 |https://cultured.black|✅|✅|
-|https://thekayou.com|✅|✅|
+|https://thekayou.com|❌|❓|
 |https://sky.manikineko.nl|❌|❓|
 |https://maneki-neko.nl|❌|❓|
 |https://dopsky.social|❌|❓|
