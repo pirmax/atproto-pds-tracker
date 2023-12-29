@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-12-29T01:39:56.270552
+Last Updated: 2023-12-29T01:46:12.818896
 
 ## **plc.directory**
 
@@ -51,6 +51,8 @@ Last Updated: 2023-12-29T01:39:56.270552
 |https://axhje5a.534.bsky.social|❌|❓|
 |https://7a4b5gk.534.bsky.social|❌|❓|
 |https://5345ajeekww.534.bsky.social|❌|❓|
+|https://yup5256c.534.bsky.social|❌|❓|
+|https://7mv2c2fw.534.bsky.social|❌|❓|
 
 ## **plc.bsky-sandbox.dev**
 
