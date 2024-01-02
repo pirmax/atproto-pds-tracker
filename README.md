@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-02T00:33:48.157589
+Last Updated: 2024-01-02T00:44:42.729451
 
 ## **plc.directory**
 
@@ -499,4 +499,5 @@ Last Updated: 2024-01-02T00:33:48.157589
 |https://goodhew.lol|❌|❓|
 |https://nickwood.me|❌|❓|
 |https://helmaccess.com|❌|❓|
+|https://gesetz.world|✅|✅|
 
