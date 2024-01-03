@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-03T01:12:47.063650
+Last Updated: 2024-01-03T01:21:51.253296
 
 ## **plc.directory**
 
@@ -13,7 +13,7 @@ Last Updated: 2024-01-03T01:12:47.063650
 |https://bluesky.nokotaro.com|❌|❓|
 |https://stems.social|❌|❓|
 |https://bsky.sacckey.dev|❌|❓|
-|https://kitsune.nexus|✅|✅|
+|https://kitsune.nexus|❌|❓|
 |https://neosky.dev|❌|❓|
 |https://furmeet.me|✅|✅|
 |https://bsky.syui.ai|❌|❓|
@@ -322,7 +322,7 @@ Last Updated: 2024-01-03T01:12:47.063650
 |https://bluesky.jayp.io|❌|❓|
 |https://this-is-epic.space|❌|❓|
 |https://tsuki.social|❌|❓|
-|https://x-mweya.duckdns.org|❌|❓|
+|https://x-mweya.duckdns.org|✅|✅|
 |https://fraudulent.link|❌|❓|
 |https://utatane.blue|❌|❓|
 |https://b.browsersource.dev|❌|❓|
@@ -483,7 +483,7 @@ Last Updated: 2024-01-03T01:12:47.063650
 |https://bluesky.schmueth.de|✅|✅|
 |https://cfultz.wtf|❌|❓|
 |https://vybihal.cz|❌|❓|
-|https://louis-c-novel.com|✅|❌|
+|https://louis-c-novel.com|❌|❓|
 |https://sturmdev.com|✅|✅|
 |https://bluesky.cyberveins.eu|✅|✅|
 |https://home.cyberveins.eu|❌|❓|
