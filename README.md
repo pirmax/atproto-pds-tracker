@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-04T00:25:03.489331
+Last Updated: 2024-01-04T00:44:47.656767
 
 ## **plc.directory**
 
@@ -55,6 +55,7 @@ Last Updated: 2024-01-04T00:25:03.489331
 |https://7mv2c2fw.534.bsky.social|❌|❓|
 |https://zj7ao3i5k.534.bsky.social|❌|❓|
 |https://no3sbfnkh.534.bsky.social|❌|❓|
+|https://hedgehog.us-west.host.bsky.network|✅|✅|
 
 ## **plc.bsky-sandbox.dev**
 
