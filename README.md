@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-04T04:01:06.706551
+Last Updated: 2024-01-04T04:11:28.166703
 
 ## **plc.directory**
 
@@ -247,7 +247,7 @@ Last Updated: 2024-01-04T04:01:06.706551
 |https://usefedi.feathered.link|❌|❓|
 |https://furmeet.me|✅|✅|
 |https://pds.bee.lol|❌|❓|
-|https://at.bee.lol|✅|✅|
+|https://at.bee.lol|❌|❓|
 |https://pdz.bsky.nyc|❌|❓|
 |https://pds.zhuzhihao.me|❌|❓|
 |https://hooray.social|✅|✅|
@@ -323,7 +323,7 @@ Last Updated: 2024-01-04T04:01:06.706551
 |https://bluesky.jayp.io|❌|❓|
 |https://this-is-epic.space|❌|❓|
 |https://tsuki.social|❌|❓|
-|https://x-mweya.duckdns.org|❌|❓|
+|https://x-mweya.duckdns.org|✅|✅|
 |https://fraudulent.link|❌|❓|
 |https://utatane.blue|❌|❓|
 |https://b.browsersource.dev|❌|❓|
