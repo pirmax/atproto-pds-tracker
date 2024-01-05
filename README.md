@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-05T05:49:46.662034
+Last Updated: 2024-01-05T05:50:55.456354
 
 ## **plc.directory**
 
@@ -505,4 +505,5 @@ Last Updated: 2024-01-05T05:49:46.662034
 |https://annex.another.blue|✅|✅|
 |https://gil-archlinux|❌|❓|
 |https://hosseinnasiri.ir|✅|✅|
+|https://m.cliq.buzz|✅|✅|
 
