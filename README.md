@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-05T12:40:56.549124
+Last Updated: 2024-01-05T12:52:18.378525
 
 ## **plc.directory**
 
@@ -86,7 +86,7 @@ Last Updated: 2024-01-05T12:40:56.549124
 |https://tjs-pds-sandbox.shop|❌|❓|
 |http://localhost:3000|❌|❓|
 |https://testingpds.com|✅|✅|
-|https://syui.cf|❌|❓|
+|https://syui.cf|✅|✅|
 |https://atproto.h3y6e.com|❌|❓|
 |https://pds.h3y6e.com|❌|❓|
 |https://blue.flowertea.uk|❌|❓|
@@ -487,7 +487,7 @@ Last Updated: 2024-01-05T12:40:56.549124
 |https://vybihal.cz|❌|❓|
 |https://louis-c-novel.com|✅|❌|
 |https://sturmdev.com|❌|❓|
-|https://bluesky.cyberveins.eu|✅|✅|
+|https://bluesky.cyberveins.eu|❌|❓|
 |https://home.cyberveins.eu|❌|❓|
 |https://bsky.social|✅|✅|
 |https://cultured.black|✅|✅|
@@ -504,6 +504,6 @@ Last Updated: 2024-01-05T12:40:56.549124
 |https://gesetz.world|✅|❌|
 |https://annex.another.blue|✅|✅|
 |https://gil-archlinux|❌|❓|
-|https://hosseinnasiri.ir|✅|✅|
+|https://hosseinnasiri.ir|❌|❓|
 |https://m.cliq.buzz|✅|✅|
 
