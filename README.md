@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-06T19:00:59.038
+Last Updated: 2024-01-06T19:11:18.185990
 
 ## **plc.directory**
 
@@ -393,7 +393,7 @@ Last Updated: 2024-01-06T19:00:59.038
 |https://creaton.social|✅|✅|
 |https://nerdynate.io|❌|❓|
 |https://pds.vriska.dev|✅|✅|
-|https://matthews-kennington.com|❌|❓|
+|https://matthews-kennington.com|✅|✅|
 |https://bs.jefferyho.cc|✅|✅|
 |https://pds.ssauer.co.za|❌|❓|
 |https://furartist.art|❌|❓|
