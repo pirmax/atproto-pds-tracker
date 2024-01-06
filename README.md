@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-06T04:31:53.112393
+Last Updated: 2024-01-06T04:40:50.312954
 
 ## **plc.directory**
 
@@ -507,4 +507,5 @@ Last Updated: 2024-01-06T04:31:53.112393
 |https://hosseinnasiri.ir|✅|✅|
 |https://m.cliq.buzz|✅|✅|
 |https://bsky.iame.li|✅|✅|
+|https://moseswynn.com|✅|✅|
 
