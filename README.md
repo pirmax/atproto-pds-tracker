@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-07T09:01:06.255094
+Last Updated: 2024-01-07T09:12:41.533438
 
 ## **plc.directory**
 
@@ -73,7 +73,7 @@ Last Updated: 2024-01-07T09:01:06.255094
 |https://take2.dholms.xyz|❌|❓|
 |https://pds.dev.retr0.id|❌|❓|
 |https://cloudcaine.thecubic.net|❌|❓|
-|https://hellthread.pro|❌|❓|
+|https://hellthread.pro|✅|✅|
 |https://bsky.pupbrained.xyz|❌|❓|
 |https://henshaw.org|❌|❓|
 |https://pds.canidae.systems|✅|✅|
@@ -86,7 +86,7 @@ Last Updated: 2024-01-07T09:01:06.255094
 |https://tjs-pds-sandbox.shop|❌|❓|
 |http://localhost:3000|❌|❓|
 |https://testingpds.com|✅|✅|
-|https://syui.cf|❌|❓|
+|https://syui.cf|✅|✅|
 |https://atproto.h3y6e.com|❌|❓|
 |https://pds.h3y6e.com|❌|❓|
 |https://blue.flowertea.uk|❌|❓|
@@ -485,7 +485,7 @@ Last Updated: 2024-01-07T09:01:06.255094
 |https://bluesky.schmueth.de|❌|❓|
 |https://cfultz.wtf|❌|❓|
 |https://vybihal.cz|❌|❓|
-|https://louis-c-novel.com|✅|❌|
+|https://louis-c-novel.com|❌|❓|
 |https://sturmdev.com|❌|❓|
 |https://bluesky.cyberveins.eu|✅|✅|
 |https://home.cyberveins.eu|❌|❓|
