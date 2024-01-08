@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-08T06:19:40.612100
+Last Updated: 2024-01-08T06:32:45.913634
 
 ## **plc.directory**
 
@@ -86,7 +86,7 @@ Last Updated: 2024-01-08T06:19:40.612100
 |https://tjs-pds-sandbox.shop|❌|❓|
 |http://localhost:3000|❌|❓|
 |https://testingpds.com|✅|✅|
-|https://syui.cf|❌|❓|
+|https://syui.cf|✅|❌|
 |https://atproto.h3y6e.com|❌|❓|
 |https://pds.h3y6e.com|❌|❓|
 |https://blue.flowertea.uk|❌|❓|
