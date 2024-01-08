@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-08T18:40:11.342545
+Last Updated: 2024-01-08T18:57:05.291215
 
 ## **plc.directory**
 
@@ -313,7 +313,7 @@ Last Updated: 2024-01-08T18:40:11.342545
 |https://atproto.eralyon.net|✅|✅|
 |http://127.0.0.1:8080|❌|❓|
 |https://ketamine.dog|❌|❓|
-|https://blacksky.app|❌|❓|
+|https://blacksky.app|✅|✅|
 |https://eper.tail3825e.ts.net|❌|❓|
 |http://localhost:2583|❌|❓|
 |https://bsk.carl0scheca.com|✅|✅|
@@ -324,7 +324,7 @@ Last Updated: 2024-01-08T18:40:11.342545
 |https://bluesky.jayp.io|❌|❓|
 |https://this-is-epic.space|❌|❓|
 |https://tsuki.social|❌|❓|
-|https://x-mweya.duckdns.org|❌|❓|
+|https://x-mweya.duckdns.org|✅|✅|
 |https://fraudulent.link|❌|❓|
 |https://utatane.blue|❌|❓|
 |https://b.browsersource.dev|❌|❓|
@@ -384,7 +384,7 @@ Last Updated: 2024-01-08T18:40:11.342545
 |http://localhost:12025|❌|❓|
 |https://b.schroedingerscat.org|✅|✅|
 |https://bskysandbox.edavis.dev|❌|❓|
-|https://social.derg.fr|❌|❓|
+|https://social.derg.fr|✅|✅|
 |https://hug.mx|❌|❓|
 |https://bsky.zoeyvid.de|❌|❓|
 |https://maddesjg.eu|❌|❓|
@@ -490,7 +490,7 @@ Last Updated: 2024-01-08T18:40:11.342545
 |https://bluesky.cyberveins.eu|✅|✅|
 |https://home.cyberveins.eu|❌|❓|
 |https://bsky.social|✅|✅|
-|https://cultured.black|❌|❓|
+|https://cultured.black|✅|✅|
 |https://thekayou.com|❌|❓|
 |https://sky.manikineko.nl|❌|❓|
 |https://maneki-neko.nl|❌|❓|
