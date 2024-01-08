@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-08T02:41:12.297906
+Last Updated: 2024-01-08T02:51:38.609215
 
 ## **plc.directory**
 
@@ -485,7 +485,7 @@ Last Updated: 2024-01-08T02:41:12.297906
 |https://bluesky.schmueth.de|❌|❓|
 |https://cfultz.wtf|❌|❓|
 |https://vybihal.cz|❌|❓|
-|https://louis-c-novel.com|✅|❌|
+|https://louis-c-novel.com|❌|❓|
 |https://sturmdev.com|❌|❓|
 |https://bluesky.cyberveins.eu|✅|✅|
 |https://home.cyberveins.eu|❌|❓|
