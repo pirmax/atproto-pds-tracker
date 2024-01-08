@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-08T23:19:59.118221
+Last Updated: 2024-01-08T23:30:14.410375
 
 ## **plc.directory**
 
@@ -342,7 +342,7 @@ Last Updated: 2024-01-08T23:19:59.118221
 |https://aozora.yockow.test|❌|❓|
 |https://veryun.cool|❌|❓|
 |https://xky.social|✅|✅|
-|https://furryrefuge.com|❌|❓|
+|https://furryrefuge.com|✅|✅|
 |https://b1.infra.hex.camp|❌|❓|
 |https://bsky.flagner.dev|❌|❓|
 |https://jobo.eu.org|❌|❓|
