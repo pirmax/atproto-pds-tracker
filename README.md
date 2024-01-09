@@ -1,13 +1,13 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-09T15:46:34.675609
+Last Updated: 2024-01-09T16:02:59.831015
 
 ## **plc.directory**
 
 |PDS Endpoint|Active|Invite Code Required|
 |---|:---:|:---:|
 |https://bsky.social|✅|✅|
-|https://boobee.blue|✅|✅|
+|https://boobee.blue|❌|❓|
 |https://redocean.one|❌|❓|
 |https://uwu|❌|❓|
 |https://bluesky.nokotaro.com|❌|❓|
@@ -24,7 +24,7 @@ Last Updated: 2024-01-09T15:46:34.675609
 |https://pds.example.com|❌|❓|
 |https://redocen.one|❌|❓|
 |http://localhost:12025|❌|❓|
-|https://rebroad.com|✅|✅|
+|https://rebroad.com|❌|❓|
 |https://pds.dev.retr0.id|❌|❓|
 |http://localhost:62912|❌|❓|
 |http://localhost:62923|❌|❓|
@@ -487,7 +487,7 @@ Last Updated: 2024-01-09T15:46:34.675609
 |https://vybihal.cz|❌|❓|
 |https://louis-c-novel.com|✅|❌|
 |https://sturmdev.com|❌|❓|
-|https://bluesky.cyberveins.eu|❌|❓|
+|https://bluesky.cyberveins.eu|✅|✅|
 |https://home.cyberveins.eu|❌|❓|
 |https://bsky.social|✅|✅|
 |https://cultured.black|✅|✅|
