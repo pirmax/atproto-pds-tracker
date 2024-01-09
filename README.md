@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-09T14:21:43.112310
+Last Updated: 2024-01-09T14:33:28.052949
 
 ## **plc.directory**
 
@@ -80,7 +80,7 @@ Last Updated: 2024-01-09T14:21:43.112310
 |https://pds.jet.tf|❌|❓|
 |https://bsky.flicknow.xyz|❌|❓|
 |https://thomasjerome.com|❌|❓|
-|https://sky.lalafell.org|✅|✅|
+|https://sky.lalafell.org|❌|❓|
 |https://pds.ubanis.mydns.jp|✅|✅|
 |https://pds.bsky.sh|❌|❓|
 |https://tjs-pds-sandbox.shop|❌|❓|
@@ -324,7 +324,7 @@ Last Updated: 2024-01-09T14:21:43.112310
 |https://bluesky.jayp.io|❌|❓|
 |https://this-is-epic.space|❌|❓|
 |https://tsuki.social|❌|❓|
-|https://x-mweya.duckdns.org|❌|❓|
+|https://x-mweya.duckdns.org|✅|✅|
 |https://fraudulent.link|❌|❓|
 |https://utatane.blue|❌|❓|
 |https://b.browsersource.dev|❌|❓|
