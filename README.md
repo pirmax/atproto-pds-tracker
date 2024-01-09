@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-09T04:38:58.037069
+Last Updated: 2024-01-09T04:55:39.747191
 
 ## **plc.directory**
 
@@ -65,7 +65,7 @@ Last Updated: 2024-01-09T04:38:58.037069
 |https://at.syui.ai|❌|❓|
 |https://n.redocean.one|❌|❓|
 |https://sandbox.whyr.us|✅|✅|
-|https://pds.dholms.xyz|❌|❓|
+|https://pds.dholms.xyz|✅|✅|
 |https://asia.friendlypds.cloud|❌|❓|
 |https://alt.dholms.xyz|❌|❓|
 |https://pds.anshnanda.com|❌|❓|
@@ -73,7 +73,7 @@ Last Updated: 2024-01-09T04:38:58.037069
 |https://take2.dholms.xyz|❌|❓|
 |https://pds.dev.retr0.id|❌|❓|
 |https://cloudcaine.thecubic.net|❌|❓|
-|https://hellthread.pro|❌|❓|
+|https://hellthread.pro|✅|✅|
 |https://bsky.pupbrained.xyz|❌|❓|
 |https://henshaw.org|❌|❓|
 |https://pds.canidae.systems|✅|✅|
@@ -393,7 +393,7 @@ Last Updated: 2024-01-09T04:38:58.037069
 |https://creaton.social|✅|✅|
 |https://nerdynate.io|❌|❓|
 |https://pds.vriska.dev|✅|✅|
-|https://matthews-kennington.com|❌|❓|
+|https://matthews-kennington.com|✅|✅|
 |https://bs.jefferyho.cc|✅|✅|
 |https://pds.ssauer.co.za|❌|❓|
 |https://furartist.art|❌|❓|
