@@ -1,12 +1,12 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-09T22:52:20.575996
+Last Updated: 2024-01-09T23:09:22.809696
 
 ## **plc.directory**
 
 |PDS Endpoint|Active|Invite Code Required|
 |---|:---:|:---:|
-|https://bsky.social|✅|✅|
+|https://bsky.social|❌|❓|
 |https://boobee.blue|✅|✅|
 |https://redocean.one|❌|❓|
 |https://uwu|❌|❓|
@@ -73,7 +73,7 @@ Last Updated: 2024-01-09T22:52:20.575996
 |https://take2.dholms.xyz|❌|❓|
 |https://pds.dev.retr0.id|❌|❓|
 |https://cloudcaine.thecubic.net|❌|❓|
-|https://hellthread.pro|❌|❓|
+|https://hellthread.pro|✅|✅|
 |https://bsky.pupbrained.xyz|❌|❓|
 |https://henshaw.org|❌|❓|
 |https://pds.canidae.systems|✅|✅|
