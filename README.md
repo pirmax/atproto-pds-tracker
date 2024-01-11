@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-11T02:53:24.082673
+Last Updated: 2024-01-11T03:11:08.445346
 
 ## **plc.directory**
 
@@ -330,7 +330,7 @@ Last Updated: 2024-01-11T02:53:24.082673
 |https://b.browsersource.dev|❌|❓|
 |https://bbs.fraudulent.link|❌|❓|
 |https://foo.example|❌|❓|
-|https://atptest.lep.wtf|✅|✅|
+|https://atptest.lep.wtf|❌|❓|
 |https://galaxy.neo7.kim|❌|❓|
 |https://broad.re|❌|❓|
 |https://fed.brid.gy/|✅|✅|
@@ -441,7 +441,7 @@ Last Updated: 2024-01-11T02:53:24.082673
 |https://italiansky.mooo.com|✅|✅|
 |https://sky.n3otrax.fr|❌|❓|
 |https://bsky.powerg.love|✅|✅|
-|https://atproto.brid.gy/|❌|❓|
+|https://atproto.brid.gy/|✅|✅|
 |https://abluehope.com|❌|❓|
 |https://bsky.mrsquaare.fr|❌|❓|
 |https://montpeyroux.social|✅|✅|
