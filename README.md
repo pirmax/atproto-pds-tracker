@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-11T12:52:20.325845
+Last Updated: 2024-01-11T13:04:11.663798
 
 ## **plc.directory**
 
@@ -333,7 +333,7 @@ Last Updated: 2024-01-11T12:52:20.325845
 |https://atptest.lep.wtf|✅|✅|
 |https://galaxy.neo7.kim|❌|❓|
 |https://broad.re|❌|❓|
-|https://fed.brid.gy/|❌|❓|
+|https://fed.brid.gy/|✅|✅|
 |https://bsky.kwilium.xyz|❌|❓|
 |https://sky.hideside.de|✅|✅|
 |https://pds.jpco.io|❌|❓|
@@ -457,7 +457,7 @@ Last Updated: 2024-01-11T12:52:20.325845
 |https://americocarelli.com.br|❌|❓|
 |https://derpzilla.net|✅|✅|
 |https://musicproduction.world|❌|❓|
-|https://corgi.dance|✅|✅|
+|https://corgi.dance|❌|❓|
 |https://atproto.stereosteve.com|❌|❓|
 |https://casadeladra.ddnss.de|❌|❓|
 |https://blues.psionprotocol.com|❌|❓|
@@ -501,8 +501,8 @@ Last Updated: 2024-01-11T12:52:20.325845
 |https://goodhew.lol|❌|❓|
 |https://nickwood.me|❌|❓|
 |https://helmaccess.com|❌|❓|
-|https://gesetz.world|✅|❌|
-|https://annex.another.blue|✅|✅|
+|https://gesetz.world|❌|❓|
+|https://annex.another.blue|❌|❓|
 |https://gil-archlinux|❌|❓|
 |https://hosseinnasiri.ir|✅|✅|
 |https://m.cliq.buzz|❌|❓|
