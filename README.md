@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-11T07:02:58.012887
+Last Updated: 2024-01-11T07:22:30.150059
 
 ## **plc.directory**
 
@@ -248,7 +248,7 @@ Last Updated: 2024-01-11T07:02:58.012887
 |https://usefedi.feathered.link|❌|❓|
 |https://furmeet.me|✅|✅|
 |https://pds.bee.lol|❌|❓|
-|https://at.bee.lol|❌|❓|
+|https://at.bee.lol|✅|✅|
 |https://pdz.bsky.nyc|❌|❓|
 |https://pds.zhuzhihao.me|❌|❓|
 |https://hooray.social|✅|✅|
@@ -441,7 +441,7 @@ Last Updated: 2024-01-11T07:02:58.012887
 |https://italiansky.mooo.com|✅|✅|
 |https://sky.n3otrax.fr|❌|❓|
 |https://bsky.powerg.love|✅|✅|
-|https://atproto.brid.gy/|✅|✅|
+|https://atproto.brid.gy/|❌|❓|
 |https://abluehope.com|❌|❓|
 |https://bsky.mrsquaare.fr|❌|❓|
 |https://montpeyroux.social|✅|✅|
