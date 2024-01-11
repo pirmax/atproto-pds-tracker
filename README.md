@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-11T08:16:22.638592
+Last Updated: 2024-01-11T08:28:41.508794
 
 ## **plc.directory**
 
@@ -132,7 +132,7 @@ Last Updated: 2024-01-11T08:16:22.638592
 |https://sandbox.shitposting.vip|❌|❓|
 |https://bsky.imoein.com|✅|✅|
 |https://bsky.phazed.xyz|❌|❓|
-|https://bskysandbox.snek.dev|❌|❓|
+|https://bskysandbox.snek.dev|✅|✅|
 |https://bluesky.skcmcream.uk|❌|❓|
 |https://at.malte.re|❌|❓|
 |https://sleepy.cafe|❌|❓|
@@ -487,7 +487,7 @@ Last Updated: 2024-01-11T08:16:22.638592
 |https://vybihal.cz|❌|❓|
 |https://louis-c-novel.com|✅|❌|
 |https://sturmdev.com|❌|❓|
-|https://bluesky.cyberveins.eu|✅|✅|
+|https://bluesky.cyberveins.eu|❌|❓|
 |https://home.cyberveins.eu|❌|❓|
 |https://bsky.social|✅|✅|
 |https://cultured.black|✅|✅|
