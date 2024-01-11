@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-11T18:21:25.468580
+Last Updated: 2024-01-11T18:34:29.215938
 
 ## **plc.directory**
 
@@ -438,10 +438,10 @@ Last Updated: 2024-01-11T18:21:25.468580
 |https://bsky.softwhere.ca|❌|❓|
 |https://wkswan.com|✅|✅|
 |https://aituns.com|❌|❓|
-|https://italiansky.mooo.com|✅|✅|
+|https://italiansky.mooo.com|❌|❓|
 |https://sky.n3otrax.fr|❌|❓|
 |https://bsky.powerg.love|✅|✅|
-|https://atproto.brid.gy/|✅|✅|
+|https://atproto.brid.gy/|❌|❓|
 |https://abluehope.com|❌|❓|
 |https://bsky.mrsquaare.fr|❌|❓|
 |https://montpeyroux.social|✅|✅|
@@ -457,7 +457,7 @@ Last Updated: 2024-01-11T18:21:25.468580
 |https://americocarelli.com.br|❌|❓|
 |https://derpzilla.net|✅|✅|
 |https://musicproduction.world|❌|❓|
-|https://corgi.dance|❌|❓|
+|https://corgi.dance|✅|✅|
 |https://atproto.stereosteve.com|❌|❓|
 |https://casadeladra.ddnss.de|❌|❓|
 |https://blues.psionprotocol.com|❌|❓|
