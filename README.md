@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-12T18:40:02.337456
+Last Updated: 2024-01-12T18:56:50.881995
 
 ## **plc.directory**
 
@@ -189,7 +189,7 @@ Last Updated: 2024-01-12T18:40:02.337456
 |https://dawn.atproto.zigler.ai|✅|✅|
 |https://pds.stevenselph.com|❌|❓|
 |https://bsky.felipecruz.es|❌|❓|
-|https://sunairo.moegi.stream|✅|❌|
+|https://sunairo.moegi.stream|❌|❓|
 |https://hus.gay|❌|❓|
 |https://bsky.syui.ai|❌|❓|
 |https://pixilin.social|❌|❓|
@@ -333,7 +333,7 @@ Last Updated: 2024-01-12T18:40:02.337456
 |https://atptest.lep.wtf|✅|✅|
 |https://galaxy.neo7.kim|❌|❓|
 |https://broad.re|❌|❓|
-|https://fed.brid.gy/|❌|❓|
+|https://fed.brid.gy/|✅|✅|
 |https://bsky.kwilium.xyz|❌|❓|
 |https://sky.hideside.de|✅|✅|
 |https://pds.jpco.io|❌|❓|
