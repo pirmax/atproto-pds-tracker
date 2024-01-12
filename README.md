@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-12T07:56:37.236568
+Last Updated: 2024-01-12T08:15:45.985476
 
 ## **plc.directory**
 
@@ -349,7 +349,7 @@ Last Updated: 2024-01-12T07:56:37.236568
 |https://bingerin.de|❌|❓|
 |https://blueskyde.cloud|❌|❓|
 |https://bsky.primeapps.net|✅|✅|
-|https://fed.brid.gy|✅|✅|
+|https://fed.brid.gy|❌|❓|
 |https://mdthh.de|❌|❓|
 |https://equus.quest|❌|❓|
 |https://rebroad.com|✅|✅|
@@ -359,7 +359,7 @@ Last Updated: 2024-01-12T07:56:37.236568
 |https://due-it.com|❌|❓|
 |https://blue.cb-homelab.de|❌|❓|
 |https://x.kex.biz|❌|❓|
-|https://kiichigo.cloud|❌|❓|
+|https://kiichigo.cloud|✅|✅|
 |https://atsandbox.kyriog.fr|❌|❓|
 |https://bsky-sandbox.amith.sbs|❌|❓|
 |https://bskysbox.amith.sbs|❌|❓|
@@ -490,7 +490,7 @@ Last Updated: 2024-01-12T07:56:37.236568
 |https://bluesky.cyberveins.eu|✅|✅|
 |https://home.cyberveins.eu|❌|❓|
 |https://bsky.social|✅|✅|
-|https://cultured.black|❌|❓|
+|https://cultured.black|✅|✅|
 |https://thekayou.com|❌|❓|
 |https://sky.manikineko.nl|❌|❓|
 |https://maneki-neko.nl|❌|❓|
@@ -502,7 +502,7 @@ Last Updated: 2024-01-12T07:56:37.236568
 |https://nickwood.me|❌|❓|
 |https://helmaccess.com|❌|❓|
 |https://gesetz.world|✅|❌|
-|https://annex.another.blue|❌|❓|
+|https://annex.another.blue|✅|✅|
 |https://gil-archlinux|❌|❓|
 |https://hosseinnasiri.ir|✅|✅|
 |https://m.cliq.buzz|❌|❓|
