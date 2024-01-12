@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-12T12:51:19.605522
+Last Updated: 2024-01-12T13:03:24.137829
 
 ## **plc.directory**
 
@@ -399,7 +399,7 @@ Last Updated: 2024-01-12T12:51:19.605522
 |https://furartist.art|❌|❓|
 |https://void.zct-mrl.com|❌|❓|
 |https://bluesky.migennes.org|✅|✅|
-|https://bsky.meis.space|✅|✅|
+|https://bsky.meis.space|❌|❓|
 |https://bs.raccoon-city.at|❌|❓|
 |https://belana.epicgreen.nl|❌|❓|
 |https://cjdd.me|❌|❓|
@@ -431,7 +431,7 @@ Last Updated: 2024-01-12T12:51:19.605522
 |https://blugrisbi.es|✅|✅|
 |https://bsky.maxkeb.fr|❌|❓|
 |https://bsky.adrianrey.dev|❌|❓|
-|https://bsky.action0.com|❌|❓|
+|https://bsky.action0.com|✅|✅|
 |https://bsky.stefan-erbe.com|❌|❓|
 |https://web4k.eu|❌|❓|
 |https://bluesky.benradford.me|❌|❓|
@@ -451,7 +451,7 @@ Last Updated: 2024-01-12T12:51:19.605522
 |https://pds.timburga.social|✅|✅|
 |https://bs.foss.gay|❌|❓|
 |https://bsky.fracergu.dev|❌|❓|
-|https://briiz.com|✅|✅|
+|https://briiz.com|❌|❓|
 |https://uat.lol|✅|✅|
 |https://bsky.c-onner.de|❌|❓|
 |https://americocarelli.com.br|❌|❓|
@@ -490,7 +490,7 @@ Last Updated: 2024-01-12T12:51:19.605522
 |https://bluesky.cyberveins.eu|✅|✅|
 |https://home.cyberveins.eu|❌|❓|
 |https://bsky.social|✅|✅|
-|https://cultured.black|❌|❓|
+|https://cultured.black|✅|✅|
 |https://thekayou.com|❌|❓|
 |https://sky.manikineko.nl|❌|❓|
 |https://maneki-neko.nl|❌|❓|
