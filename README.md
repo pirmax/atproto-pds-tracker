@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-12T12:35:59.593757
+Last Updated: 2024-01-12T12:51:19.605522
 
 ## **plc.directory**
 
@@ -431,7 +431,7 @@ Last Updated: 2024-01-12T12:35:59.593757
 |https://blugrisbi.es|✅|✅|
 |https://bsky.maxkeb.fr|❌|❓|
 |https://bsky.adrianrey.dev|❌|❓|
-|https://bsky.action0.com|✅|✅|
+|https://bsky.action0.com|❌|❓|
 |https://bsky.stefan-erbe.com|❌|❓|
 |https://web4k.eu|❌|❓|
 |https://bluesky.benradford.me|❌|❓|
@@ -490,7 +490,7 @@ Last Updated: 2024-01-12T12:35:59.593757
 |https://bluesky.cyberveins.eu|✅|✅|
 |https://home.cyberveins.eu|❌|❓|
 |https://bsky.social|✅|✅|
-|https://cultured.black|✅|✅|
+|https://cultured.black|❌|❓|
 |https://thekayou.com|❌|❓|
 |https://sky.manikineko.nl|❌|❓|
 |https://maneki-neko.nl|❌|❓|
