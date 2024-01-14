@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-14T17:48:56.650733
+Last Updated: 2024-01-14T18:06:07.667542
 
 ## **plc.directory**
 
@@ -324,7 +324,7 @@ Last Updated: 2024-01-14T17:48:56.650733
 |https://bluesky.jayp.io|❌|❓|
 |https://this-is-epic.space|✅|✅|
 |https://tsuki.social|❌|❓|
-|https://x-mweya.duckdns.org|✅|✅|
+|https://x-mweya.duckdns.org|❌|❓|
 |https://fraudulent.link|❌|❓|
 |https://utatane.blue|❌|❓|
 |https://b.browsersource.dev|❌|❓|
@@ -455,7 +455,7 @@ Last Updated: 2024-01-14T17:48:56.650733
 |https://uat.lol|✅|✅|
 |https://bsky.c-onner.de|❌|❓|
 |https://americocarelli.com.br|❌|❓|
-|https://derpzilla.net|❌|❓|
+|https://derpzilla.net|✅|✅|
 |https://musicproduction.world|❌|❓|
 |https://corgi.dance|✅|✅|
 |https://atproto.stereosteve.com|❌|❓|
