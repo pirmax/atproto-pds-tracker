@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-16T11:26:21.221886
+Last Updated: 2024-01-16T11:43:12.682616
 
 ## **plc.directory**
 
@@ -375,7 +375,7 @@ Last Updated: 2024-01-16T11:26:21.221886
 |https://mediumeffortmedia.co.uk|❌|❓|
 |https://bluesky.p82.it|❌|❓|
 |https://aozora.yockow.jp|✅|✅|
-|https://econcom.org|❌|❓|
+|https://econcom.org|✅|✅|
 |https://pds.entreco.org|❌|❓|
 |https://himmelblau.bigbl4ckw0lf.de|❌|❓|
 |https://bsky.bigbl4ckw0lf.de|✅|✅|
@@ -446,7 +446,7 @@ Last Updated: 2024-01-16T11:26:21.221886
 |https://bsky.mrsquaare.fr|❌|❓|
 |https://montpeyroux.social|✅|✅|
 |https://blueskysweden.se|❌|❓|
-|https://pds.home.rjp.is|✅|✅|
+|https://pds.home.rjp.is|❌|❓|
 |https://posting.expert|❌|❓|
 |https://pds.timburga.social|✅|✅|
 |https://bs.foss.gay|❌|❓|
