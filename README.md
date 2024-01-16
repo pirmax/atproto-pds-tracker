@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-16T11:43:12.682616
+Last Updated: 2024-01-16T11:59:53.450449
 
 ## **plc.directory**
 
@@ -333,7 +333,7 @@ Last Updated: 2024-01-16T11:43:12.682616
 |https://atptest.lep.wtf|✅|✅|
 |https://galaxy.neo7.kim|❌|❓|
 |https://broad.re|❌|❓|
-|https://fed.brid.gy/|✅|✅|
+|https://fed.brid.gy/|❌|❓|
 |https://bsky.kwilium.xyz|❌|❓|
 |https://sky.hideside.de|✅|✅|
 |https://pds.jpco.io|❌|❓|
@@ -446,7 +446,7 @@ Last Updated: 2024-01-16T11:43:12.682616
 |https://bsky.mrsquaare.fr|❌|❓|
 |https://montpeyroux.social|✅|✅|
 |https://blueskysweden.se|❌|❓|
-|https://pds.home.rjp.is|❌|❓|
+|https://pds.home.rjp.is|✅|✅|
 |https://posting.expert|❌|❓|
 |https://pds.timburga.social|✅|✅|
 |https://bs.foss.gay|❌|❓|
@@ -457,7 +457,7 @@ Last Updated: 2024-01-16T11:43:12.682616
 |https://americocarelli.com.br|❌|❓|
 |https://derpzilla.net|✅|✅|
 |https://musicproduction.world|❌|❓|
-|https://corgi.dance|✅|✅|
+|https://corgi.dance|❌|❓|
 |https://atproto.stereosteve.com|❌|❓|
 |https://casadeladra.ddnss.de|❌|❓|
 |https://blues.psionprotocol.com|❌|❓|
