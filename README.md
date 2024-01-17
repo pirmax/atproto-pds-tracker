@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-17T08:48:02.551609
+Last Updated: 2024-01-17T09:04:17.307362
 
 ## **plc.directory**
 
@@ -32,7 +32,7 @@ Last Updated: 2024-01-17T08:48:02.551609
 |https://morel.us-east.host.bsky.network|✅|✅|
 |https://bsky.mrsquaare.fr|❌|❓|
 |https://puffball.us-east.host.bsky.network|✅|✅|
-|https://inkcap.us-east.host.bsky.network|✅|✅|
+|https://inkcap.us-east.host.bsky.network|❌|❓|
 |https://oyster.us-east.host.bsky.network|✅|✅|
 |https://enoki.us-east.host.bsky.network|✅|✅|
 |https://porcini.us-east.host.bsky.network|✅|✅|
