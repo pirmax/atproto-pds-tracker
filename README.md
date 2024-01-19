@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-19T11:18:25.380345
+Last Updated: 2024-01-19T11:28:23.514183
 
 ## **plc.directory**
 
@@ -291,7 +291,7 @@ Last Updated: 2024-01-19T11:18:25.380345
 |https://bum.ninja|✅|✅|
 |https://purplesky.sesilaso.com|❌|❓|
 |https://bsky.davidfernandez.xyz|❌|❓|
-|https://vengeful.eu|✅|✅|
+|https://vengeful.eu|❌|❓|
 |https://draconic.host|❌|❓|
 |https://bsky.social-hell.uk|❌|❓|
 |http://localhost:8080/|❌|❓|
@@ -431,7 +431,7 @@ Last Updated: 2024-01-19T11:18:25.380345
 |https://blugrisbi.es|✅|✅|
 |https://bsky.maxkeb.fr|❌|❓|
 |https://bsky.adrianrey.dev|❌|❓|
-|https://bsky.action0.com|❌|❓|
+|https://bsky.action0.com|✅|✅|
 |https://bsky.stefan-erbe.com|❌|❓|
 |https://web4k.eu|❌|❓|
 |https://bluesky.benradford.me|❌|❓|
@@ -446,7 +446,7 @@ Last Updated: 2024-01-19T11:18:25.380345
 |https://bsky.mrsquaare.fr|❌|❓|
 |https://montpeyroux.social|✅|✅|
 |https://blueskysweden.se|❌|❓|
-|https://pds.home.rjp.is|❌|❓|
+|https://pds.home.rjp.is|✅|✅|
 |https://posting.expert|❌|❓|
 |https://pds.timburga.social|✅|✅|
 |https://bs.foss.gay|❌|❓|
