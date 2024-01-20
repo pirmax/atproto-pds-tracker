@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-20T05:33:40.476827
+Last Updated: 2024-01-20T05:50:01.697653
 
 ## **plc.directory**
 
@@ -296,7 +296,7 @@ Last Updated: 2024-01-20T05:33:40.476827
 |https://bsky.social-hell.uk|❌|❓|
 |http://localhost:8080/|❌|❓|
 |https://pds.staging.bteklabs.com|❌|❓|
-|https://afternooncurry.com|✅|✅|
+|https://afternooncurry.com|❌|❓|
 |https://bsky.whoverse.nexus|❌|❓|
 |https://zima.ge|✅|✅|
 |https://bsk.lukas-diekmann.de|❌|❓|
@@ -359,7 +359,7 @@ Last Updated: 2024-01-20T05:33:40.476827
 |https://due-it.com|❌|❓|
 |https://blue.cb-homelab.de|❌|❓|
 |https://x.kex.biz|❌|❓|
-|https://kiichigo.cloud|✅|✅|
+|https://kiichigo.cloud|❌|❓|
 |https://atsandbox.kyriog.fr|❌|❓|
 |https://bsky-sandbox.amith.sbs|❌|❓|
 |https://bskysbox.amith.sbs|❌|❓|
@@ -398,7 +398,7 @@ Last Updated: 2024-01-20T05:33:40.476827
 |https://pds.ssauer.co.za|❌|❓|
 |https://furartist.art|❌|❓|
 |https://void.zct-mrl.com|❌|❓|
-|https://bluesky.migennes.org|✅|✅|
+|https://bluesky.migennes.org|❌|❓|
 |https://bsky.meis.space|❌|❓|
 |https://bs.raccoon-city.at|❌|❓|
 |https://belana.epicgreen.nl|❌|❓|
@@ -436,7 +436,7 @@ Last Updated: 2024-01-20T05:33:40.476827
 |https://web4k.eu|❌|❓|
 |https://bluesky.benradford.me|❌|❓|
 |https://bsky.softwhere.ca|❌|❓|
-|https://wkswan.com|❌|❓|
+|https://wkswan.com|✅|✅|
 |https://aituns.com|❌|❓|
 |https://italiansky.mooo.com|✅|✅|
 |https://sky.n3otrax.fr|❌|❓|
