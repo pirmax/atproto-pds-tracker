@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-20T06:39:14.467456
+Last Updated: 2024-01-20T06:47:39.700624
 
 ## **plc.directory**
 
@@ -324,7 +324,7 @@ Last Updated: 2024-01-20T06:39:14.467456
 |https://bluesky.jayp.io|❌|❓|
 |https://this-is-epic.space|✅|✅|
 |https://tsuki.social|❌|❓|
-|https://x-mweya.duckdns.org|✅|✅|
+|https://x-mweya.duckdns.org|❌|❓|
 |https://fraudulent.link|❌|❓|
 |https://utatane.blue|❌|❓|
 |https://b.browsersource.dev|❌|❓|
@@ -349,7 +349,7 @@ Last Updated: 2024-01-20T06:39:14.467456
 |https://bingerin.de|❌|❓|
 |https://blueskyde.cloud|❌|❓|
 |https://bsky.primeapps.net|✅|✅|
-|https://fed.brid.gy|✅|✅|
+|https://fed.brid.gy|❌|❓|
 |https://mdthh.de|❌|❓|
 |https://equus.quest|❌|❓|
 |https://rebroad.com|✅|✅|
@@ -398,7 +398,7 @@ Last Updated: 2024-01-20T06:39:14.467456
 |https://pds.ssauer.co.za|❌|❓|
 |https://furartist.art|❌|❓|
 |https://void.zct-mrl.com|❌|❓|
-|https://bluesky.migennes.org|❌|❓|
+|https://bluesky.migennes.org|✅|✅|
 |https://bsky.meis.space|❌|❓|
 |https://bs.raccoon-city.at|❌|❓|
 |https://belana.epicgreen.nl|❌|❓|
@@ -446,7 +446,7 @@ Last Updated: 2024-01-20T06:39:14.467456
 |https://bsky.mrsquaare.fr|❌|❓|
 |https://montpeyroux.social|✅|✅|
 |https://blueskysweden.se|❌|❓|
-|https://pds.home.rjp.is|❌|❓|
+|https://pds.home.rjp.is|✅|✅|
 |https://posting.expert|❌|❓|
 |https://pds.timburga.social|✅|✅|
 |https://bs.foss.gay|❌|❓|
