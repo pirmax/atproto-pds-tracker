@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-20T23:11:40.181880
+Last Updated: 2024-01-20T23:22:54.819070
 
 ## **plc.directory**
 
@@ -73,7 +73,7 @@ Last Updated: 2024-01-20T23:11:40.181880
 |https://take2.dholms.xyz|❌|❓|
 |https://pds.dev.retr0.id|❌|❓|
 |https://cloudcaine.thecubic.net|❌|❓|
-|https://hellthread.pro|❌|❓|
+|https://hellthread.pro|✅|✅|
 |https://bsky.pupbrained.xyz|❌|❓|
 |https://henshaw.org|✅|✅|
 |https://pds.canidae.systems|✅|✅|
@@ -354,7 +354,7 @@ Last Updated: 2024-01-20T23:11:40.181880
 |https://equus.quest|❌|❓|
 |https://rebroad.com|✅|✅|
 |https://pds.hazyville.com|❌|❓|
-|https://rent-a-shitstorm.eu|✅|✅|
+|https://rent-a-shitstorm.eu|❌|❓|
 |https://bskies.de|❌|❓|
 |https://due-it.com|❌|❓|
 |https://blue.cb-homelab.de|❌|❓|
@@ -446,7 +446,7 @@ Last Updated: 2024-01-20T23:11:40.181880
 |https://bsky.mrsquaare.fr|❌|❓|
 |https://montpeyroux.social|✅|✅|
 |https://blueskysweden.se|❌|❓|
-|https://pds.home.rjp.is|✅|✅|
+|https://pds.home.rjp.is|❌|❓|
 |https://posting.expert|❌|❓|
 |https://pds.timburga.social|✅|✅|
 |https://bs.foss.gay|❌|❓|
