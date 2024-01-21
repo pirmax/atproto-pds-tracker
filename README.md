@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-21T13:08:11.531111
+Last Updated: 2024-01-21T13:19:47.923045
 
 ## **plc.directory**
 
@@ -35,7 +35,7 @@ Last Updated: 2024-01-21T13:08:11.531111
 |https://inkcap.us-east.host.bsky.network|✅|✅|
 |https://oyster.us-east.host.bsky.network|✅|✅|
 |https://enoki.us-east.host.bsky.network|✅|✅|
-|https://porcini.us-east.host.bsky.network|❌|❓|
+|https://porcini.us-east.host.bsky.network|✅|✅|
 |https://shimeji.us-east.host.bsky.network|✅|✅|
 |https://amanita.us-east.host.bsky.network|✅|✅|
 |https://lionsmane.us-east.host.bsky.network|✅|✅|
@@ -324,7 +324,7 @@ Last Updated: 2024-01-21T13:08:11.531111
 |https://bluesky.jayp.io|❌|❓|
 |https://this-is-epic.space|✅|✅|
 |https://tsuki.social|❌|❓|
-|https://x-mweya.duckdns.org|✅|✅|
+|https://x-mweya.duckdns.org|❌|❓|
 |https://fraudulent.link|❌|❓|
 |https://utatane.blue|❌|❓|
 |https://b.browsersource.dev|❌|❓|
@@ -446,7 +446,7 @@ Last Updated: 2024-01-21T13:08:11.531111
 |https://bsky.mrsquaare.fr|❌|❓|
 |https://montpeyroux.social|✅|✅|
 |https://blueskysweden.se|❌|❓|
-|https://pds.home.rjp.is|❌|❓|
+|https://pds.home.rjp.is|✅|✅|
 |https://posting.expert|❌|❓|
 |https://pds.timburga.social|✅|✅|
 |https://bs.foss.gay|❌|❓|
@@ -473,7 +473,7 @@ Last Updated: 2024-01-21T13:08:11.531111
 |https://pdshosting.xyz|✅|✅|
 |https://bs.mymx.me|✅|✅|
 |https://harrmitchexp.serveo.net|❌|❓|
-|https://pds.y-force.info|✅|✅|
+|https://pds.y-force.info|❌|❓|
 |https://hexside.at|❌|❓|
 |https://bsky.wstrn.world|❌|❓|
 |https://bk.bitfyer.net|❌|❓|
