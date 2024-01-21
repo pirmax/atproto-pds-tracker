@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-21T23:07:48.890051
+Last Updated: 2024-01-21T23:19:03.019866
 
 ## **plc.directory**
 
@@ -97,7 +97,7 @@ Last Updated: 2024-01-21T23:07:48.890051
 |https://pds.insanemode.org|❌|❓|
 |https://bsky.asuna.dev|❌|❓|
 |https://pds-sb-1.goykasi.com|❌|❓|
-|https://bsky.pmj.rocks|❌|❓|
+|https://bsky.pmj.rocks|✅|✅|
 |https://kawaikute-gomen.com|❌|❓|
 |https://pds-sb-2.goykasi.com|❌|❓|
 |https://bs.bridgey.dev|❌|❓|
@@ -446,7 +446,7 @@ Last Updated: 2024-01-21T23:07:48.890051
 |https://bsky.mrsquaare.fr|❌|❓|
 |https://montpeyroux.social|✅|✅|
 |https://blueskysweden.se|❌|❓|
-|https://pds.home.rjp.is|❌|❓|
+|https://pds.home.rjp.is|✅|✅|
 |https://posting.expert|❌|❓|
 |https://pds.timburga.social|✅|✅|
 |https://bs.foss.gay|❌|❓|
