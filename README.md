@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-22T16:10:46.525791
+Last Updated: 2024-01-22T16:22:59.762903
 
 ## **plc.directory**
 
@@ -359,7 +359,7 @@ Last Updated: 2024-01-22T16:10:46.525791
 |https://due-it.com|❌|❓|
 |https://blue.cb-homelab.de|❌|❓|
 |https://x.kex.biz|❌|❓|
-|https://kiichigo.cloud|❌|❓|
+|https://kiichigo.cloud|✅|✅|
 |https://atsandbox.kyriog.fr|❌|❓|
 |https://bsky-sandbox.amith.sbs|❌|❓|
 |https://bskysbox.amith.sbs|❌|❓|
@@ -394,7 +394,7 @@ Last Updated: 2024-01-22T16:10:46.525791
 |https://nerdynate.io|❌|❓|
 |https://pds.vriska.dev|✅|✅|
 |https://matthews-kennington.com|✅|✅|
-|https://bs.jefferyho.cc|✅|✅|
+|https://bs.jefferyho.cc|❌|❓|
 |https://pds.ssauer.co.za|❌|❓|
 |https://furartist.art|❌|❓|
 |https://void.zct-mrl.com|✅|✅|
