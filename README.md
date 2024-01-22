@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-22T21:03:50.110402
+Last Updated: 2024-01-22T21:13:32.508246
 
 ## **plc.directory**
 
@@ -487,7 +487,7 @@ Last Updated: 2024-01-22T21:03:50.110402
 |https://vybihal.cz|❌|❓|
 |https://louis-c-novel.com|❌|❓|
 |https://sturmdev.com|❌|❓|
-|https://bluesky.cyberveins.eu|❌|❓|
+|https://bluesky.cyberveins.eu|✅|✅|
 |https://home.cyberveins.eu|❌|❓|
 |https://bsky.social|✅|✅|
 |https://cultured.black|✅|✅|
