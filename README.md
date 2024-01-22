@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-22T18:59:21.007821
+Last Updated: 2024-01-22T19:17:55.015043
 
 ## **plc.directory**
 
@@ -148,7 +148,7 @@ Last Updated: 2024-01-22T18:59:21.007821
 |https://zalupa.in.ua|❌|❓|
 |https://bluesky.formless.xyz|❌|❓|
 |https://mywaverly.com|❌|❓|
-|https://disbursement.center|❌|❓|
+|https://disbursement.center|✅|❌|
 |https://bsky-pds.dolciss.net|❌|❓|
 |https://sandbox.erechorse.com|❌|❓|
 |https://atp.mywaverly.com|❌|❓|
@@ -349,7 +349,7 @@ Last Updated: 2024-01-22T18:59:21.007821
 |https://bingerin.de|❌|❓|
 |https://blueskyde.cloud|❌|❓|
 |https://bsky.primeapps.net|✅|✅|
-|https://fed.brid.gy|✅|✅|
+|https://fed.brid.gy|❌|❓|
 |https://mdthh.de|❌|❓|
 |https://equus.quest|❌|❓|
 |https://rebroad.com|✅|✅|
@@ -487,7 +487,7 @@ Last Updated: 2024-01-22T18:59:21.007821
 |https://vybihal.cz|❌|❓|
 |https://louis-c-novel.com|❌|❓|
 |https://sturmdev.com|❌|❓|
-|https://bluesky.cyberveins.eu|✅|✅|
+|https://bluesky.cyberveins.eu|❌|❓|
 |https://home.cyberveins.eu|❌|❓|
 |https://bsky.social|✅|✅|
 |https://cultured.black|✅|✅|
