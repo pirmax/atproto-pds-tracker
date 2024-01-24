@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-24T06:57:00.494052
+Last Updated: 2024-01-24T07:16:03.328007
 
 ## **plc.directory**
 
@@ -316,7 +316,7 @@ Last Updated: 2024-01-24T06:57:00.494052
 |https://blacksky.app|✅|✅|
 |https://eper.tail3825e.ts.net|❌|❓|
 |http://localhost:2583|❌|❓|
-|https://bsk.carl0scheca.com|✅|✅|
+|https://bsk.carl0scheca.com|❌|❓|
 |https://thecoolsite.org|❌|❓|
 |https://bsky.zenti-im-zug.de|❌|❓|
 |https://bluesky.furryrefuge.com|❌|❓|
