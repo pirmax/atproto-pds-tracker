@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-24T18:08:29.183150
+Last Updated: 2024-01-24T18:19:18.262126
 
 ## **plc.directory**
 
@@ -275,7 +275,7 @@ Last Updated: 2024-01-24T18:08:29.183150
 |https://bsky.bark.lgbt|❌|❓|
 |https://furry.fail|❌|❓|
 |https://dprk.io|❌|❓|
-|https://socialch.at|✅|✅|
+|https://socialch.at|❌|❓|
 |https://balcony.social|❌|❓|
 |https://127.0.0.1:8080|❌|❓|
 |https://spice.computer|❌|❓|
@@ -446,7 +446,7 @@ Last Updated: 2024-01-24T18:08:29.183150
 |https://bsky.mrsquaare.fr|❌|❓|
 |https://montpeyroux.social|✅|✅|
 |https://blueskysweden.se|❌|❓|
-|https://pds.home.rjp.is|❌|❓|
+|https://pds.home.rjp.is|✅|✅|
 |https://posting.expert|❌|❓|
 |https://pds.timburga.social|✅|✅|
 |https://bs.foss.gay|❌|❓|
