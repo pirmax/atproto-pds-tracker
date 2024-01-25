@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-25T23:30:55.934232
+Last Updated: 2024-01-25T23:39:21.884103
 
 ## **plc.directory**
 
@@ -200,7 +200,7 @@ Last Updated: 2024-01-25T23:30:55.934232
 |https://spacefrog.dev|❌|❓|
 |https://chaocide.com|❌|❓|
 |https://bsky.smudge.dog|❌|❓|
-|https://bsky.jakebrough.io|❌|❓|
+|https://bsky.jakebrough.io|✅|✅|
 |https://protogen.world|❌|❓|
 |https://dev.skyport.me|❌|❓|
 |https://pds.tenshicorn.dog|✅|✅|
@@ -398,7 +398,7 @@ Last Updated: 2024-01-25T23:30:55.934232
 |https://pds.ssauer.co.za|❌|❓|
 |https://furartist.art|❌|❓|
 |https://void.zct-mrl.com|✅|✅|
-|https://bluesky.migennes.org|✅|✅|
+|https://bluesky.migennes.org|❌|❓|
 |https://bsky.meis.space|❌|❓|
 |https://bs.raccoon-city.at|❌|❓|
 |https://belana.epicgreen.nl|❌|❓|
