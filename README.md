@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-26T01:45:30.943732
+Last Updated: 2024-01-26T02:07:00.313093
 
 ## **plc.directory**
 
@@ -205,7 +205,7 @@ Last Updated: 2024-01-26T01:45:30.943732
 |https://dev.skyport.me|❌|❓|
 |https://pds.tenshicorn.dog|✅|✅|
 |https://gluon.rkevin.dev|❌|❓|
-|https://tenshicorn.dog|❌|❓|
+|https://tenshicorn.dog|✅|✅|
 |https://pds.bdev.loves.reisen|❌|❓|
 |https://d-twitter.com|❌|❓|
 |https://furry.nexus|✅|✅|
@@ -333,7 +333,7 @@ Last Updated: 2024-01-26T01:45:30.943732
 |https://atptest.lep.wtf|✅|✅|
 |https://galaxy.neo7.kim|❌|❓|
 |https://broad.re|❌|❓|
-|https://fed.brid.gy/|✅|✅|
+|https://fed.brid.gy/|❌|❓|
 |https://bsky.kwilium.xyz|❌|❓|
 |https://sky.hideside.de|✅|✅|
 |https://pds.jpco.io|❌|❓|
@@ -349,7 +349,7 @@ Last Updated: 2024-01-26T01:45:30.943732
 |https://bingerin.de|❌|❓|
 |https://blueskyde.cloud|❌|❓|
 |https://bsky.primeapps.net|✅|✅|
-|https://fed.brid.gy|❌|❓|
+|https://fed.brid.gy|✅|✅|
 |https://mdthh.de|❌|❓|
 |https://equus.quest|❌|❓|
 |https://rebroad.com|✅|✅|
