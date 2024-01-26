@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-26T18:22:25.379160
+Last Updated: 2024-01-26T18:33:04.748476
 
 ## **plc.directory**
 
@@ -81,7 +81,7 @@ Last Updated: 2024-01-26T18:22:25.379160
 |https://bsky.flicknow.xyz|❌|❓|
 |https://thomasjerome.com|❌|❓|
 |https://sky.lalafell.org|✅|✅|
-|https://pds.ubanis.mydns.jp|✅|✅|
+|https://pds.ubanis.mydns.jp|❌|❓|
 |https://pds.bsky.sh|❌|❓|
 |https://tjs-pds-sandbox.shop|❌|❓|
 |http://localhost:3000|❌|❓|
@@ -446,7 +446,7 @@ Last Updated: 2024-01-26T18:22:25.379160
 |https://bsky.mrsquaare.fr|❌|❓|
 |https://montpeyroux.social|✅|✅|
 |https://blueskysweden.se|❌|❓|
-|https://pds.home.rjp.is|❌|❓|
+|https://pds.home.rjp.is|✅|✅|
 |https://posting.expert|❌|❓|
 |https://pds.timburga.social|✅|✅|
 |https://bs.foss.gay|❌|❓|
@@ -455,7 +455,7 @@ Last Updated: 2024-01-26T18:22:25.379160
 |https://uat.lol|✅|✅|
 |https://bsky.c-onner.de|❌|❓|
 |https://americocarelli.com.br|❌|❓|
-|https://derpzilla.net|❌|❓|
+|https://derpzilla.net|✅|✅|
 |https://musicproduction.world|❌|❓|
 |https://corgi.dance|✅|✅|
 |https://atproto.stereosteve.com|❌|❓|
