@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-26T07:51:15.305200
+Last Updated: 2024-01-26T08:07:50.969029
 
 ## **plc.directory**
 
@@ -154,7 +154,7 @@ Last Updated: 2024-01-26T07:51:15.305200
 |https://atp.mywaverly.com|❌|❓|
 |https://pedrorbc.com|❌|❓|
 |https://bsky.sergem.net|❌|❓|
-|https://dev.sysad.ninja|❌|❓|
+|https://dev.sysad.ninja|✅|✅|
 |https://bs.omellko.space|❌|❓|
 |https://tezzi.com|❌|❓|
 |https://bsky.pedrorbc.com|❌|❓|
@@ -333,7 +333,7 @@ Last Updated: 2024-01-26T07:51:15.305200
 |https://atptest.lep.wtf|✅|✅|
 |https://galaxy.neo7.kim|❌|❓|
 |https://broad.re|❌|❓|
-|https://fed.brid.gy/|❌|❓|
+|https://fed.brid.gy/|✅|✅|
 |https://bsky.kwilium.xyz|❌|❓|
 |https://sky.hideside.de|✅|✅|
 |https://pds.jpco.io|❌|❓|
