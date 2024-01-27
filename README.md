@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-26T23:45:12.915095
+Last Updated: 2024-01-27T00:01:55.425983
 
 ## **plc.directory**
 
@@ -55,7 +55,7 @@ Last Updated: 2024-01-26T23:45:12.915095
 |https://7mv2c2fw.534.bsky.social|❌|❓|
 |https://zj7ao3i5k.534.bsky.social|❌|❓|
 |https://no3sbfnkh.534.bsky.social|❌|❓|
-|https://hedgehog.us-west.host.bsky.network|❌|❓|
+|https://hedgehog.us-west.host.bsky.network|✅|✅|
 |https://534.bsky.social|✅|✅|
 
 ## **plc.bsky-sandbox.dev**
@@ -296,7 +296,7 @@ Last Updated: 2024-01-26T23:45:12.915095
 |https://bsky.social-hell.uk|❌|❓|
 |http://localhost:8080/|❌|❓|
 |https://pds.staging.bteklabs.com|❌|❓|
-|https://afternooncurry.com|❌|❓|
+|https://afternooncurry.com|✅|✅|
 |https://bsky.whoverse.nexus|❌|❓|
 |https://zima.ge|✅|✅|
 |https://bsk.lukas-diekmann.de|❌|❓|
@@ -324,7 +324,7 @@ Last Updated: 2024-01-26T23:45:12.915095
 |https://bluesky.jayp.io|❌|❓|
 |https://this-is-epic.space|✅|✅|
 |https://tsuki.social|❌|❓|
-|https://x-mweya.duckdns.org|❌|❓|
+|https://x-mweya.duckdns.org|✅|✅|
 |https://fraudulent.link|❌|❓|
 |https://utatane.blue|❌|❓|
 |https://b.browsersource.dev|❌|❓|
