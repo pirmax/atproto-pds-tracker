@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-27T17:47:20.112939
+Last Updated: 2024-01-27T18:03:04.627194
 
 ## **plc.directory**
 
@@ -73,7 +73,7 @@ Last Updated: 2024-01-27T17:47:20.112939
 |https://take2.dholms.xyz|❌|❓|
 |https://pds.dev.retr0.id|❌|❓|
 |https://cloudcaine.thecubic.net|❌|❓|
-|https://hellthread.pro|✅|✅|
+|https://hellthread.pro|❌|❓|
 |https://bsky.pupbrained.xyz|❌|❓|
 |https://henshaw.org|❌|❓|
 |https://pds.canidae.systems|✅|✅|
@@ -333,7 +333,7 @@ Last Updated: 2024-01-27T17:47:20.112939
 |https://atptest.lep.wtf|✅|✅|
 |https://galaxy.neo7.kim|❌|❓|
 |https://broad.re|❌|❓|
-|https://fed.brid.gy/|❌|❓|
+|https://fed.brid.gy/|✅|✅|
 |https://bsky.kwilium.xyz|❌|❓|
 |https://sky.hideside.de|✅|✅|
 |https://pds.jpco.io|❌|❓|
@@ -409,7 +409,7 @@ Last Updated: 2024-01-27T17:47:20.112939
 |https://bsky.riversideleft.org.uk|✅|✅|
 |https://siriussocial.de|✅|✅|
 |https://bsky.kemono.in.th|❌|❓|
-|https://bsky.ponscele.fr|❌|❓|
+|https://bsky.ponscele.fr|✅|✅|
 |https://bluesky.animint.fr|✅|✅|
 |https://sardine.pics|❌|❓|
 |https://baisodro.me|✅|✅|
@@ -441,7 +441,7 @@ Last Updated: 2024-01-27T17:47:20.112939
 |https://italiansky.mooo.com|✅|✅|
 |https://sky.n3otrax.fr|❌|❓|
 |https://bsky.powerg.love|✅|✅|
-|https://atproto.brid.gy/|❌|❓|
+|https://atproto.brid.gy/|✅|✅|
 |https://abluehope.com|❌|❓|
 |https://bsky.mrsquaare.fr|❌|❓|
 |https://montpeyroux.social|✅|✅|
