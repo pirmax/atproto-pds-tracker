@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-27T13:15:47.492847
+Last Updated: 2024-01-27T13:26:15.325650
 
 ## **plc.directory**
 
@@ -154,7 +154,7 @@ Last Updated: 2024-01-27T13:15:47.492847
 |https://atp.mywaverly.com|❌|❓|
 |https://pedrorbc.com|❌|❓|
 |https://bsky.sergem.net|❌|❓|
-|https://dev.sysad.ninja|✅|✅|
+|https://dev.sysad.ninja|❌|❓|
 |https://bs.omellko.space|❌|❓|
 |https://tezzi.com|❌|❓|
 |https://bsky.pedrorbc.com|❌|❓|
@@ -392,7 +392,7 @@ Last Updated: 2024-01-27T13:15:47.492847
 |https://journalist.social|❌|❓|
 |https://creaton.social|✅|✅|
 |https://nerdynate.io|❌|❓|
-|https://pds.vriska.dev|❌|❓|
+|https://pds.vriska.dev|✅|✅|
 |https://matthews-kennington.com|✅|✅|
 |https://bs.jefferyho.cc|✅|✅|
 |https://pds.ssauer.co.za|❌|❓|
