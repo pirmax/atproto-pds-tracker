@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-27T20:44:52.150662
+Last Updated: 2024-01-27T21:01:17.946610
 
 ## **plc.directory**
 
@@ -441,7 +441,7 @@ Last Updated: 2024-01-27T20:44:52.150662
 |https://italiansky.mooo.com|✅|✅|
 |https://sky.n3otrax.fr|❌|❓|
 |https://bsky.powerg.love|✅|✅|
-|https://atproto.brid.gy/|✅|✅|
+|https://atproto.brid.gy/|❌|❓|
 |https://abluehope.com|❌|❓|
 |https://bsky.mrsquaare.fr|❌|❓|
 |https://montpeyroux.social|✅|✅|
