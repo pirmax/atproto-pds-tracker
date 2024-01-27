@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-27T14:18:32.144585
+Last Updated: 2024-01-27T14:28:58.549313
 
 ## **plc.directory**
 
@@ -73,7 +73,7 @@ Last Updated: 2024-01-27T14:18:32.144585
 |https://take2.dholms.xyz|❌|❓|
 |https://pds.dev.retr0.id|❌|❓|
 |https://cloudcaine.thecubic.net|❌|❓|
-|https://hellthread.pro|❌|❓|
+|https://hellthread.pro|✅|✅|
 |https://bsky.pupbrained.xyz|❌|❓|
 |https://henshaw.org|❌|❓|
 |https://pds.canidae.systems|✅|✅|
@@ -441,7 +441,7 @@ Last Updated: 2024-01-27T14:18:32.144585
 |https://italiansky.mooo.com|✅|✅|
 |https://sky.n3otrax.fr|❌|❓|
 |https://bsky.powerg.love|✅|✅|
-|https://atproto.brid.gy/|✅|✅|
+|https://atproto.brid.gy/|❌|❓|
 |https://abluehope.com|❌|❓|
 |https://bsky.mrsquaare.fr|❌|❓|
 |https://montpeyroux.social|✅|✅|
