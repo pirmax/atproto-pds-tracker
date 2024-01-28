@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-28T11:44:32.519771
+Last Updated: 2024-01-28T11:53:34.443643
 
 ## **plc.directory**
 
@@ -324,7 +324,7 @@ Last Updated: 2024-01-28T11:44:32.519771
 |https://bluesky.jayp.io|❌|❓|
 |https://this-is-epic.space|✅|✅|
 |https://tsuki.social|❌|❓|
-|https://x-mweya.duckdns.org|✅|✅|
+|https://x-mweya.duckdns.org|❌|❓|
 |https://fraudulent.link|❌|❓|
 |https://utatane.blue|❌|❓|
 |https://b.browsersource.dev|❌|❓|
@@ -398,7 +398,7 @@ Last Updated: 2024-01-28T11:44:32.519771
 |https://pds.ssauer.co.za|❌|❓|
 |https://furartist.art|❌|❓|
 |https://void.zct-mrl.com|✅|✅|
-|https://bluesky.migennes.org|❌|❓|
+|https://bluesky.migennes.org|✅|✅|
 |https://bsky.meis.space|❌|❓|
 |https://bs.raccoon-city.at|❌|❓|
 |https://belana.epicgreen.nl|❌|❓|
@@ -440,7 +440,7 @@ Last Updated: 2024-01-28T11:44:32.519771
 |https://aituns.com|❌|❓|
 |https://italiansky.mooo.com|✅|✅|
 |https://sky.n3otrax.fr|❌|❓|
-|https://bsky.powerg.love|✅|✅|
+|https://bsky.powerg.love|❌|❓|
 |https://atproto.brid.gy/|✅|✅|
 |https://abluehope.com|❌|❓|
 |https://bsky.mrsquaare.fr|❌|❓|
