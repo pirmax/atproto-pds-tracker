@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-28T05:05:55.683062
+Last Updated: 2024-01-28T05:16:43.287403
 
 ## **plc.directory**
 
@@ -384,7 +384,7 @@ Last Updated: 2024-01-28T05:05:55.683062
 |http://localhost:12025|❌|❓|
 |https://b.schroedingerscat.org|✅|✅|
 |https://bskysandbox.edavis.dev|❌|❓|
-|https://social.derg.fr|❌|❓|
+|https://social.derg.fr|✅|✅|
 |https://hug.mx|❌|❓|
 |https://bsky.zoeyvid.de|❌|❓|
 |https://maddesjg.eu|❌|❓|
@@ -440,7 +440,7 @@ Last Updated: 2024-01-28T05:05:55.683062
 |https://aituns.com|❌|❓|
 |https://italiansky.mooo.com|✅|✅|
 |https://sky.n3otrax.fr|❌|❓|
-|https://bsky.powerg.love|❌|❓|
+|https://bsky.powerg.love|✅|✅|
 |https://atproto.brid.gy/|✅|✅|
 |https://abluehope.com|❌|❓|
 |https://bsky.mrsquaare.fr|❌|❓|
