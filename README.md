@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-30T08:56:47.446932
+Last Updated: 2024-01-30T09:14:42.624669
 
 ## **plc.directory**
 
@@ -205,7 +205,7 @@ Last Updated: 2024-01-30T08:56:47.446932
 |https://dev.skyport.me|❌|❓|
 |https://pds.tenshicorn.dog|✅|✅|
 |https://gluon.rkevin.dev|❌|❓|
-|https://tenshicorn.dog|✅|✅|
+|https://tenshicorn.dog|❌|❓|
 |https://pds.bdev.loves.reisen|❌|❓|
 |https://d-twitter.com|❌|❓|
 |https://furry.nexus|✅|✅|
@@ -349,7 +349,7 @@ Last Updated: 2024-01-30T08:56:47.446932
 |https://bingerin.de|❌|❓|
 |https://blueskyde.cloud|❌|❓|
 |https://bsky.primeapps.net|✅|✅|
-|https://fed.brid.gy|❌|❓|
+|https://fed.brid.gy|✅|✅|
 |https://mdthh.de|❌|❓|
 |https://equus.quest|❌|❓|
 |https://rebroad.com|✅|✅|
@@ -490,7 +490,7 @@ Last Updated: 2024-01-30T08:56:47.446932
 |https://bluesky.cyberveins.eu|❌|❓|
 |https://home.cyberveins.eu|❌|❓|
 |https://bsky.social|✅|✅|
-|https://cultured.black|❌|❓|
+|https://cultured.black|✅|✅|
 |https://thekayou.com|❌|❓|
 |https://sky.manikineko.nl|❌|❓|
 |https://maneki-neko.nl|❌|❓|
