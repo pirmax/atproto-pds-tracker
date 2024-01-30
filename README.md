@@ -1,13 +1,13 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-30T10:56:36.418303
+Last Updated: 2024-01-30T11:14:41.831747
 
 ## **plc.directory**
 
 |PDS Endpoint|Active|Invite Code Required|
 |---|:---:|:---:|
 |https://bsky.social|✅|✅|
-|https://boobee.blue|✅|✅|
+|https://boobee.blue|❌|❓|
 |https://redocean.one|❌|❓|
 |https://uwu|❌|❓|
 |https://bluesky.nokotaro.com|❌|❓|
@@ -312,7 +312,7 @@ Last Updated: 2024-01-30T10:56:36.418303
 |https://pds.jaz.sh|✅|✅|
 |https://atproto.eralyon.net|✅|✅|
 |http://127.0.0.1:8080|❌|❓|
-|https://ketamine.dog|❌|❓|
+|https://ketamine.dog|✅|✅|
 |https://blacksky.app|✅|✅|
 |https://eper.tail3825e.ts.net|❌|❓|
 |http://localhost:2583|❌|❓|
