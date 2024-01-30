@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-30T05:35:15.299539
+Last Updated: 2024-01-30T05:43:51.395564
 
 ## **plc.directory**
 
@@ -73,7 +73,7 @@ Last Updated: 2024-01-30T05:35:15.299539
 |https://take2.dholms.xyz|❌|❓|
 |https://pds.dev.retr0.id|❌|❓|
 |https://cloudcaine.thecubic.net|❌|❓|
-|https://hellthread.pro|❌|❓|
+|https://hellthread.pro|✅|✅|
 |https://bsky.pupbrained.xyz|❌|❓|
 |https://henshaw.org|❌|❓|
 |https://pds.canidae.systems|✅|✅|
@@ -324,7 +324,7 @@ Last Updated: 2024-01-30T05:35:15.299539
 |https://bluesky.jayp.io|❌|❓|
 |https://this-is-epic.space|✅|✅|
 |https://tsuki.social|❌|❓|
-|https://x-mweya.duckdns.org|✅|✅|
+|https://x-mweya.duckdns.org|❌|❓|
 |https://fraudulent.link|❌|❓|
 |https://utatane.blue|❌|❓|
 |https://b.browsersource.dev|❌|❓|
@@ -448,7 +448,7 @@ Last Updated: 2024-01-30T05:35:15.299539
 |https://blueskysweden.se|❌|❓|
 |https://pds.home.rjp.is|✅|✅|
 |https://posting.expert|❌|❓|
-|https://pds.timburga.social|✅|✅|
+|https://pds.timburga.social|❌|❓|
 |https://bs.foss.gay|❌|❓|
 |https://bsky.fracergu.dev|❌|❓|
 |https://briiz.com|❌|❓|
