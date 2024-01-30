@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-30T06:33:05.586037
+Last Updated: 2024-01-30T06:49:37.348513
 
 ## **plc.directory**
 
@@ -312,11 +312,11 @@ Last Updated: 2024-01-30T06:33:05.586037
 |https://pds.jaz.sh|✅|✅|
 |https://atproto.eralyon.net|✅|✅|
 |http://127.0.0.1:8080|❌|❓|
-|https://ketamine.dog|❌|❓|
+|https://ketamine.dog|✅|✅|
 |https://blacksky.app|✅|✅|
 |https://eper.tail3825e.ts.net|❌|❓|
 |http://localhost:2583|❌|❓|
-|https://bsk.carl0scheca.com|❌|❓|
+|https://bsk.carl0scheca.com|✅|✅|
 |https://thecoolsite.org|❌|❓|
 |https://bsky.zenti-im-zug.de|❌|❓|
 |https://bluesky.furryrefuge.com|❌|❓|
@@ -333,7 +333,7 @@ Last Updated: 2024-01-30T06:33:05.586037
 |https://atptest.lep.wtf|✅|✅|
 |https://galaxy.neo7.kim|❌|❓|
 |https://broad.re|❌|❓|
-|https://fed.brid.gy/|❌|❓|
+|https://fed.brid.gy/|✅|✅|
 |https://bsky.kwilium.xyz|❌|❓|
 |https://sky.hideside.de|✅|✅|
 |https://pds.jpco.io|❌|❓|
