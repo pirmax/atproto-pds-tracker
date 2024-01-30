@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-30T07:26:39.970699
+Last Updated: 2024-01-30T07:44:15.989112
 
 ## **plc.directory**
 
@@ -200,7 +200,7 @@ Last Updated: 2024-01-30T07:26:39.970699
 |https://spacefrog.dev|❌|❓|
 |https://chaocide.com|❌|❓|
 |https://bsky.smudge.dog|❌|❓|
-|https://bsky.jakebrough.io|✅|✅|
+|https://bsky.jakebrough.io|❌|❓|
 |https://protogen.world|❌|❓|
 |https://dev.skyport.me|❌|❓|
 |https://pds.tenshicorn.dog|✅|✅|
