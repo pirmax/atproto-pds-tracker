@@ -1,13 +1,13 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-30T11:14:41.831747
+Last Updated: 2024-01-30T11:24:03.194600
 
 ## **plc.directory**
 
 |PDS Endpoint|Active|Invite Code Required|
 |---|:---:|:---:|
 |https://bsky.social|✅|✅|
-|https://boobee.blue|❌|❓|
+|https://boobee.blue|✅|✅|
 |https://redocean.one|❌|❓|
 |https://uwu|❌|❓|
 |https://bluesky.nokotaro.com|❌|❓|
@@ -291,7 +291,7 @@ Last Updated: 2024-01-30T11:14:41.831747
 |https://bum.ninja|✅|✅|
 |https://purplesky.sesilaso.com|❌|❓|
 |https://bsky.davidfernandez.xyz|❌|❓|
-|https://vengeful.eu|❌|❓|
+|https://vengeful.eu|✅|✅|
 |https://draconic.host|❌|❓|
 |https://bsky.social-hell.uk|❌|❓|
 |http://localhost:8080/|❌|❓|
