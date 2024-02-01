@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-01T18:11:18.711040
+Last Updated: 2024-02-01T18:23:14.828576
 
 ## **plc.directory**
 
@@ -407,7 +407,7 @@ Last Updated: 2024-02-01T18:11:18.711040
 |https://bs.vrccl.life|❌|❓|
 |https://bsky.fursion.top|❌|❓|
 |https://bsky.riversideleft.org.uk|❌|❓|
-|https://siriussocial.de|✅|✅|
+|https://siriussocial.de|❌|❓|
 |https://bsky.kemono.in.th|❌|❓|
 |https://bsky.ponscele.fr|✅|✅|
 |https://bluesky.animint.fr|✅|✅|
@@ -441,7 +441,7 @@ Last Updated: 2024-02-01T18:11:18.711040
 |https://italiansky.mooo.com|✅|✅|
 |https://sky.n3otrax.fr|❌|❓|
 |https://bsky.powerg.love|✅|✅|
-|https://atproto.brid.gy/|✅|✅|
+|https://atproto.brid.gy/|❌|❓|
 |https://abluehope.com|❌|❓|
 |https://bsky.mrsquaare.fr|❌|❓|
 |https://montpeyroux.social|✅|✅|
