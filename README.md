@@ -1,13 +1,13 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-01T18:59:34.975293
+Last Updated: 2024-02-01T19:17:13.487153
 
 ## **plc.directory**
 
 |PDS Endpoint|Active|Invite Code Required|
 |---|:---:|:---:|
 |https://bsky.social|✅|✅|
-|https://boobee.blue|❌|❓|
+|https://boobee.blue|✅|✅|
 |https://redocean.one|❌|❓|
 |https://uwu|❌|❓|
 |https://bluesky.nokotaro.com|❌|❓|
