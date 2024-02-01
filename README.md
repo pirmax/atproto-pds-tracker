@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-01T22:33:29.060235
+Last Updated: 2024-02-01T22:50:17.319196
 
 ## **plc.directory**
 
@@ -24,7 +24,7 @@ Last Updated: 2024-02-01T22:33:29.060235
 |https://pds.example.com|❌|❓|
 |https://redocen.one|❌|❓|
 |http://localhost:12025|❌|❓|
-|https://rebroad.com|✅|✅|
+|https://rebroad.com|❌|❓|
 |https://pds.dev.retr0.id|❌|❓|
 |http://localhost:62912|❌|❓|
 |http://localhost:62923|❌|❓|
@@ -352,7 +352,7 @@ Last Updated: 2024-02-01T22:33:29.060235
 |https://fed.brid.gy|✅|✅|
 |https://mdthh.de|❌|❓|
 |https://equus.quest|❌|❓|
-|https://rebroad.com|✅|✅|
+|https://rebroad.com|❌|❓|
 |https://pds.hazyville.com|❌|❓|
 |https://rent-a-shitstorm.eu|✅|✅|
 |https://bskies.de|❌|❓|
@@ -446,7 +446,7 @@ Last Updated: 2024-02-01T22:33:29.060235
 |https://bsky.mrsquaare.fr|❌|❓|
 |https://montpeyroux.social|✅|✅|
 |https://blueskysweden.se|❌|❓|
-|https://pds.home.rjp.is|✅|✅|
+|https://pds.home.rjp.is|❌|❓|
 |https://posting.expert|❌|❓|
 |https://pds.timburga.social|✅|✅|
 |https://bs.foss.gay|❌|❓|
