@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-02T19:25:25.851439
+Last Updated: 2024-02-02T19:41:49.613814
 
 ## **plc.directory**
 
@@ -394,7 +394,7 @@ Last Updated: 2024-02-02T19:25:25.851439
 |https://nerdynate.io|❌|❓|
 |https://pds.vriska.dev|✅|✅|
 |https://matthews-kennington.com|✅|✅|
-|https://bs.jefferyho.cc|✅|✅|
+|https://bs.jefferyho.cc|❌|❓|
 |https://pds.ssauer.co.za|❌|❓|
 |https://furartist.art|❌|❓|
 |https://void.zct-mrl.com|✅|✅|
@@ -438,7 +438,7 @@ Last Updated: 2024-02-02T19:25:25.851439
 |https://bsky.softwhere.ca|❌|❓|
 |https://wkswan.com|✅|✅|
 |https://aituns.com|❌|❓|
-|https://italiansky.mooo.com|✅|✅|
+|https://italiansky.mooo.com|❌|❓|
 |https://sky.n3otrax.fr|❌|❓|
 |https://bsky.powerg.love|✅|✅|
 |https://atproto.brid.gy/|✅|✅|
