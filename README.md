@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-03T02:27:02.491570
+Last Updated: 2024-02-03T02:35:34.212254
 
 ## **plc.directory**
 
@@ -441,7 +441,7 @@ Last Updated: 2024-02-03T02:27:02.491570
 |https://italiansky.mooo.com|✅|✅|
 |https://sky.n3otrax.fr|❌|❓|
 |https://bsky.powerg.love|✅|✅|
-|https://atproto.brid.gy/|❌|❓|
+|https://atproto.brid.gy/|✅|✅|
 |https://abluehope.com|❌|❓|
 |https://bsky.mrsquaare.fr|❌|❓|
 |https://montpeyroux.social|✅|✅|
@@ -463,7 +463,7 @@ Last Updated: 2024-02-03T02:27:02.491570
 |https://blues.psionprotocol.com|❌|❓|
 |https://bs.corrigan.xyz|❌|❓|
 |https://pds.octelly.lol|❌|❓|
-|https://is.lalafell.fun|✅|✅|
+|https://is.lalafell.fun|❌|❓|
 |https://oyster.us-east.host.bsky.network|✅|✅|
 |https://bsky.retronerd.at|❌|❓|
 |https://bs.undreaming.org|❌|❓|
