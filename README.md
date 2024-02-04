@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-04T09:53:54.012075
+Last Updated: 2024-02-04T10:11:11.962937
 
 ## **plc.directory**
 
@@ -56,7 +56,7 @@ Last Updated: 2024-02-04T09:53:54.012075
 |https://zj7ao3i5k.534.bsky.social|❌|❓|
 |https://no3sbfnkh.534.bsky.social|❌|❓|
 |https://hedgehog.us-west.host.bsky.network|✅|✅|
-|https://534.bsky.social|❌|❓|
+|https://534.bsky.social|✅|✅|
 
 ## **plc.bsky-sandbox.dev**
 
@@ -103,7 +103,7 @@ Last Updated: 2024-02-04T09:53:54.012075
 |https://bs.bridgey.dev|❌|❓|
 |https://sandbox.pds.h3y6e.com|❌|❓|
 |https://dev.otaso-sky.blue|❌|❓|
-|https://labo.moe|✅|✅|
+|https://labo.moe|❌|❓|
 |https://test-pds.gwei.cz|❌|❓|
 |https://bsky.coma.social|❌|❓|
 |https://robramos.xyz|❌|❓|
