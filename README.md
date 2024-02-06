@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-06T07:58:35.458140
+Last Updated: 2024-02-06T08:06:40.641679
 
 ## **plc.directory**
 
@@ -309,7 +309,7 @@ Last Updated: 2024-02-06T07:58:35.458140
 |https://social.anineko.net|❌|❓|
 |https://bsky-v3.dolciss.net|✅|✅|
 |https://bs.lf.je|❌|❓|
-|https://pds.jaz.sh|✅|✅|
+|https://pds.jaz.sh|❌|❓|
 |https://atproto.eralyon.net|✅|✅|
 |http://127.0.0.1:8080|❌|❓|
 |https://ketamine.dog|✅|✅|
@@ -375,7 +375,7 @@ Last Updated: 2024-02-06T07:58:35.458140
 |https://mediumeffortmedia.co.uk|❌|❓|
 |https://bluesky.p82.it|❌|❓|
 |https://aozora.yockow.jp|✅|✅|
-|https://econcom.org|❌|❓|
+|https://econcom.org|✅|✅|
 |https://pds.entreco.org|❌|❓|
 |https://himmelblau.bigbl4ckw0lf.de|❌|❓|
 |https://bsky.bigbl4ckw0lf.de|✅|✅|
@@ -398,7 +398,7 @@ Last Updated: 2024-02-06T07:58:35.458140
 |https://pds.ssauer.co.za|❌|❓|
 |https://furartist.art|❌|❓|
 |https://void.zct-mrl.com|✅|✅|
-|https://bluesky.migennes.org|❌|❓|
+|https://bluesky.migennes.org|✅|✅|
 |https://bsky.meis.space|❌|❓|
 |https://bs.raccoon-city.at|❌|❓|
 |https://belana.epicgreen.nl|❌|❓|
