@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-06T06:32:32.587235
+Last Updated: 2024-02-06T06:49:20.102802
 
 ## **plc.directory**
 
@@ -349,7 +349,7 @@ Last Updated: 2024-02-06T06:32:32.587235
 |https://bingerin.de|❌|❓|
 |https://blueskyde.cloud|❌|❓|
 |https://bsky.primeapps.net|✅|✅|
-|https://fed.brid.gy|❌|❓|
+|https://fed.brid.gy|✅|✅|
 |https://mdthh.de|❌|❓|
 |https://equus.quest|❌|❓|
 |https://rebroad.com|✅|✅|
@@ -397,7 +397,7 @@ Last Updated: 2024-02-06T06:32:32.587235
 |https://bs.jefferyho.cc|✅|✅|
 |https://pds.ssauer.co.za|❌|❓|
 |https://furartist.art|❌|❓|
-|https://void.zct-mrl.com|✅|✅|
+|https://void.zct-mrl.com|❌|❓|
 |https://bluesky.migennes.org|✅|✅|
 |https://bsky.meis.space|❌|❓|
 |https://bs.raccoon-city.at|❌|❓|
@@ -441,7 +441,7 @@ Last Updated: 2024-02-06T06:32:32.587235
 |https://italiansky.mooo.com|✅|✅|
 |https://sky.n3otrax.fr|❌|❓|
 |https://bsky.powerg.love|✅|✅|
-|https://atproto.brid.gy/|✅|✅|
+|https://atproto.brid.gy/|❌|❓|
 |https://abluehope.com|❌|❓|
 |https://bsky.mrsquaare.fr|❌|❓|
 |https://montpeyroux.social|✅|✅|
