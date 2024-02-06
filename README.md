@@ -1,12 +1,12 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-06T01:48:50.184980
+Last Updated: 2024-02-06T02:06:02.200456
 
 ## **plc.directory**
 
 |PDS Endpoint|Active|Invite Code Required|
 |---|:---:|:---:|
-|https://bsky.social|✅|❌|
+|https://bsky.social|✅|✅|
 |https://boobee.blue|✅|✅|
 |https://redocean.one|❌|❓|
 |https://uwu|❌|❓|
@@ -56,7 +56,7 @@ Last Updated: 2024-02-06T01:48:50.184980
 |https://zj7ao3i5k.534.bsky.social|❌|❓|
 |https://no3sbfnkh.534.bsky.social|❌|❓|
 |https://hedgehog.us-west.host.bsky.network|✅|✅|
-|https://534.bsky.social|✅|❌|
+|https://534.bsky.social|✅|✅|
 
 ## **plc.bsky-sandbox.dev**
 
@@ -398,7 +398,7 @@ Last Updated: 2024-02-06T01:48:50.184980
 |https://pds.ssauer.co.za|❌|❓|
 |https://furartist.art|❌|❓|
 |https://void.zct-mrl.com|✅|✅|
-|https://bluesky.migennes.org|❌|❓|
+|https://bluesky.migennes.org|✅|✅|
 |https://bsky.meis.space|❌|❓|
 |https://bs.raccoon-city.at|❌|❓|
 |https://belana.epicgreen.nl|❌|❓|
@@ -489,7 +489,7 @@ Last Updated: 2024-02-06T01:48:50.184980
 |https://sturmdev.com|❌|❓|
 |https://bluesky.cyberveins.eu|❌|❓|
 |https://home.cyberveins.eu|❌|❓|
-|https://bsky.social|✅|❌|
+|https://bsky.social|✅|✅|
 |https://cultured.black|✅|✅|
 |https://thekayou.com|❌|❓|
 |https://sky.manikineko.nl|❌|❓|
