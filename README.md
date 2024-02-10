@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-10T00:30:55.788033
+Last Updated: 2024-02-10T00:52:41.825756
 
 ## **plc.directory**
 
@@ -309,7 +309,7 @@ Last Updated: 2024-02-10T00:30:55.788033
 |https://social.anineko.net|❌|❓|
 |https://bsky-v3.dolciss.net|✅|✅|
 |https://bs.lf.je|❌|❓|
-|https://pds.jaz.sh|❌|❓|
+|https://pds.jaz.sh|✅|✅|
 |https://atproto.eralyon.net|✅|✅|
 |http://127.0.0.1:8080|❌|❓|
 |https://ketamine.dog|✅|✅|
@@ -324,7 +324,7 @@ Last Updated: 2024-02-10T00:30:55.788033
 |https://bluesky.jayp.io|❌|❓|
 |https://this-is-epic.space|✅|✅|
 |https://tsuki.social|❌|❓|
-|https://x-mweya.duckdns.org|✅|✅|
+|https://x-mweya.duckdns.org|❌|❓|
 |https://fraudulent.link|❌|❓|
 |https://utatane.blue|❌|❓|
 |https://b.browsersource.dev|❌|❓|
@@ -441,7 +441,7 @@ Last Updated: 2024-02-10T00:30:55.788033
 |https://italiansky.mooo.com|✅|✅|
 |https://sky.n3otrax.fr|❌|❓|
 |https://bsky.powerg.love|✅|✅|
-|https://atproto.brid.gy/|❌|❓|
+|https://atproto.brid.gy/|✅|✅|
 |https://abluehope.com|❌|❓|
 |https://bsky.mrsquaare.fr|❌|❓|
 |https://montpeyroux.social|✅|✅|
