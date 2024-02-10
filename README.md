@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-10T05:09:34.182614
+Last Updated: 2024-02-10T05:19:49.396324
 
 ## **plc.directory**
 
@@ -310,7 +310,7 @@ Last Updated: 2024-02-10T05:09:34.182614
 |https://bsky-v3.dolciss.net|✅|✅|
 |https://bs.lf.je|❌|❓|
 |https://pds.jaz.sh|✅|✅|
-|https://atproto.eralyon.net|✅|✅|
+|https://atproto.eralyon.net|❌|❓|
 |http://127.0.0.1:8080|❌|❓|
 |https://ketamine.dog|✅|✅|
 |https://blacksky.app|✅|✅|
@@ -446,7 +446,7 @@ Last Updated: 2024-02-10T05:09:34.182614
 |https://bsky.mrsquaare.fr|❌|❓|
 |https://montpeyroux.social|✅|✅|
 |https://blueskysweden.se|❌|❓|
-|https://pds.home.rjp.is|✅|✅|
+|https://pds.home.rjp.is|❌|❓|
 |https://posting.expert|❌|❓|
 |https://pds.timburga.social|✅|✅|
 |https://bs.foss.gay|❌|❓|
