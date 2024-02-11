@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-10T23:45:45.815072
+Last Updated: 2024-02-11T00:01:33.636676
 
 ## **plc.directory**
 
@@ -322,7 +322,7 @@ Last Updated: 2024-02-10T23:45:45.815072
 |https://bluesky.furryrefuge.com|❌|❓|
 |https://pds.evns.dev|❌|❓|
 |https://bluesky.jayp.io|❌|❓|
-|https://this-is-epic.space|❌|❓|
+|https://this-is-epic.space|✅|✅|
 |https://tsuki.social|❌|❓|
 |https://x-mweya.duckdns.org|✅|✅|
 |https://fraudulent.link|❌|❓|
