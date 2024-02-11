@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-11T11:49:58.896204
+Last Updated: 2024-02-11T12:06:26.113661
 
 ## **plc.directory**
 
@@ -349,7 +349,7 @@ Last Updated: 2024-02-11T11:49:58.896204
 |https://bingerin.de|❌|❓|
 |https://blueskyde.cloud|❌|❓|
 |https://bsky.primeapps.net|✅|✅|
-|https://fed.brid.gy|✅|✅|
+|https://fed.brid.gy|❌|❓|
 |https://mdthh.de|❌|❓|
 |https://equus.quest|❌|❓|
 |https://rebroad.com|✅|✅|
@@ -406,7 +406,7 @@ Last Updated: 2024-02-11T11:49:58.896204
 |https://kevin.fur.vip|❌|❓|
 |https://bs.vrccl.life|❌|❓|
 |https://bsky.fursion.top|❌|❓|
-|https://bsky.riversideleft.org.uk|✅|✅|
+|https://bsky.riversideleft.org.uk|❌|❓|
 |https://siriussocial.de|✅|✅|
 |https://bsky.kemono.in.th|❌|❓|
 |https://bsky.ponscele.fr|✅|✅|
@@ -446,7 +446,7 @@ Last Updated: 2024-02-11T11:49:58.896204
 |https://bsky.mrsquaare.fr|❌|❓|
 |https://montpeyroux.social|✅|✅|
 |https://blueskysweden.se|❌|❓|
-|https://pds.home.rjp.is|❌|❓|
+|https://pds.home.rjp.is|✅|✅|
 |https://posting.expert|❌|❓|
 |https://pds.timburga.social|✅|✅|
 |https://bs.foss.gay|❌|❓|
@@ -455,7 +455,7 @@ Last Updated: 2024-02-11T11:49:58.896204
 |https://uat.lol|✅|✅|
 |https://bsky.c-onner.de|❌|❓|
 |https://americocarelli.com.br|❌|❓|
-|https://derpzilla.net|❌|❓|
+|https://derpzilla.net|✅|✅|
 |https://musicproduction.world|❌|❓|
 |https://corgi.dance|❌|❓|
 |https://atproto.stereosteve.com|❌|❓|
