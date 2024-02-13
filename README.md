@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-13T16:20:14.469636
+Last Updated: 2024-02-13T16:32:53.479193
 
 ## **plc.directory**
 
@@ -398,7 +398,7 @@ Last Updated: 2024-02-13T16:20:14.469636
 |https://pds.ssauer.co.za|❌|❓|
 |https://furartist.art|❌|❓|
 |https://void.zct-mrl.com|✅|✅|
-|https://bluesky.migennes.org|❌|❓|
+|https://bluesky.migennes.org|✅|✅|
 |https://bsky.meis.space|❌|❓|
 |https://bs.raccoon-city.at|❌|❓|
 |https://belana.epicgreen.nl|❌|❓|
@@ -446,7 +446,7 @@ Last Updated: 2024-02-13T16:20:14.469636
 |https://bsky.mrsquaare.fr|❌|❓|
 |https://montpeyroux.social|✅|✅|
 |https://blueskysweden.se|❌|❓|
-|https://pds.home.rjp.is|✅|✅|
+|https://pds.home.rjp.is|❌|❓|
 |https://posting.expert|❌|❓|
 |https://pds.timburga.social|✅|✅|
 |https://bs.foss.gay|❌|❓|
@@ -463,7 +463,7 @@ Last Updated: 2024-02-13T16:20:14.469636
 |https://blues.psionprotocol.com|❌|❓|
 |https://bs.corrigan.xyz|❌|❓|
 |https://pds.octelly.lol|❌|❓|
-|https://is.lalafell.fun|❌|❓|
+|https://is.lalafell.fun|✅|✅|
 |https://oyster.us-east.host.bsky.network|✅|✅|
 |https://bsky.retronerd.at|❌|❓|
 |https://bs.undreaming.org|❌|❓|
