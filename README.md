@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-14T01:24:13.039245
+Last Updated: 2024-02-14T01:46:03.327669
 
 ## **plc.directory**
 
@@ -382,7 +382,7 @@ Last Updated: 2024-02-14T01:24:13.039245
 |https://social.nicht-existent.de|❌|❓|
 |https://pds.fortunaexmachina.com|❌|❓|
 |http://localhost:12025|❌|❓|
-|https://b.schroedingerscat.org|✅|✅|
+|https://b.schroedingerscat.org|❌|❓|
 |https://bskysandbox.edavis.dev|❌|❓|
 |https://social.derg.fr|✅|✅|
 |https://hug.mx|❌|❓|
@@ -412,7 +412,7 @@ Last Updated: 2024-02-14T01:24:13.039245
 |https://bsky.ponscele.fr|✅|✅|
 |https://bluesky.animint.fr|✅|✅|
 |https://sardine.pics|❌|❓|
-|https://baisodro.me|✅|✅|
+|https://baisodro.me|❌|❓|
 |https://bluesky-pds.fly.dev|❌|❓|
 |https://bluesky.suit.at|❌|❓|
 |https://bs.nahlers.de|❌|❓|
