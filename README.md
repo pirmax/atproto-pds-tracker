@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-14T20:53:03.127013
+Last Updated: 2024-02-14T21:01:58.246115
 
 ## **plc.directory**
 
@@ -309,7 +309,7 @@ Last Updated: 2024-02-14T20:53:03.127013
 |https://social.anineko.net|❌|❓|
 |https://bsky-v3.dolciss.net|✅|✅|
 |https://bs.lf.je|❌|❓|
-|https://pds.jaz.sh|✅|✅|
+|https://pds.jaz.sh|❌|❓|
 |https://atproto.eralyon.net|✅|✅|
 |http://127.0.0.1:8080|❌|❓|
 |https://ketamine.dog|✅|✅|
@@ -354,7 +354,7 @@ Last Updated: 2024-02-14T20:53:03.127013
 |https://equus.quest|❌|❓|
 |https://rebroad.com|✅|✅|
 |https://pds.hazyville.com|❌|❓|
-|https://rent-a-shitstorm.eu|✅|✅|
+|https://rent-a-shitstorm.eu|❌|❓|
 |https://bskies.de|❌|❓|
 |https://due-it.com|❌|❓|
 |https://blue.cb-homelab.de|❌|❓|
@@ -446,7 +446,7 @@ Last Updated: 2024-02-14T20:53:03.127013
 |https://bsky.mrsquaare.fr|❌|❓|
 |https://montpeyroux.social|✅|✅|
 |https://blueskysweden.se|❌|❓|
-|https://pds.home.rjp.is|✅|✅|
+|https://pds.home.rjp.is|❌|❓|
 |https://posting.expert|❌|❓|
 |https://pds.timburga.social|✅|✅|
 |https://bs.foss.gay|❌|❓|
