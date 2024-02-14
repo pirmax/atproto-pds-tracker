@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-14T13:18:48.858580
+Last Updated: 2024-02-14T13:28:54.451805
 
 ## **plc.directory**
 
@@ -330,7 +330,7 @@ Last Updated: 2024-02-14T13:18:48.858580
 |https://b.browsersource.dev|❌|❓|
 |https://bbs.fraudulent.link|❌|❓|
 |https://foo.example|❌|❓|
-|https://atptest.lep.wtf|✅|✅|
+|https://atptest.lep.wtf|❌|❓|
 |https://galaxy.neo7.kim|❌|❓|
 |https://broad.re|❌|❓|
 |https://fed.brid.gy/|✅|✅|
@@ -382,7 +382,7 @@ Last Updated: 2024-02-14T13:18:48.858580
 |https://social.nicht-existent.de|❌|❓|
 |https://pds.fortunaexmachina.com|❌|❓|
 |http://localhost:12025|❌|❓|
-|https://b.schroedingerscat.org|✅|✅|
+|https://b.schroedingerscat.org|❌|❓|
 |https://bskysandbox.edavis.dev|❌|❓|
 |https://social.derg.fr|✅|✅|
 |https://hug.mx|❌|❓|
