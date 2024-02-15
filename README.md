@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-14T23:53:59.337704
+Last Updated: 2024-02-15T00:02:42.620008
 
 ## **plc.directory**
 
@@ -471,7 +471,7 @@ Last Updated: 2024-02-14T23:53:59.337704
 |https://bsky-hcc8588.f5.si|❌|❓|
 |https://bingerin.online|❌|❓|
 |https://pdshosting.xyz|✅|✅|
-|https://bs.mymx.me|✅|✅|
+|https://bs.mymx.me|❌|❓|
 |https://harrmitchexp.serveo.net|❌|❓|
 |https://pds.y-force.info|✅|✅|
 |https://hexside.at|❌|❓|
