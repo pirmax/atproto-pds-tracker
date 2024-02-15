@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-15T21:29:19.237308
+Last Updated: 2024-02-15T21:45:38.895346
 
 ## **plc.directory**
 
@@ -309,7 +309,7 @@ Last Updated: 2024-02-15T21:29:19.237308
 |https://social.anineko.net|❌|❓|
 |https://bsky-v3.dolciss.net|✅|✅|
 |https://bs.lf.je|❌|❓|
-|https://pds.jaz.sh|✅|✅|
+|https://pds.jaz.sh|❌|❓|
 |https://atproto.eralyon.net|✅|✅|
 |http://127.0.0.1:8080|❌|❓|
 |https://ketamine.dog|✅|✅|
@@ -398,7 +398,7 @@ Last Updated: 2024-02-15T21:29:19.237308
 |https://pds.ssauer.co.za|❌|❓|
 |https://furartist.art|❌|❓|
 |https://void.zct-mrl.com|✅|✅|
-|https://bluesky.migennes.org|❌|❓|
+|https://bluesky.migennes.org|✅|✅|
 |https://bsky.meis.space|❌|❓|
 |https://bs.raccoon-city.at|❌|❓|
 |https://belana.epicgreen.nl|❌|❓|
