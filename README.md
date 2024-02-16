@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-16T04:32:05.217298
+Last Updated: 2024-02-16T04:48:35.301787
 
 ## **plc.directory**
 
@@ -73,7 +73,7 @@ Last Updated: 2024-02-16T04:32:05.217298
 |https://take2.dholms.xyz|❌|❓|
 |https://pds.dev.retr0.id|❌|❓|
 |https://cloudcaine.thecubic.net|❌|❓|
-|https://hellthread.pro|❌|❓|
+|https://hellthread.pro|✅|✅|
 |https://bsky.pupbrained.xyz|❌|❓|
 |https://henshaw.org|❌|❓|
 |https://pds.canidae.systems|✅|✅|
@@ -333,7 +333,7 @@ Last Updated: 2024-02-16T04:32:05.217298
 |https://atptest.lep.wtf|✅|✅|
 |https://galaxy.neo7.kim|❌|❓|
 |https://broad.re|❌|❓|
-|https://fed.brid.gy/|✅|✅|
+|https://fed.brid.gy/|❌|❓|
 |https://bsky.kwilium.xyz|❌|❓|
 |https://sky.hideside.de|✅|✅|
 |https://pds.jpco.io|❌|❓|
@@ -398,7 +398,7 @@ Last Updated: 2024-02-16T04:32:05.217298
 |https://pds.ssauer.co.za|❌|❓|
 |https://furartist.art|❌|❓|
 |https://void.zct-mrl.com|✅|✅|
-|https://bluesky.migennes.org|❌|❓|
+|https://bluesky.migennes.org|✅|✅|
 |https://bsky.meis.space|❌|❓|
 |https://bs.raccoon-city.at|❌|❓|
 |https://belana.epicgreen.nl|❌|❓|
@@ -446,7 +446,7 @@ Last Updated: 2024-02-16T04:32:05.217298
 |https://bsky.mrsquaare.fr|❌|❓|
 |https://montpeyroux.social|✅|✅|
 |https://blueskysweden.se|❌|❓|
-|https://pds.home.rjp.is|❌|❓|
+|https://pds.home.rjp.is|✅|✅|
 |https://posting.expert|❌|❓|
 |https://pds.timburga.social|✅|✅|
 |https://bs.foss.gay|❌|❓|
