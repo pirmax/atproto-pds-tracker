@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-16T16:57:19.150298
+Last Updated: 2024-02-16T17:15:11.068027
 
 ## **plc.directory**
 
@@ -38,7 +38,7 @@ Last Updated: 2024-02-16T16:57:19.150298
 |https://porcini.us-east.host.bsky.network|✅|✅|
 |https://shimeji.us-east.host.bsky.network|✅|✅|
 |https://amanita.us-east.host.bsky.network|✅|✅|
-|https://lionsmane.us-east.host.bsky.network|✅|✅|
+|https://lionsmane.us-east.host.bsky.network|❌|❓|
 |https://shiitake.us-east.host.bsky.network|✅|✅|
 |https://example.com|❌|❓|
 |https://na|❌|❓|
@@ -73,7 +73,7 @@ Last Updated: 2024-02-16T16:57:19.150298
 |https://take2.dholms.xyz|❌|❓|
 |https://pds.dev.retr0.id|❌|❓|
 |https://cloudcaine.thecubic.net|❌|❓|
-|https://hellthread.pro|✅|✅|
+|https://hellthread.pro|❌|❓|
 |https://bsky.pupbrained.xyz|❌|❓|
 |https://henshaw.org|❌|❓|
 |https://pds.canidae.systems|✅|✅|
