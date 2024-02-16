@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-16T00:31:04.293359
+Last Updated: 2024-02-16T00:53:43.276799
 
 ## **plc.directory**
 
@@ -13,7 +13,7 @@ Last Updated: 2024-02-16T00:31:04.293359
 |https://bluesky.nokotaro.com|❌|❓|
 |https://stems.social|❌|❓|
 |https://bsky.sacckey.dev|❌|❓|
-|https://kitsune.nexus|❌|❓|
+|https://kitsune.nexus|✅|✅|
 |https://neosky.dev|❌|❓|
 |https://furmeet.me|✅|✅|
 |https://bsky.syui.ai|❌|❓|
@@ -397,7 +397,7 @@ Last Updated: 2024-02-16T00:31:04.293359
 |https://bs.jefferyho.cc|✅|✅|
 |https://pds.ssauer.co.za|❌|❓|
 |https://furartist.art|❌|❓|
-|https://void.zct-mrl.com|✅|✅|
+|https://void.zct-mrl.com|❌|❓|
 |https://bluesky.migennes.org|✅|✅|
 |https://bsky.meis.space|❌|❓|
 |https://bs.raccoon-city.at|❌|❓|
@@ -495,7 +495,7 @@ Last Updated: 2024-02-16T00:31:04.293359
 |https://sky.manikineko.nl|❌|❓|
 |https://maneki-neko.nl|❌|❓|
 |https://dopsky.social|❌|❓|
-|https://bsky.cryptomata.com|✅|✅|
+|https://bsky.cryptomata.com|❌|❓|
 |https://arl-bsky-pds.arl.jp|❌|❓|
 |https://turboshitpost.ing|✅|✅|
 |https://goodhew.lol|❌|❓|
