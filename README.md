@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-17T17:05:34.255105
+Last Updated: 2024-02-17T17:16:25.352557
 
 ## **plc.directory**
 
@@ -233,7 +233,7 @@ Last Updated: 2024-02-17T17:05:34.255105
 |https://sandboxpds.bsky.sh|❌|❓|
 |https://susurrus.net|❌|❓|
 |https://bsky.fedi-multi-verse.eu|❌|❓|
-|https://bsky.wildtree.jp|✅|✅|
+|https://bsky.wildtree.jp|❌|❓|
 |https://sheslashher.net|❌|❓|
 |https://bsky.minescripts.me|❌|❓|
 |https://ubanis.mydns.jp|❌|❓|
@@ -316,7 +316,7 @@ Last Updated: 2024-02-17T17:05:34.255105
 |https://blacksky.app|✅|✅|
 |https://eper.tail3825e.ts.net|❌|❓|
 |http://localhost:2583|❌|❓|
-|https://bsk.carl0scheca.com|❌|❓|
+|https://bsk.carl0scheca.com|✅|✅|
 |https://thecoolsite.org|❌|❓|
 |https://bsky.zenti-im-zug.de|❌|❓|
 |https://bluesky.furryrefuge.com|❌|❓|
@@ -398,7 +398,7 @@ Last Updated: 2024-02-17T17:05:34.255105
 |https://pds.ssauer.co.za|❌|❓|
 |https://furartist.art|❌|❓|
 |https://void.zct-mrl.com|✅|✅|
-|https://bluesky.migennes.org|✅|✅|
+|https://bluesky.migennes.org|❌|❓|
 |https://bsky.meis.space|❌|❓|
 |https://bs.raccoon-city.at|❌|❓|
 |https://belana.epicgreen.nl|❌|❓|
