@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-18T04:01:53.229955
+Last Updated: 2024-02-18T04:11:44.191389
 
 ## **plc.directory**
 
@@ -55,7 +55,7 @@ Last Updated: 2024-02-18T04:01:53.229955
 |https://7mv2c2fw.534.bsky.social|❌|❓|
 |https://zj7ao3i5k.534.bsky.social|❌|❓|
 |https://no3sbfnkh.534.bsky.social|❌|❓|
-|https://hedgehog.us-west.host.bsky.network|❌|❓|
+|https://hedgehog.us-west.host.bsky.network|✅|✅|
 |https://534.bsky.social|✅|❌|
 
 ## **plc.bsky-sandbox.dev**
@@ -73,7 +73,7 @@ Last Updated: 2024-02-18T04:01:53.229955
 |https://take2.dholms.xyz|❌|❓|
 |https://pds.dev.retr0.id|❌|❓|
 |https://cloudcaine.thecubic.net|❌|❓|
-|https://hellthread.pro|✅|✅|
+|https://hellthread.pro|❌|❓|
 |https://bsky.pupbrained.xyz|❌|❓|
 |https://henshaw.org|❌|❓|
 |https://pds.canidae.systems|✅|✅|
@@ -348,7 +348,7 @@ Last Updated: 2024-02-18T04:01:53.229955
 |https://jobo.eu.org|❌|❓|
 |https://bingerin.de|❌|❓|
 |https://blueskyde.cloud|❌|❓|
-|https://bsky.primeapps.net|✅|✅|
+|https://bsky.primeapps.net|❌|❓|
 |https://fed.brid.gy|✅|✅|
 |https://mdthh.de|❌|❓|
 |https://equus.quest|❌|❓|
