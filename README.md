@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-18T09:33:56.670733
+Last Updated: 2024-02-18T09:42:28.770297
 
 ## **plc.directory**
 
@@ -291,7 +291,7 @@ Last Updated: 2024-02-18T09:33:56.670733
 |https://bum.ninja|✅|✅|
 |https://purplesky.sesilaso.com|❌|❓|
 |https://bsky.davidfernandez.xyz|❌|❓|
-|https://vengeful.eu|❌|❓|
+|https://vengeful.eu|✅|✅|
 |https://draconic.host|❌|❓|
 |https://bsky.social-hell.uk|❌|❓|
 |http://localhost:8080/|❌|❓|
@@ -369,7 +369,7 @@ Last Updated: 2024-02-18T09:33:56.670733
 |https://yyj.whims.io|❌|❓|
 |https://pds.flm9.me|❌|❓|
 |https://instanzfreun.de|❌|❓|
-|https://bluesky.euer.tv|❌|❓|
+|https://bluesky.euer.tv|✅|✅|
 |https://pds.apppel.nl|❌|❓|
 |https://bluesky.home.foxocube.xyz|❌|❓|
 |https://mediumeffortmedia.co.uk|❌|❓|
@@ -407,7 +407,7 @@ Last Updated: 2024-02-18T09:33:56.670733
 |https://bs.vrccl.life|❌|❓|
 |https://bsky.fursion.top|❌|❓|
 |https://bsky.riversideleft.org.uk|✅|✅|
-|https://siriussocial.de|❌|❓|
+|https://siriussocial.de|✅|✅|
 |https://bsky.kemono.in.th|❌|❓|
 |https://bsky.ponscele.fr|✅|✅|
 |https://bluesky.animint.fr|✅|✅|
