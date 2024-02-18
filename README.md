@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-18T04:11:44.191389
+Last Updated: 2024-02-18T04:22:37.374209
 
 ## **plc.directory**
 
@@ -73,7 +73,7 @@ Last Updated: 2024-02-18T04:11:44.191389
 |https://take2.dholms.xyz|❌|❓|
 |https://pds.dev.retr0.id|❌|❓|
 |https://cloudcaine.thecubic.net|❌|❓|
-|https://hellthread.pro|❌|❓|
+|https://hellthread.pro|✅|✅|
 |https://bsky.pupbrained.xyz|❌|❓|
 |https://henshaw.org|❌|❓|
 |https://pds.canidae.systems|✅|✅|
@@ -348,7 +348,7 @@ Last Updated: 2024-02-18T04:11:44.191389
 |https://jobo.eu.org|❌|❓|
 |https://bingerin.de|❌|❓|
 |https://blueskyde.cloud|❌|❓|
-|https://bsky.primeapps.net|❌|❓|
+|https://bsky.primeapps.net|✅|✅|
 |https://fed.brid.gy|✅|✅|
 |https://mdthh.de|❌|❓|
 |https://equus.quest|❌|❓|
@@ -473,7 +473,7 @@ Last Updated: 2024-02-18T04:11:44.191389
 |https://pdshosting.xyz|❌|❓|
 |https://bs.mymx.me|❌|❓|
 |https://harrmitchexp.serveo.net|❌|❓|
-|https://pds.y-force.info|✅|✅|
+|https://pds.y-force.info|❌|❓|
 |https://hexside.at|❌|❓|
 |https://bsky.wstrn.world|❌|❓|
 |https://bk.bitfyer.net|❌|❓|
