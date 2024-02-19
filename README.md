@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-19T11:12:02.190387
+Last Updated: 2024-02-19T11:22:22.574483
 
 ## **plc.directory**
 
@@ -349,7 +349,7 @@ Last Updated: 2024-02-19T11:12:02.190387
 |https://bingerin.de|❌|❓|
 |https://blueskyde.cloud|❌|❓|
 |https://bsky.primeapps.net|✅|✅|
-|https://fed.brid.gy|✅|✅|
+|https://fed.brid.gy|❌|❓|
 |https://mdthh.de|❌|❓|
 |https://equus.quest|❌|❓|
 |https://rebroad.com|❌|❓|
