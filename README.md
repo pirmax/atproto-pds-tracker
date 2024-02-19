@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-19T09:58:09.908434
+Last Updated: 2024-02-19T10:16:36.110273
 
 ## **plc.directory**
 
@@ -55,7 +55,7 @@ Last Updated: 2024-02-19T09:58:09.908434
 |https://7mv2c2fw.534.bsky.social|❌|❓|
 |https://zj7ao3i5k.534.bsky.social|❌|❓|
 |https://no3sbfnkh.534.bsky.social|❌|❓|
-|https://hedgehog.us-west.host.bsky.network|❌|❓|
+|https://hedgehog.us-west.host.bsky.network|✅|✅|
 |https://534.bsky.social|✅|❌|
 
 ## **plc.bsky-sandbox.dev**
@@ -81,7 +81,7 @@ Last Updated: 2024-02-19T09:58:09.908434
 |https://bsky.flicknow.xyz|❌|❓|
 |https://thomasjerome.com|❌|❓|
 |https://sky.lalafell.org|✅|✅|
-|https://pds.ubanis.mydns.jp|❌|❓|
+|https://pds.ubanis.mydns.jp|✅|✅|
 |https://pds.bsky.sh|❌|❓|
 |https://tjs-pds-sandbox.shop|❌|❓|
 |http://localhost:3000|❌|❓|
