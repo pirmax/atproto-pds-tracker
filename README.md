@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-20T20:06:25.051082
+Last Updated: 2024-02-20T20:16:55.241870
 
 ## **plc.directory**
 
@@ -448,7 +448,7 @@ Last Updated: 2024-02-20T20:06:25.051082
 |https://blueskysweden.se|❌|❓|
 |https://pds.home.rjp.is|❌|❓|
 |https://posting.expert|❌|❓|
-|https://pds.timburga.social|❌|❓|
+|https://pds.timburga.social|✅|✅|
 |https://bs.foss.gay|❌|❓|
 |https://bsky.fracergu.dev|❌|❓|
 |https://briiz.com|❌|❓|
