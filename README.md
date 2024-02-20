@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-20T11:01:26.451976
+Last Updated: 2024-02-20T11:15:44.584354
 
 ## **plc.directory**
 
@@ -154,7 +154,7 @@ Last Updated: 2024-02-20T11:01:26.451976
 |https://atp.mywaverly.com|❌|❓|
 |https://pedrorbc.com|❌|❓|
 |https://bsky.sergem.net|❌|❓|
-|https://dev.sysad.ninja|✅|✅|
+|https://dev.sysad.ninja|❌|❓|
 |https://bs.omellko.space|❌|❓|
 |https://tezzi.com|❌|❓|
 |https://bsky.pedrorbc.com|❌|❓|
@@ -398,7 +398,7 @@ Last Updated: 2024-02-20T11:01:26.451976
 |https://pds.ssauer.co.za|❌|❓|
 |https://furartist.art|❌|❓|
 |https://void.zct-mrl.com|✅|✅|
-|https://bluesky.migennes.org|❌|❓|
+|https://bluesky.migennes.org|✅|✅|
 |https://bsky.meis.space|❌|❓|
 |https://bs.raccoon-city.at|❌|❓|
 |https://belana.epicgreen.nl|❌|❓|
@@ -448,7 +448,7 @@ Last Updated: 2024-02-20T11:01:26.451976
 |https://blueskysweden.se|❌|❓|
 |https://pds.home.rjp.is|❌|❓|
 |https://posting.expert|❌|❓|
-|https://pds.timburga.social|❌|❓|
+|https://pds.timburga.social|✅|✅|
 |https://bs.foss.gay|❌|❓|
 |https://bsky.fracergu.dev|❌|❓|
 |https://briiz.com|❌|❓|
