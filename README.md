@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-21T09:16:46.715510
+Last Updated: 2024-02-21T09:28:35.753934
 
 ## **plc.directory**
 
@@ -81,7 +81,7 @@ Last Updated: 2024-02-21T09:16:46.715510
 |https://bsky.flicknow.xyz|❌|❓|
 |https://thomasjerome.com|❌|❓|
 |https://sky.lalafell.org|✅|✅|
-|https://pds.ubanis.mydns.jp|✅|✅|
+|https://pds.ubanis.mydns.jp|❌|❓|
 |https://pds.bsky.sh|❌|❓|
 |https://tjs-pds-sandbox.shop|❌|❓|
 |http://localhost:3000|❌|❓|
@@ -444,7 +444,7 @@ Last Updated: 2024-02-21T09:16:46.715510
 |https://atproto.brid.gy/|✅|✅|
 |https://abluehope.com|❌|❓|
 |https://bsky.mrsquaare.fr|❌|❓|
-|https://montpeyroux.social|❌|❓|
+|https://montpeyroux.social|✅|✅|
 |https://blueskysweden.se|❌|❓|
 |https://pds.home.rjp.is|❌|❓|
 |https://posting.expert|❌|❓|
