@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-21T09:28:35.753934
+Last Updated: 2024-02-21T09:45:21.473307
 
 ## **plc.directory**
 
@@ -15,7 +15,7 @@ Last Updated: 2024-02-21T09:28:35.753934
 |https://bsky.sacckey.dev|❌|❓|
 |https://kitsune.nexus|✅|✅|
 |https://neosky.dev|❌|❓|
-|https://furmeet.me|✅|✅|
+|https://furmeet.me|❌|❓|
 |https://bsky.syui.ai|❌|❓|
 |http://localhost:3583|❌|❓|
 |https://atproto.forza7.org|❌|❓|
@@ -81,7 +81,7 @@ Last Updated: 2024-02-21T09:28:35.753934
 |https://bsky.flicknow.xyz|❌|❓|
 |https://thomasjerome.com|❌|❓|
 |https://sky.lalafell.org|✅|✅|
-|https://pds.ubanis.mydns.jp|❌|❓|
+|https://pds.ubanis.mydns.jp|✅|✅|
 |https://pds.bsky.sh|❌|❓|
 |https://tjs-pds-sandbox.shop|❌|❓|
 |http://localhost:3000|❌|❓|
@@ -246,7 +246,7 @@ Last Updated: 2024-02-21T09:28:35.753934
 |https://cumdmp.me|✅|✅|
 |https://usemastodon.feathered.link|❌|❓|
 |https://usefedi.feathered.link|❌|❓|
-|https://furmeet.me|✅|✅|
+|https://furmeet.me|❌|❓|
 |https://pds.bee.lol|❌|❓|
 |https://at.bee.lol|❌|❓|
 |https://pdz.bsky.nyc|❌|❓|
