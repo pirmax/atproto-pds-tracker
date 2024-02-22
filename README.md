@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-22T14:30:35.372928
+Last Updated: 2024-02-22T14:38:53.604613
 
 ## **plc.directory**
 
@@ -67,7 +67,7 @@ Last Updated: 2024-02-22T14:30:35.372928
 |https://sandbox.whyr.us|❌|❓|
 |https://pds.dholms.xyz|❌|❓|
 |https://asia.friendlypds.cloud|❌|❓|
-|https://alt.dholms.xyz|✅|✅|
+|https://alt.dholms.xyz|❌|❓|
 |https://pds.anshnanda.com|❌|❓|
 |https://friendlypds.cloud|✅|✅|
 |https://take2.dholms.xyz|❌|❓|
@@ -125,7 +125,7 @@ Last Updated: 2024-02-22T14:30:35.372928
 |https://at.heyh.ooo|❌|❓|
 |https://usuasagi.0j0.jp|❌|❓|
 |https://bsky.flatlander.social|❌|❓|
-|https://picopds.skyfeed.dev|❌|❓|
+|https://picopds.skyfeed.dev|✅|✅|
 |https://pds.sandbox.robocracy.org|❌|❓|
 |https://bskydev.usuzakuraya.us|❌|❓|
 |https://bsky.fbk.moe|❌|❓|
@@ -296,7 +296,7 @@ Last Updated: 2024-02-22T14:30:35.372928
 |https://bsky.social-hell.uk|❌|❓|
 |http://localhost:8080/|❌|❓|
 |https://pds.staging.bteklabs.com|❌|❓|
-|https://afternooncurry.com|✅|✅|
+|https://afternooncurry.com|❌|❓|
 |https://bsky.whoverse.nexus|❌|❓|
 |https://zima.ge|✅|✅|
 |https://bsk.lukas-diekmann.de|❌|❓|
