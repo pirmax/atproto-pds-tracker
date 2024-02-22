@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-22T07:56:25.924314
+Last Updated: 2024-02-22T08:05:01.204310
 
 ## **plc.directory**
 
@@ -35,7 +35,7 @@ Last Updated: 2024-02-22T07:56:25.924314
 |https://inkcap.us-east.host.bsky.network|✅|✅|
 |https://oyster.us-east.host.bsky.network|✅|✅|
 |https://enoki.us-east.host.bsky.network|✅|✅|
-|https://porcini.us-east.host.bsky.network|❌|❓|
+|https://porcini.us-east.host.bsky.network|✅|✅|
 |https://shimeji.us-east.host.bsky.network|✅|✅|
 |https://amanita.us-east.host.bsky.network|✅|✅|
 |https://lionsmane.us-east.host.bsky.network|✅|✅|
@@ -296,7 +296,7 @@ Last Updated: 2024-02-22T07:56:25.924314
 |https://bsky.social-hell.uk|❌|❓|
 |http://localhost:8080/|❌|❓|
 |https://pds.staging.bteklabs.com|❌|❓|
-|https://afternooncurry.com|✅|✅|
+|https://afternooncurry.com|❌|❓|
 |https://bsky.whoverse.nexus|❌|❓|
 |https://zima.ge|✅|✅|
 |https://bsk.lukas-diekmann.de|❌|❓|
@@ -398,7 +398,7 @@ Last Updated: 2024-02-22T07:56:25.924314
 |https://pds.ssauer.co.za|❌|❓|
 |https://furartist.art|❌|❓|
 |https://void.zct-mrl.com|✅|✅|
-|https://bluesky.migennes.org|✅|✅|
+|https://bluesky.migennes.org|❌|❓|
 |https://bsky.meis.space|❌|❓|
 |https://bs.raccoon-city.at|❌|❓|
 |https://belana.epicgreen.nl|❌|❓|
@@ -410,7 +410,7 @@ Last Updated: 2024-02-22T07:56:25.924314
 |https://siriussocial.de|✅|✅|
 |https://bsky.kemono.in.th|❌|❓|
 |https://bsky.ponscele.fr|✅|✅|
-|https://bluesky.animint.fr|✅|✅|
+|https://bluesky.animint.fr|❌|❓|
 |https://sardine.pics|❌|❓|
 |https://baisodro.me|✅|✅|
 |https://bluesky-pds.fly.dev|❌|❓|
