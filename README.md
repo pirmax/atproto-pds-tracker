@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-22T15:25:03.021352
+Last Updated: 2024-02-22T15:33:46.617209
 
 ## **plc.directory**
 
@@ -24,7 +24,7 @@ Last Updated: 2024-02-22T15:25:03.021352
 |https://pds.example.com|❌|❓|
 |https://redocen.one|❌|❓|
 |http://localhost:12025|❌|❓|
-|https://rebroad.com|✅|✅|
+|https://rebroad.com|❌|❓|
 |https://pds.dev.retr0.id|❌|❓|
 |http://localhost:62912|❌|❓|
 |http://localhost:62923|❌|❓|
@@ -65,7 +65,7 @@ Last Updated: 2024-02-22T15:25:03.021352
 |https://at.syui.ai|❌|❓|
 |https://n.redocean.one|❌|❓|
 |https://sandbox.whyr.us|❌|❓|
-|https://pds.dholms.xyz|✅|✅|
+|https://pds.dholms.xyz|❌|❓|
 |https://asia.friendlypds.cloud|❌|❓|
 |https://alt.dholms.xyz|❌|❓|
 |https://pds.anshnanda.com|❌|❓|
@@ -352,7 +352,7 @@ Last Updated: 2024-02-22T15:25:03.021352
 |https://fed.brid.gy|✅|✅|
 |https://mdthh.de|❌|❓|
 |https://equus.quest|❌|❓|
-|https://rebroad.com|✅|✅|
+|https://rebroad.com|❌|❓|
 |https://pds.hazyville.com|❌|❓|
 |https://rent-a-shitstorm.eu|✅|✅|
 |https://bskies.de|❌|❓|
@@ -398,7 +398,7 @@ Last Updated: 2024-02-22T15:25:03.021352
 |https://pds.ssauer.co.za|❌|❓|
 |https://furartist.art|❌|❓|
 |https://void.zct-mrl.com|✅|✅|
-|https://bluesky.migennes.org|❌|❓|
+|https://bluesky.migennes.org|✅|✅|
 |https://bsky.meis.space|❌|❓|
 |https://bs.raccoon-city.at|❌|❓|
 |https://belana.epicgreen.nl|❌|❓|
@@ -438,7 +438,7 @@ Last Updated: 2024-02-22T15:25:03.021352
 |https://bsky.softwhere.ca|❌|❓|
 |https://wkswan.com|✅|✅|
 |https://aituns.com|❌|❓|
-|https://italiansky.mooo.com|✅|✅|
+|https://italiansky.mooo.com|❌|❓|
 |https://sky.n3otrax.fr|❌|❓|
 |https://bsky.powerg.love|✅|✅|
 |https://atproto.brid.gy/|✅|✅|
