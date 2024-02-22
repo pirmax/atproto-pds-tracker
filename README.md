@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-22T19:32:50.404007
+Last Updated: 2024-02-22T19:48:30.256177
 
 ## **plc.directory**
 
@@ -288,7 +288,7 @@ Last Updated: 2024-02-22T19:32:50.404007
 |https://localhost:8080|❌|❓|
 |https://bsky-test.harashio.jp|❌|❓|
 |https://bsky.awaken.page|❌|❓|
-|https://bum.ninja|✅|✅|
+|https://bum.ninja|❌|❓|
 |https://purplesky.sesilaso.com|❌|❓|
 |https://bsky.davidfernandez.xyz|❌|❓|
 |https://vengeful.eu|✅|✅|
@@ -333,7 +333,7 @@ Last Updated: 2024-02-22T19:32:50.404007
 |https://atptest.lep.wtf|✅|✅|
 |https://galaxy.neo7.kim|❌|❓|
 |https://broad.re|❌|❓|
-|https://fed.brid.gy/|❌|❓|
+|https://fed.brid.gy/|✅|✅|
 |https://bsky.kwilium.xyz|❌|❓|
 |https://sky.hideside.de|✅|✅|
 |https://pds.jpco.io|❌|❓|
@@ -506,7 +506,7 @@ Last Updated: 2024-02-22T19:32:50.404007
 |https://gil-archlinux|❌|❓|
 |https://hosseinnasiri.ir|❌|❓|
 |https://m.cliq.buzz|❌|❓|
-|https://bsky.iame.li|❌|❓|
+|https://bsky.iame.li|✅|✅|
 |https://moseswynn.com|❌|❓|
 |https://pds.brennon.tech|❌|❓|
 
