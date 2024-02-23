@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-23T19:58:37.188218
+Last Updated: 2024-02-23T20:07:18.598184
 
 ## **plc.directory**
 
@@ -398,7 +398,7 @@ Last Updated: 2024-02-23T19:58:37.188218
 |https://pds.ssauer.co.za|❌|❓|
 |https://furartist.art|❌|❓|
 |https://void.zct-mrl.com|✅|✅|
-|https://bluesky.migennes.org|❌|❓|
+|https://bluesky.migennes.org|✅|✅|
 |https://bsky.meis.space|❌|❓|
 |https://bs.raccoon-city.at|❌|❓|
 |https://belana.epicgreen.nl|❌|❓|
@@ -506,7 +506,7 @@ Last Updated: 2024-02-23T19:58:37.188218
 |https://gil-archlinux|❌|❓|
 |https://hosseinnasiri.ir|❌|❓|
 |https://m.cliq.buzz|❌|❓|
-|https://bsky.iame.li|✅|✅|
+|https://bsky.iame.li|❌|❓|
 |https://moseswynn.com|❌|❓|
 |https://pds.brennon.tech|❌|❓|
 
