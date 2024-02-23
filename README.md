@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-23T15:23:48.297967
+Last Updated: 2024-02-23T15:33:37.399715
 
 ## **plc.directory**
 
@@ -13,7 +13,7 @@ Last Updated: 2024-02-23T15:23:48.297967
 |https://bluesky.nokotaro.com|❌|❓|
 |https://stems.social|❌|❓|
 |https://bsky.sacckey.dev|❌|❓|
-|https://kitsune.nexus|❌|❓|
+|https://kitsune.nexus|✅|✅|
 |https://neosky.dev|❌|❓|
 |https://furmeet.me|✅|✅|
 |https://bsky.syui.ai|❌|❓|
@@ -76,7 +76,7 @@ Last Updated: 2024-02-23T15:23:48.297967
 |https://hellthread.pro|✅|✅|
 |https://bsky.pupbrained.xyz|❌|❓|
 |https://henshaw.org|✅|✅|
-|https://pds.canidae.systems|✅|✅|
+|https://pds.canidae.systems|❌|❓|
 |https://pds.jet.tf|❌|❓|
 |https://bsky.flicknow.xyz|❌|❓|
 |https://thomasjerome.com|❌|❓|
@@ -398,7 +398,7 @@ Last Updated: 2024-02-23T15:23:48.297967
 |https://pds.ssauer.co.za|❌|❓|
 |https://furartist.art|❌|❓|
 |https://void.zct-mrl.com|✅|✅|
-|https://bluesky.migennes.org|✅|✅|
+|https://bluesky.migennes.org|❌|❓|
 |https://bsky.meis.space|❌|❓|
 |https://bs.raccoon-city.at|❌|❓|
 |https://belana.epicgreen.nl|❌|❓|
