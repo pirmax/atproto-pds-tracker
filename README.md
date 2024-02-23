@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-23T20:46:47.313910
+Last Updated: 2024-02-23T21:03:09.418358
 
 ## **plc.directory**
 
@@ -291,12 +291,12 @@ Last Updated: 2024-02-23T20:46:47.313910
 |https://bum.ninja|✅|✅|
 |https://purplesky.sesilaso.com|❌|❓|
 |https://bsky.davidfernandez.xyz|❌|❓|
-|https://vengeful.eu|✅|✅|
+|https://vengeful.eu|❌|❓|
 |https://draconic.host|❌|❓|
 |https://bsky.social-hell.uk|❌|❓|
 |http://localhost:8080/|❌|❓|
 |https://pds.staging.bteklabs.com|❌|❓|
-|https://afternooncurry.com|❌|❓|
+|https://afternooncurry.com|✅|✅|
 |https://bsky.whoverse.nexus|❌|❓|
 |https://zima.ge|✅|✅|
 |https://bsk.lukas-diekmann.de|❌|❓|
