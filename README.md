@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-23T13:05:05.612939
+Last Updated: 2024-02-23T13:15:03.905331
 
 ## **plc.directory**
 
@@ -324,7 +324,7 @@ Last Updated: 2024-02-23T13:05:05.612939
 |https://bluesky.jayp.io|❌|❓|
 |https://this-is-epic.space|✅|✅|
 |https://tsuki.social|❌|❓|
-|https://x-mweya.duckdns.org|❌|❓|
+|https://x-mweya.duckdns.org|✅|✅|
 |https://fraudulent.link|❌|❓|
 |https://utatane.blue|❌|❓|
 |https://b.browsersource.dev|❌|❓|
@@ -428,7 +428,7 @@ Last Updated: 2024-02-23T13:05:05.612939
 |https://bsky.akurosia.de|✅|✅|
 |https://bsky.netopia.me|❌|❓|
 |https://bsky.favoslav.cz|❌|❓|
-|https://blugrisbi.es|✅|✅|
+|https://blugrisbi.es|❌|❓|
 |https://bsky.maxkeb.fr|❌|❓|
 |https://bsky.adrianrey.dev|❌|❓|
 |https://bsky.action0.com|✅|✅|
