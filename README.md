@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-23T08:48:24.247206
+Last Updated: 2024-02-23T08:56:58.698072
 
 ## **plc.directory**
 
@@ -262,7 +262,7 @@ Last Updated: 2024-02-23T08:48:24.247206
 |https://pdsbx.barine.co|❌|❓|
 |https://pds-dev.upcraft.dev|✅|✅|
 |https://lil.mn|❌|❓|
-|https://bsky.bulles.social|❌|❓|
+|https://bsky.bulles.social|✅|✅|
 |https://nextsky.tokimeki.blue|❌|❓|
 |https://pds-test.wackywolf.xyz|❌|❓|
 |https://xfxc.net|❌|❓|
@@ -291,7 +291,7 @@ Last Updated: 2024-02-23T08:48:24.247206
 |https://bum.ninja|✅|✅|
 |https://purplesky.sesilaso.com|❌|❓|
 |https://bsky.davidfernandez.xyz|❌|❓|
-|https://vengeful.eu|✅|✅|
+|https://vengeful.eu|❌|❓|
 |https://draconic.host|❌|❓|
 |https://bsky.social-hell.uk|❌|❓|
 |http://localhost:8080/|❌|❓|
@@ -333,7 +333,7 @@ Last Updated: 2024-02-23T08:48:24.247206
 |https://atptest.lep.wtf|✅|✅|
 |https://galaxy.neo7.kim|❌|❓|
 |https://broad.re|❌|❓|
-|https://fed.brid.gy/|❌|❓|
+|https://fed.brid.gy/|✅|✅|
 |https://bsky.kwilium.xyz|❌|❓|
 |https://sky.hideside.de|✅|✅|
 |https://pds.jpco.io|❌|❓|
@@ -441,7 +441,7 @@ Last Updated: 2024-02-23T08:48:24.247206
 |https://italiansky.mooo.com|✅|✅|
 |https://sky.n3otrax.fr|❌|❓|
 |https://bsky.powerg.love|✅|✅|
-|https://atproto.brid.gy/|✅|✅|
+|https://atproto.brid.gy/|❌|❓|
 |https://abluehope.com|❌|❓|
 |https://bsky.mrsquaare.fr|❌|❓|
 |https://montpeyroux.social|✅|✅|
