@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-24T23:40:23.803182
+Last Updated: 2024-02-24T23:56:29.295473
 
 ## **plc.directory**
 
@@ -349,7 +349,7 @@ Last Updated: 2024-02-24T23:40:23.803182
 |https://bingerin.de|❌|❓|
 |https://blueskyde.cloud|❌|❓|
 |https://bsky.primeapps.net|✅|✅|
-|https://fed.brid.gy|✅|✅|
+|https://fed.brid.gy|❌|❓|
 |https://mdthh.de|❌|❓|
 |https://equus.quest|❌|❓|
 |https://rebroad.com|✅|✅|
@@ -471,7 +471,7 @@ Last Updated: 2024-02-24T23:40:23.803182
 |https://bsky-hcc8588.f5.si|❌|❓|
 |https://bingerin.online|❌|❓|
 |https://pdshosting.xyz|❌|❓|
-|https://bs.mymx.me|✅|✅|
+|https://bs.mymx.me|❌|❓|
 |https://harrmitchexp.serveo.net|❌|❓|
 |https://pds.y-force.info|❌|❓|
 |https://hexside.at|❌|❓|
