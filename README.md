@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-24T22:06:23.013737
+Last Updated: 2024-02-24T22:17:05.147198
 
 ## **plc.directory**
 
@@ -265,7 +265,7 @@ Last Updated: 2024-02-24T22:06:23.013737
 |https://bsky.bulles.social|✅|✅|
 |https://nextsky.tokimeki.blue|❌|❓|
 |https://pds-test.wackywolf.xyz|❌|❓|
-|https://xfxc.net|❌|❓|
+|https://xfxc.net|✅|✅|
 |https://bsky.l8bs.de|❌|❓|
 |https://bluesky.vipledev.fr|❌|❓|
 |https://bsky.oak.li|❌|❓|
@@ -296,7 +296,7 @@ Last Updated: 2024-02-24T22:06:23.013737
 |https://bsky.social-hell.uk|❌|❓|
 |http://localhost:8080/|❌|❓|
 |https://pds.staging.bteklabs.com|❌|❓|
-|https://afternooncurry.com|❌|❓|
+|https://afternooncurry.com|✅|✅|
 |https://bsky.whoverse.nexus|❌|❓|
 |https://zima.ge|✅|✅|
 |https://bsk.lukas-diekmann.de|❌|❓|
@@ -471,7 +471,7 @@ Last Updated: 2024-02-24T22:06:23.013737
 |https://bsky-hcc8588.f5.si|❌|❓|
 |https://bingerin.online|❌|❓|
 |https://pdshosting.xyz|❌|❓|
-|https://bs.mymx.me|❌|❓|
+|https://bs.mymx.me|✅|✅|
 |https://harrmitchexp.serveo.net|❌|❓|
 |https://pds.y-force.info|✅|✅|
 |https://hexside.at|❌|❓|
