@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-25T00:33:05.098396
+Last Updated: 2024-02-25T00:56:11.702503
 
 ## **plc.directory**
 
@@ -13,7 +13,7 @@ Last Updated: 2024-02-25T00:33:05.098396
 |https://bluesky.nokotaro.com|❌|❓|
 |https://stems.social|❌|❓|
 |https://bsky.sacckey.dev|❌|❓|
-|https://kitsune.nexus|❌|❓|
+|https://kitsune.nexus|✅|✅|
 |https://neosky.dev|❌|❓|
 |https://furmeet.me|✅|✅|
 |https://bsky.syui.ai|❌|❓|
@@ -265,7 +265,7 @@ Last Updated: 2024-02-25T00:33:05.098396
 |https://bsky.bulles.social|✅|✅|
 |https://nextsky.tokimeki.blue|❌|❓|
 |https://pds-test.wackywolf.xyz|❌|❓|
-|https://xfxc.net|✅|✅|
+|https://xfxc.net|❌|❓|
 |https://bsky.l8bs.de|❌|❓|
 |https://bluesky.vipledev.fr|❌|❓|
 |https://bsky.oak.li|❌|❓|
@@ -284,7 +284,7 @@ Last Updated: 2024-02-25T00:33:05.098396
 |https://alice-snow.me|❌|❓|
 |https://pds.terrenly.com|❌|❓|
 |https://at.openri.org|❌|❓|
-|https://fjall.net|✅|✅|
+|https://fjall.net|❌|❓|
 |https://localhost:8080|❌|❓|
 |https://bsky-test.harashio.jp|❌|❓|
 |https://bsky.awaken.page|❌|❓|
@@ -441,7 +441,7 @@ Last Updated: 2024-02-25T00:33:05.098396
 |https://italiansky.mooo.com|✅|✅|
 |https://sky.n3otrax.fr|❌|❓|
 |https://bsky.powerg.love|✅|✅|
-|https://atproto.brid.gy/|❌|❓|
+|https://atproto.brid.gy/|✅|✅|
 |https://abluehope.com|❌|❓|
 |https://bsky.mrsquaare.fr|❌|❓|
 |https://montpeyroux.social|✅|✅|
@@ -473,7 +473,7 @@ Last Updated: 2024-02-25T00:33:05.098396
 |https://pdshosting.xyz|❌|❓|
 |https://bs.mymx.me|❌|❓|
 |https://harrmitchexp.serveo.net|❌|❓|
-|https://pds.y-force.info|❌|❓|
+|https://pds.y-force.info|✅|✅|
 |https://hexside.at|❌|❓|
 |https://bsky.wstrn.world|❌|❓|
 |https://bk.bitfyer.net|❌|❓|
