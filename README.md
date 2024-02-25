@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-25T01:28:28.502487
+Last Updated: 2024-02-25T01:49:51.970603
 
 ## **plc.directory**
 
@@ -265,7 +265,7 @@ Last Updated: 2024-02-25T01:28:28.502487
 |https://bsky.bulles.social|✅|✅|
 |https://nextsky.tokimeki.blue|❌|❓|
 |https://pds-test.wackywolf.xyz|❌|❓|
-|https://xfxc.net|❌|❓|
+|https://xfxc.net|✅|✅|
 |https://bsky.l8bs.de|❌|❓|
 |https://bluesky.vipledev.fr|❌|❓|
 |https://bsky.oak.li|❌|❓|
@@ -284,7 +284,7 @@ Last Updated: 2024-02-25T01:28:28.502487
 |https://alice-snow.me|❌|❓|
 |https://pds.terrenly.com|❌|❓|
 |https://at.openri.org|❌|❓|
-|https://fjall.net|❌|❓|
+|https://fjall.net|✅|✅|
 |https://localhost:8080|❌|❓|
 |https://bsky-test.harashio.jp|❌|❓|
 |https://bsky.awaken.page|❌|❓|
@@ -296,7 +296,7 @@ Last Updated: 2024-02-25T01:28:28.502487
 |https://bsky.social-hell.uk|❌|❓|
 |http://localhost:8080/|❌|❓|
 |https://pds.staging.bteklabs.com|❌|❓|
-|https://afternooncurry.com|✅|✅|
+|https://afternooncurry.com|❌|❓|
 |https://bsky.whoverse.nexus|❌|❓|
 |https://zima.ge|✅|✅|
 |https://bsk.lukas-diekmann.de|❌|❓|
@@ -438,7 +438,7 @@ Last Updated: 2024-02-25T01:28:28.502487
 |https://bsky.softwhere.ca|❌|❓|
 |https://wkswan.com|✅|✅|
 |https://aituns.com|❌|❓|
-|https://italiansky.mooo.com|✅|✅|
+|https://italiansky.mooo.com|❌|❓|
 |https://sky.n3otrax.fr|❌|❓|
 |https://bsky.powerg.love|✅|✅|
 |https://atproto.brid.gy/|✅|✅|
