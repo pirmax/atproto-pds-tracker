@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-25T06:28:42.028803
+Last Updated: 2024-02-25T06:45:03.456970
 
 ## **plc.directory**
 
@@ -296,7 +296,7 @@ Last Updated: 2024-02-25T06:28:42.028803
 |https://bsky.social-hell.uk|❌|❓|
 |http://localhost:8080/|❌|❓|
 |https://pds.staging.bteklabs.com|❌|❓|
-|https://afternooncurry.com|✅|✅|
+|https://afternooncurry.com|❌|❓|
 |https://bsky.whoverse.nexus|❌|❓|
 |https://zima.ge|✅|✅|
 |https://bsk.lukas-diekmann.de|❌|❓|
@@ -384,7 +384,7 @@ Last Updated: 2024-02-25T06:28:42.028803
 |http://localhost:12025|❌|❓|
 |https://b.schroedingerscat.org|✅|✅|
 |https://bskysandbox.edavis.dev|❌|❓|
-|https://social.derg.fr|❌|❓|
+|https://social.derg.fr|✅|✅|
 |https://hug.mx|❌|❓|
 |https://bsky.zoeyvid.de|✅|✅|
 |https://maddesjg.eu|❌|❓|
@@ -441,7 +441,7 @@ Last Updated: 2024-02-25T06:28:42.028803
 |https://italiansky.mooo.com|✅|✅|
 |https://sky.n3otrax.fr|❌|❓|
 |https://bsky.powerg.love|✅|✅|
-|https://atproto.brid.gy/|✅|✅|
+|https://atproto.brid.gy/|❌|❓|
 |https://abluehope.com|❌|❓|
 |https://bsky.mrsquaare.fr|❌|❓|
 |https://montpeyroux.social|✅|✅|
