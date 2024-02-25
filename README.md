@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-25T04:15:36.025349
+Last Updated: 2024-02-25T04:28:12.288859
 
 ## **plc.directory**
 
@@ -284,7 +284,7 @@ Last Updated: 2024-02-25T04:15:36.025349
 |https://alice-snow.me|❌|❓|
 |https://pds.terrenly.com|❌|❓|
 |https://at.openri.org|❌|❓|
-|https://fjall.net|❌|❓|
+|https://fjall.net|✅|✅|
 |https://localhost:8080|❌|❓|
 |https://bsky-test.harashio.jp|❌|❓|
 |https://bsky.awaken.page|❌|❓|
@@ -410,7 +410,7 @@ Last Updated: 2024-02-25T04:15:36.025349
 |https://siriussocial.de|✅|✅|
 |https://bsky.kemono.in.th|❌|❓|
 |https://bsky.ponscele.fr|✅|✅|
-|https://bluesky.animint.fr|❌|❓|
+|https://bluesky.animint.fr|✅|✅|
 |https://sardine.pics|❌|❓|
 |https://baisodro.me|✅|✅|
 |https://bluesky-pds.fly.dev|❌|❓|
