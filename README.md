@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-26T22:34:48.315618
+Last Updated: 2024-02-26T22:50:47.654108
 
 ## **plc.directory**
 
@@ -13,7 +13,7 @@ Last Updated: 2024-02-26T22:34:48.315618
 |https://bluesky.nokotaro.com|❌|❓|
 |https://stems.social|❌|❓|
 |https://bsky.sacckey.dev|❌|❓|
-|https://kitsune.nexus|❌|❓|
+|https://kitsune.nexus|✅|✅|
 |https://neosky.dev|❌|❓|
 |https://furmeet.me|✅|✅|
 |https://bsky.syui.ai|❌|❓|
@@ -75,7 +75,7 @@ Last Updated: 2024-02-26T22:34:48.315618
 |https://cloudcaine.thecubic.net|❌|❓|
 |https://hellthread.pro|✅|✅|
 |https://bsky.pupbrained.xyz|❌|❓|
-|https://henshaw.org|❌|❓|
+|https://henshaw.org|✅|✅|
 |https://pds.canidae.systems|❌|❓|
 |https://pds.jet.tf|❌|❓|
 |https://bsky.flicknow.xyz|❌|❓|
@@ -333,7 +333,7 @@ Last Updated: 2024-02-26T22:34:48.315618
 |https://atptest.lep.wtf|✅|✅|
 |https://galaxy.neo7.kim|❌|❓|
 |https://broad.re|❌|❓|
-|https://fed.brid.gy/|❌|❓|
+|https://fed.brid.gy/|✅|✅|
 |https://bsky.kwilium.xyz|❌|❓|
 |https://sky.hideside.de|✅|✅|
 |https://pds.jpco.io|❌|❓|
