@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-27T05:43:28.248807
+Last Updated: 2024-02-27T05:52:15.728884
 
 ## **plc.directory**
 
@@ -452,7 +452,7 @@ Last Updated: 2024-02-27T05:43:28.248807
 |https://bs.foss.gay|❌|❓|
 |https://bsky.fracergu.dev|❌|❓|
 |https://briiz.com|❌|❓|
-|https://uat.lol|❌|❓|
+|https://uat.lol|✅|✅|
 |https://bsky.c-onner.de|❌|❓|
 |https://americocarelli.com.br|❌|❓|
 |https://derpzilla.net|✅|✅|
