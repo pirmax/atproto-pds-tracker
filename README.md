@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-27T07:53:07.702676
+Last Updated: 2024-02-27T08:10:08.183181
 
 ## **plc.directory**
 
@@ -388,7 +388,7 @@ Last Updated: 2024-02-27T07:53:07.702676
 |https://hug.mx|❌|❓|
 |https://bsky.zoeyvid.de|✅|✅|
 |https://maddesjg.eu|❌|❓|
-|https://joost.social|❌|❓|
+|https://joost.social|✅|✅|
 |https://journalist.social|❌|❓|
 |https://creaton.social|✅|✅|
 |https://nerdynate.io|❌|❓|
@@ -425,7 +425,7 @@ Last Updated: 2024-02-27T07:53:07.702676
 |https://qcrg.space|❌|❓|
 |https://pds.qcrg.space|❌|❓|
 |https://databurst.org|❌|❓|
-|https://bsky.akurosia.de|✅|✅|
+|https://bsky.akurosia.de|❌|❓|
 |https://bsky.netopia.me|❌|❓|
 |https://bsky.favoslav.cz|❌|❓|
 |https://blugrisbi.es|✅|✅|
