@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-27T19:57:18.034737
+Last Updated: 2024-02-27T20:15:20.991780
 
 ## **plc.directory**
 
@@ -73,7 +73,7 @@ Last Updated: 2024-02-27T19:57:18.034737
 |https://take2.dholms.xyz|❌|❓|
 |https://pds.dev.retr0.id|❌|❓|
 |https://cloudcaine.thecubic.net|❌|❓|
-|https://hellthread.pro|❌|❓|
+|https://hellthread.pro|✅|✅|
 |https://bsky.pupbrained.xyz|❌|❓|
 |https://henshaw.org|✅|✅|
 |https://pds.canidae.systems|❌|❓|
@@ -208,7 +208,7 @@ Last Updated: 2024-02-27T19:57:18.034737
 |https://tenshicorn.dog|❌|❓|
 |https://pds.bdev.loves.reisen|❌|❓|
 |https://d-twitter.com|❌|❓|
-|https://furry.nexus|✅|✅|
+|https://furry.nexus|❌|❓|
 |https://example.com|❌|❓|
 |https://linuxnerd.party|❌|❓|
 |https://server.cafepots.net|❌|❓|
