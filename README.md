@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-28T14:47:12.316156
+Last Updated: 2024-02-28T15:03:41.953299
 
 ## **plc.directory**
 
@@ -73,7 +73,7 @@ Last Updated: 2024-02-28T14:47:12.316156
 |https://take2.dholms.xyz|❌|❓|
 |https://pds.dev.retr0.id|❌|❓|
 |https://cloudcaine.thecubic.net|❌|❓|
-|https://hellthread.pro|✅|✅|
+|https://hellthread.pro|❌|❓|
 |https://bsky.pupbrained.xyz|❌|❓|
 |https://henshaw.org|✅|✅|
 |https://pds.canidae.systems|❌|❓|
@@ -384,7 +384,7 @@ Last Updated: 2024-02-28T14:47:12.316156
 |http://localhost:12025|❌|❓|
 |https://b.schroedingerscat.org|✅|✅|
 |https://bskysandbox.edavis.dev|❌|❓|
-|https://social.derg.fr|❌|❓|
+|https://social.derg.fr|✅|✅|
 |https://hug.mx|❌|❓|
 |https://bsky.zoeyvid.de|✅|✅|
 |https://maddesjg.eu|❌|❓|
@@ -441,7 +441,7 @@ Last Updated: 2024-02-28T14:47:12.316156
 |https://italiansky.mooo.com|✅|✅|
 |https://sky.n3otrax.fr|❌|❓|
 |https://bsky.powerg.love|✅|✅|
-|https://atproto.brid.gy/|❌|❓|
+|https://atproto.brid.gy/|✅|✅|
 |https://abluehope.com|❌|❓|
 |https://bsky.mrsquaare.fr|❌|❓|
 |https://montpeyroux.social|✅|✅|
