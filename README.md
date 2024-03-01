@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-03-01T00:10:19.583643
+Last Updated: 2024-03-01T00:35:00.430244
 
 ## **plc.directory**
 
@@ -24,7 +24,7 @@ Last Updated: 2024-03-01T00:10:19.583643
 |https://pds.example.com|❌|❓|
 |https://redocen.one|❌|❓|
 |http://localhost:12025|❌|❓|
-|https://rebroad.com|✅|✅|
+|https://rebroad.com|❌|❓|
 |https://pds.dev.retr0.id|❌|❓|
 |http://localhost:62912|❌|❓|
 |http://localhost:62923|❌|❓|
