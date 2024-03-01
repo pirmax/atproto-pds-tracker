@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-03-01T14:17:21.023526
+Last Updated: 2024-03-01T14:28:26.893772
 
 ## **plc.directory**
 
@@ -307,7 +307,7 @@ Last Updated: 2024-03-01T14:17:21.023526
 |https://bsky.femtoampere.art|❌|❓|
 |https://snowderg.gay|❌|❓|
 |https://social.anineko.net|❌|❓|
-|https://bsky-v3.dolciss.net|✅|✅|
+|https://bsky-v3.dolciss.net|❌|❓|
 |https://bs.lf.je|❌|❓|
 |https://pds.jaz.sh|✅|✅|
 |https://atproto.eralyon.net|✅|✅|
