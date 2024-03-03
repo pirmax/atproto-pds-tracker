@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-03-03T22:07:33.905727
+Last Updated: 2024-03-03T22:17:34.814721
 
 ## **plc.directory**
 
@@ -354,7 +354,7 @@ Last Updated: 2024-03-03T22:07:33.905727
 |https://equus.quest|❌|❓|
 |https://rebroad.com|✅|✅|
 |https://pds.hazyville.com|❌|❓|
-|https://rent-a-shitstorm.eu|❌|❓|
+|https://rent-a-shitstorm.eu|✅|✅|
 |https://bskies.de|❌|❓|
 |https://due-it.com|❌|❓|
 |https://blue.cb-homelab.de|❌|❓|
