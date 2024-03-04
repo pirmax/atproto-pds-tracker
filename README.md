@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-03-04T20:16:20.510095
+Last Updated: 2024-03-04T20:27:15.448012
 
 ## **plc.directory**
 
@@ -103,7 +103,7 @@ Last Updated: 2024-03-04T20:16:20.510095
 |https://bs.bridgey.dev|❌|❓|
 |https://sandbox.pds.h3y6e.com|❌|❓|
 |https://dev.otaso-sky.blue|❌|❓|
-|https://labo.moe|❌|❓|
+|https://labo.moe|✅|✅|
 |https://test-pds.gwei.cz|❌|❓|
 |https://bsky.coma.social|❌|❓|
 |https://robramos.xyz|❌|❓|
@@ -441,7 +441,7 @@ Last Updated: 2024-03-04T20:16:20.510095
 |https://italiansky.mooo.com|✅|✅|
 |https://sky.n3otrax.fr|❌|❓|
 |https://bsky.powerg.love|✅|✅|
-|https://atproto.brid.gy/|✅|✅|
+|https://atproto.brid.gy/|❌|❓|
 |https://abluehope.com|❌|❓|
 |https://bsky.mrsquaare.fr|❌|❓|
 |https://montpeyroux.social|✅|✅|
