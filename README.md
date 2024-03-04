@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-03-04T02:11:05.376883
+Last Updated: 2024-03-04T02:45:37.547653
 
 ## **plc.directory**
 
@@ -13,7 +13,7 @@ Last Updated: 2024-03-04T02:11:05.376883
 |https://bluesky.nokotaro.com|❌|❓|
 |https://stems.social|❌|❓|
 |https://bsky.sacckey.dev|❌|❓|
-|https://kitsune.nexus|✅|✅|
+|https://kitsune.nexus|❌|❓|
 |https://neosky.dev|❌|❓|
 |https://furmeet.me|✅|✅|
 |https://bsky.syui.ai|❌|❓|
@@ -75,7 +75,7 @@ Last Updated: 2024-03-04T02:11:05.376883
 |https://cloudcaine.thecubic.net|❌|❓|
 |https://hellthread.pro|✅|✅|
 |https://bsky.pupbrained.xyz|❌|❓|
-|https://henshaw.org|❌|❓|
+|https://henshaw.org|✅|✅|
 |https://pds.canidae.systems|❌|❓|
 |https://pds.jet.tf|❌|❓|
 |https://bsky.flicknow.xyz|❌|❓|
@@ -324,7 +324,7 @@ Last Updated: 2024-03-04T02:11:05.376883
 |https://bluesky.jayp.io|❌|❓|
 |https://this-is-epic.space|✅|✅|
 |https://tsuki.social|✅|✅|
-|https://x-mweya.duckdns.org|✅|✅|
+|https://x-mweya.duckdns.org|❌|❓|
 |https://fraudulent.link|❌|❓|
 |https://utatane.blue|❌|❓|
 |https://b.browsersource.dev|❌|❓|
@@ -440,7 +440,7 @@ Last Updated: 2024-03-04T02:11:05.376883
 |https://aituns.com|❌|❓|
 |https://italiansky.mooo.com|✅|✅|
 |https://sky.n3otrax.fr|❌|❓|
-|https://bsky.powerg.love|✅|✅|
+|https://bsky.powerg.love|❌|❓|
 |https://atproto.brid.gy/|✅|✅|
 |https://abluehope.com|❌|❓|
 |https://bsky.mrsquaare.fr|❌|❓|
