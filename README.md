@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-03-06T01:25:43.006744
+Last Updated: 2024-03-06T01:46:22.848986
 
 ## **plc.directory**
 
@@ -463,7 +463,7 @@ Last Updated: 2024-03-06T01:25:43.006744
 |https://blues.psionprotocol.com|❌|❓|
 |https://bs.corrigan.xyz|❌|❓|
 |https://pds.octelly.lol|❌|❓|
-|https://is.lalafell.fun|❌|❓|
+|https://is.lalafell.fun|✅|✅|
 |https://oyster.us-east.host.bsky.network|✅|✅|
 |https://bsky.retronerd.at|❌|❓|
 |https://bs.undreaming.org|❌|❓|
