@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-03-07T20:16:53.017778
+Last Updated: 2024-03-07T20:27:31.426946
 
 ## **plc.directory**
 
@@ -296,7 +296,7 @@ Last Updated: 2024-03-07T20:16:53.017778
 |https://bsky.social-hell.uk|❌|❓|
 |http://localhost:8080/|❌|❓|
 |https://pds.staging.bteklabs.com|❌|❓|
-|https://afternooncurry.com|❌|❓|
+|https://afternooncurry.com|✅|✅|
 |https://bsky.whoverse.nexus|❌|❓|
 |https://zima.ge|❌|❓|
 |https://bsk.lukas-diekmann.de|❌|❓|
@@ -330,7 +330,7 @@ Last Updated: 2024-03-07T20:16:53.017778
 |https://b.browsersource.dev|❌|❓|
 |https://bbs.fraudulent.link|❌|❓|
 |https://foo.example|❌|❓|
-|https://atptest.lep.wtf|✅|✅|
+|https://atptest.lep.wtf|❌|❓|
 |https://galaxy.neo7.kim|❌|❓|
 |https://broad.re|❌|❓|
 |https://fed.brid.gy/|✅|✅|
@@ -349,7 +349,7 @@ Last Updated: 2024-03-07T20:16:53.017778
 |https://bingerin.de|❌|❓|
 |https://blueskyde.cloud|❌|❓|
 |https://bsky.primeapps.net|✅|✅|
-|https://fed.brid.gy|✅|✅|
+|https://fed.brid.gy|❌|❓|
 |https://mdthh.de|❌|❓|
 |https://equus.quest|❌|❓|
 |https://rebroad.com|✅|✅|
