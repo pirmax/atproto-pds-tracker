@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-03-07T09:36:45.310
+Last Updated: 2024-03-07T09:45:00.952973
 
 ## **plc.directory**
 
@@ -203,7 +203,7 @@ Last Updated: 2024-03-07T09:36:45.310
 |https://bsky.jakebrough.io|✅|✅|
 |https://protogen.world|❌|❓|
 |https://dev.skyport.me|❌|❓|
-|https://pds.tenshicorn.dog|✅|✅|
+|https://pds.tenshicorn.dog|❌|❓|
 |https://gluon.rkevin.dev|❌|❓|
 |https://tenshicorn.dog|❌|❓|
 |https://pds.bdev.loves.reisen|❌|❓|
@@ -324,7 +324,7 @@ Last Updated: 2024-03-07T09:36:45.310
 |https://bluesky.jayp.io|❌|❓|
 |https://this-is-epic.space|❌|❓|
 |https://tsuki.social|✅|✅|
-|https://x-mweya.duckdns.org|❌|❓|
+|https://x-mweya.duckdns.org|✅|✅|
 |https://fraudulent.link|❌|❓|
 |https://utatane.blue|❌|❓|
 |https://b.browsersource.dev|❌|❓|
