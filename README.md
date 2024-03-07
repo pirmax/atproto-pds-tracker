@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-03-07T00:46:27.185007
+Last Updated: 2024-03-07T01:12:43.652474
 
 ## **plc.directory**
 
@@ -226,7 +226,7 @@ Last Updated: 2024-03-07T00:46:27.185007
 |https://faroox.dev|❌|❓|
 |https://faroox.net|❌|❓|
 |https://atprotodev.badpacman.io|❌|❓|
-|https://bs.miichelle.moe|✅|✅|
+|https://bs.miichelle.moe|❌|❓|
 |https://fomp.blue|✅|✅|
 |https://hu-e.uk|❌|❓|
 |https://dev.pds.ruthenic.com|❌|❓|
@@ -349,7 +349,7 @@ Last Updated: 2024-03-07T00:46:27.185007
 |https://bingerin.de|❌|❓|
 |https://blueskyde.cloud|❌|❓|
 |https://bsky.primeapps.net|✅|✅|
-|https://fed.brid.gy|✅|✅|
+|https://fed.brid.gy|❌|❓|
 |https://mdthh.de|❌|❓|
 |https://equus.quest|❌|❓|
 |https://rebroad.com|✅|✅|
