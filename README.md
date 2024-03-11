@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-03-11T19:25:32.062736
+Last Updated: 2024-03-11T19:42:01.561833
 
 ## **plc.directory**
 
@@ -15,7 +15,7 @@ Last Updated: 2024-03-11T19:25:32.062736
 |https://bsky.sacckey.dev|❌|❓|
 |https://kitsune.nexus|✅|✅|
 |https://neosky.dev|❌|❓|
-|https://furmeet.me|❌|❓|
+|https://furmeet.me|✅|✅|
 |https://bsky.syui.ai|❌|❓|
 |http://localhost:3583|❌|❓|
 |https://atproto.forza7.org|❌|❓|
@@ -240,7 +240,7 @@ Last Updated: 2024-03-11T19:25:32.062736
 |https://blue-archive.social|✅|❌|
 |https://reckoneer.dev|❌|❓|
 |https://bsky.irodev.xyz|❌|❓|
-|https://arroba-pds.appspot.com|❌|❓|
+|https://arroba-pds.appspot.com|✅|✅|
 |https://chirpnest.net|❌|❓|
 |https://waypast.cool|❌|❓|
 |https://cumdmp.me|✅|✅|
@@ -438,7 +438,7 @@ Last Updated: 2024-03-11T19:25:32.062736
 |https://bsky.softwhere.ca|❌|❓|
 |https://wkswan.com|✅|✅|
 |https://aituns.com|❌|❓|
-|https://italiansky.mooo.com|❌|❓|
+|https://italiansky.mooo.com|✅|✅|
 |https://sky.n3otrax.fr|❌|❓|
 |https://bsky.powerg.love|✅|✅|
 |https://atproto.brid.gy/|✅|✅|
