@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-03-11T22:26:04.061544
+Last Updated: 2024-03-11T22:35:44.022943
 
 ## **plc.directory**
 
@@ -203,7 +203,7 @@ Last Updated: 2024-03-11T22:26:04.061544
 |https://bsky.jakebrough.io|✅|✅|
 |https://protogen.world|❌|❓|
 |https://dev.skyport.me|❌|❓|
-|https://pds.tenshicorn.dog|❌|❓|
+|https://pds.tenshicorn.dog|✅|✅|
 |https://gluon.rkevin.dev|❌|❓|
 |https://tenshicorn.dog|❌|❓|
 |https://pds.bdev.loves.reisen|❌|❓|
@@ -457,7 +457,7 @@ Last Updated: 2024-03-11T22:26:04.061544
 |https://americocarelli.com.br|❌|❓|
 |https://derpzilla.net|✅|❌|
 |https://musicproduction.world|❌|❓|
-|https://corgi.dance|❌|❓|
+|https://corgi.dance|✅|✅|
 |https://atproto.stereosteve.com|❌|❓|
 |https://casadeladra.ddnss.de|❌|❓|
 |https://blues.psionprotocol.com|❌|❓|
