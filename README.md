@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-03-12T16:00:16.496417
+Last Updated: 2024-03-12T16:08:26.001316
 
 ## **plc.directory**
 
@@ -506,7 +506,7 @@ Last Updated: 2024-03-12T16:00:16.496417
 |https://gil-archlinux|❌|❓|
 |https://hosseinnasiri.ir|❌|❓|
 |https://m.cliq.buzz|❌|❓|
-|https://bsky.iame.li|✅|✅|
+|https://bsky.iame.li|❌|❓|
 |https://moseswynn.com|❌|❓|
 |https://pds.brennon.tech|❌|❓|
 
