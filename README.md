@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-03-12T19:26:49.530243
+Last Updated: 2024-03-12T19:43:30.380048
 
 ## **plc.directory**
 
@@ -265,7 +265,7 @@ Last Updated: 2024-03-12T19:26:49.530243
 |https://bsky.bulles.social|✅|✅|
 |https://nextsky.tokimeki.blue|❌|❓|
 |https://pds-test.wackywolf.xyz|❌|❓|
-|https://xfxc.net|✅|✅|
+|https://xfxc.net|❌|❓|
 |https://bsky.l8bs.de|❌|❓|
 |https://bluesky.vipledev.fr|❌|❓|
 |https://bsky.oak.li|❌|❓|
@@ -284,7 +284,7 @@ Last Updated: 2024-03-12T19:26:49.530243
 |https://alice-snow.me|❌|❓|
 |https://pds.terrenly.com|❌|❓|
 |https://at.openri.org|❌|❓|
-|https://fjall.net|✅|✅|
+|https://fjall.net|❌|❓|
 |https://localhost:8080|❌|❓|
 |https://bsky-test.harashio.jp|❌|❓|
 |https://bsky.awaken.page|❌|❓|
@@ -324,7 +324,7 @@ Last Updated: 2024-03-12T19:26:49.530243
 |https://bluesky.jayp.io|❌|❓|
 |https://this-is-epic.space|❌|❓|
 |https://tsuki.social|✅|✅|
-|https://x-mweya.duckdns.org|❌|❓|
+|https://x-mweya.duckdns.org|✅|✅|
 |https://fraudulent.link|❌|❓|
 |https://utatane.blue|❌|❓|
 |https://b.browsersource.dev|❌|❓|
