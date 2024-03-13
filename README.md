@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-03-13T01:20:06.422527
+Last Updated: 2024-03-13T01:45:08.444408
 
 ## **plc.directory**
 
@@ -260,7 +260,7 @@ Last Updated: 2024-03-13T01:20:06.422527
 |https://sbx.barine.co|❌|❓|
 |https://at.syui.ai:3040|❌|❓|
 |https://pdsbx.barine.co|❌|❓|
-|https://pds-dev.upcraft.dev|❌|❓|
+|https://pds-dev.upcraft.dev|✅|✅|
 |https://lil.mn|❌|❓|
 |https://bsky.bulles.social|✅|✅|
 |https://nextsky.tokimeki.blue|❌|❓|
@@ -324,7 +324,7 @@ Last Updated: 2024-03-13T01:20:06.422527
 |https://bluesky.jayp.io|❌|❓|
 |https://this-is-epic.space|❌|❓|
 |https://tsuki.social|✅|✅|
-|https://x-mweya.duckdns.org|✅|✅|
+|https://x-mweya.duckdns.org|❌|❓|
 |https://fraudulent.link|❌|❓|
 |https://utatane.blue|❌|❓|
 |https://b.browsersource.dev|❌|❓|
