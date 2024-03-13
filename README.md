@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-03-13T05:39:49.239754
+Last Updated: 2024-03-13T05:48:27.989208
 
 ## **plc.directory**
 
@@ -203,7 +203,7 @@ Last Updated: 2024-03-13T05:39:49.239754
 |https://bsky.jakebrough.io|✅|✅|
 |https://protogen.world|❌|❓|
 |https://dev.skyport.me|❌|❓|
-|https://pds.tenshicorn.dog|✅|✅|
+|https://pds.tenshicorn.dog|❌|❓|
 |https://gluon.rkevin.dev|❌|❓|
 |https://tenshicorn.dog|❌|❓|
 |https://pds.bdev.loves.reisen|❌|❓|
@@ -464,7 +464,7 @@ Last Updated: 2024-03-13T05:39:49.239754
 |https://bs.corrigan.xyz|❌|❓|
 |https://pds.octelly.lol|❌|❓|
 |https://is.lalafell.fun|✅|✅|
-|https://oyster.us-east.host.bsky.network|❌|❓|
+|https://oyster.us-east.host.bsky.network|✅|✅|
 |https://bsky.retronerd.at|❌|❓|
 |https://bs.undreaming.org|❌|❓|
 |https://social.born2beroot.org|❌|❓|
