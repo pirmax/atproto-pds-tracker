@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-03-14T09:59:23.445747
+Last Updated: 2024-03-14T10:17:56.605848
 
 ## **plc.directory**
 
@@ -324,7 +324,7 @@ Last Updated: 2024-03-14T09:59:23.445747
 |https://bluesky.jayp.io|❌|❓|
 |https://this-is-epic.space|❌|❓|
 |https://tsuki.social|✅|✅|
-|https://x-mweya.duckdns.org|✅|✅|
+|https://x-mweya.duckdns.org|❌|❓|
 |https://fraudulent.link|❌|❓|
 |https://utatane.blue|❌|❓|
 |https://b.browsersource.dev|❌|❓|
@@ -333,7 +333,7 @@ Last Updated: 2024-03-14T09:59:23.445747
 |https://atptest.lep.wtf|✅|✅|
 |https://galaxy.neo7.kim|❌|❓|
 |https://broad.re|❌|❓|
-|https://fed.brid.gy/|❌|❓|
+|https://fed.brid.gy/|✅|✅|
 |https://bsky.kwilium.xyz|❌|❓|
 |https://sky.hideside.de|✅|✅|
 |https://pds.jpco.io|❌|❓|
@@ -374,7 +374,7 @@ Last Updated: 2024-03-14T09:59:23.445747
 |https://bluesky.home.foxocube.xyz|❌|❓|
 |https://mediumeffortmedia.co.uk|❌|❓|
 |https://bluesky.p82.it|❌|❓|
-|https://aozora.yockow.jp|❌|❓|
+|https://aozora.yockow.jp|✅|✅|
 |https://econcom.org|✅|✅|
 |https://pds.entreco.org|❌|❓|
 |https://himmelblau.bigbl4ckw0lf.de|❌|❓|
@@ -425,7 +425,7 @@ Last Updated: 2024-03-14T09:59:23.445747
 |https://qcrg.space|❌|❓|
 |https://pds.qcrg.space|❌|❓|
 |https://databurst.org|❌|❓|
-|https://bsky.akurosia.de|❌|❓|
+|https://bsky.akurosia.de|✅|✅|
 |https://bsky.netopia.me|❌|❓|
 |https://bsky.favoslav.cz|❌|❓|
 |https://blugrisbi.es|✅|✅|
@@ -438,7 +438,7 @@ Last Updated: 2024-03-14T09:59:23.445747
 |https://bsky.softwhere.ca|❌|❓|
 |https://wkswan.com|✅|✅|
 |https://aituns.com|❌|❓|
-|https://italiansky.mooo.com|✅|✅|
+|https://italiansky.mooo.com|❌|❓|
 |https://sky.n3otrax.fr|❌|❓|
 |https://bsky.powerg.love|✅|✅|
 |https://atproto.brid.gy/|✅|✅|
