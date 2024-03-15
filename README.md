@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-03-15T15:21:56.331428
+Last Updated: 2024-03-15T15:30:45.175717
 
 ## **plc.directory**
 
@@ -73,7 +73,7 @@ Last Updated: 2024-03-15T15:21:56.331428
 |https://take2.dholms.xyz|❌|❓|
 |https://pds.dev.retr0.id|❌|❓|
 |https://cloudcaine.thecubic.net|❌|❓|
-|https://hellthread.pro|❌|❓|
+|https://hellthread.pro|✅|✅|
 |https://bsky.pupbrained.xyz|❌|❓|
 |https://henshaw.org|❌|❓|
 |https://pds.canidae.systems|❌|❓|
@@ -181,7 +181,7 @@ Last Updated: 2024-03-15T15:21:56.331428
 |https://nd9o.radio|❌|❓|
 |https://tansu.me|❌|❓|
 |https://raios.xyz|❌|❓|
-|https://otaku.blue|❌|❓|
+|https://otaku.blue|✅|✅|
 |https://mybskypds.dmoncada.com|❌|❓|
 |https://tinypds.h3y6e.com|❌|❓|
 |https://none.social|❌|❓|
@@ -296,7 +296,7 @@ Last Updated: 2024-03-15T15:21:56.331428
 |https://bsky.social-hell.uk|❌|❓|
 |http://localhost:8080/|❌|❓|
 |https://pds.staging.bteklabs.com|❌|❓|
-|https://afternooncurry.com|❌|❓|
+|https://afternooncurry.com|✅|✅|
 |https://bsky.whoverse.nexus|❌|❓|
 |https://zima.ge|❌|❓|
 |https://bsk.lukas-diekmann.de|❌|❓|
