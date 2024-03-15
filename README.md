@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-03-15T19:14:47.351295
+Last Updated: 2024-03-15T19:24:02.442436
 
 ## **plc.directory**
 
@@ -73,7 +73,7 @@ Last Updated: 2024-03-15T19:14:47.351295
 |https://take2.dholms.xyz|❌|❓|
 |https://pds.dev.retr0.id|❌|❓|
 |https://cloudcaine.thecubic.net|❌|❓|
-|https://hellthread.pro|❌|❓|
+|https://hellthread.pro|✅|✅|
 |https://bsky.pupbrained.xyz|❌|❓|
 |https://henshaw.org|❌|❓|
 |https://pds.canidae.systems|❌|❓|
@@ -324,7 +324,7 @@ Last Updated: 2024-03-15T19:14:47.351295
 |https://bluesky.jayp.io|❌|❓|
 |https://this-is-epic.space|❌|❓|
 |https://tsuki.social|✅|✅|
-|https://x-mweya.duckdns.org|❌|❓|
+|https://x-mweya.duckdns.org|✅|✅|
 |https://fraudulent.link|❌|❓|
 |https://utatane.blue|❌|❓|
 |https://b.browsersource.dev|❌|❓|
@@ -410,7 +410,7 @@ Last Updated: 2024-03-15T19:14:47.351295
 |https://siriussocial.de|✅|✅|
 |https://bsky.kemono.in.th|❌|❓|
 |https://bsky.ponscele.fr|✅|✅|
-|https://bluesky.animint.fr|✅|✅|
+|https://bluesky.animint.fr|❌|❓|
 |https://sardine.pics|❌|❓|
 |https://baisodro.me|✅|✅|
 |https://bluesky-pds.fly.dev|❌|❓|
@@ -479,7 +479,7 @@ Last Updated: 2024-03-15T19:14:47.351295
 |https://bk.bitfyer.net|❌|❓|
 |https://insult.org|❌|❓|
 |https://bluesky.ocusaseclorum.de|❌|❓|
-|https://bluesky.kosti.dev|✅|✅|
+|https://bluesky.kosti.dev|❌|❓|
 |https://fammar.synology.com|❌|❓|
 |https://social.theculture.fm|❌|❓|
 |https://bluesky.schmueth.de|❌|❓|
