@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-03-15T00:14:15.185144
+Last Updated: 2024-03-15T00:32:21.772567
 
 ## **plc.directory**
 
@@ -135,7 +135,7 @@ Last Updated: 2024-03-15T00:14:15.185144
 |https://bskysandbox.snek.dev|❌|❓|
 |https://bluesky.skcmcream.uk|❌|❓|
 |https://at.malte.re|❌|❓|
-|https://sleepy.cafe|❌|❓|
+|https://sleepy.cafe|✅|✅|
 |https://sifir1.com|❌|❓|
 |https://bsky.belearner.dev|❌|❓|
 |https://ironlanderl.pp.ua|❌|❓|
@@ -407,7 +407,7 @@ Last Updated: 2024-03-15T00:14:15.185144
 |https://bs.vrccl.life|❌|❓|
 |https://bsky.fursion.top|❌|❓|
 |https://bsky.riversideleft.org.uk|❌|❓|
-|https://siriussocial.de|❌|❓|
+|https://siriussocial.de|✅|✅|
 |https://bsky.kemono.in.th|❌|❓|
 |https://bsky.ponscele.fr|✅|✅|
 |https://bluesky.animint.fr|✅|✅|
