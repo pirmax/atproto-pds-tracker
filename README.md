@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-03-15T03:06:53.020719
+Last Updated: 2024-03-15T03:18:05.975190
 
 ## **plc.directory**
 
@@ -208,7 +208,7 @@ Last Updated: 2024-03-15T03:06:53.020719
 |https://tenshicorn.dog|❌|❓|
 |https://pds.bdev.loves.reisen|❌|❓|
 |https://d-twitter.com|❌|❓|
-|https://furry.nexus|❌|❓|
+|https://furry.nexus|✅|✅|
 |https://example.com|❌|❓|
 |https://linuxnerd.party|❌|❓|
 |https://server.cafepots.net|❌|❓|
@@ -333,7 +333,7 @@ Last Updated: 2024-03-15T03:06:53.020719
 |https://atptest.lep.wtf|✅|✅|
 |https://galaxy.neo7.kim|❌|❓|
 |https://broad.re|❌|❓|
-|https://fed.brid.gy/|❌|❓|
+|https://fed.brid.gy/|✅|✅|
 |https://bsky.kwilium.xyz|❌|❓|
 |https://sky.hideside.de|✅|✅|
 |https://pds.jpco.io|❌|❓|
