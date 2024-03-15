@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-03-15T16:27:40.211150
+Last Updated: 2024-03-15T16:38:18.915434
 
 ## **plc.directory**
 
@@ -130,7 +130,7 @@ Last Updated: 2024-03-15T16:27:40.211150
 |https://bskydev.usuzakuraya.us|❌|❓|
 |https://bsky.fbk.moe|❌|❓|
 |https://sandbox.shitposting.vip|❌|❓|
-|https://bsky.imoein.com|✅|✅|
+|https://bsky.imoein.com|❌|❓|
 |https://bsky.phazed.xyz|❌|❓|
 |https://bskysandbox.snek.dev|❌|❓|
 |https://bluesky.skcmcream.uk|❌|❓|
