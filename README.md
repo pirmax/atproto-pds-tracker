@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-03-16T00:55:50.859073
+Last Updated: 2024-03-16T01:25:36.066235
 
 ## **plc.directory**
 
@@ -296,7 +296,7 @@ Last Updated: 2024-03-16T00:55:50.859073
 |https://bsky.social-hell.uk|❌|❓|
 |http://localhost:8080/|❌|❓|
 |https://pds.staging.bteklabs.com|❌|❓|
-|https://afternooncurry.com|❌|❓|
+|https://afternooncurry.com|✅|✅|
 |https://bsky.whoverse.nexus|❌|❓|
 |https://zima.ge|❌|❓|
 |https://bsk.lukas-diekmann.de|❌|❓|
@@ -324,7 +324,7 @@ Last Updated: 2024-03-16T00:55:50.859073
 |https://bluesky.jayp.io|❌|❓|
 |https://this-is-epic.space|❌|❓|
 |https://tsuki.social|✅|✅|
-|https://x-mweya.duckdns.org|❌|❓|
+|https://x-mweya.duckdns.org|✅|✅|
 |https://fraudulent.link|❌|❓|
 |https://utatane.blue|❌|❓|
 |https://b.browsersource.dev|❌|❓|
@@ -497,7 +497,7 @@ Last Updated: 2024-03-16T00:55:50.859073
 |https://dopsky.social|❌|❓|
 |https://bsky.cryptomata.com|❌|❓|
 |https://arl-bsky-pds.arl.jp|❌|❓|
-|https://turboshitpost.ing|✅|✅|
+|https://turboshitpost.ing|❌|❓|
 |https://goodhew.lol|❌|❓|
 |https://nickwood.me|❌|❓|
 |https://helmaccess.com|❌|❓|
