@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-03-16T01:45:46.073590
+Last Updated: 2024-03-16T02:03:53.557551
 
 ## **plc.directory**
 
@@ -324,7 +324,7 @@ Last Updated: 2024-03-16T01:45:46.073590
 |https://bluesky.jayp.io|❌|❓|
 |https://this-is-epic.space|❌|❓|
 |https://tsuki.social|✅|✅|
-|https://x-mweya.duckdns.org|❌|❓|
+|https://x-mweya.duckdns.org|✅|✅|
 |https://fraudulent.link|❌|❓|
 |https://utatane.blue|❌|❓|
 |https://b.browsersource.dev|❌|❓|
@@ -473,7 +473,7 @@ Last Updated: 2024-03-16T01:45:46.073590
 |https://pdshosting.xyz|❌|❓|
 |https://bs.mymx.me|❌|❓|
 |https://harrmitchexp.serveo.net|❌|❓|
-|https://pds.y-force.info|✅|✅|
+|https://pds.y-force.info|❌|❓|
 |https://hexside.at|❌|❓|
 |https://bsky.wstrn.world|❌|❓|
 |https://bk.bitfyer.net|❌|❓|
