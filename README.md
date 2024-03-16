@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-03-16T10:54:59.853738
+Last Updated: 2024-03-16T11:12:53.770018
 
 ## **plc.directory**
 
@@ -349,7 +349,7 @@ Last Updated: 2024-03-16T10:54:59.853738
 |https://bingerin.de|❌|❓|
 |https://blueskyde.cloud|❌|❓|
 |https://bsky.primeapps.net|✅|✅|
-|https://fed.brid.gy|✅|✅|
+|https://fed.brid.gy|❌|❓|
 |https://mdthh.de|❌|❓|
 |https://equus.quest|❌|❓|
 |https://rebroad.com|✅|✅|
@@ -479,7 +479,7 @@ Last Updated: 2024-03-16T10:54:59.853738
 |https://bk.bitfyer.net|❌|❓|
 |https://insult.org|❌|❓|
 |https://bluesky.ocusaseclorum.de|❌|❓|
-|https://bluesky.kosti.dev|✅|✅|
+|https://bluesky.kosti.dev|❌|❓|
 |https://fammar.synology.com|❌|❓|
 |https://social.theculture.fm|❌|❓|
 |https://bluesky.schmueth.de|❌|❓|
