@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-03-17T04:11:22.490514
+Last Updated: 2024-03-17T04:22:50.034221
 
 ## **plc.directory**
 
@@ -312,7 +312,7 @@ Last Updated: 2024-03-17T04:11:22.490514
 |https://pds.jaz.sh|✅|✅|
 |https://atproto.eralyon.net|✅|✅|
 |http://127.0.0.1:8080|❌|❓|
-|https://ketamine.dog|❌|❓|
+|https://ketamine.dog|✅|✅|
 |https://blacksky.app|✅|✅|
 |https://eper.tail3825e.ts.net|❌|❓|
 |http://localhost:2583|❌|❓|
