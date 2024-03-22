@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-03-20T21:58:14.661257
+Last Updated: 2024-03-22T02:56:34.753432
 
 ## **plc.directory**
 
@@ -24,7 +24,7 @@ Last Updated: 2024-03-20T21:58:14.661257
 |https://pds.example.com|❌|❓|
 |https://redocen.one|❌|❓|
 |http://localhost:12025|❌|❓|
-|https://rebroad.com|✅|✅|
+|https://rebroad.com|❌|❓|
 |https://pds.dev.retr0.id|❌|❓|
 |http://localhost:62912|❌|❓|
 |http://localhost:62923|❌|❓|
@@ -143,7 +143,7 @@ Last Updated: 2024-03-20T21:58:14.661257
 |https://bs.gyarbij.app|❌|❓|
 |https://verycoolperson.com|❌|❓|
 |https://laliho.club|❌|❓|
-|https://bsky.dead10ck.dev|✅|✅|
+|https://bsky.dead10ck.dev|❌|❓|
 |https://sky.costas.dev|❌|❓|
 |https://zalupa.in.ua|❌|❓|
 |https://bluesky.formless.xyz|❌|❓|
@@ -352,7 +352,7 @@ Last Updated: 2024-03-20T21:58:14.661257
 |https://fed.brid.gy|✅|✅|
 |https://mdthh.de|❌|❓|
 |https://equus.quest|❌|❓|
-|https://rebroad.com|✅|✅|
+|https://rebroad.com|❌|❓|
 |https://pds.hazyville.com|❌|❓|
 |https://rent-a-shitstorm.eu|✅|✅|
 |https://bskies.de|❌|❓|
@@ -473,7 +473,7 @@ Last Updated: 2024-03-20T21:58:14.661257
 |https://pdshosting.xyz|❌|❓|
 |https://bs.mymx.me|❌|❓|
 |https://harrmitchexp.serveo.net|❌|❓|
-|https://pds.y-force.info|✅|❌|
+|https://pds.y-force.info|❌|❓|
 |https://hexside.at|❌|❓|
 |https://bsky.wstrn.world|❌|❓|
 |https://bk.bitfyer.net|❌|❓|
