@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-03-28T02:45:46.615933
+Last Updated: 2024-03-28T22:30:25.765824
 
 ## **plc.directory**
 
@@ -73,7 +73,7 @@ Last Updated: 2024-03-28T02:45:46.615933
 |https://take2.dholms.xyz|❌|❓|
 |https://pds.dev.retr0.id|❌|❓|
 |https://cloudcaine.thecubic.net|❌|❓|
-|https://hellthread.pro|❌|❓|
+|https://hellthread.pro|✅|✅|
 |https://bsky.pupbrained.xyz|❌|❓|
 |https://henshaw.org|❌|❓|
 |https://pds.canidae.systems|❌|❓|
@@ -254,7 +254,7 @@ Last Updated: 2024-03-28T02:45:46.615933
 |https://hooray.social|✅|✅|
 |https://pdsbx1.barine.co|❌|❓|
 |https://bsky-sand.dolciss.net|❌|❓|
-|https://parra.social|✅|✅|
+|https://parra.social|❌|❓|
 |https://luxcario.com|❌|❓|
 |https://atpds.tjmccall.net|❌|❓|
 |https://sbx.barine.co|❌|❓|
@@ -262,7 +262,7 @@ Last Updated: 2024-03-28T02:45:46.615933
 |https://pdsbx.barine.co|❌|❓|
 |https://pds-dev.upcraft.dev|✅|✅|
 |https://lil.mn|❌|❓|
-|https://bsky.bulles.social|✅|✅|
+|https://bsky.bulles.social|❌|❓|
 |https://nextsky.tokimeki.blue|❌|❓|
 |https://pds-test.wackywolf.xyz|❌|❓|
 |https://xfxc.net|❌|❓|
@@ -296,7 +296,7 @@ Last Updated: 2024-03-28T02:45:46.615933
 |https://bsky.social-hell.uk|❌|❓|
 |http://localhost:8080/|❌|❓|
 |https://pds.staging.bteklabs.com|❌|❓|
-|https://afternooncurry.com|✅|✅|
+|https://afternooncurry.com|❌|❓|
 |https://bsky.whoverse.nexus|❌|❓|
 |https://zima.ge|❌|❓|
 |https://bsk.lukas-diekmann.de|❌|❓|
@@ -441,7 +441,7 @@ Last Updated: 2024-03-28T02:45:46.615933
 |https://italiansky.mooo.com|✅|✅|
 |https://sky.n3otrax.fr|❌|❓|
 |https://bsky.powerg.love|✅|✅|
-|https://atproto.brid.gy/|✅|✅|
+|https://atproto.brid.gy/|❌|❓|
 |https://abluehope.com|❌|❓|
 |https://bsky.mrsquaare.fr|❌|❓|
 |https://montpeyroux.social|✅|✅|
