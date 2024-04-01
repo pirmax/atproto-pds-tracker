@@ -53,6 +53,8 @@ class ATProtoPdsCrawler {
           try {
             final response = await atp_api.describeServer(serviceEndpoint);
             final server = jsonDecode(response.body);
+            
+            print(serviceEndpoint)
 
             pds.add(
               Pds(
@@ -65,6 +67,7 @@ class ATProtoPdsCrawler {
               ),
             );
           } on Exception {
+            print(serviceEndpoint)
             pds.add(
               Pds(
                 domain: serviceEndpoint,
