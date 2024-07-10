@@ -17,13 +17,13 @@ import data from '../data.json';
   ).plc;
 
   for await (const plcDatum of plcData) {
-    readmeText += `## ${plcDatum.name}\n\n`;
+    readmeText += `## ${plcDatum.name} 🌐\n\n`;
     readmeText += `Last Crawled: ${plcDatum.lastCrawledAt}\n\n`;
-    readmeText += `| PDS Endpoint | Active | Invite Code Required |\n`;
-    readmeText += `|---|:---:|:---:|\n`;
+    readmeText += `| PDS Endpoint | Active | Invite Code Required | Updated At |\n`;
+    readmeText += `|---|:---:|:---:|:---:|\n`;
 
     for await (const pds of plcDatum.pds) {
-      readmeText += `| ${pds.domain} | ${pds.isActive ? '✅' : '❌'} | ${pds.isInviteCodeRequired ? '✅' : '❌'} |\n`;
+      readmeText += `| ${new URL(pds.domain).host} | ${pds.isActive ? '✅' : '❌'} | ${pds.isInviteCodeRequired ? '✅' : '❌'} | ${pds.updatedAt} |\n`;
     }
   }
 
