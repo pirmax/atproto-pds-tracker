@@ -1,27 +1,20 @@
 name: Crawl ATProto PDS
-
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/10 * * * *"
-
+    - cron: "*/5 * * * *"
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v3
-
-      - uses: dart-lang/setup-dart@v1.3
+      - uses: actions/setup-node@v1
       - name: Install dependencies
-        run: dart pub get
-
+        run: npm install
       - name: Crawl ATProto PDS
-        run: dart run ./bin/crawl.dart
-
+        run: npm run start:crawl-pds
       - name: Update README
-        run: dart run ./bin/update_readme.dart
-
+        run: npm run start:update-readme
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "🔎 Indexed New PDS"

@@ -1,27 +1,20 @@
 name: PDS Health Check
-
 on:
   workflow_dispatch:
   schedule:
     - cron: "*/5 * * * *"
-
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v3
-
-      - uses: dart-lang/setup-dart@v1.3
+      - uses: actions/setup-node@v1
       - name: Install dependencies
-        run: dart pub get
-
+        run: npm install
       - name: Check PDS Health
-        run: dart run ./bin/health_check.dart
-
+        run: npm run start:health-check
       - name: Update README
-        run: dart run ./bin/update_readme.dart
-
+        run: npm run start:update-readme
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "🩺 Checked PDS Health"
