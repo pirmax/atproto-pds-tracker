@@ -1,3 +1,4 @@
+import getData from './commons/get-data';
 import plcExport from './commons/plc-export';
 import describeServer from './commons/describe-server';
 import getPdsServiceEndpoint from './commons/get-pds-endpoint';
@@ -6,15 +7,10 @@ import { PdsInterface } from './interfaces/pds-interface';
 import { PlcInterface } from './interfaces/plc-interface';
 import { DescribeServerInterface } from './interfaces/server-output-interface';
 import { PlcExportInterface } from './interfaces/plc-export-interface';
-import data from '../data.json';
+import { CRAWL_TIMEOUT } from './constants/timeouts';
 
 (async (): Promise<void> => {
-  const plcData: PlcInterface[] = (
-    data as {
-      plc: PlcInterface[];
-    }
-  ).plc;
-
+  const plcData: PlcInterface[] = await getData();
   const plcList: PlcInterface[] = [];
 
   for await (const plcDatum of plcData) {
@@ -37,17 +33,23 @@ import data from '../data.json';
       let endpoint: string | null = null;
 
       try {
-        endpoint = getPdsServiceEndpoint(data['operation']);
+        endpoint = await getPdsServiceEndpoint(data['operation']);
       } catch (error) {
         console.error(error);
         continue;
       }
 
       if (endpoint !== null && !endpoints.includes(endpoint)) {
-        try {
-          const server: DescribeServerInterface =
-            await describeServer(endpoint);
+        console.log(
+          `Checking endpoint on directory (${plcDatum.name} - ${endpoint})`,
+        );
 
+        const server: DescribeServerInterface | null = await describeServer(
+          endpoint,
+          CRAWL_TIMEOUT,
+        );
+
+        if (server) {
           pdsList.push({
             domain: endpoint,
             isActive: true,
@@ -56,7 +58,7 @@ import data from '../data.json';
             indexedAt: new Date(),
             updatedAt: new Date(),
           });
-        } catch (error) {
+        } else {
           pdsList.push({
             domain: endpoint,
             isActive: false,
@@ -78,5 +80,5 @@ import data from '../data.json';
     });
   }
 
-  await exportPlcData(data.plc, plcList);
+  await exportPlcData(plcData, plcList);
 })();

@@ -1,28 +1,29 @@
+import getData from './commons/get-data';
 import describeServer from './commons/describe-server';
 import exportPlcData from './commons/export-plc-data';
 import { PlcInterface } from './interfaces/plc-interface';
 import { PdsInterface } from './interfaces/pds-interface';
 import { DescribeServerInterface } from './interfaces/server-output-interface';
-import data from '../data.json';
+import { HEALTH_TIMEOUT } from './constants/timeouts';
 
 (async (): Promise<void> => {
-  const plcData: PlcInterface[] = (
-    data as {
-      plc: PlcInterface[];
-    }
-  ).plc;
-
+  const plcData: PlcInterface[] = await getData();
   const plcList: PlcInterface[] = [];
 
   for await (const plcDatum of plcData) {
     const pdsList: PdsInterface[] = [];
 
     for await (const pds of plcDatum.pds) {
-      try {
-        const server: DescribeServerInterface = await describeServer(
-          pds.domain,
-        );
+      console.log(
+        `Checking endpoint on directory (${plcDatum.name} - ${pds.domain})`,
+      );
 
+      const server: DescribeServerInterface | null = await describeServer(
+        pds.domain,
+        HEALTH_TIMEOUT,
+      );
+
+      if (server) {
         pdsList.push({
           domain: pds.domain,
           isActive: true,
@@ -31,7 +32,7 @@ import data from '../data.json';
           indexedAt: pds.indexedAt,
           updatedAt: new Date(),
         });
-      } catch (error) {
+      } else {
         pdsList.push({
           domain: pds.domain,
           isActive: false,
@@ -50,5 +51,5 @@ import data from '../data.json';
     });
   }
 
-  await exportPlcData(data.plc, plcList);
+  await exportPlcData(plcData, plcList);
 })();

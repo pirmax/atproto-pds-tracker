@@ -6,9 +6,9 @@ interface OperationInterface {
   };
 }
 
-const getPdsServiceEndpoint = (
+const getPdsServiceEndpoint = async (
   operation: OperationInterface,
-): string | null => {
+): Promise<string | null> => {
   if (!operation) {
     return null;
   }

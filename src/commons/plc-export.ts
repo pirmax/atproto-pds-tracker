@@ -4,8 +4,10 @@ const plcExport = async (
   plcAuthority: string,
   after: Date,
   count: number = 1000,
+  timeout: number = 5000,
 ): Promise<PlcExportInterface[]> => {
   let response: Response;
+  let result: PlcExportInterface[] = [];
 
   try {
     response = await fetch(
@@ -15,16 +17,22 @@ const plcExport = async (
         headers: {
           'Content-Type': 'application/json',
         },
+        signal: AbortSignal.timeout(timeout),
       },
     );
   } catch (error) {
-    console.error(error);
     return [];
   }
 
-  return (await response.text())
-    .split('\n')
-    .map((line: string) => JSON.parse(line));
+  try {
+    result = (await response.text())
+      .split('\n')
+      .map((line: string) => JSON.parse(line));
+  } catch (error) {
+    return [];
+  }
+
+  return result;
 };
 
 export default plcExport;

@@ -23,7 +23,6 @@ const exportPlcData = async (
       }
 
       oldPlc.pds = pds;
-      oldPlc.name = newPlc.name;
       oldPlc.lastCrawledAt = newPlc.lastCrawledAt;
     }
   }

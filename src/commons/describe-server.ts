@@ -1,16 +1,34 @@
-import { BskyAgent } from '@atproto/api';
 import { DescribeServerInterface } from '../interfaces/server-output-interface';
 
 const describeServer = async (
   endpoint: string,
-): Promise<DescribeServerInterface> => {
-  const agent = new BskyAgent({
-    service: endpoint,
-  });
+  timeout: number = 5000,
+): Promise<DescribeServerInterface | null> => {
+  let response: Response;
+  let result: DescribeServerInterface | null = null;
 
-  const { data } = await agent.com.atproto.server.describeServer();
+  try {
+    response = await fetch(
+      `${endpoint}/xrpc/com.atproto.server.describeServer`,
+      {
+        method: 'GET',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        signal: AbortSignal.timeout(timeout),
+      },
+    );
+  } catch (error) {
+    return null;
+  }
 
-  return data;
+  try {
+    result = await response.json();
+  } catch (error) {
+    return null;
+  }
+
+  return result;
 };
 
 export default describeServer;

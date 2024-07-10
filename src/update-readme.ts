@@ -1,6 +1,6 @@
 import fs from 'fs';
+import getData from './commons/get-data';
 import { PlcInterface } from './interfaces/plc-interface';
-import data from '../data.json';
 
 (async (): Promise<void> => {
   let readmeText: string = ``;
@@ -10,11 +10,7 @@ import data from '../data.json';
   readmeText += `You can follow me on Bluesky: https://bsky.app/profile/pirmax.fr\n\n`;
   readmeText += `Last Updated: ${new Date().toISOString()}\n\n`;
 
-  const plcData: PlcInterface[] = (
-    data as {
-      plc: PlcInterface[];
-    }
-  ).plc;
+  const plcData: PlcInterface[] = await getData();
 
   for await (const plcDatum of plcData) {
     readmeText += `## 🌐 ${plcDatum.name}\n\n`;
@@ -23,7 +19,7 @@ import data from '../data.json';
     readmeText += `|---|:---:|:---:|:---:|\n`;
 
     for await (const pds of plcDatum.pds) {
-      readmeText += `| ${new URL(pds.domain).host} | ${pds.isActive ? '✅' : '❌'} | ${pds.isInviteCodeRequired ? '✅' : '❌'} | ${pds.createdAt} |\n`;
+      readmeText += `| [${new URL(pds.domain).host}](${pds.domain}) | ${pds.isActive ? '✅' : '❌'} | ${pds.isInviteCodeRequired ? '✅' : '❌'} | ${pds.createdAt} |\n`;
     }
   }
 
