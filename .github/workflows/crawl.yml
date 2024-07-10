@@ -20,7 +20,7 @@ jobs:
         run: npm run start:crawl-pds
       - name: Update README
         run: npm run start:update-readme
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "🔎 Indexed New PDS"
           commit_user_name: 'Crawler'
