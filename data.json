@@ -71,9 +71,9 @@
           "domain": "https://lepista.us-west.host.bsky.network",
           "isActive": true,
           "isInviteCodeRequired": true,
-          "createdAt": "2024-07-10T15:12:08.521Z",
-          "indexedAt": "2024-07-10T15:23:07.713Z",
-          "updatedAt": "2024-07-10T15:30:19.258Z"
+          "createdAt": "2024-07-10T15:30:36.752Z",
+          "indexedAt": "2024-07-10T15:31:31.771Z",
+          "updatedAt": "2024-07-10T15:31:31.771Z"
         },
         {
           "domain": "https://chaga.us-west.host.bsky.network",
@@ -108,7 +108,7 @@
           "updatedAt": "2024-07-10T15:30:20.101Z"
         }
       ],
-      "lastCrawledAt": "2024-07-10T15:30:20.101Z"
+      "lastCrawledAt": "2024-07-10T15:31:31.771Z"
     }
   ]
 }

@@ -4,11 +4,11 @@ This is a list of ATProto PDS crawled from the ATProto website.
 
 You can follow me on Bluesky: https://bsky.app/profile/pirmax.fr
 
-Last Updated: 2024-07-10T15:30:21.502Z
+Last Updated: 2024-07-10T15:31:33.270Z
 
 ## plc.directory 🌐
 
-Last Crawled: 2024-07-10T15:30:20.101Z
+Last Crawled: 2024-07-10T15:31:31.771Z
 
 | PDS Endpoint | Active | Invite Code Required | Updated At |
 |---|:---:|:---:|:---:|
@@ -20,7 +20,7 @@ Last Crawled: 2024-07-10T15:30:20.101Z
 | conocybe.us-west.host.bsky.network | ✅ | ✅ | 2024-07-10T15:30:18.285Z |
 | blewit.us-west.host.bsky.network | ✅ | ✅ | 2024-07-10T15:30:18.532Z |
 | boletus.us-west.host.bsky.network | ✅ | ✅ | 2024-07-10T15:30:18.906Z |
-| lepista.us-west.host.bsky.network | ✅ | ✅ | 2024-07-10T15:30:19.258Z |
+| lepista.us-west.host.bsky.network | ✅ | ✅ | 2024-07-10T15:31:31.771Z |
 | chaga.us-west.host.bsky.network | ✅ | ✅ | 2024-07-10T15:30:19.498Z |
 | lionsmane.us-east.host.bsky.network | ✅ | ✅ | 2024-07-10T15:30:19.547Z |
 | inkcap.us-east.host.bsky.network | ✅ | ✅ | 2024-07-10T15:30:20.068Z |
