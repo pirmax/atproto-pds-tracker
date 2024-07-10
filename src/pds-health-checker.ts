@@ -15,7 +15,7 @@ import { HEALTH_TIMEOUT } from './constants/timeouts';
 
     for await (const pds of plcDatum.pds) {
       console.log(
-        `Checking endpoint on directory (${plcDatum.name} - ${pds.domain})`,
+        `Checking endpoint on directory ( ${plcDatum.name} - ${pds.domain} )`,
       );
 
       const server: DescribeServerInterface | null = await describeServer(

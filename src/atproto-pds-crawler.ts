@@ -41,7 +41,7 @@ import { CRAWL_TIMEOUT } from './constants/timeouts';
 
       if (endpoint !== null && !endpoints.includes(endpoint)) {
         console.log(
-          `Checking endpoint on directory (${plcDatum.name} - ${endpoint})`,
+          `Checking endpoint on directory ( ${plcDatum.name} - ${endpoint} )`,
         );
 
         const server: DescribeServerInterface | null = await describeServer(
