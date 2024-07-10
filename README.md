@@ -4,11 +4,11 @@ This is a list of ATProto PDS crawled from the ATProto website.
 
 You can follow me on Bluesky: https://bsky.app/profile/pirmax.fr
 
-Last Updated: 2024-07-10T15:37:55.588Z
+Last Updated: 2024-07-10T15:38:38.488Z
 
 ## 🌐 plc.directory
 
-Last Crawled: 2024-07-10T15:37:54.180Z
+Last Crawled: 2024-07-10T15:38:37.062Z
 
 | PDS Endpoint | Active | Invite Code Required | Created At |
 |---|:---:|:---:|:---:|
