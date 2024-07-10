@@ -4,11 +4,11 @@ This is a list of ATProto PDS crawled from the ATProto website.
 
 You can follow me on Bluesky: https://bsky.app/profile/pirmax.fr
 
-Last Updated: 2024-07-10T15:11:08.557Z
+Last Updated: 2024-07-10T15:23:10.672Z
 
 ## plc.directory
 
-Last Crawled: 2024-07-10T15:11:07.171Z
+Last Crawled: 2024-07-10T15:23:08.777Z
 
 | PDS Endpoint | Active | Invite Code Required |
 |---|:---:|:---:|
@@ -24,3 +24,4 @@ Last Crawled: 2024-07-10T15:11:07.171Z
 | https://chaga.us-west.host.bsky.network | ✅ | ✅ |
 | https://lionsmane.us-east.host.bsky.network | ✅ | ✅ |
 | https://inkcap.us-east.host.bsky.network | ✅ | ✅ |
+| https://morel.us-east.host.bsky.network | ✅ | ✅ |
