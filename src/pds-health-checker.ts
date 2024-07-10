@@ -47,7 +47,7 @@ import { HEALTH_TIMEOUT } from './constants/timeouts';
     plcList.push({
       name: plcDatum.name,
       pds: pdsList,
-      lastCrawledAt: new Date(),
+      lastCrawledAt: plcDatum.lastCrawledAt,
     });
   }
 
