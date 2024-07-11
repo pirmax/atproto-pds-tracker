@@ -4,7 +4,7 @@ This is a list of ATProto PDS crawled from the ATProto website.
 
 You can follow me on Bluesky: https://bsky.app/profile/pirmax.fr
 
-Last Updated: 2024-07-11T01:37:39.524Z
+Last Updated: 2024-07-11T01:58:16.466Z
 
 ## 🌐 plc.directory
 
@@ -304,7 +304,7 @@ Last Crawled: 2024-07-11T01:37:38.430Z
 | [bluesky.jayp.io](https://bluesky.jayp.io) | ❌ | ❌ | 2023-09-22T16:07:13.455Z |
 | [this-is-epic.space](https://this-is-epic.space) | ❌ | ❌ | 2023-09-24T04:42:43.861Z |
 | [tsuki.social](https://tsuki.social) | ❌ | ❌ | 2023-09-24T08:03:16.079Z |
-| [x-mweya.duckdns.org](https://x-mweya.duckdns.org) | ❌ | ❌ | 2023-09-24T18:19:00.659Z |
+| [x-mweya.duckdns.org](https://x-mweya.duckdns.org) | ✅ | ✅ | 2023-09-24T18:19:00.659Z |
 | [fraudulent.link](https://fraudulent.link) | ❌ | ❌ | 2023-09-24T18:37:10.150Z |
 | [utatane.blue](https://utatane.blue) | ❌ | ❌ | 2023-09-25T15:57:16.775Z |
 | [b.browsersource.dev](https://b.browsersource.dev) | ❌ | ❌ | 2023-09-25T19:22:25.887Z |
@@ -328,8 +328,8 @@ Last Crawled: 2024-07-11T01:37:38.430Z
 | [jobo.eu.org](https://jobo.eu.org) | ❌ | ❌ | 2023-10-03T15:32:27.822Z |
 | [bingerin.de](https://bingerin.de) | ❌ | ❌ | 2023-10-03T16:15:04.551Z |
 | [blueskyde.cloud](https://blueskyde.cloud) | ❌ | ❌ | 2023-10-04T03:50:23.407Z |
-| [bsky.primeapps.net](https://bsky.primeapps.net) | ✅ | ✅ | 2023-10-04T13:03:01.148Z |
-| [fed.brid.gy](https://fed.brid.gy) | ❌ | ❌ | 2023-10-04T20:33:48.187Z |
+| [bsky.primeapps.net](https://bsky.primeapps.net) | ❌ | ❌ | 2023-10-04T13:03:01.148Z |
+| [fed.brid.gy](https://fed.brid.gy) | ✅ | ✅ | 2023-10-04T20:33:48.187Z |
 | [mdthh.de](https://mdthh.de) | ❌ | ❌ | 2023-10-04T22:23:07.669Z |
 | [equus.quest](https://equus.quest) | ❌ | ❌ | 2023-10-05T00:05:35.091Z |
 | [pds.hazyville.com](https://pds.hazyville.com) | ❌ | ❌ | 2023-10-05T10:38:26.880Z |
@@ -425,7 +425,7 @@ Last Crawled: 2024-07-11T01:37:38.430Z
 | [blueskysweden.se](https://blueskysweden.se) | ❌ | ❌ | 2023-11-08T19:17:11.569Z |
 | [pds.home.rjp.is](https://pds.home.rjp.is) | ❌ | ❌ | 2023-11-08T21:31:26.646Z |
 | [posting.expert](https://posting.expert) | ❌ | ❌ | 2023-11-09T15:16:34.401Z |
-| [pds.timburga.social](https://pds.timburga.social) | ❌ | ❌ | 2023-11-09T17:08:30.120Z |
+| [pds.timburga.social](https://pds.timburga.social) | ✅ | ✅ | 2023-11-09T17:08:30.120Z |
 | [bs.foss.gay](https://bs.foss.gay) | ❌ | ❌ | 2023-11-10T22:40:14.351Z |
 | [bsky.fracergu.dev](https://bsky.fracergu.dev) | ❌ | ❌ | 2023-11-11T11:09:34.010Z |
 | [briiz.com](https://briiz.com) | ❌ | ❌ | 2023-11-13T12:34:32.822Z |
@@ -440,7 +440,7 @@ Last Crawled: 2024-07-11T01:37:38.430Z
 | [blues.psionprotocol.com](https://blues.psionprotocol.com) | ❌ | ❌ | 2023-11-21T04:22:02.798Z |
 | [bs.corrigan.xyz](https://bs.corrigan.xyz) | ❌ | ❌ | 2023-11-21T15:29:39.359Z |
 | [pds.octelly.lol](https://pds.octelly.lol) | ❌ | ❌ | 2023-11-21T23:55:54.880Z |
-| [is.lalafell.fun](https://is.lalafell.fun) | ❌ | ❌ | 2023-11-22T11:26:25.644Z |
+| [is.lalafell.fun](https://is.lalafell.fun) | ✅ | ✅ | 2023-11-22T11:26:25.644Z |
 | [bsky.retronerd.at](https://bsky.retronerd.at) | ❌ | ❌ | 2023-11-26T14:55:36.017Z |
 | [bs.undreaming.org](https://bs.undreaming.org) | ❌ | ❌ | 2023-11-26T16:53:02.068Z |
 | [social.born2beroot.org](https://social.born2beroot.org) | ❌ | ❌ | 2023-11-26T20:06:17.928Z |
@@ -824,7 +824,7 @@ Last Crawled: 2024-07-11T01:37:38.430Z
 | [bluesky.jayp.io](https://bluesky.jayp.io) | ❌ | ❌ | 2023-09-22T16:07:13.455Z |
 | [this-is-epic.space](https://this-is-epic.space) | ❌ | ❌ | 2023-09-24T04:42:43.861Z |
 | [tsuki.social](https://tsuki.social) | ❌ | ❌ | 2023-09-24T08:03:16.079Z |
-| [x-mweya.duckdns.org](https://x-mweya.duckdns.org) | ❌ | ❌ | 2023-09-24T18:19:00.659Z |
+| [x-mweya.duckdns.org](https://x-mweya.duckdns.org) | ✅ | ✅ | 2023-09-24T18:19:00.659Z |
 | [fraudulent.link](https://fraudulent.link) | ❌ | ❌ | 2023-09-24T18:37:10.150Z |
 | [utatane.blue](https://utatane.blue) | ❌ | ❌ | 2023-09-25T15:57:16.775Z |
 | [b.browsersource.dev](https://b.browsersource.dev) | ❌ | ❌ | 2023-09-25T19:22:25.887Z |
@@ -848,8 +848,8 @@ Last Crawled: 2024-07-11T01:37:38.430Z
 | [jobo.eu.org](https://jobo.eu.org) | ❌ | ❌ | 2023-10-03T15:32:27.822Z |
 | [bingerin.de](https://bingerin.de) | ❌ | ❌ | 2023-10-03T16:15:04.551Z |
 | [blueskyde.cloud](https://blueskyde.cloud) | ❌ | ❌ | 2023-10-04T03:50:23.407Z |
-| [bsky.primeapps.net](https://bsky.primeapps.net) | ✅ | ✅ | 2023-10-04T13:03:01.148Z |
-| [fed.brid.gy](https://fed.brid.gy) | ❌ | ❌ | 2023-10-04T20:33:48.187Z |
+| [bsky.primeapps.net](https://bsky.primeapps.net) | ❌ | ❌ | 2023-10-04T13:03:01.148Z |
+| [fed.brid.gy](https://fed.brid.gy) | ✅ | ✅ | 2023-10-04T20:33:48.187Z |
 | [mdthh.de](https://mdthh.de) | ❌ | ❌ | 2023-10-04T22:23:07.669Z |
 | [equus.quest](https://equus.quest) | ❌ | ❌ | 2023-10-05T00:05:35.091Z |
 | [rebroad.com](https://rebroad.com) | ❌ | ❌ | 2023-10-05T08:49:14.908Z |
@@ -947,7 +947,7 @@ Last Crawled: 2024-07-11T01:37:38.430Z
 | [blueskysweden.se](https://blueskysweden.se) | ❌ | ❌ | 2023-11-08T19:17:11.569Z |
 | [pds.home.rjp.is](https://pds.home.rjp.is) | ❌ | ❌ | 2023-11-08T21:31:26.646Z |
 | [posting.expert](https://posting.expert) | ❌ | ❌ | 2023-11-09T15:16:34.401Z |
-| [pds.timburga.social](https://pds.timburga.social) | ❌ | ❌ | 2023-11-09T17:08:30.120Z |
+| [pds.timburga.social](https://pds.timburga.social) | ✅ | ✅ | 2023-11-09T17:08:30.120Z |
 | [bs.foss.gay](https://bs.foss.gay) | ❌ | ❌ | 2023-11-10T22:40:14.351Z |
 | [bsky.fracergu.dev](https://bsky.fracergu.dev) | ❌ | ❌ | 2023-11-11T11:09:34.010Z |
 | [briiz.com](https://briiz.com) | ❌ | ❌ | 2023-11-13T12:34:32.822Z |
@@ -962,7 +962,7 @@ Last Crawled: 2024-07-11T01:37:38.430Z
 | [blues.psionprotocol.com](https://blues.psionprotocol.com) | ❌ | ❌ | 2023-11-21T04:22:02.798Z |
 | [bs.corrigan.xyz](https://bs.corrigan.xyz) | ❌ | ❌ | 2023-11-21T15:29:39.359Z |
 | [pds.octelly.lol](https://pds.octelly.lol) | ❌ | ❌ | 2023-11-21T23:55:54.880Z |
-| [is.lalafell.fun](https://is.lalafell.fun) | ❌ | ❌ | 2023-11-22T11:26:25.644Z |
+| [is.lalafell.fun](https://is.lalafell.fun) | ✅ | ✅ | 2023-11-22T11:26:25.644Z |
 | [oyster.us-east.host.bsky.network](https://oyster.us-east.host.bsky.network) | ✅ | ✅ | 2024-07-10T19:28:43.774Z |
 | [bsky.retronerd.at](https://bsky.retronerd.at) | ❌ | ❌ | 2023-11-26T14:55:36.017Z |
 | [bs.undreaming.org](https://bs.undreaming.org) | ❌ | ❌ | 2023-11-26T16:53:02.068Z |
