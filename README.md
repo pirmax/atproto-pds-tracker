@@ -4,7 +4,7 @@ This is a list of ATProto PDS crawled from the ATProto website.
 
 You can follow me on Bluesky: https://bsky.app/profile/pirmax.fr
 
-Last Updated: 2024-07-11T02:08:11.148Z
+Last Updated: 2024-07-11T02:24:45.821Z
 
 ## 🌐 plc.directory
 
@@ -12,7 +12,7 @@ Last Crawled: 2024-07-11T02:08:10.063Z
 
 | PDS Endpoint | Active | Invite Code Required | Created At |
 |---|:---:|:---:|:---:|
-| [bsky.social](https://bsky.social) | ✅ | ❌ | 2023-12-23T21:35:28.817Z |
+| [bsky.social](https://bsky.social) | ❌ | ❌ | 2023-12-23T21:35:28.817Z |
 | [rebroad.com](https://rebroad.com) | ❌ | ❌ | 2023-10-05T08:49:14.908Z |
 | [boobee.blue](https://boobee.blue) | ✅ | ✅ | 2023-06-15T20:18:48.814Z |
 | [redocean.one](https://redocean.one) | ✅ | ✅ | 2023-06-16T13:44:02.055Z |
@@ -328,7 +328,7 @@ Last Crawled: 2024-07-11T02:08:10.063Z
 | [jobo.eu.org](https://jobo.eu.org) | ❌ | ❌ | 2023-10-03T15:32:27.822Z |
 | [bingerin.de](https://bingerin.de) | ❌ | ❌ | 2023-10-03T16:15:04.551Z |
 | [blueskyde.cloud](https://blueskyde.cloud) | ❌ | ❌ | 2023-10-04T03:50:23.407Z |
-| [bsky.primeapps.net](https://bsky.primeapps.net) | ❌ | ❌ | 2023-10-04T13:03:01.148Z |
+| [bsky.primeapps.net](https://bsky.primeapps.net) | ✅ | ✅ | 2023-10-04T13:03:01.148Z |
 | [fed.brid.gy](https://fed.brid.gy) | ✅ | ✅ | 2023-10-04T20:33:48.187Z |
 | [mdthh.de](https://mdthh.de) | ❌ | ❌ | 2023-10-04T22:23:07.669Z |
 | [equus.quest](https://equus.quest) | ❌ | ❌ | 2023-10-05T00:05:35.091Z |
@@ -419,7 +419,7 @@ Last Crawled: 2024-07-11T02:08:10.063Z
 | [italiansky.mooo.com](https://italiansky.mooo.com) | ❌ | ❌ | 2023-11-04T09:40:40.207Z |
 | [sky.n3otrax.fr](https://sky.n3otrax.fr) | ❌ | ❌ | 2023-11-04T23:31:59.193Z |
 | [bsky.powerg.love](https://bsky.powerg.love) | ✅ | ✅ | 2023-11-07T16:00:46.241Z |
-| [atproto.brid.gy](https://atproto.brid.gy/) | ✅ | ✅ | 2023-11-08T03:19:30.516Z |
+| [atproto.brid.gy](https://atproto.brid.gy/) | ❌ | ❌ | 2023-11-08T03:19:30.516Z |
 | [abluehope.com](https://abluehope.com) | ❌ | ❌ | 2023-11-08T05:07:37.121Z |
 | [montpeyroux.social](https://montpeyroux.social) | ✅ | ✅ | 2023-11-08T19:10:22.308Z |
 | [blueskysweden.se](https://blueskysweden.se) | ❌ | ❌ | 2023-11-08T19:17:11.569Z |
@@ -848,7 +848,7 @@ Last Crawled: 2024-07-11T02:08:10.063Z
 | [jobo.eu.org](https://jobo.eu.org) | ❌ | ❌ | 2023-10-03T15:32:27.822Z |
 | [bingerin.de](https://bingerin.de) | ❌ | ❌ | 2023-10-03T16:15:04.551Z |
 | [blueskyde.cloud](https://blueskyde.cloud) | ❌ | ❌ | 2023-10-04T03:50:23.407Z |
-| [bsky.primeapps.net](https://bsky.primeapps.net) | ❌ | ❌ | 2023-10-04T13:03:01.148Z |
+| [bsky.primeapps.net](https://bsky.primeapps.net) | ✅ | ✅ | 2023-10-04T13:03:01.148Z |
 | [fed.brid.gy](https://fed.brid.gy) | ✅ | ✅ | 2023-10-04T20:33:48.187Z |
 | [mdthh.de](https://mdthh.de) | ❌ | ❌ | 2023-10-04T22:23:07.669Z |
 | [equus.quest](https://equus.quest) | ❌ | ❌ | 2023-10-05T00:05:35.091Z |
@@ -940,7 +940,7 @@ Last Crawled: 2024-07-11T02:08:10.063Z
 | [italiansky.mooo.com](https://italiansky.mooo.com) | ❌ | ❌ | 2023-11-04T09:40:40.207Z |
 | [sky.n3otrax.fr](https://sky.n3otrax.fr) | ❌ | ❌ | 2023-11-04T23:31:59.193Z |
 | [bsky.powerg.love](https://bsky.powerg.love) | ✅ | ✅ | 2023-11-07T16:00:46.241Z |
-| [atproto.brid.gy](https://atproto.brid.gy/) | ✅ | ✅ | 2023-11-08T03:19:30.516Z |
+| [atproto.brid.gy](https://atproto.brid.gy/) | ❌ | ❌ | 2023-11-08T03:19:30.516Z |
 | [abluehope.com](https://abluehope.com) | ❌ | ❌ | 2023-11-08T05:07:37.121Z |
 | [bsky.mrsquaare.fr](https://bsky.mrsquaare.fr) | ❌ | ❌ | 2023-11-08T13:48:24.217Z |
 | [montpeyroux.social](https://montpeyroux.social) | ✅ | ✅ | 2023-11-08T19:10:22.308Z |
@@ -988,7 +988,7 @@ Last Crawled: 2024-07-11T02:08:10.063Z
 | [sturmdev.com](https://sturmdev.com) | ❌ | ❌ | 2023-12-23T06:01:16.136Z |
 | [bluesky.cyberveins.eu](https://bluesky.cyberveins.eu) | ❌ | ❌ | 2023-12-23T10:14:26.292Z |
 | [home.cyberveins.eu](https://home.cyberveins.eu) | ❌ | ❌ | 2023-12-23T14:43:00.998Z |
-| [bsky.social](https://bsky.social) | ✅ | ❌ | 2023-12-23T21:35:28.817Z |
+| [bsky.social](https://bsky.social) | ❌ | ❌ | 2023-12-23T21:35:28.817Z |
 | [cultured.black](https://cultured.black) | ❌ | ❌ | 2023-12-23T22:51:53.788Z |
 | [thekayou.com](https://thekayou.com) | ❌ | ❌ | 2023-12-24T18:02:12.276Z |
 | [sky.manikineko.nl](https://sky.manikineko.nl) | ❌ | ❌ | 2023-12-25T16:27:55.058Z |
