@@ -4,7 +4,7 @@ This is a list of ATProto PDS crawled from the ATProto website.
 
 You can follow me on Bluesky: https://bsky.app/profile/pirmax.fr
 
-Last Updated: 2024-07-11T00:35:51.333Z
+Last Updated: 2024-07-11T00:57:40.580Z
 
 ## 🌐 plc.directory
 
@@ -376,7 +376,7 @@ Last Crawled: 2024-07-11T00:17:19.016Z
 | [pds.ssauer.co.za](https://pds.ssauer.co.za) | ❌ | ❌ | 2023-10-18T19:33:12.300Z |
 | [furartist.art](https://furartist.art) | ❌ | ❌ | 2023-10-19T07:54:57.986Z |
 | [void.zct-mrl.com](https://void.zct-mrl.com) | ❌ | ❌ | 2023-10-19T08:40:30.288Z |
-| [bluesky.migennes.org](https://bluesky.migennes.org) | ❌ | ❌ | 2023-10-19T13:06:00.705Z |
+| [bluesky.migennes.org](https://bluesky.migennes.org) | ✅ | ✅ | 2023-10-19T13:06:00.705Z |
 | [bsky.meis.space](https://bsky.meis.space) | ❌ | ❌ | 2023-10-19T15:21:19.166Z |
 | [bs.raccoon-city.at](https://bs.raccoon-city.at) | ❌ | ❌ | 2023-10-19T18:01:18.687Z |
 | [belana.epicgreen.nl](https://belana.epicgreen.nl) | ❌ | ❌ | 2023-10-19T19:19:00.910Z |
@@ -897,7 +897,7 @@ Last Crawled: 2024-07-11T00:17:19.016Z
 | [pds.ssauer.co.za](https://pds.ssauer.co.za) | ❌ | ❌ | 2023-10-18T19:33:12.300Z |
 | [furartist.art](https://furartist.art) | ❌ | ❌ | 2023-10-19T07:54:57.986Z |
 | [void.zct-mrl.com](https://void.zct-mrl.com) | ❌ | ❌ | 2023-10-19T08:40:30.288Z |
-| [bluesky.migennes.org](https://bluesky.migennes.org) | ❌ | ❌ | 2023-10-19T13:06:00.705Z |
+| [bluesky.migennes.org](https://bluesky.migennes.org) | ✅ | ✅ | 2023-10-19T13:06:00.705Z |
 | [bsky.meis.space](https://bsky.meis.space) | ❌ | ❌ | 2023-10-19T15:21:19.166Z |
 | [bs.raccoon-city.at](https://bs.raccoon-city.at) | ❌ | ❌ | 2023-10-19T18:01:18.687Z |
 | [belana.epicgreen.nl](https://belana.epicgreen.nl) | ❌ | ❌ | 2023-10-19T19:19:00.910Z |
