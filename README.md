@@ -4,13 +4,13 @@ This is a list of ATProto PDS crawled from the ATProto website.
 
 You can follow me on Bluesky: https://bsky.app/profile/pirmax.fr
 
-Last Updated: 2024-07-11T10:16:12.389Z
+Last Updated: 2024-07-11T10:17:12.298Z
 
 ## 🌐 plc.directory
 
 Last Crawled: 2024-07-11T10:03:12.362Z
 
-| PDS Endpoint | Invite Code | Created At | Version |
+| Endpoint | Invite Code | Creation Date | Version |
 |---|:---:|:---:|:---:|
 | ✅ [bsky.social](https://bsky.social) | ❌ | 2023-12-23T21:35:28.817Z | 12f53b6... |
 | ❌ [rebroad.com](https://rebroad.com) | ❌ | 2023-10-05T08:49:14.908Z | ⁉️ |
@@ -564,7 +564,7 @@ Last Crawled: 2024-07-11T10:03:12.362Z
 
 Last Crawled: 2024-07-11T10:03:12.362Z
 
-| PDS Endpoint | Invite Code | Created At | Version |
+| Endpoint | Invite Code | Creation Date | Version |
 |---|:---:|:---:|:---:|
 | ❌ [at.syui.ai](https://at.syui.ai) | ❌ | 2023-06-20T10:52:03.076Z | ⁉️ |
 | ❌ [n.redocean.one](https://n.redocean.one) | ❌ | 2023-06-20T13:18:45.587Z | ⁉️ |

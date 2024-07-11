@@ -19,7 +19,7 @@ function truncate(value: string, length: number): string {
   for await (const plcDatum of plcData) {
     readmeText += `## 🌐 ${plcDatum.name}\n\n`;
     readmeText += `Last Crawled: ${plcDatum.lastCrawledAt}\n\n`;
-    readmeText += `| PDS Endpoint | Invite Code | Created At | Version |\n`;
+    readmeText += `| Endpoint | Invite Code | Creation Date | Version |\n`;
     readmeText += `|---|:---:|:---:|:---:|\n`;
 
     for await (const pds of plcDatum.pds) {
