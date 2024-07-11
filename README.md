@@ -4,11 +4,11 @@ This is a list of ATProto PDS crawled from the ATProto website.
 
 You can follow me on Bluesky: https://bsky.app/profile/pirmax.fr
 
-Last Updated: 2024-07-11T09:42:03.653Z
+Last Updated: 2024-07-11T09:49:17.725Z
 
 ## 🌐 plc.directory
 
-Last Crawled: 2024-07-11T09:42:02.532Z
+Last Crawled: 2024-07-11T09:49:16.577Z
 
 | PDS Endpoint | Active | Invite Code Required | Created At |
 |---|:---:|:---:|:---:|
@@ -38,16 +38,16 @@ Last Crawled: 2024-07-11T09:42:02.532Z
 | [amanita.us-east.host.bsky.network](https://amanita.us-east.host.bsky.network) | ✅ | ✅ | 2024-07-11T08:32:29.640Z |
 | [lionsmane.us-east.host.bsky.network](https://lionsmane.us-east.host.bsky.network) | ✅ | ✅ | 2024-07-11T09:27:21.868Z |
 | [shiitake.us-east.host.bsky.network](https://shiitake.us-east.host.bsky.network) | ✅ | ✅ | 2024-07-11T06:45:23.504Z |
-| [agaric.us-west.host.bsky.network](https://agaric.us-west.host.bsky.network) | ✅ | ✅ | 2024-07-11T09:37:12.909Z |
-| [hydnum.us-west.host.bsky.network](https://hydnum.us-west.host.bsky.network) | ✅ | ✅ | 2024-07-11T09:35:11.398Z |
-| [verpa.us-west.host.bsky.network](https://verpa.us-west.host.bsky.network) | ✅ | ✅ | 2024-07-11T09:36:36.768Z |
-| [conocybe.us-west.host.bsky.network](https://conocybe.us-west.host.bsky.network) | ✅ | ✅ | 2024-07-11T09:18:31.359Z |
-| [maitake.us-west.host.bsky.network](https://maitake.us-west.host.bsky.network) | ✅ | ✅ | 2024-07-11T09:38:20.167Z |
-| [russula.us-west.host.bsky.network](https://russula.us-west.host.bsky.network) | ✅ | ✅ | 2024-07-11T09:35:28.632Z |
-| [lepista.us-west.host.bsky.network](https://lepista.us-west.host.bsky.network) | ✅ | ✅ | 2024-07-11T09:31:23.995Z |
+| [agaric.us-west.host.bsky.network](https://agaric.us-west.host.bsky.network) | ✅ | ✅ | 2024-07-11T09:42:46.286Z |
+| [hydnum.us-west.host.bsky.network](https://hydnum.us-west.host.bsky.network) | ✅ | ✅ | 2024-07-11T09:45:29.363Z |
+| [verpa.us-west.host.bsky.network](https://verpa.us-west.host.bsky.network) | ✅ | ✅ | 2024-07-11T09:43:46.593Z |
+| [conocybe.us-west.host.bsky.network](https://conocybe.us-west.host.bsky.network) | ✅ | ✅ | 2024-07-11T09:49:02.332Z |
+| [maitake.us-west.host.bsky.network](https://maitake.us-west.host.bsky.network) | ✅ | ✅ | 2024-07-11T09:45:59.905Z |
+| [russula.us-west.host.bsky.network](https://russula.us-west.host.bsky.network) | ✅ | ✅ | 2024-07-11T09:46:26.164Z |
+| [lepista.us-west.host.bsky.network](https://lepista.us-west.host.bsky.network) | ✅ | ✅ | 2024-07-11T09:44:32.925Z |
 | [blewit.us-west.host.bsky.network](https://blewit.us-west.host.bsky.network) | ✅ | ✅ | 2024-07-11T09:35:09.943Z |
-| [chaga.us-west.host.bsky.network](https://chaga.us-west.host.bsky.network) | ✅ | ✅ | 2024-07-11T09:32:35.286Z |
-| [boletus.us-west.host.bsky.network](https://boletus.us-west.host.bsky.network) | ✅ | ✅ | 2024-07-11T09:36:35.381Z |
+| [chaga.us-west.host.bsky.network](https://chaga.us-west.host.bsky.network) | ✅ | ✅ | 2024-07-11T09:44:53.163Z |
+| [boletus.us-west.host.bsky.network](https://boletus.us-west.host.bsky.network) | ✅ | ✅ | 2024-07-11T09:42:52.956Z |
 | [atproto.brid.gy](https://atproto.brid.gy) | ✅ | ✅ | 2024-07-11T06:53:45.921Z |
 | [at.syui.ai](https://at.syui.ai) | ❌ | ❌ | 2023-06-20T10:52:03.076Z |
 | [n.redocean.one](https://n.redocean.one) | ❌ | ❌ | 2023-06-20T13:18:45.587Z |
@@ -562,7 +562,7 @@ Last Crawled: 2024-07-11T09:42:02.532Z
 | [bsky.tochu-cha.mydns.jp](https://bsky.tochu-cha.mydns.jp) | ❌ | ❌ | 2024-05-08T16:13:26.831Z |
 ## 🌐 plc.bsky-sandbox.dev
 
-Last Crawled: 2024-07-11T09:42:02.532Z
+Last Crawled: 2024-07-11T09:49:16.577Z
 
 | PDS Endpoint | Active | Invite Code Required | Created At |
 |---|:---:|:---:|:---:|
@@ -1093,16 +1093,16 @@ Last Crawled: 2024-07-11T09:42:02.532Z
 | [amanita.us-east.host.bsky.network](https://amanita.us-east.host.bsky.network) | ✅ | ✅ | 2024-07-11T08:32:29.640Z |
 | [inkcap.us-east.host.bsky.network](https://inkcap.us-east.host.bsky.network) | ✅ | ✅ | 2024-07-11T01:03:20.685Z |
 | [shimeji.us-east.host.bsky.network](https://shimeji.us-east.host.bsky.network) | ✅ | ✅ | 2024-07-10T22:46:19.161Z |
-| [agaric.us-west.host.bsky.network](https://agaric.us-west.host.bsky.network) | ✅ | ✅ | 2024-07-11T09:37:12.909Z |
-| [hydnum.us-west.host.bsky.network](https://hydnum.us-west.host.bsky.network) | ✅ | ✅ | 2024-07-11T09:35:11.398Z |
-| [verpa.us-west.host.bsky.network](https://verpa.us-west.host.bsky.network) | ✅ | ✅ | 2024-07-11T09:36:36.768Z |
-| [conocybe.us-west.host.bsky.network](https://conocybe.us-west.host.bsky.network) | ✅ | ✅ | 2024-07-11T09:18:31.359Z |
-| [maitake.us-west.host.bsky.network](https://maitake.us-west.host.bsky.network) | ✅ | ✅ | 2024-07-11T09:38:20.167Z |
-| [russula.us-west.host.bsky.network](https://russula.us-west.host.bsky.network) | ✅ | ✅ | 2024-07-11T09:35:28.632Z |
-| [lepista.us-west.host.bsky.network](https://lepista.us-west.host.bsky.network) | ✅ | ✅ | 2024-07-11T09:31:23.995Z |
+| [agaric.us-west.host.bsky.network](https://agaric.us-west.host.bsky.network) | ✅ | ✅ | 2024-07-11T09:42:46.286Z |
+| [hydnum.us-west.host.bsky.network](https://hydnum.us-west.host.bsky.network) | ✅ | ✅ | 2024-07-11T09:45:29.363Z |
+| [verpa.us-west.host.bsky.network](https://verpa.us-west.host.bsky.network) | ✅ | ✅ | 2024-07-11T09:43:46.593Z |
+| [conocybe.us-west.host.bsky.network](https://conocybe.us-west.host.bsky.network) | ✅ | ✅ | 2024-07-11T09:49:02.332Z |
+| [maitake.us-west.host.bsky.network](https://maitake.us-west.host.bsky.network) | ✅ | ✅ | 2024-07-11T09:45:59.905Z |
+| [russula.us-west.host.bsky.network](https://russula.us-west.host.bsky.network) | ✅ | ✅ | 2024-07-11T09:46:26.164Z |
+| [lepista.us-west.host.bsky.network](https://lepista.us-west.host.bsky.network) | ✅ | ✅ | 2024-07-11T09:44:32.925Z |
 | [blewit.us-west.host.bsky.network](https://blewit.us-west.host.bsky.network) | ✅ | ✅ | 2024-07-11T09:35:09.943Z |
-| [chaga.us-west.host.bsky.network](https://chaga.us-west.host.bsky.network) | ✅ | ✅ | 2024-07-11T09:32:35.286Z |
-| [boletus.us-west.host.bsky.network](https://boletus.us-west.host.bsky.network) | ✅ | ✅ | 2024-07-11T09:36:35.381Z |
+| [chaga.us-west.host.bsky.network](https://chaga.us-west.host.bsky.network) | ✅ | ✅ | 2024-07-11T09:44:53.163Z |
+| [boletus.us-west.host.bsky.network](https://boletus.us-west.host.bsky.network) | ✅ | ✅ | 2024-07-11T09:42:52.956Z |
 | [atproto.brid.gy](https://atproto.brid.gy) | ✅ | ✅ | 2024-07-11T06:53:45.921Z |
 | [boobee.blue](https://boobee.blue) | ✅ | ✅ | 2023-06-15T20:18:48.814Z |
 | [redocean.one](https://redocean.one) | ✅ | ✅ | 2023-06-16T13:44:02.055Z |
