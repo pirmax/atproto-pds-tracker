@@ -23,7 +23,13 @@ function truncate(value: string, length: number): string {
     readmeText += `|---|:---:|:---:|:---:|\n`;
 
     for await (const pds of plcDatum.pds) {
-      readmeText += `| ${pds.isActive ? '✅' : '❌'} [${new URL(pds.domain).host}](${pds.domain}) | ${pds.isInviteCodeRequired ? '✅' : '❌'} | ${pds.createdAt} | ${truncate(pds.version ?? '⁉️', 8)} |\n`;
+      const pdsActiveText: string = `${pds.isActive ? '✅' : '❌'}`;
+      const pdsDomainText: string = `[**${new URL(pds.domain).host}**](${pds.domain})`;
+      const pdsInviteCodeRequiredText: string = `${pds.isInviteCodeRequired ? '🔒 - ✅' : '🔓 - ❌'}`;
+      const pdsCreationDateText: string = `*${pds.createdAt}*`;
+      const pdsVersionText: string = `[${truncate(pds.version ?? '⁉️', 8)}](${pds.domain}/xrpc/_health)`;
+
+      readmeText += `| ${pdsActiveText} ${pdsDomainText} | ${pdsInviteCodeRequiredText} | ${pdsCreationDateText} | ${pdsVersionText} |\n`;
     }
   }
 
