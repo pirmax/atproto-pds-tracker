@@ -4,7 +4,7 @@ This is a list of ATProto PDS crawled from the ATProto website.
 
 You can follow me on Bluesky: https://bsky.app/profile/pirmax.fr
 
-Last Updated: 2024-07-11T10:57:27.682Z
+Last Updated: 2024-07-11T10:58:35.463Z
 
 ## 🌐 [plc.directory](https://plc.directory)
 
@@ -94,7 +94,6 @@ Last Crawled: 2024-07-11T10:03:12.362Z
 | ✅ [corgi.dance](https://corgi.dance) | ✅ | 2023-11-20T01:57:57.929Z | 0.4.38 |
 | ✅ [pds.y-force.info](https://pds.y-force.info) | ❌ | 2023-11-30T22:35:17.033Z | 0.4.27 |
 | ✅ [bluesky.kosti.dev](https://bluesky.kosti.dev) | ✅ | 2023-12-16T11:31:39.601Z | 0.4.38 |
-| ✅ [bsky.social](https://bsky.social) | ❌ | 2023-12-23T21:35:28.817Z | 12f53b6... |
 | ✅ [reallyme.social](https://reallyme.social) | ✅ | 2024-01-09T21:59:22.442Z | 0.4.38 |
 | ✅ [465789.xyz](https://465789.xyz) | ✅ | 2024-02-09T21:48:17.069Z | 0.4.38 |
 | ✅ [bsky.deiru.online](https://bsky.deiru.online) | ✅ | 2024-02-10T12:25:06.915Z | 0.4.38 |

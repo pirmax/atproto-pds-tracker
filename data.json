@@ -742,15 +742,6 @@
           "updatedAt": "2024-07-11T09:57:25.130Z"
         },
         {
-          "domain": "https://bsky.social",
-          "isActive": true,
-          "isInviteCodeRequired": false,
-          "version": "12f53b612e05aad7f3ba78d5f64e49bf4687eaad",
-          "createdAt": "2023-12-23T21:35:28.817Z",
-          "indexedAt": "2023-12-23T22:01:54.019341Z",
-          "updatedAt": "2024-07-11T09:57:29.294Z"
-        },
-        {
           "domain": "https://reallyme.social",
           "isActive": true,
           "isInviteCodeRequired": true,
