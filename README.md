@@ -4,7 +4,7 @@ This is a list of ATProto PDS crawled from the ATProto website.
 
 You can follow me on Bluesky: https://bsky.app/profile/pirmax.fr
 
-Last Updated: 2024-07-11T10:50:25.619Z
+Last Updated: 2024-07-11T10:52:30.574Z
 
 ## 🌐 [plc.directory](https://plc.directory)
 
@@ -13,7 +13,7 @@ Last Crawled: 2024-07-11T10:03:12.362Z
 | Endpoint | Invite Code | Creation Date | Version |
 |---|:---:|:---:|:---:|
 | ✅ [bsky.social](https://bsky.social) | ❌ | 2023-12-23T21:35:28.817Z | 12f53b6... |
-| ❌ [rebroad.com](https://rebroad.com) | ❌ | 2023-10-05T08:49:14.908Z | 0.4.38 |
+| ❌ [rebroad.com](https://rebroad.com) | ❌ | 2023-10-05T08:49:14.908Z | ⁉️ |
 | ✅ [kitsune.nexus](https://kitsune.nexus) | ✅ | 2023-07-10T12:41:58.049Z | ⁉️ |
 | ✅ [morel.us-east.host.bsky.network](https://morel.us-east.host.bsky.network) | ✅ | 2024-07-10T16:33:43.071Z | 4ddf457... |
 | ✅ [puffball.us-east.host.bsky.network](https://puffball.us-east.host.bsky.network) | ✅ | 2024-07-10T18:47:20.723Z | 4ddf457... |
@@ -43,7 +43,7 @@ Last Crawled: 2024-07-11T10:03:12.362Z
 | ✅ [blacksky.app](https://blacksky.app) | ✅ | 2023-09-19T03:52:08.897Z | 0.4.38 |
 | ✅ [bsk.carl0scheca.com](https://bsk.carl0scheca.com) | ❌ | 2023-09-19T15:11:21.813Z | ⁉️ |
 | ✅ [atptest.lep.wtf](https://atptest.lep.wtf) | ✅ | 2023-09-27T06:56:05.679Z | 0.4.38 |
-| ✅ [fed.brid.gy](https://fed.brid.gy/) | ❌ | 2023-09-29T21:19:57.514Z | ⁉️ |
+| ❌ [fed.brid.gy](https://fed.brid.gy/) | ❌ | 2023-09-29T21:19:57.514Z | ⁉️ |
 | ✅ [bsky.zoeyvid.de](https://bsky.zoeyvid.de) | ✅ | 2023-10-15T11:31:45.180Z | 0.4.38 |
 | ✅ [joost.social](https://joost.social) | ✅ | 2023-10-16T13:38:44.156Z | 0.4.38 |
 | ✅ [pds.vriska.dev](https://pds.vriska.dev) | ✅ | 2023-10-18T01:46:59.636Z | 0.4.38 |
