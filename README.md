@@ -4,7 +4,7 @@ This is a list of ATProto PDS crawled from the ATProto website.
 
 You can follow me on Bluesky: https://bsky.app/profile/pirmax.fr
 
-Last Updated: 2024-07-11T08:26:26.505Z
+Last Updated: 2024-07-11T08:34:50.471Z
 
 ## 🌐 plc.directory
 
@@ -304,7 +304,7 @@ Last Crawled: 2024-07-11T08:26:25.373Z
 | [bluesky.jayp.io](https://bluesky.jayp.io) | ❌ | ❌ | 2023-09-22T16:07:13.455Z |
 | [this-is-epic.space](https://this-is-epic.space) | ❌ | ❌ | 2023-09-24T04:42:43.861Z |
 | [tsuki.social](https://tsuki.social) | ❌ | ❌ | 2023-09-24T08:03:16.079Z |
-| [x-mweya.duckdns.org](https://x-mweya.duckdns.org) | ✅ | ✅ | 2023-09-24T18:19:00.659Z |
+| [x-mweya.duckdns.org](https://x-mweya.duckdns.org) | ❌ | ❌ | 2023-09-24T18:19:00.659Z |
 | [fraudulent.link](https://fraudulent.link) | ❌ | ❌ | 2023-09-24T18:37:10.150Z |
 | [utatane.blue](https://utatane.blue) | ❌ | ❌ | 2023-09-25T15:57:16.775Z |
 | [b.browsersource.dev](https://b.browsersource.dev) | ❌ | ❌ | 2023-09-25T19:22:25.887Z |
@@ -313,7 +313,7 @@ Last Crawled: 2024-07-11T08:26:25.373Z
 | [atptest.lep.wtf](https://atptest.lep.wtf) | ✅ | ✅ | 2023-09-27T06:56:05.679Z |
 | [galaxy.neo7.kim](https://galaxy.neo7.kim) | ❌ | ❌ | 2023-09-27T08:42:10.235Z |
 | [broad.re](https://broad.re) | ❌ | ❌ | 2023-09-28T15:50:39.620Z |
-| [fed.brid.gy](https://fed.brid.gy/) | ❌ | ❌ | 2023-09-29T21:19:57.514Z |
+| [fed.brid.gy](https://fed.brid.gy/) | ✅ | ✅ | 2023-09-29T21:19:57.514Z |
 | [bsky.kwilium.xyz](https://bsky.kwilium.xyz) | ❌ | ❌ | 2023-09-29T22:36:00.986Z |
 | [sky.hideside.de](https://sky.hideside.de) | ❌ | ❌ | 2023-10-01T00:59:06.252Z |
 | [pds.jpco.io](https://pds.jpco.io) | ❌ | ❌ | 2023-10-01T01:43:19.736Z |
@@ -328,7 +328,7 @@ Last Crawled: 2024-07-11T08:26:25.373Z
 | [jobo.eu.org](https://jobo.eu.org) | ❌ | ❌ | 2023-10-03T15:32:27.822Z |
 | [bingerin.de](https://bingerin.de) | ❌ | ❌ | 2023-10-03T16:15:04.551Z |
 | [blueskyde.cloud](https://blueskyde.cloud) | ❌ | ❌ | 2023-10-04T03:50:23.407Z |
-| [bsky.primeapps.net](https://bsky.primeapps.net) | ✅ | ✅ | 2023-10-04T13:03:01.148Z |
+| [bsky.primeapps.net](https://bsky.primeapps.net) | ❌ | ❌ | 2023-10-04T13:03:01.148Z |
 | [fed.brid.gy](https://fed.brid.gy) | ✅ | ✅ | 2023-10-04T20:33:48.187Z |
 | [mdthh.de](https://mdthh.de) | ❌ | ❌ | 2023-10-04T22:23:07.669Z |
 | [equus.quest](https://equus.quest) | ❌ | ❌ | 2023-10-05T00:05:35.091Z |
@@ -425,7 +425,7 @@ Last Crawled: 2024-07-11T08:26:25.373Z
 | [blueskysweden.se](https://blueskysweden.se) | ❌ | ❌ | 2023-11-08T19:17:11.569Z |
 | [pds.home.rjp.is](https://pds.home.rjp.is) | ❌ | ❌ | 2023-11-08T21:31:26.646Z |
 | [posting.expert](https://posting.expert) | ❌ | ❌ | 2023-11-09T15:16:34.401Z |
-| [pds.timburga.social](https://pds.timburga.social) | ✅ | ✅ | 2023-11-09T17:08:30.120Z |
+| [pds.timburga.social](https://pds.timburga.social) | ❌ | ❌ | 2023-11-09T17:08:30.120Z |
 | [bs.foss.gay](https://bs.foss.gay) | ❌ | ❌ | 2023-11-10T22:40:14.351Z |
 | [bsky.fracergu.dev](https://bsky.fracergu.dev) | ❌ | ❌ | 2023-11-11T11:09:34.010Z |
 | [briiz.com](https://briiz.com) | ❌ | ❌ | 2023-11-13T12:34:32.822Z |
@@ -824,7 +824,7 @@ Last Crawled: 2024-07-11T08:26:25.373Z
 | [bluesky.jayp.io](https://bluesky.jayp.io) | ❌ | ❌ | 2023-09-22T16:07:13.455Z |
 | [this-is-epic.space](https://this-is-epic.space) | ❌ | ❌ | 2023-09-24T04:42:43.861Z |
 | [tsuki.social](https://tsuki.social) | ❌ | ❌ | 2023-09-24T08:03:16.079Z |
-| [x-mweya.duckdns.org](https://x-mweya.duckdns.org) | ✅ | ✅ | 2023-09-24T18:19:00.659Z |
+| [x-mweya.duckdns.org](https://x-mweya.duckdns.org) | ❌ | ❌ | 2023-09-24T18:19:00.659Z |
 | [fraudulent.link](https://fraudulent.link) | ❌ | ❌ | 2023-09-24T18:37:10.150Z |
 | [utatane.blue](https://utatane.blue) | ❌ | ❌ | 2023-09-25T15:57:16.775Z |
 | [b.browsersource.dev](https://b.browsersource.dev) | ❌ | ❌ | 2023-09-25T19:22:25.887Z |
@@ -833,7 +833,7 @@ Last Crawled: 2024-07-11T08:26:25.373Z
 | [atptest.lep.wtf](https://atptest.lep.wtf) | ✅ | ✅ | 2023-09-27T06:56:05.679Z |
 | [galaxy.neo7.kim](https://galaxy.neo7.kim) | ❌ | ❌ | 2023-09-27T08:42:10.235Z |
 | [broad.re](https://broad.re) | ❌ | ❌ | 2023-09-28T15:50:39.620Z |
-| [fed.brid.gy](https://fed.brid.gy/) | ❌ | ❌ | 2023-09-29T21:19:57.514Z |
+| [fed.brid.gy](https://fed.brid.gy/) | ✅ | ✅ | 2023-09-29T21:19:57.514Z |
 | [bsky.kwilium.xyz](https://bsky.kwilium.xyz) | ❌ | ❌ | 2023-09-29T22:36:00.986Z |
 | [sky.hideside.de](https://sky.hideside.de) | ❌ | ❌ | 2023-10-01T00:59:06.252Z |
 | [pds.jpco.io](https://pds.jpco.io) | ❌ | ❌ | 2023-10-01T01:43:19.736Z |
@@ -848,7 +848,7 @@ Last Crawled: 2024-07-11T08:26:25.373Z
 | [jobo.eu.org](https://jobo.eu.org) | ❌ | ❌ | 2023-10-03T15:32:27.822Z |
 | [bingerin.de](https://bingerin.de) | ❌ | ❌ | 2023-10-03T16:15:04.551Z |
 | [blueskyde.cloud](https://blueskyde.cloud) | ❌ | ❌ | 2023-10-04T03:50:23.407Z |
-| [bsky.primeapps.net](https://bsky.primeapps.net) | ✅ | ✅ | 2023-10-04T13:03:01.148Z |
+| [bsky.primeapps.net](https://bsky.primeapps.net) | ❌ | ❌ | 2023-10-04T13:03:01.148Z |
 | [fed.brid.gy](https://fed.brid.gy) | ✅ | ✅ | 2023-10-04T20:33:48.187Z |
 | [mdthh.de](https://mdthh.de) | ❌ | ❌ | 2023-10-04T22:23:07.669Z |
 | [equus.quest](https://equus.quest) | ❌ | ❌ | 2023-10-05T00:05:35.091Z |
@@ -947,7 +947,7 @@ Last Crawled: 2024-07-11T08:26:25.373Z
 | [blueskysweden.se](https://blueskysweden.se) | ❌ | ❌ | 2023-11-08T19:17:11.569Z |
 | [pds.home.rjp.is](https://pds.home.rjp.is) | ❌ | ❌ | 2023-11-08T21:31:26.646Z |
 | [posting.expert](https://posting.expert) | ❌ | ❌ | 2023-11-09T15:16:34.401Z |
-| [pds.timburga.social](https://pds.timburga.social) | ✅ | ✅ | 2023-11-09T17:08:30.120Z |
+| [pds.timburga.social](https://pds.timburga.social) | ❌ | ❌ | 2023-11-09T17:08:30.120Z |
 | [bs.foss.gay](https://bs.foss.gay) | ❌ | ❌ | 2023-11-10T22:40:14.351Z |
 | [bsky.fracergu.dev](https://bsky.fracergu.dev) | ❌ | ❌ | 2023-11-11T11:09:34.010Z |
 | [briiz.com](https://briiz.com) | ❌ | ❌ | 2023-11-13T12:34:32.822Z |
