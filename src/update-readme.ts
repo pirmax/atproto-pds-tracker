@@ -17,7 +17,7 @@ function truncate(value: string, length: number): string {
   const plcData: PlcInterface[] = await getData();
 
   for await (const plcDatum of plcData) {
-    readmeText += `## 🌐 [${plcDatum.name}](${plcDatum.name})\n\n`;
+    readmeText += `## 🌐 [${plcDatum.name}](https://${plcDatum.name})\n\n`;
     readmeText += `Last Crawled: ${plcDatum.lastCrawledAt}\n\n`;
     readmeText += `| Endpoint | Invite Code | Creation Date | Version |\n`;
     readmeText += `|---|:---:|:---:|:---:|\n`;
