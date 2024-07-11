@@ -4,7 +4,7 @@ This is a list of ATProto PDS crawled from the ATProto website.
 
 You can follow me on Bluesky: https://bsky.app/profile/pirmax.fr
 
-Last Updated: 2024-07-11T04:00:17.212Z
+Last Updated: 2024-07-11T04:10:28.431Z
 
 ## 🌐 plc.directory
 
@@ -304,7 +304,7 @@ Last Crawled: 2024-07-11T04:00:16.092Z
 | [bluesky.jayp.io](https://bluesky.jayp.io) | ❌ | ❌ | 2023-09-22T16:07:13.455Z |
 | [this-is-epic.space](https://this-is-epic.space) | ❌ | ❌ | 2023-09-24T04:42:43.861Z |
 | [tsuki.social](https://tsuki.social) | ❌ | ❌ | 2023-09-24T08:03:16.079Z |
-| [x-mweya.duckdns.org](https://x-mweya.duckdns.org) | ✅ | ✅ | 2023-09-24T18:19:00.659Z |
+| [x-mweya.duckdns.org](https://x-mweya.duckdns.org) | ❌ | ❌ | 2023-09-24T18:19:00.659Z |
 | [fraudulent.link](https://fraudulent.link) | ❌ | ❌ | 2023-09-24T18:37:10.150Z |
 | [utatane.blue](https://utatane.blue) | ❌ | ❌ | 2023-09-25T15:57:16.775Z |
 | [b.browsersource.dev](https://b.browsersource.dev) | ❌ | ❌ | 2023-09-25T19:22:25.887Z |
@@ -328,7 +328,7 @@ Last Crawled: 2024-07-11T04:00:16.092Z
 | [jobo.eu.org](https://jobo.eu.org) | ❌ | ❌ | 2023-10-03T15:32:27.822Z |
 | [bingerin.de](https://bingerin.de) | ❌ | ❌ | 2023-10-03T16:15:04.551Z |
 | [blueskyde.cloud](https://blueskyde.cloud) | ❌ | ❌ | 2023-10-04T03:50:23.407Z |
-| [bsky.primeapps.net](https://bsky.primeapps.net) | ❌ | ❌ | 2023-10-04T13:03:01.148Z |
+| [bsky.primeapps.net](https://bsky.primeapps.net) | ✅ | ✅ | 2023-10-04T13:03:01.148Z |
 | [fed.brid.gy](https://fed.brid.gy) | ✅ | ✅ | 2023-10-04T20:33:48.187Z |
 | [mdthh.de](https://mdthh.de) | ❌ | ❌ | 2023-10-04T22:23:07.669Z |
 | [equus.quest](https://equus.quest) | ❌ | ❌ | 2023-10-05T00:05:35.091Z |
@@ -824,7 +824,7 @@ Last Crawled: 2024-07-11T04:00:16.092Z
 | [bluesky.jayp.io](https://bluesky.jayp.io) | ❌ | ❌ | 2023-09-22T16:07:13.455Z |
 | [this-is-epic.space](https://this-is-epic.space) | ❌ | ❌ | 2023-09-24T04:42:43.861Z |
 | [tsuki.social](https://tsuki.social) | ❌ | ❌ | 2023-09-24T08:03:16.079Z |
-| [x-mweya.duckdns.org](https://x-mweya.duckdns.org) | ✅ | ✅ | 2023-09-24T18:19:00.659Z |
+| [x-mweya.duckdns.org](https://x-mweya.duckdns.org) | ❌ | ❌ | 2023-09-24T18:19:00.659Z |
 | [fraudulent.link](https://fraudulent.link) | ❌ | ❌ | 2023-09-24T18:37:10.150Z |
 | [utatane.blue](https://utatane.blue) | ❌ | ❌ | 2023-09-25T15:57:16.775Z |
 | [b.browsersource.dev](https://b.browsersource.dev) | ❌ | ❌ | 2023-09-25T19:22:25.887Z |
@@ -848,7 +848,7 @@ Last Crawled: 2024-07-11T04:00:16.092Z
 | [jobo.eu.org](https://jobo.eu.org) | ❌ | ❌ | 2023-10-03T15:32:27.822Z |
 | [bingerin.de](https://bingerin.de) | ❌ | ❌ | 2023-10-03T16:15:04.551Z |
 | [blueskyde.cloud](https://blueskyde.cloud) | ❌ | ❌ | 2023-10-04T03:50:23.407Z |
-| [bsky.primeapps.net](https://bsky.primeapps.net) | ❌ | ❌ | 2023-10-04T13:03:01.148Z |
+| [bsky.primeapps.net](https://bsky.primeapps.net) | ✅ | ✅ | 2023-10-04T13:03:01.148Z |
 | [fed.brid.gy](https://fed.brid.gy) | ✅ | ✅ | 2023-10-04T20:33:48.187Z |
 | [mdthh.de](https://mdthh.de) | ❌ | ❌ | 2023-10-04T22:23:07.669Z |
 | [equus.quest](https://equus.quest) | ❌ | ❌ | 2023-10-05T00:05:35.091Z |
