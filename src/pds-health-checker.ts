@@ -4,7 +4,12 @@ import exportPlcData from './commons/export-plc-data';
 import { PlcInterface } from './interfaces/plc-interface';
 import { PdsInterface } from './interfaces/pds-interface';
 import { DescribeServerInterface } from './interfaces/server-output-interface';
-import { HEALTH_TIMEOUT } from './constants/timeouts';
+import {
+  SERVER_DESCRIBE_TIMEOUT,
+  SERVER_HEALTH_TIMEOUT,
+} from './constants/timeouts';
+import { ServerVersionInterface } from './interfaces/server-version-interface';
+import versionServer from './commons/version-server';
 
 (async (): Promise<void> => {
   const plcData: PlcInterface[] = await getData();
@@ -18,16 +23,20 @@ import { HEALTH_TIMEOUT } from './constants/timeouts';
         `Checking endpoint on directory ( ${plcDatum.name} - ${pds.domain} )`,
       );
 
-      const server: DescribeServerInterface | null = await describeServer(
+      const serverDescription: DescribeServerInterface | null =
+        await describeServer(pds.domain, SERVER_DESCRIBE_TIMEOUT);
+
+      const serverVersion: ServerVersionInterface | null = await versionServer(
         pds.domain,
-        HEALTH_TIMEOUT,
+        SERVER_HEALTH_TIMEOUT,
       );
 
-      if (server) {
+      if (serverDescription && serverVersion) {
         pdsList.push({
           domain: pds.domain,
           isActive: true,
-          isInviteCodeRequired: server.inviteCodeRequired ?? true,
+          isInviteCodeRequired: serverDescription?.inviteCodeRequired ?? false,
+          version: serverVersion?.version ?? null,
           createdAt: pds.createdAt,
           indexedAt: pds.indexedAt,
           updatedAt: new Date(),
@@ -37,6 +46,7 @@ import { HEALTH_TIMEOUT } from './constants/timeouts';
           domain: pds.domain,
           isActive: false,
           isInviteCodeRequired: false,
+          version: null,
           createdAt: pds.createdAt,
           indexedAt: pds.indexedAt,
           updatedAt: new Date(),

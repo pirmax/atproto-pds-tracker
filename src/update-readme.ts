@@ -2,6 +2,10 @@ import fs from 'fs';
 import getData from './commons/get-data';
 import { PlcInterface } from './interfaces/plc-interface';
 
+function truncate(value: string, length: number): string {
+  return value.length > length ? value.slice(0, length - 1) + '...' : value;
+}
+
 (async (): Promise<void> => {
   let readmeText: string = ``;
 
@@ -15,11 +19,11 @@ import { PlcInterface } from './interfaces/plc-interface';
   for await (const plcDatum of plcData) {
     readmeText += `## 🌐 ${plcDatum.name}\n\n`;
     readmeText += `Last Crawled: ${plcDatum.lastCrawledAt}\n\n`;
-    readmeText += `| PDS Endpoint | Active | Invite Code Required | Created At |\n`;
+    readmeText += `| PDS Endpoint | Invite Code | Created At | Version |\n`;
     readmeText += `|---|:---:|:---:|:---:|\n`;
 
     for await (const pds of plcDatum.pds) {
-      readmeText += `| [${new URL(pds.domain).host}](${pds.domain}) | ${pds.isActive ? '✅' : '❌'} | ${pds.isInviteCodeRequired ? '✅' : '❌'} | ${pds.createdAt} |\n`;
+      readmeText += `| ${pds.isActive ? '✅' : '❌'} [${new URL(pds.domain).host}](${pds.domain}) | ${pds.isInviteCodeRequired ? '☑️' : '❌'} | ${pds.createdAt} | ${truncate(pds.version ?? '⁉️', 8)} |\n`;
     }
   }
 

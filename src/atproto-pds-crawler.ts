@@ -7,7 +7,12 @@ import { PdsInterface } from './interfaces/pds-interface';
 import { PlcInterface } from './interfaces/plc-interface';
 import { DescribeServerInterface } from './interfaces/server-output-interface';
 import { PlcExportInterface } from './interfaces/plc-export-interface';
-import { CRAWL_TIMEOUT } from './constants/timeouts';
+import {
+  SERVER_DESCRIBE_TIMEOUT,
+  SERVER_VERSION_TIMEOUT,
+} from './constants/timeouts';
+import { ServerVersionInterface } from './interfaces/server-version-interface';
+import versionServer from './commons/version-server';
 
 (async (): Promise<void> => {
   const plcData: PlcInterface[] = await getData();
@@ -44,16 +49,19 @@ import { CRAWL_TIMEOUT } from './constants/timeouts';
           `Checking endpoint on directory ( ${plcDatum.name} - ${endpoint} )`,
         );
 
-        const server: DescribeServerInterface | null = await describeServer(
-          endpoint,
-          CRAWL_TIMEOUT,
-        );
+        const serverDescription: DescribeServerInterface | null =
+          await describeServer(endpoint, SERVER_DESCRIBE_TIMEOUT);
 
-        if (server) {
+        const serverVersion: ServerVersionInterface | null =
+          await versionServer(endpoint, SERVER_VERSION_TIMEOUT);
+
+        if (serverDescription && serverVersion) {
           pdsList.push({
             domain: endpoint,
             isActive: true,
-            isInviteCodeRequired: server.inviteCodeRequired ?? true,
+            isInviteCodeRequired:
+              serverDescription?.inviteCodeRequired ?? false,
+            version: serverVersion?.version ?? null,
             createdAt: new Date(data['createdAt']),
             indexedAt: new Date(),
             updatedAt: new Date(),
@@ -63,6 +71,7 @@ import { CRAWL_TIMEOUT } from './constants/timeouts';
             domain: endpoint,
             isActive: false,
             isInviteCodeRequired: false,
+            version: null,
             createdAt: new Date(data['createdAt']),
             indexedAt: new Date(),
             updatedAt: new Date(),
