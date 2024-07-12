@@ -4,7 +4,7 @@ This is a list of ATProto PDS crawled from the ATProto website.
 
 You can follow me on Bluesky: https://bsky.app/profile/pirmax.fr
 
-Last Updated: 2024-07-12T23:49:21.013Z
+Last Updated: 2024-07-12T23:53:00.887Z
 
 ## 🌐 [plc.directory](https://plc.directory)
 
@@ -106,4 +106,4 @@ Last Crawled: 2024-07-12T23:49:19.995Z
 | ✅ [**blewit.us-west.host.bsky.network**](https://blewit.us-west.host.bsky.network) | 🔒 - ✅ | *2024-07-12T23:36:13.196Z* | [4ddf457...](https://blewit.us-west.host.bsky.network/xrpc/_health) |
 | ✅ [**conocybe.us-west.host.bsky.network**](https://conocybe.us-west.host.bsky.network) | 🔒 - ✅ | *2024-07-12T23:35:12.101Z* | [4ddf457...](https://conocybe.us-west.host.bsky.network/xrpc/_health) |
 | ✅ [**russula.us-west.host.bsky.network**](https://russula.us-west.host.bsky.network) | 🔒 - ✅ | *2024-07-12T23:38:53.701Z* | [4ddf457...](https://russula.us-west.host.bsky.network/xrpc/_health) |
-| ✅ [**pds.furtenbach.social**](https://pds.furtenbach.social) | 🔒 - ✅ | *2024-07-11T15:13:07.009Z* | [0.4.38](https://pds.furtenbach.social/xrpc/_health) |
+| ❌ [**pds.furtenbach.social**](https://pds.furtenbach.social) | 🔓 - ❌ | *2024-07-11T15:13:07.009Z* | [⁉️](https://pds.furtenbach.social/xrpc/_health) |
