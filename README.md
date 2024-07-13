@@ -4,7 +4,7 @@ This is a list of ATProto PDS crawled from the ATProto website.
 
 You can follow me on Bluesky: https://bsky.app/profile/pirmax.fr
 
-Last Updated: 2024-07-13T13:24:56.604Z
+Last Updated: 2024-07-13T13:32:46.000Z
 
 ## 🌐 [plc.directory](https://plc.directory)
 
@@ -16,7 +16,7 @@ Last Crawled: 2024-07-13T13:22:49.183Z
 | ✅ [**morel.us-east.host.bsky.network**](https://morel.us-east.host.bsky.network) | 🔒 - ✅ | *2024-07-13T12:43:51.387Z* | [4ddf457...](https://morel.us-east.host.bsky.network/xrpc/_health) |
 | ✅ [**puffball.us-east.host.bsky.network**](https://puffball.us-east.host.bsky.network) | 🔒 - ✅ | *2024-07-13T12:51:20.587Z* | [4ddf457...](https://puffball.us-east.host.bsky.network/xrpc/_health) |
 | ✅ [**inkcap.us-east.host.bsky.network**](https://inkcap.us-east.host.bsky.network) | 🔒 - ✅ | *2024-07-13T12:27:31.749Z* | [4ddf457...](https://inkcap.us-east.host.bsky.network/xrpc/_health) |
-| ✅ [**oyster.us-east.host.bsky.network**](https://oyster.us-east.host.bsky.network) | 🔒 - ✅ | *2024-07-13T12:57:49.881Z* | [4ddf457...](https://oyster.us-east.host.bsky.network/xrpc/_health) |
+| ❌ [**oyster.us-east.host.bsky.network**](https://oyster.us-east.host.bsky.network) | 🔓 - ❌ | *2024-07-13T12:57:49.881Z* | [⁉️](https://oyster.us-east.host.bsky.network/xrpc/_health) |
 | ✅ [**enoki.us-east.host.bsky.network**](https://enoki.us-east.host.bsky.network) | 🔒 - ✅ | *2024-07-13T11:27:42.823Z* | [4ddf457...](https://enoki.us-east.host.bsky.network/xrpc/_health) |
 | ✅ [**porcini.us-east.host.bsky.network**](https://porcini.us-east.host.bsky.network) | 🔒 - ✅ | *2024-07-13T12:20:12.513Z* | [4ddf457...](https://porcini.us-east.host.bsky.network/xrpc/_health) |
 | ✅ [**shimeji.us-east.host.bsky.network**](https://shimeji.us-east.host.bsky.network) | 🔒 - ✅ | *2024-07-13T09:51:09.910Z* | [4ddf457...](https://shimeji.us-east.host.bsky.network/xrpc/_health) |
