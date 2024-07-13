@@ -4,7 +4,7 @@ This is a list of ATProto PDS crawled from the ATProto website.
 
 You can follow me on Bluesky: https://bsky.app/profile/pirmax.fr
 
-Last Updated: 2024-07-13T00:23:18.556Z
+Last Updated: 2024-07-13T00:28:39.556Z
 
 ## 🌐 [plc.directory](https://plc.directory)
 
@@ -13,8 +13,8 @@ Last Crawled: 2024-07-13T00:23:17.468Z
 | Endpoint | Invite Code | Creation Date | Version |
 |---|:---:|:---:|:---:|
 | ✅ [**bsky.social**](https://bsky.social) | 🔓 - ❌ | *2023-12-23T21:35:28.817Z* | [2a5036d...](https://bsky.social/xrpc/_health) |
-| ✅ [**morel.us-east.host.bsky.network**](https://morel.us-east.host.bsky.network) | 🔒 - ✅ | *2024-07-12T23:14:32.759Z* | [4ddf457...](https://morel.us-east.host.bsky.network/xrpc/_health) |
-| ✅ [**puffball.us-east.host.bsky.network**](https://puffball.us-east.host.bsky.network) | 🔒 - ✅ | *2024-07-13T00:07:58.853Z* | [4ddf457...](https://puffball.us-east.host.bsky.network/xrpc/_health) |
+| ❌ [**morel.us-east.host.bsky.network**](https://morel.us-east.host.bsky.network) | 🔓 - ❌ | *2024-07-12T23:14:32.759Z* | [⁉️](https://morel.us-east.host.bsky.network/xrpc/_health) |
+| ❌ [**puffball.us-east.host.bsky.network**](https://puffball.us-east.host.bsky.network) | 🔓 - ❌ | *2024-07-13T00:07:58.853Z* | [⁉️](https://puffball.us-east.host.bsky.network/xrpc/_health) |
 | ✅ [**inkcap.us-east.host.bsky.network**](https://inkcap.us-east.host.bsky.network) | 🔒 - ✅ | *2024-07-12T21:15:50.024Z* | [4ddf457...](https://inkcap.us-east.host.bsky.network/xrpc/_health) |
 | ✅ [**oyster.us-east.host.bsky.network**](https://oyster.us-east.host.bsky.network) | 🔒 - ✅ | *2024-07-12T18:27:22.153Z* | [4ddf457...](https://oyster.us-east.host.bsky.network/xrpc/_health) |
 | ✅ [**enoki.us-east.host.bsky.network**](https://enoki.us-east.host.bsky.network) | 🔒 - ✅ | *2024-07-13T00:10:44.817Z* | [4ddf457...](https://enoki.us-east.host.bsky.network/xrpc/_health) |
@@ -107,4 +107,4 @@ Last Crawled: 2024-07-13T00:23:17.468Z
 | ✅ [**conocybe.us-west.host.bsky.network**](https://conocybe.us-west.host.bsky.network) | 🔒 - ✅ | *2024-07-12T23:54:36.095Z* | [4ddf457...](https://conocybe.us-west.host.bsky.network/xrpc/_health) |
 | ✅ [**russula.us-west.host.bsky.network**](https://russula.us-west.host.bsky.network) | 🔒 - ✅ | *2024-07-12T23:50:04.088Z* | [4ddf457...](https://russula.us-west.host.bsky.network/xrpc/_health) |
 | ✅ [**pds.furtenbach.social**](https://pds.furtenbach.social) | 🔒 - ✅ | *2024-07-11T15:13:07.009Z* | [0.4.38](https://pds.furtenbach.social/xrpc/_health) |
-| ✅ [**bsky.hyperreal.coffee**](https://bsky.hyperreal.coffee) | 🔒 - ✅ | *2024-07-13T00:19:54.510Z* | [0.4.38](https://bsky.hyperreal.coffee/xrpc/_health) |
+| ❌ [**bsky.hyperreal.coffee**](https://bsky.hyperreal.coffee) | 🔓 - ❌ | *2024-07-13T00:19:54.510Z* | [⁉️](https://bsky.hyperreal.coffee/xrpc/_health) |
