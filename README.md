@@ -4,7 +4,7 @@ This is a list of ATProto PDS crawled from the ATProto website.
 
 You can follow me on Bluesky: https://bsky.app/profile/pirmax.fr
 
-Last Updated: 2024-07-14T23:53:00.622Z
+Last Updated: 2024-07-15T00:08:58.144Z
 
 ## 🌐 [plc.directory](https://plc.directory)
 
@@ -87,7 +87,7 @@ Last Crawled: 2024-07-14T23:49:07.392Z
 | ✅ [**bluesky.migennes.org**](https://bluesky.migennes.org) | 🔒 - ✅ | *2023-10-19T13:06:00.705Z* | [0.4.38](https://bluesky.migennes.org/xrpc/_health) |
 | ✅ [**bsky.akurosia.de**](https://bsky.akurosia.de) | 🔓 - ❌ | *2023-10-27T15:54:00.289Z* | [⁉️](https://bsky.akurosia.de/xrpc/_health) |
 | ✅ [**bsky.action0.com**](https://bsky.action0.com) | 🔒 - ✅ | *2023-10-30T11:02:16.088Z* | [0.3.0-b...](https://bsky.action0.com/xrpc/_health) |
-| ✅ [**bsky.powerg.love**](https://bsky.powerg.love) | 🔒 - ✅ | *2023-11-07T16:00:46.241Z* | [0.4.38](https://bsky.powerg.love/xrpc/_health) |
+| ❌ [**bsky.powerg.love**](https://bsky.powerg.love) | 🔓 - ❌ | *2023-11-07T16:00:46.241Z* | [⁉️](https://bsky.powerg.love/xrpc/_health) |
 | ✅ [**montpeyroux.social**](https://montpeyroux.social) | 🔒 - ✅ | *2023-11-08T19:10:22.308Z* | [0.4.38](https://montpeyroux.social/xrpc/_health) |
 | ✅ [**pds.timburga.social**](https://pds.timburga.social) | 🔒 - ✅ | *2023-11-09T17:08:30.120Z* | [0.4.38](https://pds.timburga.social/xrpc/_health) |
 | ✅ [**derpzilla.net**](https://derpzilla.net) | 🔓 - ❌ | *2023-11-19T15:24:53.929Z* | [0.4.0-b...](https://derpzilla.net/xrpc/_health) |
