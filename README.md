@@ -4,7 +4,7 @@ This is a list of ATProto PDS crawled from the ATProto website.
 
 You can follow me on Bluesky: https://bsky.app/profile/pirmax.fr
 
-Last Updated: 2024-07-16T07:05:48.713Z
+Last Updated: 2024-07-16T07:16:33.364Z
 
 ## 🌐 [plc.directory](https://plc.directory)
 
@@ -29,10 +29,10 @@ Last Crawled: 2024-07-16T07:05:47.678Z
 | ✅ [**chaga.us-west.host.bsky.network**](https://chaga.us-west.host.bsky.network) | 🔒 - ✅ | *2024-07-16T06:52:53.767Z* | [4ddf457...](https://chaga.us-west.host.bsky.network/xrpc/_health) |
 | ❌ [**rebroad.com**](https://rebroad.com) | 🔓 - ❌ | *2023-10-05T08:49:14.908Z* | [⁉️](https://rebroad.com/xrpc/_health) |
 | ✅ [**kitsune.nexus**](https://kitsune.nexus) | 🔒 - ✅ | *2023-07-10T12:41:58.049Z* | [⁉️](https://kitsune.nexus/xrpc/_health) |
-| ✅ [**atproto.brid.gy**](https://atproto.brid.gy) | 🔓 - ❌ | *2024-07-16T06:54:46.303Z* | [⁉️](https://atproto.brid.gy/xrpc/_health) |
+| ❌ [**atproto.brid.gy**](https://atproto.brid.gy) | 🔓 - ❌ | *2024-07-16T06:54:46.303Z* | [⁉️](https://atproto.brid.gy/xrpc/_health) |
 | ✅ [**pds.dholms.xyz**](https://pds.dholms.xyz) | 🔒 - ✅ | *2023-06-20T15:40:24.963Z* | [0.4.38](https://pds.dholms.xyz/xrpc/_health) |
 | ✅ [**friendlypds.cloud**](https://friendlypds.cloud) | 🔒 - ✅ | *2023-06-20T17:57:42.782Z* | [0.4.38](https://friendlypds.cloud/xrpc/_health) |
-| ✅ [**hellthread.pro**](https://hellthread.pro) | 🔒 - ✅ | *2023-06-20T20:14:49.851Z* | [0.4.38](https://hellthread.pro/xrpc/_health) |
+| ❌ [**hellthread.pro**](https://hellthread.pro) | 🔓 - ❌ | *2023-06-20T20:14:49.851Z* | [⁉️](https://hellthread.pro/xrpc/_health) |
 | ✅ [**bsky.imoein.com**](https://bsky.imoein.com) | 🔓 - ❌ | *2023-07-01T16:08:55.445Z* | [⁉️](https://bsky.imoein.com/xrpc/_health) |
 | ✅ [**bsky.dead10ck.dev**](https://bsky.dead10ck.dev) | 🔒 - ✅ | *2023-07-03T04:43:06.033Z* | [0.4.27](https://bsky.dead10ck.dev/xrpc/_health) |
 | ✅ [**disbursement.center**](https://disbursement.center) | 🔒 - ✅ | *2023-07-04T01:20:16.173Z* | [0.4.38](https://disbursement.center/xrpc/_health) |
@@ -57,7 +57,7 @@ Last Crawled: 2024-07-16T07:05:47.678Z
 | ✅ [**bsky.action0.com**](https://bsky.action0.com) | 🔒 - ✅ | *2023-10-30T11:02:16.088Z* | [0.3.0-b...](https://bsky.action0.com/xrpc/_health) |
 | ✅ [**montpeyroux.social**](https://montpeyroux.social) | 🔒 - ✅ | *2023-11-08T19:10:22.308Z* | [0.4.38](https://montpeyroux.social/xrpc/_health) |
 | ✅ [**derpzilla.net**](https://derpzilla.net) | 🔓 - ❌ | *2023-11-19T15:24:53.929Z* | [0.4.0-b...](https://derpzilla.net/xrpc/_health) |
-| ✅ [**corgi.dance**](https://corgi.dance) | 🔒 - ✅ | *2023-11-20T01:57:57.929Z* | [0.4.38](https://corgi.dance/xrpc/_health) |
+| ❌ [**corgi.dance**](https://corgi.dance) | 🔓 - ❌ | *2023-11-20T01:57:57.929Z* | [⁉️](https://corgi.dance/xrpc/_health) |
 | ✅ [**pds.y-force.info**](https://pds.y-force.info) | 🔓 - ❌ | *2023-11-30T22:35:17.033Z* | [0.4.27](https://pds.y-force.info/xrpc/_health) |
 | ✅ [**bluesky.kosti.dev**](https://bluesky.kosti.dev) | 🔒 - ✅ | *2023-12-16T11:31:39.601Z* | [0.4.38](https://bluesky.kosti.dev/xrpc/_health) |
 | ✅ [**465789.xyz**](https://465789.xyz) | 🔒 - ✅ | *2024-02-09T21:48:17.069Z* | [0.4.38](https://465789.xyz/xrpc/_health) |
