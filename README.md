@@ -4,7 +4,7 @@ This is a list of ATProto PDS crawled from the ATProto website.
 
 You can follow me on Bluesky: https://bsky.app/profile/pirmax.fr
 
-Last Updated: 2024-07-17T07:49:12.681Z
+Last Updated: 2024-07-17T07:53:12.273Z
 
 ## 🌐 [plc.directory](https://plc.directory)
 
@@ -18,8 +18,8 @@ Last Crawled: 2024-07-17T07:49:11.622Z
 | ✅ [**inkcap.us-east.host.bsky.network**](https://inkcap.us-east.host.bsky.network) | 🔒 - ✅ | *2024-07-17T07:12:00.623Z* | [4ddf457...](https://inkcap.us-east.host.bsky.network/xrpc/_health) |
 | ✅ [**oyster.us-east.host.bsky.network**](https://oyster.us-east.host.bsky.network) | 🔒 - ✅ | *2024-07-17T06:29:01.942Z* | [4ddf457...](https://oyster.us-east.host.bsky.network/xrpc/_health) |
 | ✅ [**enoki.us-east.host.bsky.network**](https://enoki.us-east.host.bsky.network) | 🔒 - ✅ | *2024-07-17T05:26:12.611Z* | [4ddf457...](https://enoki.us-east.host.bsky.network/xrpc/_health) |
-| ✅ [**porcini.us-east.host.bsky.network**](https://porcini.us-east.host.bsky.network) | 🔒 - ✅ | *2024-07-17T04:06:43.038Z* | [4ddf457...](https://porcini.us-east.host.bsky.network/xrpc/_health) |
-| ✅ [**shimeji.us-east.host.bsky.network**](https://shimeji.us-east.host.bsky.network) | 🔒 - ✅ | *2024-07-17T06:00:42.222Z* | [4ddf457...](https://shimeji.us-east.host.bsky.network/xrpc/_health) |
+| ❌ [**porcini.us-east.host.bsky.network**](https://porcini.us-east.host.bsky.network) | 🔓 - ❌ | *2024-07-17T04:06:43.038Z* | [⁉️](https://porcini.us-east.host.bsky.network/xrpc/_health) |
+| ❌ [**shimeji.us-east.host.bsky.network**](https://shimeji.us-east.host.bsky.network) | 🔓 - ❌ | *2024-07-17T06:00:42.222Z* | [⁉️](https://shimeji.us-east.host.bsky.network/xrpc/_health) |
 | ✅ [**amanita.us-east.host.bsky.network**](https://amanita.us-east.host.bsky.network) | 🔒 - ✅ | *2024-07-17T06:21:29.785Z* | [4ddf457...](https://amanita.us-east.host.bsky.network/xrpc/_health) |
 | ✅ [**lionsmane.us-east.host.bsky.network**](https://lionsmane.us-east.host.bsky.network) | 🔒 - ✅ | *2024-07-17T06:50:00.149Z* | [4ddf457...](https://lionsmane.us-east.host.bsky.network/xrpc/_health) |
 | ✅ [**shiitake.us-east.host.bsky.network**](https://shiitake.us-east.host.bsky.network) | 🔒 - ✅ | *2024-07-17T07:37:12.773Z* | [4ddf457...](https://shiitake.us-east.host.bsky.network/xrpc/_health) |
