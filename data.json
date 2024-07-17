@@ -107,36 +107,36 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "4ddf4578f532a255b46f954148a7b6b2bcf0703d",
-          "createdAt": "2024-07-17T22:11:33.197Z",
-          "indexedAt": "2024-07-17T22:23:05.517Z",
-          "updatedAt": "2024-07-17T22:33:09.756Z"
+          "createdAt": "2024-07-17T22:24:37.728Z",
+          "indexedAt": "2024-07-17T22:35:19.621Z",
+          "updatedAt": "2024-07-17T22:35:19.621Z"
         },
         {
           "domain": "https://verpa.us-west.host.bsky.network",
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "4ddf4578f532a255b46f954148a7b6b2bcf0703d",
-          "createdAt": "2024-07-17T22:16:22.538Z",
-          "indexedAt": "2024-07-17T22:23:06.563Z",
-          "updatedAt": "2024-07-17T22:33:10.108Z"
+          "createdAt": "2024-07-17T22:28:48.259Z",
+          "indexedAt": "2024-07-17T22:35:23.050Z",
+          "updatedAt": "2024-07-17T22:35:23.050Z"
         },
         {
           "domain": "https://maitake.us-west.host.bsky.network",
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "4ddf4578f532a255b46f954148a7b6b2bcf0703d",
-          "createdAt": "2024-07-17T22:12:20.295Z",
-          "indexedAt": "2024-07-17T22:23:05.887Z",
-          "updatedAt": "2024-07-17T22:33:10.454Z"
+          "createdAt": "2024-07-17T22:27:30.638Z",
+          "indexedAt": "2024-07-17T22:35:20.722Z",
+          "updatedAt": "2024-07-17T22:35:20.722Z"
         },
         {
           "domain": "https://chaga.us-west.host.bsky.network",
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "4ddf4578f532a255b46f954148a7b6b2bcf0703d",
-          "createdAt": "2024-07-17T22:11:07.504Z",
-          "indexedAt": "2024-07-17T22:23:05.139Z",
-          "updatedAt": "2024-07-17T22:33:10.803Z"
+          "createdAt": "2024-07-17T22:26:15.485Z",
+          "indexedAt": "2024-07-17T22:35:20.235Z",
+          "updatedAt": "2024-07-17T22:35:20.235Z"
         },
         {
           "domain": "https://rebroad.com",
@@ -158,12 +158,12 @@
         },
         {
           "domain": "https://atproto.brid.gy",
-          "isActive": true,
+          "isActive": false,
           "isInviteCodeRequired": false,
           "version": null,
-          "createdAt": "2024-07-17T22:16:37.986Z",
-          "indexedAt": "2024-07-17T22:23:07.580Z",
-          "updatedAt": "2024-07-17T22:33:13.652Z"
+          "createdAt": "2024-07-17T22:28:42.767Z",
+          "indexedAt": "2024-07-17T22:35:22.461Z",
+          "updatedAt": "2024-07-17T22:35:22.461Z"
         },
         {
           "domain": "https://pds.dholms.xyz",
@@ -800,54 +800,54 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "4ddf4578f532a255b46f954148a7b6b2bcf0703d",
-          "createdAt": "2024-07-17T22:08:42.907Z",
-          "indexedAt": "2024-07-17T22:23:04.180Z",
-          "updatedAt": "2024-07-17T22:33:53.624Z"
+          "createdAt": "2024-07-17T22:30:12.114Z",
+          "indexedAt": "2024-07-17T22:35:24.431Z",
+          "updatedAt": "2024-07-17T22:35:24.431Z"
         },
         {
           "domain": "https://boletus.us-west.host.bsky.network",
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "4ddf4578f532a255b46f954148a7b6b2bcf0703d",
-          "createdAt": "2024-07-17T22:16:34.139Z",
-          "indexedAt": "2024-07-17T22:23:06.917Z",
-          "updatedAt": "2024-07-17T22:33:53.982Z"
+          "createdAt": "2024-07-17T22:29:59.880Z",
+          "indexedAt": "2024-07-17T22:35:23.985Z",
+          "updatedAt": "2024-07-17T22:35:23.985Z"
         },
         {
           "domain": "https://lepista.us-west.host.bsky.network",
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "4ddf4578f532a255b46f954148a7b6b2bcf0703d",
-          "createdAt": "2024-07-17T22:10:02.491Z",
-          "indexedAt": "2024-07-17T22:23:04.557Z",
-          "updatedAt": "2024-07-17T22:33:54.325Z"
+          "createdAt": "2024-07-17T22:23:12.282Z",
+          "indexedAt": "2024-07-17T22:35:18.032Z",
+          "updatedAt": "2024-07-17T22:35:18.032Z"
         },
         {
           "domain": "https://blewit.us-west.host.bsky.network",
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "4ddf4578f532a255b46f954148a7b6b2bcf0703d",
-          "createdAt": "2024-07-17T22:17:05.667Z",
-          "indexedAt": "2024-07-17T22:23:07.933Z",
-          "updatedAt": "2024-07-17T22:33:54.699Z"
+          "createdAt": "2024-07-17T22:23:25.478Z",
+          "indexedAt": "2024-07-17T22:35:18.490Z",
+          "updatedAt": "2024-07-17T22:35:18.490Z"
         },
         {
           "domain": "https://conocybe.us-west.host.bsky.network",
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "4ddf4578f532a255b46f954148a7b6b2bcf0703d",
-          "createdAt": "2024-07-17T22:06:55.731Z",
-          "indexedAt": "2024-07-17T22:23:03.406Z",
-          "updatedAt": "2024-07-17T22:33:55.055Z"
+          "createdAt": "2024-07-17T22:24:19.157Z",
+          "indexedAt": "2024-07-17T22:35:19.164Z",
+          "updatedAt": "2024-07-17T22:35:19.164Z"
         },
         {
           "domain": "https://russula.us-west.host.bsky.network",
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "4ddf4578f532a255b46f954148a7b6b2bcf0703d",
-          "createdAt": "2024-07-17T22:08:06.271Z",
-          "indexedAt": "2024-07-17T22:23:03.804Z",
-          "updatedAt": "2024-07-17T22:33:55.400Z"
+          "createdAt": "2024-07-17T22:29:58.992Z",
+          "indexedAt": "2024-07-17T22:35:23.531Z",
+          "updatedAt": "2024-07-17T22:35:23.531Z"
         },
         {
           "domain": "https://pds.furtenbach.social",
@@ -976,7 +976,7 @@
           "updatedAt": "2024-07-17T22:34:06.927Z"
         }
       ],
-      "lastCrawledAt": "2024-07-17T22:23:08.091Z"
+      "lastCrawledAt": "2024-07-17T22:35:24.432Z"
     }
   ]
 }
