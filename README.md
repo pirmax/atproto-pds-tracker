@@ -4,7 +4,7 @@ This is a list of ATProto PDS crawled from the ATProto website.
 
 You can follow me on Bluesky: https://bsky.app/profile/pirmax.fr
 
-Last Updated: 2024-07-23T17:06:00.943Z
+Last Updated: 2024-07-23T17:16:00.998Z
 
 ## 🌐 [plc.directory](https://plc.directory)
 
@@ -125,6 +125,6 @@ Last Crawled: 2024-07-23T17:05:59.919Z
 | ✅ [**bousky.social**](https://bousky.social) | 🔒 - ✅ | *2024-07-21T21:31:03.152Z* | [0.4.38](https://bousky.social/xrpc/_health) |
 | ✅ [**fttp.cc**](https://fttp.cc) | 🔒 - ✅ | *2024-07-22T07:49:18.844Z* | [0.4.38](https://fttp.cc/xrpc/_health) |
 | ✅ [**48north.org**](https://48north.org) | 🔒 - ✅ | *2024-07-23T05:38:56.607Z* | [0.4.38](https://48north.org/xrpc/_health) |
-| ✅ [**aozora.yockow.jp**](https://aozora.yockow.jp) | 🔒 - ✅ | *2024-07-23T07:06:25.862Z* | [0.4.38](https://aozora.yockow.jp/xrpc/_health) |
+| ❌ [**aozora.yockow.jp**](https://aozora.yockow.jp) | 🔓 - ❌ | *2024-07-23T07:06:25.862Z* | [⁉️](https://aozora.yockow.jp/xrpc/_health) |
 | ❌ [**tbsky.vasco-shot.com**](https://tbsky.vasco-shot.com) | 🔓 - ❌ | *2024-07-23T07:07:33.563Z* | [⁉️](https://tbsky.vasco-shot.com/xrpc/_health) |
 | ✅ [**bluesky.xeronith.com**](https://bluesky.xeronith.com) | 🔒 - ✅ | *2024-07-23T13:04:44.319Z* | [0.4.38](https://bluesky.xeronith.com/xrpc/_health) |
