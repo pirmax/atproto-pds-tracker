@@ -107,36 +107,36 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "4ddf4578f532a255b46f954148a7b6b2bcf0703d",
-          "createdAt": "2024-07-29T01:36:24.453Z",
-          "indexedAt": "2024-07-29T02:09:14.303Z",
-          "updatedAt": "2024-07-29T02:19:31.298Z"
+          "createdAt": "2024-07-29T02:12:37.024Z",
+          "indexedAt": "2024-07-29T02:30:17.139Z",
+          "updatedAt": "2024-07-29T02:30:17.139Z"
         },
         {
           "domain": "https://verpa.us-west.host.bsky.network",
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "4ddf4578f532a255b46f954148a7b6b2bcf0703d",
-          "createdAt": "2024-07-29T01:36:07.050Z",
-          "indexedAt": "2024-07-29T02:09:14.171Z",
-          "updatedAt": "2024-07-29T02:19:31.686Z"
+          "createdAt": "2024-07-29T02:11:31.041Z",
+          "indexedAt": "2024-07-29T02:30:16.039Z",
+          "updatedAt": "2024-07-29T02:30:16.039Z"
         },
         {
           "domain": "https://maitake.us-west.host.bsky.network",
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "4ddf4578f532a255b46f954148a7b6b2bcf0703d",
-          "createdAt": "2024-07-29T01:33:08.296Z",
-          "indexedAt": "2024-07-29T02:09:12.834Z",
-          "updatedAt": "2024-07-29T02:19:32.063Z"
+          "createdAt": "2024-07-29T02:11:01.701Z",
+          "indexedAt": "2024-07-29T02:30:14.872Z",
+          "updatedAt": "2024-07-29T02:30:14.872Z"
         },
         {
           "domain": "https://chaga.us-west.host.bsky.network",
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "4ddf4578f532a255b46f954148a7b6b2bcf0703d",
-          "createdAt": "2024-07-29T01:43:12.602Z",
-          "indexedAt": "2024-07-29T02:09:14.557Z",
-          "updatedAt": "2024-07-29T02:19:32.434Z"
+          "createdAt": "2024-07-29T02:11:05.257Z",
+          "indexedAt": "2024-07-29T02:30:15.429Z",
+          "updatedAt": "2024-07-29T02:30:15.429Z"
         },
         {
           "domain": "https://rebroad.com",
@@ -797,57 +797,57 @@
         },
         {
           "domain": "https://agaric.us-west.host.bsky.network",
-          "isActive": true,
-          "isInviteCodeRequired": true,
-          "version": "4ddf4578f532a255b46f954148a7b6b2bcf0703d",
-          "createdAt": "2024-07-29T01:42:46.978Z",
-          "indexedAt": "2024-07-29T02:09:14.429Z",
-          "updatedAt": "2024-07-29T02:20:21.897Z"
+          "isActive": false,
+          "isInviteCodeRequired": false,
+          "version": null,
+          "createdAt": "2024-07-29T02:10:25.610Z",
+          "indexedAt": "2024-07-29T02:30:12.987Z",
+          "updatedAt": "2024-07-29T02:30:12.987Z"
         },
         {
           "domain": "https://boletus.us-west.host.bsky.network",
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "4ddf4578f532a255b46f954148a7b6b2bcf0703d",
-          "createdAt": "2024-07-29T01:34:38.550Z",
-          "indexedAt": "2024-07-29T02:09:13.905Z",
-          "updatedAt": "2024-07-29T02:20:22.258Z"
+          "createdAt": "2024-07-29T02:15:35.471Z",
+          "indexedAt": "2024-07-29T02:30:17.739Z",
+          "updatedAt": "2024-07-29T02:30:17.739Z"
         },
         {
           "domain": "https://lepista.us-west.host.bsky.network",
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "4ddf4578f532a255b46f954148a7b6b2bcf0703d",
-          "createdAt": "2024-07-29T01:35:35.088Z",
-          "indexedAt": "2024-07-29T02:09:14.029Z",
-          "updatedAt": "2024-07-29T02:20:22.650Z"
+          "createdAt": "2024-07-29T02:09:35.476Z",
+          "indexedAt": "2024-07-29T02:30:11.470Z",
+          "updatedAt": "2024-07-29T02:30:11.470Z"
         },
         {
           "domain": "https://blewit.us-west.host.bsky.network",
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "4ddf4578f532a255b46f954148a7b6b2bcf0703d",
-          "createdAt": "2024-07-29T01:33:35.963Z",
-          "indexedAt": "2024-07-29T02:09:13.531Z",
-          "updatedAt": "2024-07-29T02:20:23.047Z"
+          "createdAt": "2024-07-29T02:11:43.008Z",
+          "indexedAt": "2024-07-29T02:30:16.590Z",
+          "updatedAt": "2024-07-29T02:30:16.590Z"
         },
         {
           "domain": "https://conocybe.us-west.host.bsky.network",
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "4ddf4578f532a255b46f954148a7b6b2bcf0703d",
-          "createdAt": "2024-07-29T01:33:20.758Z",
-          "indexedAt": "2024-07-29T02:09:13.075Z",
-          "updatedAt": "2024-07-29T02:20:23.451Z"
+          "createdAt": "2024-07-29T02:09:34.390Z",
+          "indexedAt": "2024-07-29T02:30:10.778Z",
+          "updatedAt": "2024-07-29T02:30:10.778Z"
         },
         {
           "domain": "https://russula.us-west.host.bsky.network",
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "4ddf4578f532a255b46f954148a7b6b2bcf0703d",
-          "createdAt": "2024-07-29T01:33:55.130Z",
-          "indexedAt": "2024-07-29T02:09:13.765Z",
-          "updatedAt": "2024-07-29T02:20:23.809Z"
+          "createdAt": "2024-07-29T02:10:58.126Z",
+          "indexedAt": "2024-07-29T02:30:13.550Z",
+          "updatedAt": "2024-07-29T02:30:13.550Z"
         },
         {
           "domain": "https://pds.furtenbach.social",
@@ -1084,7 +1084,7 @@
           "updatedAt": "2024-07-29T02:20:48.397Z"
         }
       ],
-      "lastCrawledAt": "2024-07-29T02:09:14.988Z"
+      "lastCrawledAt": "2024-07-29T02:30:17.739Z"
     }
   ]
 }
