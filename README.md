@@ -4,7 +4,7 @@ This is a list of ATProto PDS crawled from the ATProto website.
 
 You can follow me on Bluesky: https://bsky.app/profile/pirmax.fr
 
-Last Updated: 2024-07-31T14:25:29.520Z
+Last Updated: 2024-07-31T14:32:53.717Z
 
 ## 🌐 [plc.directory](https://plc.directory)
 
@@ -37,7 +37,7 @@ Last Crawled: 2024-07-31T14:21:58.620Z
 | ✅ [**bsky.dead10ck.dev**](https://bsky.dead10ck.dev) | 🔒 - ✅ | *2023-07-03T04:43:06.033Z* | [0.4.27](https://bsky.dead10ck.dev/xrpc/_health) |
 | ✅ [**disbursement.center**](https://disbursement.center) | 🔒 - ✅ | *2023-07-04T01:20:16.173Z* | [0.4.38](https://disbursement.center/xrpc/_health) |
 | ✅ [**bsky.jakebrough.io**](https://bsky.jakebrough.io) | 🔒 - ✅ | *2023-07-24T19:34:52.436Z* | [0.4.38](https://bsky.jakebrough.io/xrpc/_health) |
-| ✅ [**bs.miichelle.moe**](https://bs.miichelle.moe) | 🔒 - ✅ | *2023-07-28T19:08:52.880Z* | [0.4.38](https://bs.miichelle.moe/xrpc/_health) |
+| ❌ [**bs.miichelle.moe**](https://bs.miichelle.moe) | 🔓 - ❌ | *2023-07-28T19:08:52.880Z* | [⁉️](https://bs.miichelle.moe/xrpc/_health) |
 | ✅ [**fomp.blue**](https://fomp.blue) | 🔒 - ✅ | *2023-07-29T11:41:51.491Z* | [0.4.38](https://fomp.blue/xrpc/_health) |
 | ✅ [**hooray.social**](https://hooray.social) | 🔒 - ✅ | *2023-08-10T06:37:49.299Z* | [0.4.38](https://hooray.social/xrpc/_health) |
 | ✅ [**bsky.bulles.social**](https://bsky.bulles.social) | 🔒 - ✅ | *2023-08-17T14:32:12.665Z* | [0.4.38](https://bsky.bulles.social/xrpc/_health) |
@@ -113,7 +113,7 @@ Last Crawled: 2024-07-31T14:21:58.620Z
 | ✅ [**pds.cauda.cloud**](https://pds.cauda.cloud) | 🔒 - ✅ | *2024-07-13T18:17:02.757Z* | [0.4.38](https://pds.cauda.cloud/xrpc/_health) |
 | ❌ [**runyanpi.jp**](https://runyanpi.jp) | 🔓 - ❌ | *2024-07-14T04:43:39.762Z* | [⁉️](https://runyanpi.jp/xrpc/_health) |
 | ❌ [**at-pds.tekat.my.id**](https://at-pds.tekat.my.id) | 🔓 - ❌ | *2024-07-14T05:28:00.380Z* | [⁉️](https://at-pds.tekat.my.id/xrpc/_health) |
-| ❌ [**bsky.jltml.me**](https://bsky.jltml.me) | 🔓 - ❌ | *2024-07-14T15:20:56.391Z* | [⁉️](https://bsky.jltml.me/xrpc/_health) |
+| ✅ [**bsky.jltml.me**](https://bsky.jltml.me) | 🔒 - ✅ | *2024-07-14T15:20:56.391Z* | [0.4.38](https://bsky.jltml.me/xrpc/_health) |
 | ❌ [**habitat-dev.tail07d32.ts.net**](https://habitat-dev.tail07d32.ts.net) | 🔓 - ❌ | *2024-07-15T01:10:30.742Z* | [⁉️](https://habitat-dev.tail07d32.ts.net/xrpc/_health) |
 | ❌ [**metastableholdings.eu**](https://metastableholdings.eu) | 🔓 - ❌ | *2024-07-15T14:26:40.738Z* | [⁉️](https://metastableholdings.eu/xrpc/_health) |
 | ✅ [**bluesky.adriansmares.ro**](https://bluesky.adriansmares.ro) | 🔒 - ✅ | *2024-07-15T14:44:24.761Z* | [0.4.38](https://bluesky.adriansmares.ro/xrpc/_health) |
@@ -126,7 +126,7 @@ Last Crawled: 2024-07-31T14:21:58.620Z
 | ✅ [**fttp.cc**](https://fttp.cc) | 🔒 - ✅ | *2024-07-22T07:49:18.844Z* | [0.4.38](https://fttp.cc/xrpc/_health) |
 | ❌ [**48north.org**](https://48north.org) | 🔓 - ❌ | *2024-07-23T05:38:56.607Z* | [⁉️](https://48north.org/xrpc/_health) |
 | ✅ [**aozora.yockow.jp**](https://aozora.yockow.jp) | 🔒 - ✅ | *2024-07-23T07:06:25.862Z* | [0.4.38](https://aozora.yockow.jp/xrpc/_health) |
-| ❌ [**tbsky.vasco-shot.com**](https://tbsky.vasco-shot.com) | 🔓 - ❌ | *2024-07-31T05:09:32.053Z* | [⁉️](https://tbsky.vasco-shot.com/xrpc/_health) |
+| ✅ [**tbsky.vasco-shot.com**](https://tbsky.vasco-shot.com) | 🔒 - ✅ | *2024-07-31T05:09:32.053Z* | [0.4.38](https://tbsky.vasco-shot.com/xrpc/_health) |
 | ❌ [**bluesky.xeronith.com**](https://bluesky.xeronith.com) | 🔓 - ❌ | *2024-07-23T13:04:44.319Z* | [⁉️](https://bluesky.xeronith.com/xrpc/_health) |
 | ✅ [**var.so**](https://var.so) | 🔒 - ✅ | *2024-07-28T14:49:45.405Z* | [0.4.38](https://var.so/xrpc/_health) |
 | ❌ [**cool-barnacle-equal.ngrok-free.app**](https://cool-barnacle-equal.ngrok-free.app) | 🔓 - ❌ | *2024-07-28T07:15:22.916Z* | [⁉️](https://cool-barnacle-equal.ngrok-free.app/xrpc/_health) |
