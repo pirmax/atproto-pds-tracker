@@ -4,32 +4,32 @@ This is a list of ATProto PDS crawled from the ATProto website.
 
 You can follow me on Bluesky: https://bsky.app/profile/pirmax.fr
 
-Last Updated: 2024-08-01T02:08:15.264Z
+Last Updated: 2024-08-01T02:32:52.598Z
 
 ## 🌐 [plc.directory](https://plc.directory)
 
-Last Crawled: 2024-08-01T01:36:40.280Z
+Last Crawled: 2024-08-01T02:32:51.560Z
 
 | Endpoint | Invite Code | Creation Date | Version |
 |---|:---:|:---:|:---:|
 | ✅ [**bsky.social**](https://bsky.social) | 🔓 - ❌ | *2023-12-23T21:35:28.817Z* | [2a5036d...](https://bsky.social/xrpc/_health) |
 | ✅ [**morel.us-east.host.bsky.network**](https://morel.us-east.host.bsky.network) | 🔒 - ✅ | *2024-07-31T23:25:20.388Z* | [4ddf457...](https://morel.us-east.host.bsky.network/xrpc/_health) |
 | ✅ [**puffball.us-east.host.bsky.network**](https://puffball.us-east.host.bsky.network) | 🔒 - ✅ | *2024-08-01T00:57:38.535Z* | [4ddf457...](https://puffball.us-east.host.bsky.network/xrpc/_health) |
-| ✅ [**inkcap.us-east.host.bsky.network**](https://inkcap.us-east.host.bsky.network) | 🔒 - ✅ | *2024-08-01T01:09:57.635Z* | [4ddf457...](https://inkcap.us-east.host.bsky.network/xrpc/_health) |
+| ✅ [**inkcap.us-east.host.bsky.network**](https://inkcap.us-east.host.bsky.network) | 🔒 - ✅ | *2024-08-01T02:00:07.011Z* | [4ddf457...](https://inkcap.us-east.host.bsky.network/xrpc/_health) |
 | ✅ [**oyster.us-east.host.bsky.network**](https://oyster.us-east.host.bsky.network) | 🔒 - ✅ | *2024-07-31T20:53:11.223Z* | [4ddf457...](https://oyster.us-east.host.bsky.network/xrpc/_health) |
-| ✅ [**enoki.us-east.host.bsky.network**](https://enoki.us-east.host.bsky.network) | 🔒 - ✅ | *2024-07-31T23:53:05.132Z* | [4ddf457...](https://enoki.us-east.host.bsky.network/xrpc/_health) |
-| ✅ [**porcini.us-east.host.bsky.network**](https://porcini.us-east.host.bsky.network) | 🔒 - ✅ | *2024-07-31T22:51:38.127Z* | [4ddf457...](https://porcini.us-east.host.bsky.network/xrpc/_health) |
-| ✅ [**shimeji.us-east.host.bsky.network**](https://shimeji.us-east.host.bsky.network) | 🔒 - ✅ | *2024-07-31T21:54:53.604Z* | [4ddf457...](https://shimeji.us-east.host.bsky.network/xrpc/_health) |
-| ✅ [**amanita.us-east.host.bsky.network**](https://amanita.us-east.host.bsky.network) | 🔒 - ✅ | *2024-08-01T00:02:13.241Z* | [4ddf457...](https://amanita.us-east.host.bsky.network/xrpc/_health) |
-| ✅ [**lionsmane.us-east.host.bsky.network**](https://lionsmane.us-east.host.bsky.network) | 🔒 - ✅ | *2024-08-01T00:19:34.405Z* | [4ddf457...](https://lionsmane.us-east.host.bsky.network/xrpc/_health) |
+| ✅ [**enoki.us-east.host.bsky.network**](https://enoki.us-east.host.bsky.network) | 🔒 - ✅ | *2024-08-01T02:07:44.520Z* | [4ddf457...](https://enoki.us-east.host.bsky.network/xrpc/_health) |
+| ✅ [**porcini.us-east.host.bsky.network**](https://porcini.us-east.host.bsky.network) | 🔒 - ✅ | *2024-08-01T02:29:58.178Z* | [4ddf457...](https://porcini.us-east.host.bsky.network/xrpc/_health) |
+| ✅ [**shimeji.us-east.host.bsky.network**](https://shimeji.us-east.host.bsky.network) | 🔒 - ✅ | *2024-08-01T02:19:57.432Z* | [4ddf457...](https://shimeji.us-east.host.bsky.network/xrpc/_health) |
+| ✅ [**amanita.us-east.host.bsky.network**](https://amanita.us-east.host.bsky.network) | 🔒 - ✅ | *2024-08-01T02:22:36.884Z* | [4ddf457...](https://amanita.us-east.host.bsky.network/xrpc/_health) |
+| ✅ [**lionsmane.us-east.host.bsky.network**](https://lionsmane.us-east.host.bsky.network) | 🔒 - ✅ | *2024-08-01T01:53:24.541Z* | [4ddf457...](https://lionsmane.us-east.host.bsky.network/xrpc/_health) |
 | ✅ [**shiitake.us-east.host.bsky.network**](https://shiitake.us-east.host.bsky.network) | 🔒 - ✅ | *2024-07-31T23:19:40.041Z* | [4ddf457...](https://shiitake.us-east.host.bsky.network/xrpc/_health) |
-| ✅ [**hydnum.us-west.host.bsky.network**](https://hydnum.us-west.host.bsky.network) | 🔒 - ✅ | *2024-07-31T23:53:50.946Z* | [4ddf457...](https://hydnum.us-west.host.bsky.network/xrpc/_health) |
-| ✅ [**verpa.us-west.host.bsky.network**](https://verpa.us-west.host.bsky.network) | 🔒 - ✅ | *2024-07-31T23:59:32.509Z* | [4ddf457...](https://verpa.us-west.host.bsky.network/xrpc/_health) |
-| ✅ [**maitake.us-west.host.bsky.network**](https://maitake.us-west.host.bsky.network) | 🔒 - ✅ | *2024-07-31T23:55:34.342Z* | [4ddf457...](https://maitake.us-west.host.bsky.network/xrpc/_health) |
-| ✅ [**chaga.us-west.host.bsky.network**](https://chaga.us-west.host.bsky.network) | 🔒 - ✅ | *2024-08-01T00:01:27.660Z* | [4ddf457...](https://chaga.us-west.host.bsky.network/xrpc/_health) |
+| ✅ [**hydnum.us-west.host.bsky.network**](https://hydnum.us-west.host.bsky.network) | 🔒 - ✅ | *2024-08-01T01:39:30.043Z* | [4ddf457...](https://hydnum.us-west.host.bsky.network/xrpc/_health) |
+| ✅ [**verpa.us-west.host.bsky.network**](https://verpa.us-west.host.bsky.network) | 🔒 - ✅ | *2024-08-01T01:38:23.971Z* | [4ddf457...](https://verpa.us-west.host.bsky.network/xrpc/_health) |
+| ✅ [**maitake.us-west.host.bsky.network**](https://maitake.us-west.host.bsky.network) | 🔒 - ✅ | *2024-08-01T01:36:49.581Z* | [4ddf457...](https://maitake.us-west.host.bsky.network/xrpc/_health) |
+| ✅ [**chaga.us-west.host.bsky.network**](https://chaga.us-west.host.bsky.network) | 🔒 - ✅ | *2024-08-01T01:39:24.069Z* | [4ddf457...](https://chaga.us-west.host.bsky.network/xrpc/_health) |
 | ❌ [**rebroad.com**](https://rebroad.com) | 🔓 - ❌ | *2023-10-05T08:49:14.908Z* | [⁉️](https://rebroad.com/xrpc/_health) |
 | ❌ [**kitsune.nexus**](https://kitsune.nexus) | 🔓 - ❌ | *2023-07-10T12:41:58.049Z* | [⁉️](https://kitsune.nexus/xrpc/_health) |
-| ✅ [**atproto.brid.gy**](https://atproto.brid.gy) | 🔓 - ❌ | *2024-07-31T21:38:58.163Z* | [⁉️](https://atproto.brid.gy/xrpc/_health) |
+| ✅ [**atproto.brid.gy**](https://atproto.brid.gy) | 🔓 - ❌ | *2024-08-01T02:15:41.891Z* | [⁉️](https://atproto.brid.gy/xrpc/_health) |
 | ❌ [**pds.dholms.xyz**](https://pds.dholms.xyz) | 🔓 - ❌ | *2023-06-20T15:40:24.963Z* | [⁉️](https://pds.dholms.xyz/xrpc/_health) |
 | ❌ [**friendlypds.cloud**](https://friendlypds.cloud) | 🔓 - ❌ | *2023-06-20T17:57:42.782Z* | [⁉️](https://friendlypds.cloud/xrpc/_health) |
 | ❌ [**hellthread.pro**](https://hellthread.pro) | 🔓 - ❌ | *2023-06-20T20:14:49.851Z* | [⁉️](https://hellthread.pro/xrpc/_health) |
@@ -100,12 +100,12 @@ Last Crawled: 2024-08-01T01:36:40.280Z
 | ✅ [**pds.shreyanjain.net**](https://pds.shreyanjain.net) | 🔒 - ✅ | *2024-07-27T18:07:50.723Z* | [0.4.38](https://pds.shreyanjain.net/xrpc/_health) |
 | ✅ [**nottyboi.me**](https://nottyboi.me) | 🔒 - ✅ | *2024-04-22T12:44:54.765Z* | [0.4.38](https://nottyboi.me/xrpc/_health) |
 | ✅ [**ds.povario.com**](https://ds.povario.com) | 🔒 - ✅ | *2024-05-03T21:10:04.661Z* | [0.4.12](https://ds.povario.com/xrpc/_health) |
-| ✅ [**agaric.us-west.host.bsky.network**](https://agaric.us-west.host.bsky.network) | 🔒 - ✅ | *2024-07-31T23:57:28.409Z* | [4ddf457...](https://agaric.us-west.host.bsky.network/xrpc/_health) |
-| ✅ [**boletus.us-west.host.bsky.network**](https://boletus.us-west.host.bsky.network) | 🔒 - ✅ | *2024-07-31T23:57:28.084Z* | [4ddf457...](https://boletus.us-west.host.bsky.network/xrpc/_health) |
-| ✅ [**lepista.us-west.host.bsky.network**](https://lepista.us-west.host.bsky.network) | 🔒 - ✅ | *2024-07-31T23:57:14.170Z* | [4ddf457...](https://lepista.us-west.host.bsky.network/xrpc/_health) |
-| ✅ [**blewit.us-west.host.bsky.network**](https://blewit.us-west.host.bsky.network) | 🔒 - ✅ | *2024-07-31T23:58:20.858Z* | [4ddf457...](https://blewit.us-west.host.bsky.network/xrpc/_health) |
-| ✅ [**conocybe.us-west.host.bsky.network**](https://conocybe.us-west.host.bsky.network) | 🔒 - ✅ | *2024-07-31T23:52:53.277Z* | [4ddf457...](https://conocybe.us-west.host.bsky.network/xrpc/_health) |
-| ✅ [**russula.us-west.host.bsky.network**](https://russula.us-west.host.bsky.network) | 🔒 - ✅ | *2024-07-31T23:53:39.803Z* | [4ddf457...](https://russula.us-west.host.bsky.network/xrpc/_health) |
+| ✅ [**agaric.us-west.host.bsky.network**](https://agaric.us-west.host.bsky.network) | 🔒 - ✅ | *2024-08-01T01:44:39.400Z* | [4ddf457...](https://agaric.us-west.host.bsky.network/xrpc/_health) |
+| ✅ [**boletus.us-west.host.bsky.network**](https://boletus.us-west.host.bsky.network) | 🔒 - ✅ | *2024-08-01T01:43:14.609Z* | [4ddf457...](https://boletus.us-west.host.bsky.network/xrpc/_health) |
+| ✅ [**lepista.us-west.host.bsky.network**](https://lepista.us-west.host.bsky.network) | 🔒 - ✅ | *2024-08-01T01:38:43.604Z* | [4ddf457...](https://lepista.us-west.host.bsky.network/xrpc/_health) |
+| ✅ [**blewit.us-west.host.bsky.network**](https://blewit.us-west.host.bsky.network) | 🔒 - ✅ | *2024-08-01T01:44:12.089Z* | [4ddf457...](https://blewit.us-west.host.bsky.network/xrpc/_health) |
+| ✅ [**conocybe.us-west.host.bsky.network**](https://conocybe.us-west.host.bsky.network) | 🔒 - ✅ | *2024-08-01T01:43:25.147Z* | [4ddf457...](https://conocybe.us-west.host.bsky.network/xrpc/_health) |
+| ✅ [**russula.us-west.host.bsky.network**](https://russula.us-west.host.bsky.network) | 🔒 - ✅ | *2024-08-01T01:36:44.814Z* | [4ddf457...](https://russula.us-west.host.bsky.network/xrpc/_health) |
 | ✅ [**pds.furtenbach.social**](https://pds.furtenbach.social) | 🔒 - ✅ | *2024-07-11T15:13:07.009Z* | [0.4.38](https://pds.furtenbach.social/xrpc/_health) |
 | ❌ [**bsky.hyperreal.coffee**](https://bsky.hyperreal.coffee) | 🔓 - ❌ | *2024-07-13T06:04:46.150Z* | [⁉️](https://bsky.hyperreal.coffee/xrpc/_health) |
 | ✅ [**unbnd.net**](https://unbnd.net) | 🔒 - ✅ | *2024-07-13T07:32:29.976Z* | [0.4.38](https://unbnd.net/xrpc/_health) |
@@ -136,3 +136,4 @@ Last Crawled: 2024-08-01T01:36:40.280Z
 | ✅ [**pds.haileyok.com**](https://pds.haileyok.com) | 🔒 - ✅ | *2024-07-31T20:37:00.598Z* | [0.4.38](https://pds.haileyok.com/xrpc/_health) |
 | ✅ [**zombie.beauty**](https://zombie.beauty) | 🔒 - ✅ | *2024-07-31T23:10:11.192Z* | [0.4.38](https://zombie.beauty/xrpc/_health) |
 | ✅ [**goeo.lol**](https://goeo.lol) | 🔒 - ✅ | *2024-07-31T23:43:47.193Z* | [0.4.38](https://goeo.lol/xrpc/_health) |
+| ✅ [**collantes.me**](https://collantes.me) | 🔒 - ✅ | *2024-08-01T01:40:15.455Z* | [0.4.38](https://collantes.me/xrpc/_health) |
