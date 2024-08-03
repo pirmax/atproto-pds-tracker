@@ -4,7 +4,7 @@ This is a list of ATProto PDS crawled from the ATProto website.
 
 You can follow me on Bluesky: https://bsky.app/profile/pirmax.fr
 
-Last Updated: 2024-08-03T19:27:00.296Z
+Last Updated: 2024-08-03T19:34:32.365Z
 
 ## 🌐 [plc.directory](https://plc.directory)
 
@@ -53,7 +53,7 @@ Last Crawled: 2024-08-03T19:26:59.280Z
 | ✅ [**pds.vriska.dev**](https://pds.vriska.dev) | 🔒 - ✅ | *2023-10-18T01:46:59.636Z* | [0.4.38](https://pds.vriska.dev/xrpc/_health) |
 | ✅ [**matthews-kennington.com**](https://matthews-kennington.com) | 🔒 - ✅ | *2023-10-18T14:26:47.447Z* | [0.4.38](https://matthews-kennington.com/xrpc/_health) |
 | ✅ [**bluesky.migennes.org**](https://bluesky.migennes.org) | 🔒 - ✅ | *2023-10-19T13:06:00.705Z* | [0.4.38](https://bluesky.migennes.org/xrpc/_health) |
-| ❌ [**bsky.akurosia.de**](https://bsky.akurosia.de) | 🔓 - ❌ | *2023-10-27T15:54:00.289Z* | [⁉️](https://bsky.akurosia.de/xrpc/_health) |
+| ✅ [**bsky.akurosia.de**](https://bsky.akurosia.de) | 🔓 - ❌ | *2023-10-27T15:54:00.289Z* | [⁉️](https://bsky.akurosia.de/xrpc/_health) |
 | ✅ [**bsky.action0.com**](https://bsky.action0.com) | 🔒 - ✅ | *2023-10-30T11:02:16.088Z* | [0.3.0-b...](https://bsky.action0.com/xrpc/_health) |
 | ✅ [**montpeyroux.social**](https://montpeyroux.social) | 🔒 - ✅ | *2023-11-08T19:10:22.308Z* | [0.4.38](https://montpeyroux.social/xrpc/_health) |
 | ✅ [**derpzilla.net**](https://derpzilla.net) | 🔓 - ❌ | *2023-11-19T15:24:53.929Z* | [0.4.38](https://derpzilla.net/xrpc/_health) |
@@ -128,7 +128,7 @@ Last Crawled: 2024-08-03T19:26:59.280Z
 | ✅ [**aozora.yockow.jp**](https://aozora.yockow.jp) | 🔒 - ✅ | *2024-07-23T07:06:25.862Z* | [0.4.38](https://aozora.yockow.jp/xrpc/_health) |
 | ✅ [**tbsky.vasco-shot.com**](https://tbsky.vasco-shot.com) | 🔒 - ✅ | *2024-07-31T05:09:32.053Z* | [0.4.38](https://tbsky.vasco-shot.com/xrpc/_health) |
 | ❌ [**bluesky.xeronith.com**](https://bluesky.xeronith.com) | 🔓 - ❌ | *2024-07-23T13:04:44.319Z* | [⁉️](https://bluesky.xeronith.com/xrpc/_health) |
-| ❌ [**var.so**](https://var.so) | 🔓 - ❌ | *2024-07-28T14:49:45.405Z* | [⁉️](https://var.so/xrpc/_health) |
+| ✅ [**var.so**](https://var.so) | 🔒 - ✅ | *2024-07-28T14:49:45.405Z* | [0.4.38](https://var.so/xrpc/_health) |
 | ❌ [**cool-barnacle-equal.ngrok-free.app**](https://cool-barnacle-equal.ngrok-free.app) | 🔓 - ❌ | *2024-07-28T07:15:22.916Z* | [⁉️](https://cool-barnacle-equal.ngrok-free.app/xrpc/_health) |
 | ✅ [**quilt.com.tw**](https://quilt.com.tw) | 🔒 - ✅ | *2024-07-28T05:33:46.487Z* | [0.4.38](https://quilt.com.tw/xrpc/_health) |
 | ✅ [**bsky.pink**](https://bsky.pink) | 🔓 - ❌ | *2024-07-27T23:55:28.227Z* | [0.4.38](https://bsky.pink/xrpc/_health) |
