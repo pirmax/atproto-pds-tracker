@@ -4,7 +4,7 @@ This is a list of ATProto PDS crawled from the ATProto website.
 
 You can follow me on Bluesky: https://bsky.app/profile/pirmax.fr
 
-Last Updated: 2024-08-05T03:21:29.978Z
+Last Updated: 2024-08-05T03:31:18.728Z
 
 ## 🌐 [plc.directory](https://plc.directory)
 
@@ -143,6 +143,6 @@ Last Crawled: 2024-08-05T03:21:28.952Z
 | ❌ [**baconisyeserpik.com**](https://baconisyeserpik.com) | 🔓 - ❌ | *2024-08-02T22:03:27.800Z* | [⁉️](https://baconisyeserpik.com/xrpc/_health) |
 | ✅ [**bsky.infocyb.org**](https://bsky.infocyb.org) | 🔒 - ✅ | *2024-08-03T14:36:27.607Z* | [0.4.38](https://bsky.infocyb.org/xrpc/_health) |
 | ❌ [**wowpro-guides.com**](https://wowpro-guides.com) | 🔓 - ❌ | *2024-08-03T10:32:29.366Z* | [⁉️](https://wowpro-guides.com/xrpc/_health) |
-| ❌ [**harley.serveo.net**](https://harley.serveo.net) | 🔓 - ❌ | *2024-08-03T11:20:26.929Z* | [⁉️](https://harley.serveo.net/xrpc/_health) |
+| ✅ [**harley.serveo.net**](https://harley.serveo.net) | 🔒 - ✅ | *2024-08-03T11:20:26.929Z* | [0.4.38](https://harley.serveo.net/xrpc/_health) |
 | ✅ [**lab.yuipcoders.com**](https://lab.yuipcoders.com) | 🔒 - ✅ | *2024-08-04T10:00:05.205Z* | [0.4.38](https://lab.yuipcoders.com/xrpc/_health) |
 | ✅ [**bsky.bigboy.us**](https://bsky.bigboy.us) | 🔒 - ✅ | *2024-08-04T22:20:51.561Z* | [0.4.38](https://bsky.bigboy.us/xrpc/_health) |
