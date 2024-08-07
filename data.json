@@ -10,7 +10,7 @@
           "version": "2a5036d0d429da930571221f7a30efa53cf81229",
           "createdAt": "2023-12-23T21:35:28.817Z",
           "indexedAt": "2023-12-23T22:01:54.019341Z",
-          "updatedAt": "2024-08-07T09:36:23.944Z"
+          "updatedAt": "2024-08-07T09:43:38.889Z"
         },
         {
           "domain": "https://morel.us-east.host.bsky.network",
@@ -19,7 +19,7 @@
           "version": "4ddf4578f532a255b46f954148a7b6b2bcf0703d",
           "createdAt": "2024-08-07T07:25:17.325Z",
           "indexedAt": "2024-08-07T07:38:57.861Z",
-          "updatedAt": "2024-08-07T09:36:24.512Z"
+          "updatedAt": "2024-08-07T09:43:39.534Z"
         },
         {
           "domain": "https://puffball.us-east.host.bsky.network",
@@ -28,7 +28,7 @@
           "version": "4ddf4578f532a255b46f954148a7b6b2bcf0703d",
           "createdAt": "2024-08-07T08:31:25.936Z",
           "indexedAt": "2024-08-07T08:40:50.938Z",
-          "updatedAt": "2024-08-07T09:36:24.633Z"
+          "updatedAt": "2024-08-07T09:43:39.974Z"
         },
         {
           "domain": "https://inkcap.us-east.host.bsky.network",
@@ -37,7 +37,7 @@
           "version": "4ddf4578f532a255b46f954148a7b6b2bcf0703d",
           "createdAt": "2024-08-07T09:13:48.896Z",
           "indexedAt": "2024-08-07T09:21:02.469Z",
-          "updatedAt": "2024-08-07T09:36:24.726Z"
+          "updatedAt": "2024-08-07T09:43:40.163Z"
         },
         {
           "domain": "https://oyster.us-east.host.bsky.network",
@@ -46,7 +46,7 @@
           "version": "4ddf4578f532a255b46f954148a7b6b2bcf0703d",
           "createdAt": "2024-08-07T07:06:35.088Z",
           "indexedAt": "2024-08-07T07:19:30.000Z",
-          "updatedAt": "2024-08-07T09:36:24.834Z"
+          "updatedAt": "2024-08-07T09:43:40.774Z"
         },
         {
           "domain": "https://enoki.us-east.host.bsky.network",
@@ -55,7 +55,7 @@
           "version": "4ddf4578f532a255b46f954148a7b6b2bcf0703d",
           "createdAt": "2024-08-07T07:23:59.718Z",
           "indexedAt": "2024-08-07T07:38:57.688Z",
-          "updatedAt": "2024-08-07T09:36:25.039Z"
+          "updatedAt": "2024-08-07T09:43:41.069Z"
         },
         {
           "domain": "https://porcini.us-east.host.bsky.network",
@@ -64,7 +64,7 @@
           "version": "4ddf4578f532a255b46f954148a7b6b2bcf0703d",
           "createdAt": "2024-08-07T08:11:44.815Z",
           "indexedAt": "2024-08-07T08:23:41.190Z",
-          "updatedAt": "2024-08-07T09:36:25.277Z"
+          "updatedAt": "2024-08-07T09:43:41.201Z"
         },
         {
           "domain": "https://shimeji.us-east.host.bsky.network",
@@ -73,7 +73,7 @@
           "version": "4ddf4578f532a255b46f954148a7b6b2bcf0703d",
           "createdAt": "2024-08-07T06:04:25.181Z",
           "indexedAt": "2024-08-07T06:26:55.450Z",
-          "updatedAt": "2024-08-07T09:36:25.389Z"
+          "updatedAt": "2024-08-07T09:43:41.407Z"
         },
         {
           "domain": "https://amanita.us-east.host.bsky.network",
@@ -82,7 +82,7 @@
           "version": "4ddf4578f532a255b46f954148a7b6b2bcf0703d",
           "createdAt": "2024-08-07T06:26:26.327Z",
           "indexedAt": "2024-08-07T06:26:57.566Z",
-          "updatedAt": "2024-08-07T09:36:25.589Z"
+          "updatedAt": "2024-08-07T09:43:41.569Z"
         },
         {
           "domain": "https://lionsmane.us-east.host.bsky.network",
@@ -91,7 +91,7 @@
           "version": "4ddf4578f532a255b46f954148a7b6b2bcf0703d",
           "createdAt": "2024-08-07T07:35:08.193Z",
           "indexedAt": "2024-08-07T07:38:58.037Z",
-          "updatedAt": "2024-08-07T09:36:25.688Z"
+          "updatedAt": "2024-08-07T09:43:41.732Z"
         },
         {
           "domain": "https://shiitake.us-east.host.bsky.network",
@@ -100,7 +100,7 @@
           "version": "4ddf4578f532a255b46f954148a7b6b2bcf0703d",
           "createdAt": "2024-08-07T08:29:17.505Z",
           "indexedAt": "2024-08-07T08:40:50.768Z",
-          "updatedAt": "2024-08-07T09:36:25.775Z"
+          "updatedAt": "2024-08-07T09:43:41.918Z"
         },
         {
           "domain": "https://hydnum.us-west.host.bsky.network",
@@ -109,7 +109,7 @@
           "version": "4ddf4578f532a255b46f954148a7b6b2bcf0703d",
           "createdAt": "2024-08-07T08:53:57.427Z",
           "indexedAt": "2024-08-07T09:21:00.392Z",
-          "updatedAt": "2024-08-07T09:36:26.380Z"
+          "updatedAt": "2024-08-07T09:43:42.267Z"
         },
         {
           "domain": "https://verpa.us-west.host.bsky.network",
@@ -118,7 +118,7 @@
           "version": "4ddf4578f532a255b46f954148a7b6b2bcf0703d",
           "createdAt": "2024-08-07T08:53:54.987Z",
           "indexedAt": "2024-08-07T09:20:59.931Z",
-          "updatedAt": "2024-08-07T09:36:26.851Z"
+          "updatedAt": "2024-08-07T09:43:42.628Z"
         },
         {
           "domain": "https://maitake.us-west.host.bsky.network",
@@ -127,7 +127,7 @@
           "version": "4ddf4578f532a255b46f954148a7b6b2bcf0703d",
           "createdAt": "2024-08-07T08:54:22.911Z",
           "indexedAt": "2024-08-07T09:21:01.448Z",
-          "updatedAt": "2024-08-07T09:36:27.646Z"
+          "updatedAt": "2024-08-07T09:43:42.993Z"
         },
         {
           "domain": "https://chaga.us-west.host.bsky.network",
@@ -136,7 +136,7 @@
           "version": "4ddf4578f532a255b46f954148a7b6b2bcf0703d",
           "createdAt": "2024-08-07T08:54:18.477Z",
           "indexedAt": "2024-08-07T09:21:00.872Z",
-          "updatedAt": "2024-08-07T09:36:28.284Z"
+          "updatedAt": "2024-08-07T09:43:43.373Z"
         },
         {
           "domain": "https://rebroad.com",
@@ -145,7 +145,7 @@
           "version": null,
           "createdAt": "2023-10-05T08:49:14.908Z",
           "indexedAt": "2023-10-05T10:01:56.681494Z",
-          "updatedAt": "2024-08-07T09:36:30.486Z"
+          "updatedAt": "2024-08-07T09:43:45.576Z"
         },
         {
           "domain": "https://kitsune.nexus",
@@ -154,7 +154,7 @@
           "version": null,
           "createdAt": "2023-07-10T12:41:58.049Z",
           "indexedAt": "2023-07-10T13:05:56.948020Z",
-          "updatedAt": "2024-08-07T09:36:31.077Z"
+          "updatedAt": "2024-08-07T09:43:46.210Z"
         },
         {
           "domain": "https://atproto.brid.gy",
@@ -163,7 +163,7 @@
           "version": null,
           "createdAt": "2024-08-07T08:51:53.980Z",
           "indexedAt": "2024-08-07T08:53:15.465Z",
-          "updatedAt": "2024-08-07T09:36:31.410Z"
+          "updatedAt": "2024-08-07T09:43:46.441Z"
         },
         {
           "domain": "https://pds.dholms.xyz",
@@ -172,7 +172,7 @@
           "version": "0.4.47",
           "createdAt": "2023-06-20T15:40:24.963Z",
           "indexedAt": "2023-06-29T08:20:21.608684Z",
-          "updatedAt": "2024-08-07T09:36:31.671Z"
+          "updatedAt": "2024-08-07T09:43:46.874Z"
         },
         {
           "domain": "https://friendlypds.cloud",
@@ -181,7 +181,7 @@
           "version": "0.4.47",
           "createdAt": "2023-06-20T17:57:42.782Z",
           "indexedAt": "2023-06-29T08:20:21.608684Z",
-          "updatedAt": "2024-08-07T09:36:32.010Z"
+          "updatedAt": "2024-08-07T09:43:47.179Z"
         },
         {
           "domain": "https://hellthread.pro",
@@ -190,7 +190,7 @@
           "version": "0.4.47",
           "createdAt": "2023-06-20T20:14:49.851Z",
           "indexedAt": "2023-06-29T08:20:21.608684Z",
-          "updatedAt": "2024-08-07T09:36:54.079Z"
+          "updatedAt": "2024-08-07T09:44:10.192Z"
         },
         {
           "domain": "https://bsky.imoein.com",
@@ -199,7 +199,7 @@
           "version": null,
           "createdAt": "2023-07-01T16:08:55.445Z",
           "indexedAt": "2023-07-01T17:00:51.681491Z",
-          "updatedAt": "2024-08-07T09:36:32.880Z"
+          "updatedAt": "2024-08-07T09:43:48.031Z"
         },
         {
           "domain": "https://bsky.dead10ck.dev",
@@ -208,7 +208,7 @@
           "version": "0.4.38",
           "createdAt": "2023-07-03T04:43:06.033Z",
           "indexedAt": "2023-07-03T05:00:47.739945Z",
-          "updatedAt": "2024-08-07T09:36:32.977Z"
+          "updatedAt": "2024-08-07T09:43:48.216Z"
         },
         {
           "domain": "https://disbursement.center",
@@ -217,7 +217,7 @@
           "version": "0.4.47",
           "createdAt": "2023-07-04T01:20:16.173Z",
           "indexedAt": "2023-07-04T01:28:31.013250Z",
-          "updatedAt": "2024-08-07T09:36:34.360Z"
+          "updatedAt": "2024-08-07T09:43:49.191Z"
         },
         {
           "domain": "https://bsky.jakebrough.io",
@@ -226,7 +226,7 @@
           "version": "0.4.47",
           "createdAt": "2023-07-24T19:34:52.436Z",
           "indexedAt": "2023-07-24T20:00:59.822970Z",
-          "updatedAt": "2024-08-07T09:36:54.968Z"
+          "updatedAt": "2024-08-07T09:44:11.289Z"
         },
         {
           "domain": "https://bs.miichelle.moe",
@@ -235,7 +235,7 @@
           "version": "0.4.47",
           "createdAt": "2023-07-28T19:08:52.880Z",
           "indexedAt": "2023-07-28T20:00:47.336238Z",
-          "updatedAt": "2024-08-07T09:36:55.919Z"
+          "updatedAt": "2024-08-07T09:44:12.435Z"
         },
         {
           "domain": "https://fomp.blue",
@@ -244,7 +244,7 @@
           "version": "0.4.47",
           "createdAt": "2023-07-29T11:41:51.491Z",
           "indexedAt": "2023-07-29T12:00:50.886806Z",
-          "updatedAt": "2024-08-07T09:36:56.364Z"
+          "updatedAt": "2024-08-07T09:44:12.712Z"
         },
         {
           "domain": "https://hooray.social",
@@ -253,7 +253,7 @@
           "version": "0.4.47",
           "createdAt": "2023-08-10T06:37:49.299Z",
           "indexedAt": "2023-08-10T07:01:15.184700Z",
-          "updatedAt": "2024-08-07T09:36:56.703Z"
+          "updatedAt": "2024-08-07T09:44:13.053Z"
         },
         {
           "domain": "https://bsky.bulles.social",
@@ -262,7 +262,7 @@
           "version": "0.4.47",
           "createdAt": "2023-08-17T14:32:12.665Z",
           "indexedAt": "2023-08-17T16:01:54.630192Z",
-          "updatedAt": "2024-08-07T09:36:57.248Z"
+          "updatedAt": "2024-08-07T09:44:13.710Z"
         },
         {
           "domain": "https://bum.ninja",
@@ -271,7 +271,7 @@
           "version": "0.4.47",
           "createdAt": "2023-09-01T20:12:08.577Z",
           "indexedAt": "2023-09-01T22:01:46.556709Z",
-          "updatedAt": "2024-08-07T09:36:57.822Z"
+          "updatedAt": "2024-08-07T09:44:14.391Z"
         },
         {
           "domain": "https://vengeful.eu",
@@ -280,7 +280,7 @@
           "version": "0.4.47",
           "createdAt": "2023-09-04T11:38:28.059Z",
           "indexedAt": "2023-09-04T12:02:30.776531Z",
-          "updatedAt": "2024-08-07T09:36:58.566Z"
+          "updatedAt": "2024-08-07T09:44:15.271Z"
         },
         {
           "domain": "https://zima.ge",
@@ -289,7 +289,7 @@
           "version": "0.4.47",
           "createdAt": "2023-09-08T19:55:36.833Z",
           "indexedAt": "2023-09-08T20:02:00.097608Z",
-          "updatedAt": "2024-08-07T09:36:58.614Z"
+          "updatedAt": "2024-08-07T09:44:15.402Z"
         },
         {
           "domain": "https://blacksky.app",
@@ -298,7 +298,7 @@
           "version": "0.4.47",
           "createdAt": "2023-09-19T03:52:08.897Z",
           "indexedAt": "2023-09-19T04:01:51.166564Z",
-          "updatedAt": "2024-08-07T09:36:59.496Z"
+          "updatedAt": "2024-08-07T09:44:16.617Z"
         },
         {
           "domain": "https://bsk.carl0scheca.com",
@@ -307,7 +307,7 @@
           "version": null,
           "createdAt": "2023-09-19T15:11:21.813Z",
           "indexedAt": "2023-09-19T16:02:01.159231Z",
-          "updatedAt": "2024-08-07T09:37:00.109Z"
+          "updatedAt": "2024-08-07T09:44:17.291Z"
         },
         {
           "domain": "https://atptest.lep.wtf",
@@ -316,16 +316,16 @@
           "version": "0.4.47",
           "createdAt": "2023-09-27T06:56:05.679Z",
           "indexedAt": "2023-09-27T08:01:55.624094Z",
-          "updatedAt": "2024-08-07T09:37:01.202Z"
+          "updatedAt": "2024-08-07T09:44:18.106Z"
         },
         {
           "domain": "https://fed.brid.gy/",
-          "isActive": true,
+          "isActive": false,
           "isInviteCodeRequired": false,
           "version": null,
           "createdAt": "2023-09-29T21:19:57.514Z",
           "indexedAt": "2023-09-29T22:01:54.987181Z",
-          "updatedAt": "2024-08-07T09:37:01.330Z"
+          "updatedAt": "2024-08-07T09:44:20.306Z"
         },
         {
           "domain": "https://bsky.zoeyvid.de",
@@ -334,7 +334,7 @@
           "version": "0.4.47",
           "createdAt": "2023-10-15T11:31:45.180Z",
           "indexedAt": "2023-10-15T12:02:31.106388Z",
-          "updatedAt": "2024-08-07T09:37:01.760Z"
+          "updatedAt": "2024-08-07T09:44:20.810Z"
         },
         {
           "domain": "https://joost.social",
@@ -343,7 +343,7 @@
           "version": "0.4.47",
           "createdAt": "2023-10-16T13:38:44.156Z",
           "indexedAt": "2023-10-16T14:01:52.225319Z",
-          "updatedAt": "2024-08-07T09:37:02.386Z"
+          "updatedAt": "2024-08-07T09:44:21.770Z"
         },
         {
           "domain": "https://pds.vriska.dev",
@@ -352,7 +352,7 @@
           "version": "0.4.47",
           "createdAt": "2023-10-18T01:46:59.636Z",
           "indexedAt": "2023-10-18T02:08:47.722910Z",
-          "updatedAt": "2024-08-07T09:37:02.435Z"
+          "updatedAt": "2024-08-07T09:44:21.927Z"
         },
         {
           "domain": "https://matthews-kennington.com",
@@ -361,7 +361,7 @@
           "version": null,
           "createdAt": "2023-10-18T14:26:47.447Z",
           "indexedAt": "2023-10-18T16:02:00.061669Z",
-          "updatedAt": "2024-08-07T09:37:02.499Z"
+          "updatedAt": "2024-08-07T09:44:21.975Z"
         },
         {
           "domain": "https://bluesky.migennes.org",
@@ -370,7 +370,7 @@
           "version": "0.4.47",
           "createdAt": "2023-10-19T13:06:00.705Z",
           "indexedAt": "2023-10-19T14:01:57.740803Z",
-          "updatedAt": "2024-08-07T09:37:03.797Z"
+          "updatedAt": "2024-08-07T09:44:23.345Z"
         },
         {
           "domain": "https://bsky.akurosia.de",
@@ -379,7 +379,7 @@
           "version": null,
           "createdAt": "2023-10-27T15:54:00.289Z",
           "indexedAt": "2023-10-27T16:01:57.659076Z",
-          "updatedAt": "2024-08-07T09:37:04.648Z"
+          "updatedAt": "2024-08-07T09:44:24.958Z"
         },
         {
           "domain": "https://bsky.action0.com",
@@ -388,7 +388,7 @@
           "version": "0.3.0-beta.3",
           "createdAt": "2023-10-30T11:02:16.088Z",
           "indexedAt": "2023-10-30T12:02:31.979971Z",
-          "updatedAt": "2024-08-07T09:37:05.549Z"
+          "updatedAt": "2024-08-07T09:44:25.652Z"
         },
         {
           "domain": "https://montpeyroux.social",
@@ -397,7 +397,7 @@
           "version": "0.4.47",
           "createdAt": "2023-11-08T19:10:22.308Z",
           "indexedAt": "2023-11-08T20:01:51.646136Z",
-          "updatedAt": "2024-08-07T09:37:06.903Z"
+          "updatedAt": "2024-08-07T09:44:26.770Z"
         },
         {
           "domain": "https://derpzilla.net",
@@ -406,7 +406,7 @@
           "version": "0.4.38",
           "createdAt": "2023-11-19T15:24:53.929Z",
           "indexedAt": "2023-11-19T16:01:46.458411Z",
-          "updatedAt": "2024-08-07T09:37:07.215Z"
+          "updatedAt": "2024-08-07T09:44:27.279Z"
         },
         {
           "domain": "https://corgi.dance",
@@ -415,7 +415,7 @@
           "version": null,
           "createdAt": "2023-11-20T01:57:57.929Z",
           "indexedAt": "2023-11-20T02:12:56.119786Z",
-          "updatedAt": "2024-08-07T09:37:07.284Z"
+          "updatedAt": "2024-08-07T09:44:27.328Z"
         },
         {
           "domain": "https://pds.y-force.info",
@@ -424,7 +424,7 @@
           "version": "0.4.27",
           "createdAt": "2023-11-30T22:35:17.033Z",
           "indexedAt": "2023-12-01T00:05:34.028684Z",
-          "updatedAt": "2024-08-07T09:37:07.629Z"
+          "updatedAt": "2024-08-07T09:44:28.009Z"
         },
         {
           "domain": "https://bluesky.kosti.dev",
@@ -433,7 +433,7 @@
           "version": "0.4.47",
           "createdAt": "2023-12-16T11:31:39.601Z",
           "indexedAt": "2023-12-16T12:02:23.850024Z",
-          "updatedAt": "2024-08-07T09:37:08.351Z"
+          "updatedAt": "2024-08-07T09:44:28.801Z"
         },
         {
           "domain": "https://465789.xyz",
@@ -442,7 +442,7 @@
           "version": "0.4.47",
           "createdAt": "2024-02-09T21:48:17.069Z",
           "indexedAt": "2024-02-09T22:01:34.440263Z",
-          "updatedAt": "2024-08-07T09:37:08.806Z"
+          "updatedAt": "2024-08-07T09:44:29.079Z"
         },
         {
           "domain": "https://bsky.deiru.online",
@@ -451,7 +451,7 @@
           "version": "0.4.47",
           "createdAt": "2024-02-10T12:25:06.915Z",
           "indexedAt": "2024-02-10T14:01:34.381243Z",
-          "updatedAt": "2024-08-07T09:37:09.453Z"
+          "updatedAt": "2024-08-07T09:44:29.893Z"
         },
         {
           "domain": "https://wave.stg.waverly.social",
@@ -460,7 +460,7 @@
           "version": "0.13.1",
           "createdAt": "2024-03-22T20:16:09.253Z",
           "indexedAt": "2024-03-22T22:01:33.501861Z",
-          "updatedAt": "2024-08-07T09:36:52.830Z"
+          "updatedAt": "2024-08-07T09:44:09.480Z"
         },
         {
           "domain": "https://nottyboi.me",
@@ -469,7 +469,7 @@
           "version": "0.4.47",
           "createdAt": "2024-04-22T12:44:54.765Z",
           "indexedAt": "2024-04-22T14:02:01.531208Z",
-          "updatedAt": "2024-08-07T09:37:10.231Z"
+          "updatedAt": "2024-08-07T09:44:30.360Z"
         },
         {
           "domain": "https://ds.povario.com",
@@ -478,7 +478,7 @@
           "version": "0.4.12",
           "createdAt": "2024-05-03T21:10:04.661Z",
           "indexedAt": "2024-05-03T22:01:38.009586Z",
-          "updatedAt": "2024-08-07T09:37:10.444Z"
+          "updatedAt": "2024-08-07T09:44:30.607Z"
         },
         {
           "domain": "https://hellthread.pro",
@@ -496,7 +496,7 @@
           "version": "0.4.47",
           "createdAt": "2023-07-14T04:32:14.961Z",
           "indexedAt": "2023-07-14T05:00:56.782801Z",
-          "updatedAt": "2024-08-07T09:36:54.689Z"
+          "updatedAt": "2024-08-07T09:44:10.718Z"
         },
         {
           "domain": "https://bsky.jakebrough.io",
@@ -577,7 +577,7 @@
           "version": "0.4.47",
           "createdAt": "2023-09-15T19:46:13.096Z",
           "indexedAt": "2023-09-15T20:01:58.566732Z",
-          "updatedAt": "2024-08-07T09:36:59.213Z"
+          "updatedAt": "2024-08-07T09:44:16.360Z"
         },
         {
           "domain": "https://blacksky.app",
@@ -685,7 +685,7 @@
           "version": null,
           "createdAt": "2023-11-07T16:00:46.241Z",
           "indexedAt": "2023-11-07T16:01:50.979846Z",
-          "updatedAt": "2024-08-07T09:37:05.852Z"
+          "updatedAt": "2024-08-07T09:44:26.015Z"
         },
         {
           "domain": "https://montpeyroux.social",
@@ -703,7 +703,7 @@
           "version": "0.4.47",
           "createdAt": "2023-11-09T17:08:30.120Z",
           "indexedAt": "2023-11-09T18:01:48.934646Z",
-          "updatedAt": "2024-08-07T09:37:07.079Z"
+          "updatedAt": "2024-08-07T09:44:27.059Z"
         },
         {
           "domain": "https://derpzilla.net",
@@ -748,7 +748,7 @@
           "version": "0.4.47",
           "createdAt": "2024-01-09T21:59:22.442Z",
           "indexedAt": "2024-01-09T22:01:46.221154Z",
-          "updatedAt": "2024-08-07T09:37:08.613Z"
+          "updatedAt": "2024-08-07T09:44:28.924Z"
         },
         {
           "domain": "https://465789.xyz",
@@ -775,7 +775,7 @@
           "version": "0.4.38",
           "createdAt": "2024-07-27T18:07:50.723Z",
           "indexedAt": "2024-07-27T18:24:45.329Z",
-          "updatedAt": "2024-08-07T09:37:10.003Z"
+          "updatedAt": "2024-08-07T09:44:30.262Z"
         },
         {
           "domain": "https://nottyboi.me",
@@ -802,7 +802,7 @@
           "version": "4ddf4578f532a255b46f954148a7b6b2bcf0703d",
           "createdAt": "2024-08-07T08:55:01.465Z",
           "indexedAt": "2024-08-07T09:21:02.413Z",
-          "updatedAt": "2024-08-07T09:37:10.889Z"
+          "updatedAt": "2024-08-07T09:44:30.982Z"
         },
         {
           "domain": "https://boletus.us-west.host.bsky.network",
@@ -811,7 +811,7 @@
           "version": "4ddf4578f532a255b46f954148a7b6b2bcf0703d",
           "createdAt": "2024-08-07T08:53:38.547Z",
           "indexedAt": "2024-08-07T09:20:57.724Z",
-          "updatedAt": "2024-08-07T09:37:11.375Z"
+          "updatedAt": "2024-08-07T09:44:31.349Z"
         },
         {
           "domain": "https://lepista.us-west.host.bsky.network",
@@ -820,7 +820,7 @@
           "version": "4ddf4578f532a255b46f954148a7b6b2bcf0703d",
           "createdAt": "2024-08-07T08:53:44.350Z",
           "indexedAt": "2024-08-07T09:20:58.785Z",
-          "updatedAt": "2024-08-07T09:37:12.038Z"
+          "updatedAt": "2024-08-07T09:44:31.724Z"
         },
         {
           "domain": "https://blewit.us-west.host.bsky.network",
@@ -829,7 +829,7 @@
           "version": "4ddf4578f532a255b46f954148a7b6b2bcf0703d",
           "createdAt": "2024-08-07T08:54:40.436Z",
           "indexedAt": "2024-08-07T09:21:01.940Z",
-          "updatedAt": "2024-08-07T09:37:12.517Z"
+          "updatedAt": "2024-08-07T09:44:32.134Z"
         },
         {
           "domain": "https://conocybe.us-west.host.bsky.network",
@@ -838,7 +838,7 @@
           "version": "4ddf4578f532a255b46f954148a7b6b2bcf0703d",
           "createdAt": "2024-08-07T08:53:52.036Z",
           "indexedAt": "2024-08-07T09:20:59.369Z",
-          "updatedAt": "2024-08-07T09:37:12.977Z"
+          "updatedAt": "2024-08-07T09:44:32.488Z"
         },
         {
           "domain": "https://russula.us-west.host.bsky.network",
@@ -847,7 +847,7 @@
           "version": "4ddf4578f532a255b46f954148a7b6b2bcf0703d",
           "createdAt": "2024-08-07T08:53:41.136Z",
           "indexedAt": "2024-08-07T09:20:58.206Z",
-          "updatedAt": "2024-08-07T09:37:13.460Z"
+          "updatedAt": "2024-08-07T09:44:32.867Z"
         },
         {
           "domain": "https://pds.furtenbach.social",
@@ -856,7 +856,7 @@
           "version": "0.4.47",
           "createdAt": "2024-07-11T15:13:07.009Z",
           "indexedAt": "2024-07-11T15:22:58.417Z",
-          "updatedAt": "2024-08-07T09:37:14.547Z"
+          "updatedAt": "2024-08-07T09:44:33.950Z"
         },
         {
           "domain": "https://bsky.hyperreal.coffee",
@@ -865,7 +865,7 @@
           "version": null,
           "createdAt": "2024-07-13T06:04:46.150Z",
           "indexedAt": "2024-07-13T06:06:45.550Z",
-          "updatedAt": "2024-08-07T09:37:16.150Z"
+          "updatedAt": "2024-08-07T09:44:35.458Z"
         },
         {
           "domain": "https://unbnd.net",
@@ -874,7 +874,7 @@
           "version": "0.4.47",
           "createdAt": "2024-07-13T07:32:29.976Z",
           "indexedAt": "2024-07-13T07:34:22.475Z",
-          "updatedAt": "2024-08-07T09:37:16.957Z"
+          "updatedAt": "2024-08-07T09:44:36.433Z"
         },
         {
           "domain": "https://pds.tom-sherman.com",
@@ -883,7 +883,7 @@
           "version": "0.4.27",
           "createdAt": "2024-07-13T07:32:29.976Z",
           "indexedAt": "2024-07-13T07:34:22.475Z",
-          "updatedAt": "2024-08-07T09:37:17.310Z"
+          "updatedAt": "2024-08-07T09:44:36.879Z"
         },
         {
           "domain": "https://pds.cauda.cloud",
@@ -892,7 +892,7 @@
           "version": "0.4.47",
           "createdAt": "2024-07-13T18:17:02.757Z",
           "indexedAt": "2024-07-13T18:24:36.478Z",
-          "updatedAt": "2024-08-07T09:37:17.533Z"
+          "updatedAt": "2024-08-07T09:44:36.973Z"
         },
         {
           "domain": "https://runyanpi.jp",
@@ -901,25 +901,25 @@
           "version": null,
           "createdAt": "2024-07-14T04:43:39.762Z",
           "indexedAt": "2024-07-14T04:49:21.144Z",
-          "updatedAt": "2024-08-07T09:37:19.735Z"
+          "updatedAt": "2024-08-07T09:44:39.175Z"
         },
         {
           "domain": "https://at-pds.tekat.my.id",
-          "isActive": false,
-          "isInviteCodeRequired": false,
-          "version": null,
+          "isActive": true,
+          "isInviteCodeRequired": true,
+          "version": "0.4.38",
           "createdAt": "2024-07-14T05:28:00.380Z",
           "indexedAt": "2024-07-14T05:35:39.401Z",
-          "updatedAt": "2024-08-07T09:37:21.936Z"
+          "updatedAt": "2024-08-07T09:44:40.972Z"
         },
         {
           "domain": "https://bsky.jltml.me",
-          "isActive": false,
-          "isInviteCodeRequired": false,
-          "version": null,
+          "isActive": true,
+          "isInviteCodeRequired": true,
+          "version": "0.4.47",
           "createdAt": "2024-07-14T15:20:56.391Z",
           "indexedAt": "2024-07-14T15:28:55.439Z",
-          "updatedAt": "2024-08-07T09:37:24.137Z"
+          "updatedAt": "2024-08-07T09:44:41.143Z"
         },
         {
           "domain": "https://habitat-dev.tail07d32.ts.net",
@@ -928,7 +928,7 @@
           "version": "0.4.13",
           "createdAt": "2024-07-15T01:10:30.742Z",
           "indexedAt": "2024-07-15T01:32:54.743Z",
-          "updatedAt": "2024-08-07T09:37:24.878Z"
+          "updatedAt": "2024-08-07T09:44:41.524Z"
         },
         {
           "domain": "https://metastableholdings.eu",
@@ -937,7 +937,7 @@
           "version": null,
           "createdAt": "2024-07-15T14:26:40.738Z",
           "indexedAt": "2024-07-15T14:34:39.604Z",
-          "updatedAt": "2024-08-07T09:37:24.953Z"
+          "updatedAt": "2024-08-07T09:44:41.586Z"
         },
         {
           "domain": "https://bluesky.adriansmares.ro",
@@ -946,7 +946,7 @@
           "version": "0.4.38",
           "createdAt": "2024-07-15T14:44:24.761Z",
           "indexedAt": "2024-07-15T14:49:08.073Z",
-          "updatedAt": "2024-08-07T09:37:25.602Z"
+          "updatedAt": "2024-08-07T09:44:42.318Z"
         },
         {
           "domain": "https://pds.mozzius.dev",
@@ -955,7 +955,7 @@
           "version": "0.4.47",
           "createdAt": "2024-07-16T06:20:42.665Z",
           "indexedAt": "2024-07-16T06:25:13.022Z",
-          "updatedAt": "2024-08-07T09:37:26.296Z"
+          "updatedAt": "2024-08-07T09:44:43.070Z"
         },
         {
           "domain": "https://sns.dev.taking.kr",
@@ -964,7 +964,7 @@
           "version": null,
           "createdAt": "2024-07-17T08:02:45.517Z",
           "indexedAt": "2024-07-17T08:07:28.359Z",
-          "updatedAt": "2024-08-07T09:37:27.404Z"
+          "updatedAt": "2024-08-07T09:44:44.068Z"
         },
         {
           "domain": "https://example.test",
@@ -973,7 +973,7 @@
           "version": null,
           "createdAt": "2024-07-25T13:42:36.680Z",
           "indexedAt": "2024-07-25T13:49:00.608Z",
-          "updatedAt": "2024-08-07T09:37:27.527Z"
+          "updatedAt": "2024-08-07T09:44:44.155Z"
         },
         {
           "domain": "https://userdir.de",
@@ -982,7 +982,7 @@
           "version": "0.4.47",
           "createdAt": "2024-07-18T15:31:23.616Z",
           "indexedAt": "2024-07-18T15:34:43.993Z",
-          "updatedAt": "2024-08-07T09:37:28.754Z"
+          "updatedAt": "2024-08-07T09:44:46.005Z"
         },
         {
           "domain": "https://abyss.computer",
@@ -991,7 +991,7 @@
           "version": null,
           "createdAt": "2024-07-20T16:23:52.633Z",
           "indexedAt": "2024-07-20T16:24:43.444Z",
-          "updatedAt": "2024-08-07T09:37:29.925Z"
+          "updatedAt": "2024-08-07T09:44:46.851Z"
         },
         {
           "domain": "https://bousky.social",
@@ -1000,7 +1000,7 @@
           "version": "0.4.47",
           "createdAt": "2024-07-21T21:31:03.152Z",
           "indexedAt": "2024-07-21T21:34:50.747Z",
-          "updatedAt": "2024-08-07T09:37:30.678Z"
+          "updatedAt": "2024-08-07T09:44:47.364Z"
         },
         {
           "domain": "https://fttp.cc",
@@ -1009,7 +1009,7 @@
           "version": "0.4.47",
           "createdAt": "2024-07-22T07:49:18.844Z",
           "indexedAt": "2024-07-22T08:08:33.339Z",
-          "updatedAt": "2024-08-07T09:37:30.920Z"
+          "updatedAt": "2024-08-07T09:44:47.465Z"
         },
         {
           "domain": "https://48north.org",
@@ -1018,7 +1018,7 @@
           "version": null,
           "createdAt": "2024-07-23T05:38:56.607Z",
           "indexedAt": "2024-07-23T05:49:21.527Z",
-          "updatedAt": "2024-08-07T09:37:33.121Z"
+          "updatedAt": "2024-08-07T09:44:49.666Z"
         },
         {
           "domain": "https://aozora.yockow.jp",
@@ -1027,16 +1027,16 @@
           "version": "0.4.47",
           "createdAt": "2024-07-23T07:06:25.862Z",
           "indexedAt": "2024-07-23T07:21:18.108Z",
-          "updatedAt": "2024-08-07T09:37:34.756Z"
+          "updatedAt": "2024-08-07T09:44:51.241Z"
         },
         {
           "domain": "https://tbsky.vasco-shot.com",
-          "isActive": false,
-          "isInviteCodeRequired": false,
-          "version": null,
+          "isActive": true,
+          "isInviteCodeRequired": true,
+          "version": "0.4.47",
           "createdAt": "2024-08-05T05:18:46.701Z",
           "indexedAt": "2024-08-05T05:20:00.980Z",
-          "updatedAt": "2024-08-07T09:37:36.722Z"
+          "updatedAt": "2024-08-07T09:44:53.049Z"
         },
         {
           "domain": "https://bluesky.xeronith.com",
@@ -1045,7 +1045,7 @@
           "version": null,
           "createdAt": "2024-07-23T13:04:44.319Z",
           "indexedAt": "2024-07-23T13:10:10.396Z",
-          "updatedAt": "2024-08-07T09:37:38.923Z"
+          "updatedAt": "2024-08-07T09:44:55.250Z"
         },
         {
           "domain": "https://var.so",
@@ -1054,7 +1054,7 @@
           "version": "0.4.47",
           "createdAt": "2024-07-28T14:49:45.405Z",
           "indexedAt": "2024-07-28T15:06:01.962Z",
-          "updatedAt": "2024-08-07T09:37:39.911Z"
+          "updatedAt": "2024-08-07T09:44:56.237Z"
         },
         {
           "domain": "https://cool-barnacle-equal.ngrok-free.app",
@@ -1063,7 +1063,7 @@
           "version": null,
           "createdAt": "2024-07-28T07:15:22.916Z",
           "indexedAt": "2024-07-28T07:20:45.759Z",
-          "updatedAt": "2024-08-07T09:37:40.076Z"
+          "updatedAt": "2024-08-07T09:44:56.354Z"
         },
         {
           "domain": "https://quilt.com.tw",
@@ -1072,7 +1072,7 @@
           "version": "0.4.47",
           "createdAt": "2024-07-28T05:33:46.487Z",
           "indexedAt": "2024-07-28T05:49:08.305Z",
-          "updatedAt": "2024-08-07T09:37:41.473Z"
+          "updatedAt": "2024-08-07T09:44:57.678Z"
         },
         {
           "domain": "https://bsky.pink",
@@ -1081,7 +1081,7 @@
           "version": "0.4.47",
           "createdAt": "2024-07-27T23:55:28.227Z",
           "indexedAt": "2024-07-28T00:26:05.379Z",
-          "updatedAt": "2024-08-07T09:37:42.602Z"
+          "updatedAt": "2024-08-07T09:44:58.621Z"
         },
         {
           "domain": "https://pds.btxakita.com",
@@ -1090,7 +1090,7 @@
           "version": null,
           "createdAt": "2024-07-30T15:06:49.285Z",
           "indexedAt": "2024-07-30T15:23:16.452Z",
-          "updatedAt": "2024-08-07T09:37:42.892Z"
+          "updatedAt": "2024-08-07T09:44:58.982Z"
         },
         {
           "domain": "https://pds.haileyok.com",
@@ -1099,7 +1099,7 @@
           "version": "0.4.38",
           "createdAt": "2024-07-31T20:37:00.598Z",
           "indexedAt": "2024-07-31T20:52:25.694Z",
-          "updatedAt": "2024-08-07T09:37:43.314Z"
+          "updatedAt": "2024-08-07T09:44:59.303Z"
         },
         {
           "domain": "https://zombie.beauty",
@@ -1108,7 +1108,7 @@
           "version": null,
           "createdAt": "2024-08-01T03:16:43.947Z",
           "indexedAt": "2024-08-01T03:23:18.184Z",
-          "updatedAt": "2024-08-07T09:37:43.820Z"
+          "updatedAt": "2024-08-07T09:45:00.414Z"
         },
         {
           "domain": "https://goeo.lol",
@@ -1117,7 +1117,7 @@
           "version": "0.4.47",
           "createdAt": "2024-07-31T23:43:47.193Z",
           "indexedAt": "2024-07-31T23:52:40.565Z",
-          "updatedAt": "2024-08-07T09:37:44.267Z"
+          "updatedAt": "2024-08-07T09:45:01.090Z"
         },
         {
           "domain": "https://collantes.me",
@@ -1126,7 +1126,7 @@
           "version": "0.4.38",
           "createdAt": "2024-08-01T22:32:05.205Z",
           "indexedAt": "2024-08-01T22:38:09.210Z",
-          "updatedAt": "2024-08-07T09:37:44.743Z"
+          "updatedAt": "2024-08-07T09:45:01.383Z"
         },
         {
           "domain": "https://hedgehog.us-west.host.bsky.network",
@@ -1135,7 +1135,7 @@
           "version": "5643fa46b5a3aa9443fc4a2fc594f2dd9040e206",
           "createdAt": "2024-08-01T23:38:25.446Z",
           "indexedAt": "2024-08-01T23:52:48.188Z",
-          "updatedAt": "2024-08-07T09:37:45.163Z"
+          "updatedAt": "2024-08-07T09:45:01.747Z"
         },
         {
           "domain": "https://tubyte.net",
@@ -1144,7 +1144,7 @@
           "version": null,
           "createdAt": "2024-08-02T12:35:36.903Z",
           "indexedAt": "2024-08-02T12:36:16.169Z",
-          "updatedAt": "2024-08-07T09:37:45.456Z"
+          "updatedAt": "2024-08-07T09:45:02.374Z"
         },
         {
           "domain": "https://social.panache.so",
@@ -1153,7 +1153,7 @@
           "version": "0.4.47",
           "createdAt": "2024-08-02T18:12:22.638Z",
           "indexedAt": "2024-08-02T18:25:41.350Z",
-          "updatedAt": "2024-08-07T09:37:46.335Z"
+          "updatedAt": "2024-08-07T09:45:03.372Z"
         },
         {
           "domain": "https://baconisyeserpik.com",
@@ -1162,16 +1162,16 @@
           "version": null,
           "createdAt": "2024-08-02T22:03:27.800Z",
           "indexedAt": "2024-08-02T22:18:23.933Z",
-          "updatedAt": "2024-08-07T09:37:46.748Z"
+          "updatedAt": "2024-08-07T09:45:03.596Z"
         },
         {
           "domain": "https://bsky.infocyb.org",
-          "isActive": false,
-          "isInviteCodeRequired": false,
-          "version": null,
+          "isActive": true,
+          "isInviteCodeRequired": true,
+          "version": "0.4.47",
           "createdAt": "2024-08-03T14:36:27.607Z",
           "indexedAt": "2024-08-03T14:37:32.770Z",
-          "updatedAt": "2024-08-07T09:37:48.948Z"
+          "updatedAt": "2024-08-07T09:45:04.077Z"
         },
         {
           "domain": "https://wowpro-guides.com",
@@ -1180,7 +1180,7 @@
           "version": null,
           "createdAt": "2024-08-03T10:32:29.366Z",
           "indexedAt": "2024-08-03T10:52:54.971Z",
-          "updatedAt": "2024-08-07T09:37:50.747Z"
+          "updatedAt": "2024-08-07T09:45:04.239Z"
         },
         {
           "domain": "https://harley.serveo.net",
@@ -1189,16 +1189,16 @@
           "version": null,
           "createdAt": "2024-08-06T11:03:22.152Z",
           "indexedAt": "2024-08-06T11:16:18.878Z",
-          "updatedAt": "2024-08-07T09:37:51.391Z"
+          "updatedAt": "2024-08-07T09:45:04.993Z"
         },
         {
           "domain": "https://lab.yuipcoders.com",
-          "isActive": true,
-          "isInviteCodeRequired": true,
-          "version": "0.4.47",
+          "isActive": false,
+          "isInviteCodeRequired": false,
+          "version": null,
           "createdAt": "2024-08-04T10:00:05.205Z",
           "indexedAt": "2024-08-04T10:18:24.998Z",
-          "updatedAt": "2024-08-07T09:37:52.762Z"
+          "updatedAt": "2024-08-07T09:45:07.141Z"
         },
         {
           "domain": "https://bsky.bigboy.us",
@@ -1207,7 +1207,7 @@
           "version": "0.4.47",
           "createdAt": "2024-08-04T22:20:51.561Z",
           "indexedAt": "2024-08-04T22:38:10.054Z",
-          "updatedAt": "2024-08-07T09:37:52.879Z"
+          "updatedAt": "2024-08-07T09:45:07.352Z"
         },
         {
           "domain": "https://divy.zone",
@@ -1216,7 +1216,7 @@
           "version": "0.4.42",
           "createdAt": "2024-08-05T20:10:39.637Z",
           "indexedAt": "2024-08-05T20:19:44.004Z",
-          "updatedAt": "2024-08-07T09:37:53.087Z"
+          "updatedAt": "2024-08-07T09:45:07.704Z"
         },
         {
           "domain": "https://spectrumsaas.com",
@@ -1225,7 +1225,7 @@
           "version": "0.4.47",
           "createdAt": "2024-08-06T11:09:55.249Z",
           "indexedAt": "2024-08-06T11:16:19.519Z",
-          "updatedAt": "2024-08-07T09:37:53.709Z"
+          "updatedAt": "2024-08-07T09:45:08.499Z"
         },
         {
           "domain": "https://girl.technology",
@@ -1234,7 +1234,7 @@
           "version": "0.4.47",
           "createdAt": "2024-08-06T03:32:40.789Z",
           "indexedAt": "2024-08-06T03:39:06.492Z",
-          "updatedAt": "2024-08-07T09:37:53.891Z"
+          "updatedAt": "2024-08-07T09:45:08.770Z"
         },
         {
           "domain": "https://trashcave.net",
@@ -1243,7 +1243,7 @@
           "version": "0.4.47",
           "createdAt": "2024-08-06T08:32:00.638Z",
           "indexedAt": "2024-08-06T08:40:57.622Z",
-          "updatedAt": "2024-08-07T09:37:54.489Z"
+          "updatedAt": "2024-08-07T09:45:09.468Z"
         },
         {
           "domain": "https://tbsky-dev.vasco-shot.com",
@@ -1252,7 +1252,7 @@
           "version": null,
           "createdAt": "2024-08-07T06:14:20.591Z",
           "indexedAt": "2024-08-07T06:26:57.171Z",
-          "updatedAt": "2024-08-07T09:37:56.332Z"
+          "updatedAt": "2024-08-07T09:45:11.376Z"
         },
         {
           "domain": "https://bitemy.app",
@@ -1261,7 +1261,7 @@
           "version": "0.4.47",
           "createdAt": "2024-08-07T02:31:11.094Z",
           "indexedAt": "2024-08-07T02:50:42.294Z",
-          "updatedAt": "2024-08-07T09:37:56.488Z"
+          "updatedAt": "2024-08-07T09:45:11.612Z"
         }
       ],
       "lastCrawledAt": "2024-08-07T09:21:02.469Z"
