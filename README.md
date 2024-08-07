@@ -4,7 +4,7 @@ This is a list of ATProto PDS crawled from the ATProto website.
 
 You can follow me on Bluesky: https://bsky.app/profile/pirmax.fr
 
-Last Updated: 2024-08-07T06:48:16.923Z
+Last Updated: 2024-08-07T06:55:17.054Z
 
 ## 🌐 [plc.directory](https://plc.directory)
 
@@ -126,7 +126,7 @@ Last Crawled: 2024-08-07T06:44:43.846Z
 | ✅ [**fttp.cc**](https://fttp.cc) | 🔒 - ✅ | *2024-07-22T07:49:18.844Z* | [0.4.47](https://fttp.cc/xrpc/_health) |
 | ❌ [**48north.org**](https://48north.org) | 🔓 - ❌ | *2024-07-23T05:38:56.607Z* | [⁉️](https://48north.org/xrpc/_health) |
 | ✅ [**aozora.yockow.jp**](https://aozora.yockow.jp) | 🔒 - ✅ | *2024-07-23T07:06:25.862Z* | [0.4.47](https://aozora.yockow.jp/xrpc/_health) |
-| ✅ [**tbsky.vasco-shot.com**](https://tbsky.vasco-shot.com) | 🔒 - ✅ | *2024-08-05T05:18:46.701Z* | [0.4.47](https://tbsky.vasco-shot.com/xrpc/_health) |
+| ❌ [**tbsky.vasco-shot.com**](https://tbsky.vasco-shot.com) | 🔓 - ❌ | *2024-08-05T05:18:46.701Z* | [⁉️](https://tbsky.vasco-shot.com/xrpc/_health) |
 | ❌ [**bluesky.xeronith.com**](https://bluesky.xeronith.com) | 🔓 - ❌ | *2024-07-23T13:04:44.319Z* | [⁉️](https://bluesky.xeronith.com/xrpc/_health) |
 | ✅ [**var.so**](https://var.so) | 🔒 - ✅ | *2024-07-28T14:49:45.405Z* | [0.4.47](https://var.so/xrpc/_health) |
 | ❌ [**cool-barnacle-equal.ngrok-free.app**](https://cool-barnacle-equal.ngrok-free.app) | 🔓 - ❌ | *2024-07-28T07:15:22.916Z* | [⁉️](https://cool-barnacle-equal.ngrok-free.app/xrpc/_health) |
@@ -135,7 +135,7 @@ Last Crawled: 2024-08-07T06:44:43.846Z
 | ❌ [**pds.btxakita.com**](https://pds.btxakita.com) | 🔓 - ❌ | *2024-07-30T15:06:49.285Z* | [⁉️](https://pds.btxakita.com/xrpc/_health) |
 | ✅ [**pds.haileyok.com**](https://pds.haileyok.com) | 🔒 - ✅ | *2024-07-31T20:37:00.598Z* | [0.4.38](https://pds.haileyok.com/xrpc/_health) |
 | ❌ [**zombie.beauty**](https://zombie.beauty) | 🔓 - ❌ | *2024-08-01T03:16:43.947Z* | [⁉️](https://zombie.beauty/xrpc/_health) |
-| ✅ [**goeo.lol**](https://goeo.lol) | 🔒 - ✅ | *2024-07-31T23:43:47.193Z* | [0.4.47](https://goeo.lol/xrpc/_health) |
+| ❌ [**goeo.lol**](https://goeo.lol) | 🔓 - ❌ | *2024-07-31T23:43:47.193Z* | [⁉️](https://goeo.lol/xrpc/_health) |
 | ✅ [**collantes.me**](https://collantes.me) | 🔒 - ✅ | *2024-08-01T22:32:05.205Z* | [0.4.38](https://collantes.me/xrpc/_health) |
 | ✅ [**hedgehog.us-west.host.bsky.network**](https://hedgehog.us-west.host.bsky.network) | 🔒 - ✅ | *2024-08-01T23:38:25.446Z* | [5643fa4...](https://hedgehog.us-west.host.bsky.network/xrpc/_health) |
 | ❌ [**tubyte.net**](https://tubyte.net) | 🔓 - ❌ | *2024-08-02T12:35:36.903Z* | [⁉️](https://tubyte.net/xrpc/_health) |
