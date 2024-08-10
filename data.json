@@ -44,9 +44,9 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "8092715ea0a13d478cd5d8064f47c17482f3bd42",
-          "createdAt": "2024-08-10T11:20:15.295Z",
-          "indexedAt": "2024-08-10T11:27:44.132Z",
-          "updatedAt": "2024-08-10T13:42:30.947Z"
+          "createdAt": "2024-08-10T13:42:14.085Z",
+          "indexedAt": "2024-08-10T13:52:27.294Z",
+          "updatedAt": "2024-08-10T13:52:27.294Z"
         },
         {
           "domain": "https://enoki.us-east.host.bsky.network",
@@ -107,36 +107,36 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "8092715ea0a13d478cd5d8064f47c17482f3bd42",
-          "createdAt": "2024-08-10T13:28:08.310Z",
-          "indexedAt": "2024-08-10T13:37:44.185Z",
-          "updatedAt": "2024-08-10T13:42:31.955Z"
+          "createdAt": "2024-08-10T13:42:18.559Z",
+          "indexedAt": "2024-08-10T13:52:27.771Z",
+          "updatedAt": "2024-08-10T13:52:27.771Z"
         },
         {
           "domain": "https://verpa.us-west.host.bsky.network",
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "8092715ea0a13d478cd5d8064f47c17482f3bd42",
-          "createdAt": "2024-08-10T13:23:58.085Z",
-          "indexedAt": "2024-08-10T13:37:40.676Z",
-          "updatedAt": "2024-08-10T13:42:32.430Z"
+          "createdAt": "2024-08-10T13:37:59.236Z",
+          "indexedAt": "2024-08-10T13:52:23.560Z",
+          "updatedAt": "2024-08-10T13:52:23.560Z"
         },
         {
           "domain": "https://maitake.us-west.host.bsky.network",
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "8092715ea0a13d478cd5d8064f47c17482f3bd42",
-          "createdAt": "2024-08-10T13:24:17.374Z",
-          "indexedAt": "2024-08-10T13:37:41.316Z",
-          "updatedAt": "2024-08-10T13:42:32.905Z"
+          "createdAt": "2024-08-10T13:38:04.720Z",
+          "indexedAt": "2024-08-10T13:52:24.018Z",
+          "updatedAt": "2024-08-10T13:52:24.018Z"
         },
         {
           "domain": "https://chaga.us-west.host.bsky.network",
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "8092715ea0a13d478cd5d8064f47c17482f3bd42",
-          "createdAt": "2024-08-10T13:24:55.455Z",
-          "indexedAt": "2024-08-10T13:37:43.242Z",
-          "updatedAt": "2024-08-10T13:42:33.388Z"
+          "createdAt": "2024-08-10T13:37:53.683Z",
+          "indexedAt": "2024-08-10T13:52:22.505Z",
+          "updatedAt": "2024-08-10T13:52:22.505Z"
         },
         {
           "domain": "https://rebroad.com",
@@ -158,12 +158,12 @@
         },
         {
           "domain": "https://atproto.brid.gy",
-          "isActive": false,
+          "isActive": true,
           "isInviteCodeRequired": false,
           "version": null,
-          "createdAt": "2024-08-10T12:55:13.642Z",
-          "indexedAt": "2024-08-10T13:00:05.992Z",
-          "updatedAt": "2024-08-10T13:42:38.457Z"
+          "createdAt": "2024-08-10T13:42:42.226Z",
+          "indexedAt": "2024-08-10T13:52:28.067Z",
+          "updatedAt": "2024-08-10T13:52:28.067Z"
         },
         {
           "domain": "https://pds.dholms.xyz",
@@ -800,54 +800,54 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "8092715ea0a13d478cd5d8064f47c17482f3bd42",
-          "createdAt": "2024-08-10T13:24:20.517Z",
-          "indexedAt": "2024-08-10T13:37:42.071Z",
-          "updatedAt": "2024-08-10T13:43:24.153Z"
+          "createdAt": "2024-08-10T13:42:00.920Z",
+          "indexedAt": "2024-08-10T13:52:27.092Z",
+          "updatedAt": "2024-08-10T13:52:27.092Z"
         },
         {
           "domain": "https://boletus.us-west.host.bsky.network",
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "8092715ea0a13d478cd5d8064f47c17482f3bd42",
-          "createdAt": "2024-08-10T13:28:02.145Z",
-          "indexedAt": "2024-08-10T13:37:43.714Z",
-          "updatedAt": "2024-08-10T13:43:24.603Z"
+          "createdAt": "2024-08-10T13:41:19.113Z",
+          "indexedAt": "2024-08-10T13:52:26.403Z",
+          "updatedAt": "2024-08-10T13:52:26.403Z"
         },
         {
           "domain": "https://lepista.us-west.host.bsky.network",
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "8092715ea0a13d478cd5d8064f47c17482f3bd42",
-          "createdAt": "2024-08-10T13:23:48.362Z",
-          "indexedAt": "2024-08-10T13:37:39.965Z",
-          "updatedAt": "2024-08-10T13:43:25.059Z"
+          "createdAt": "2024-08-10T13:39:12.019Z",
+          "indexedAt": "2024-08-10T13:52:24.659Z",
+          "updatedAt": "2024-08-10T13:52:24.659Z"
         },
         {
           "domain": "https://blewit.us-west.host.bsky.network",
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "8092715ea0a13d478cd5d8064f47c17482f3bd42",
-          "createdAt": "2024-08-10T13:23:44.236Z",
-          "indexedAt": "2024-08-10T13:37:39.473Z",
-          "updatedAt": "2024-08-10T13:43:25.497Z"
+          "createdAt": "2024-08-10T13:39:13.413Z",
+          "indexedAt": "2024-08-10T13:52:25.113Z",
+          "updatedAt": "2024-08-10T13:52:25.113Z"
         },
         {
           "domain": "https://conocybe.us-west.host.bsky.network",
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "8092715ea0a13d478cd5d8064f47c17482f3bd42",
-          "createdAt": "2024-08-10T13:24:21.939Z",
-          "indexedAt": "2024-08-10T13:37:42.774Z",
-          "updatedAt": "2024-08-10T13:43:25.962Z"
+          "createdAt": "2024-08-10T13:37:59.099Z",
+          "indexedAt": "2024-08-10T13:52:23.084Z",
+          "updatedAt": "2024-08-10T13:52:23.084Z"
         },
         {
           "domain": "https://russula.us-west.host.bsky.network",
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "8092715ea0a13d478cd5d8064f47c17482f3bd42",
-          "createdAt": "2024-08-10T13:23:39.260Z",
-          "indexedAt": "2024-08-10T13:37:38.705Z",
-          "updatedAt": "2024-08-10T13:43:26.418Z"
+          "createdAt": "2024-08-10T13:40:42.853Z",
+          "indexedAt": "2024-08-10T13:52:25.689Z",
+          "updatedAt": "2024-08-10T13:52:25.689Z"
         },
         {
           "domain": "https://pds.furtenbach.social",
@@ -1345,7 +1345,7 @@
           "updatedAt": "2024-08-10T13:44:10.226Z"
         }
       ],
-      "lastCrawledAt": "2024-08-10T13:37:44.185Z"
+      "lastCrawledAt": "2024-08-10T13:52:28.067Z"
     }
   ]
 }
