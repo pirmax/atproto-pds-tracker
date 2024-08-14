@@ -4,7 +4,7 @@ This is a list of ATProto PDS crawled from the ATProto website.
 
 You can follow me on Bluesky: https://bsky.app/profile/pirmax.fr
 
-Last Updated: 2024-08-14T02:51:14.021Z
+Last Updated: 2024-08-14T02:54:12.399Z
 
 ## 🌐 [plc.directory](https://plc.directory)
 
@@ -28,8 +28,8 @@ Last Crawled: 2024-08-14T02:51:12.989Z
 | ✅ [**maitake.us-west.host.bsky.network**](https://maitake.us-west.host.bsky.network) | 🔒 - ✅ | *2024-08-14T02:28:48.906Z* | [8092715...](https://maitake.us-west.host.bsky.network/xrpc/_health) |
 | ✅ [**chaga.us-west.host.bsky.network**](https://chaga.us-west.host.bsky.network) | 🔒 - ✅ | *2024-08-14T02:28:50.718Z* | [8092715...](https://chaga.us-west.host.bsky.network/xrpc/_health) |
 | ❌ [**rebroad.com**](https://rebroad.com) | 🔓 - ❌ | *2023-10-05T08:49:14.908Z* | [⁉️](https://rebroad.com/xrpc/_health) |
-| ❌ [**kitsune.nexus**](https://kitsune.nexus) | 🔓 - ❌ | *2023-07-10T12:41:58.049Z* | [⁉️](https://kitsune.nexus/xrpc/_health) |
-| ❌ [**atproto.brid.gy**](https://atproto.brid.gy) | 🔓 - ❌ | *2024-08-14T02:43:26.680Z* | [⁉️](https://atproto.brid.gy/xrpc/_health) |
+| ✅ [**kitsune.nexus**](https://kitsune.nexus) | 🔒 - ✅ | *2023-07-10T12:41:58.049Z* | [⁉️](https://kitsune.nexus/xrpc/_health) |
+| ✅ [**atproto.brid.gy**](https://atproto.brid.gy) | 🔓 - ❌ | *2024-08-14T02:43:26.680Z* | [⁉️](https://atproto.brid.gy/xrpc/_health) |
 | ✅ [**pds.dholms.xyz**](https://pds.dholms.xyz) | 🔒 - ✅ | *2023-06-20T15:40:24.963Z* | [0.4.47](https://pds.dholms.xyz/xrpc/_health) |
 | ✅ [**friendlypds.cloud**](https://friendlypds.cloud) | 🔒 - ✅ | *2023-06-20T17:57:42.782Z* | [0.4.47](https://friendlypds.cloud/xrpc/_health) |
 | ✅ [**hellthread.pro**](https://hellthread.pro) | 🔒 - ✅ | *2023-06-20T20:14:49.851Z* | [0.4.47](https://hellthread.pro/xrpc/_health) |
@@ -44,10 +44,10 @@ Last Crawled: 2024-08-14T02:51:12.989Z
 | ✅ [**bum.ninja**](https://bum.ninja) | 🔒 - ✅ | *2023-09-01T20:12:08.577Z* | [0.4.47](https://bum.ninja/xrpc/_health) |
 | ✅ [**vengeful.eu**](https://vengeful.eu) | 🔒 - ✅ | *2023-09-04T11:38:28.059Z* | [0.4.47](https://vengeful.eu/xrpc/_health) |
 | ✅ [**zima.ge**](https://zima.ge) | 🔒 - ✅ | *2023-09-08T19:55:36.833Z* | [0.4.47](https://zima.ge/xrpc/_health) |
-| ✅ [**blacksky.app**](https://blacksky.app) | 🔒 - ✅ | *2024-08-14T02:44:35.175Z* | [0.4.47](https://blacksky.app/xrpc/_health) |
+| ✅ [**blacksky.app**](https://blacksky.app) | 🔒 - ✅ | *2023-09-19T03:52:08.897Z* | [0.4.47](https://blacksky.app/xrpc/_health) |
 | ❌ [**bsk.carl0scheca.com**](https://bsk.carl0scheca.com) | 🔓 - ❌ | *2023-09-19T15:11:21.813Z* | [⁉️](https://bsk.carl0scheca.com/xrpc/_health) |
 | ✅ [**atptest.lep.wtf**](https://atptest.lep.wtf) | 🔒 - ✅ | *2023-09-27T06:56:05.679Z* | [0.4.47](https://atptest.lep.wtf/xrpc/_health) |
-| ❌ [**fed.brid.gy**](https://fed.brid.gy/) | 🔓 - ❌ | *2023-09-29T21:19:57.514Z* | [⁉️](https://fed.brid.gy//xrpc/_health) |
+| ✅ [**fed.brid.gy**](https://fed.brid.gy/) | 🔓 - ❌ | *2023-09-29T21:19:57.514Z* | [⁉️](https://fed.brid.gy//xrpc/_health) |
 | ✅ [**bsky.zoeyvid.de**](https://bsky.zoeyvid.de) | 🔒 - ✅ | *2023-10-15T11:31:45.180Z* | [0.4.47](https://bsky.zoeyvid.de/xrpc/_health) |
 | ✅ [**joost.social**](https://joost.social) | 🔒 - ✅ | *2023-10-16T13:38:44.156Z* | [0.4.47](https://joost.social/xrpc/_health) |
 | ✅ [**pds.vriska.dev**](https://pds.vriska.dev) | 🔒 - ✅ | *2023-10-18T01:46:59.636Z* | [0.4.47](https://pds.vriska.dev/xrpc/_health) |
@@ -129,7 +129,7 @@ Last Crawled: 2024-08-14T02:51:12.989Z
 | ✅ [**tbsky.vasco-shot.com**](https://tbsky.vasco-shot.com) | 🔒 - ✅ | *2024-08-14T02:13:46.258Z* | [0.4.47](https://tbsky.vasco-shot.com/xrpc/_health) |
 | ❌ [**bluesky.xeronith.com**](https://bluesky.xeronith.com) | 🔓 - ❌ | *2024-07-23T13:04:44.319Z* | [⁉️](https://bluesky.xeronith.com/xrpc/_health) |
 | ❌ [**var.so**](https://var.so) | 🔓 - ❌ | *2024-07-28T14:49:45.405Z* | [⁉️](https://var.so/xrpc/_health) |
-| ✅ [**cool-barnacle-equal.ngrok-free.app**](https://cool-barnacle-equal.ngrok-free.app) | 🔒 - ✅ | *2024-08-13T13:52:31.403Z* | [0.4.47](https://cool-barnacle-equal.ngrok-free.app/xrpc/_health) |
+| ❌ [**cool-barnacle-equal.ngrok-free.app**](https://cool-barnacle-equal.ngrok-free.app) | 🔓 - ❌ | *2024-08-13T13:52:31.403Z* | [⁉️](https://cool-barnacle-equal.ngrok-free.app/xrpc/_health) |
 | ✅ [**quilt.com.tw**](https://quilt.com.tw) | 🔒 - ✅ | *2024-07-28T05:33:46.487Z* | [0.4.47](https://quilt.com.tw/xrpc/_health) |
 | ✅ [**bsky.pink**](https://bsky.pink) | 🔓 - ❌ | *2024-07-27T23:55:28.227Z* | [0.4.47](https://bsky.pink/xrpc/_health) |
 | ❌ [**pds.btxakita.com**](https://pds.btxakita.com) | 🔓 - ❌ | *2024-07-30T15:06:49.285Z* | [⁉️](https://pds.btxakita.com/xrpc/_health) |
@@ -160,8 +160,8 @@ Last Crawled: 2024-08-14T02:51:12.989Z
 | ❌ [**bsky.progaming.town**](https://bsky.progaming.town) | 🔓 - ❌ | *2024-08-09T03:04:05.129Z* | [⁉️](https://bsky.progaming.town/xrpc/_health) |
 | ✅ [**bsky.baronvonpaddington.com**](https://bsky.baronvonpaddington.com) | 🔒 - ✅ | *2024-08-10T05:43:31.897Z* | [0.4.47](https://bsky.baronvonpaddington.com/xrpc/_health) |
 | ❌ [**laprimicia.es**](https://laprimicia.es) | 🔓 - ❌ | *2024-08-09T19:02:14.184Z* | [⁉️](https://laprimicia.es/xrpc/_health) |
-| ❌ [**social.benedetta.com.br**](https://social.benedetta.com.br) | 🔓 - ❌ | *2024-08-10T23:04:08.198Z* | [⁉️](https://social.benedetta.com.br/xrpc/_health) |
-| ✅ [**sky.skrw.me**](https://sky.skrw.me) | 🔒 - ✅ | *2024-08-11T09:57:28.517Z* | [0.4.47](https://sky.skrw.me/xrpc/_health) |
+| ✅ [**social.benedetta.com.br**](https://social.benedetta.com.br) | 🔒 - ✅ | *2024-08-10T23:04:08.198Z* | [0.4.47](https://social.benedetta.com.br/xrpc/_health) |
+| ❌ [**sky.skrw.me**](https://sky.skrw.me) | 🔓 - ❌ | *2024-08-11T09:57:28.517Z* | [⁉️](https://sky.skrw.me/xrpc/_health) |
 | ❌ [**ena-vocalp.com**](https://ena-vocalp.com) | 🔓 - ❌ | *2024-08-11T14:58:43.746Z* | [⁉️](https://ena-vocalp.com/xrpc/_health) |
 | ✅ [**pds.stupid.fish**](https://pds.stupid.fish) | 🔒 - ✅ | *2024-08-11T16:31:02.543Z* | [0.4.32](https://pds.stupid.fish/xrpc/_health) |
 | ❌ [**pds.ranranhome.info**](https://pds.ranranhome.info) | 🔓 - ❌ | *2024-08-12T09:34:46.934Z* | [⁉️](https://pds.ranranhome.info/xrpc/_health) |
