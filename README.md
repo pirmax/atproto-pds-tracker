@@ -4,7 +4,7 @@ This is a list of ATProto PDS crawled from the ATProto website.
 
 You can follow me on Bluesky: https://bsky.app/profile/pirmax.fr
 
-Last Updated: 2024-08-20T19:20:05.946Z
+Last Updated: 2024-08-20T19:23:44.192Z
 
 ## 🌐 [plc.directory](https://plc.directory)
 
@@ -37,12 +37,12 @@ Last Crawled: 2024-08-20T19:20:04.900Z
 | ✅ [**bsky.dead10ck.dev**](https://bsky.dead10ck.dev) | 🔒 - ✅ | *2023-07-03T04:43:06.033Z* | [0.4.47](https://bsky.dead10ck.dev/xrpc/_health) |
 | ✅ [**disbursement.center**](https://disbursement.center) | 🔒 - ✅ | *2023-07-04T01:20:16.173Z* | [0.4.47](https://disbursement.center/xrpc/_health) |
 | ✅ [**bsky.jakebrough.io**](https://bsky.jakebrough.io) | 🔒 - ✅ | *2023-07-24T19:34:52.436Z* | [0.4.47](https://bsky.jakebrough.io/xrpc/_health) |
-| ✅ [**bs.miichelle.moe**](https://bs.miichelle.moe) | 🔒 - ✅ | *2023-07-28T19:08:52.880Z* | [0.4.47](https://bs.miichelle.moe/xrpc/_health) |
+| ❌ [**bs.miichelle.moe**](https://bs.miichelle.moe) | 🔓 - ❌ | *2023-07-28T19:08:52.880Z* | [⁉️](https://bs.miichelle.moe/xrpc/_health) |
 | ✅ [**fomp.blue**](https://fomp.blue) | 🔒 - ✅ | *2023-07-29T11:41:51.491Z* | [0.4.47](https://fomp.blue/xrpc/_health) |
 | ✅ [**hooray.social**](https://hooray.social) | 🔒 - ✅ | *2023-08-10T06:37:49.299Z* | [0.4.47](https://hooray.social/xrpc/_health) |
 | ✅ [**bsky.bulles.social**](https://bsky.bulles.social) | 🔒 - ✅ | *2023-08-17T14:32:12.665Z* | [0.4.47](https://bsky.bulles.social/xrpc/_health) |
 | ✅ [**bum.ninja**](https://bum.ninja) | 🔒 - ✅ | *2023-09-01T20:12:08.577Z* | [0.4.47](https://bum.ninja/xrpc/_health) |
-| ❌ [**vengeful.eu**](https://vengeful.eu) | 🔓 - ❌ | *2023-09-04T11:38:28.059Z* | [⁉️](https://vengeful.eu/xrpc/_health) |
+| ✅ [**vengeful.eu**](https://vengeful.eu) | 🔒 - ✅ | *2023-09-04T11:38:28.059Z* | [0.4.47](https://vengeful.eu/xrpc/_health) |
 | ✅ [**zima.ge**](https://zima.ge) | 🔒 - ✅ | *2023-09-08T19:55:36.833Z* | [0.4.47](https://zima.ge/xrpc/_health) |
 | ✅ [**blacksky.app**](https://blacksky.app) | 🔒 - ✅ | *2023-09-19T03:52:08.897Z* | [0.4.47](https://blacksky.app/xrpc/_health) |
 | ❌ [**bsk.carl0scheca.com**](https://bsk.carl0scheca.com) | 🔓 - ❌ | *2023-09-19T15:11:21.813Z* | [⁉️](https://bsk.carl0scheca.com/xrpc/_health) |
@@ -108,7 +108,7 @@ Last Crawled: 2024-08-20T19:20:04.900Z
 | ✅ [**russula.us-west.host.bsky.network**](https://russula.us-west.host.bsky.network) | 🔒 - ✅ | *2024-08-20T19:08:25.520Z* | [dae667d...](https://russula.us-west.host.bsky.network/xrpc/_health) |
 | ✅ [**pds.furtenbach.social**](https://pds.furtenbach.social) | 🔒 - ✅ | *2024-07-11T15:13:07.009Z* | [0.4.47](https://pds.furtenbach.social/xrpc/_health) |
 | ❌ [**bsky.hyperreal.coffee**](https://bsky.hyperreal.coffee) | 🔓 - ❌ | *2024-07-13T06:04:46.150Z* | [⁉️](https://bsky.hyperreal.coffee/xrpc/_health) |
-| ✅ [**unbnd.net**](https://unbnd.net) | 🔒 - ✅ | *2024-07-13T07:32:29.976Z* | [0.4.47](https://unbnd.net/xrpc/_health) |
+| ❌ [**unbnd.net**](https://unbnd.net) | 🔓 - ❌ | *2024-07-13T07:32:29.976Z* | [⁉️](https://unbnd.net/xrpc/_health) |
 | ✅ [**pds.tom-sherman.com**](https://pds.tom-sherman.com) | 🔒 - ✅ | *2024-07-13T07:32:29.976Z* | [0.4.27](https://pds.tom-sherman.com/xrpc/_health) |
 | ✅ [**pds.cauda.cloud**](https://pds.cauda.cloud) | 🔒 - ✅ | *2024-07-13T18:17:02.757Z* | [0.4.47](https://pds.cauda.cloud/xrpc/_health) |
 | ❌ [**runyanpi.jp**](https://runyanpi.jp) | 🔓 - ❌ | *2024-07-14T04:43:39.762Z* | [⁉️](https://runyanpi.jp/xrpc/_health) |
@@ -145,7 +145,7 @@ Last Crawled: 2024-08-20T19:20:04.900Z
 | ❌ [**wowpro-guides.com**](https://wowpro-guides.com) | 🔓 - ❌ | *2024-08-03T10:32:29.366Z* | [⁉️](https://wowpro-guides.com/xrpc/_health) |
 | ❌ [**harley.serveo.net**](https://harley.serveo.net) | 🔓 - ❌ | *2024-08-06T11:03:22.152Z* | [⁉️](https://harley.serveo.net/xrpc/_health) |
 | ❌ [**lab.yuipcoders.com**](https://lab.yuipcoders.com) | 🔓 - ❌ | *2024-08-04T10:00:05.205Z* | [⁉️](https://lab.yuipcoders.com/xrpc/_health) |
-| ✅ [**bsky.bigboy.us**](https://bsky.bigboy.us) | 🔒 - ✅ | *2024-08-04T22:20:51.561Z* | [0.4.47](https://bsky.bigboy.us/xrpc/_health) |
+| ❌ [**bsky.bigboy.us**](https://bsky.bigboy.us) | 🔓 - ❌ | *2024-08-04T22:20:51.561Z* | [⁉️](https://bsky.bigboy.us/xrpc/_health) |
 | ✅ [**divy.zone**](https://divy.zone) | 🔒 - ✅ | *2024-08-05T20:10:39.637Z* | [0.4.47](https://divy.zone/xrpc/_health) |
 | ✅ [**spectrumsaas.com**](https://spectrumsaas.com) | 🔒 - ✅ | *2024-08-06T11:09:55.249Z* | [0.4.47](https://spectrumsaas.com/xrpc/_health) |
 | ✅ [**girl.technology**](https://girl.technology) | 🔒 - ✅ | *2024-08-06T03:32:40.789Z* | [0.4.47](https://girl.technology/xrpc/_health) |
