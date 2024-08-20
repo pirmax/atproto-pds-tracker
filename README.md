@@ -4,7 +4,7 @@ This is a list of ATProto PDS crawled from the ATProto website.
 
 You can follow me on Bluesky: https://bsky.app/profile/pirmax.fr
 
-Last Updated: 2024-08-20T23:34:08.571Z
+Last Updated: 2024-08-20T23:43:47.222Z
 
 ## 🌐 [plc.directory](https://plc.directory)
 
@@ -166,7 +166,7 @@ Last Crawled: 2024-08-20T23:23:04.963Z
 | ✅ [**pds.stupid.fish**](https://pds.stupid.fish) | 🔒 - ✅ | *2024-08-11T16:31:02.543Z* | [0.4.32](https://pds.stupid.fish/xrpc/_health) |
 | ❌ [**pds.ranranhome.info**](https://pds.ranranhome.info) | 🔓 - ❌ | *2024-08-12T09:34:46.934Z* | [⁉️](https://pds.ranranhome.info/xrpc/_health) |
 | ✅ [**bsky.ranranhome.info**](https://bsky.ranranhome.info) | 🔒 - ✅ | *2024-08-12T11:34:26.275Z* | [0.4.47](https://bsky.ranranhome.info/xrpc/_health) |
-| ❌ [**pajamas.monster**](https://pajamas.monster) | 🔓 - ❌ | *2024-08-12T15:24:09.831Z* | [⁉️](https://pajamas.monster/xrpc/_health) |
+| ✅ [**pajamas.monster**](https://pajamas.monster) | 🔒 - ✅ | *2024-08-12T15:24:09.831Z* | [0.4.47](https://pajamas.monster/xrpc/_health) |
 | ❌ [**bs.duidui.xyz**](https://bs.duidui.xyz) | 🔓 - ❌ | *2024-08-13T13:43:21.740Z* | [⁉️](https://bs.duidui.xyz/xrpc/_health) |
 | ✅ [**blue.eldritch.gift**](https://blue.eldritch.gift) | 🔒 - ✅ | *2024-08-13T14:06:18.069Z* | [0.4.47](https://blue.eldritch.gift/xrpc/_health) |
 | ❌ [**bluesky.q2r.net**](https://bluesky.q2r.net) | 🔓 - ❌ | *2024-08-13T20:10:58.213Z* | [⁉️](https://bluesky.q2r.net/xrpc/_health) |
@@ -174,7 +174,7 @@ Last Crawled: 2024-08-20T23:23:04.963Z
 | ✅ [**bsky.pavli.cc**](https://bsky.pavli.cc) | 🔒 - ✅ | *2024-08-16T11:34:28.602Z* | [0.4.47](https://bsky.pavli.cc/xrpc/_health) |
 | ✅ [**waverly.social**](https://waverly.social) | 🔒 - ✅ | *2024-08-14T18:15:28.257Z* | [0.13.1](https://waverly.social/xrpc/_health) |
 | ❌ [**test.bluesky.metalbanana.net**](https://test.bluesky.metalbanana.net) | 🔓 - ❌ | *2024-08-16T08:52:12.843Z* | [⁉️](https://test.bluesky.metalbanana.net/xrpc/_health) |
-| ✅ [**bluesky.metalbanana.net**](https://bluesky.metalbanana.net) | 🔒 - ✅ | *2024-08-17T13:16:08.758Z* | [0.4.47](https://bluesky.metalbanana.net/xrpc/_health) |
+| ❌ [**bluesky.metalbanana.net**](https://bluesky.metalbanana.net) | 🔓 - ❌ | *2024-08-17T13:16:08.758Z* | [⁉️](https://bluesky.metalbanana.net/xrpc/_health) |
 | ✅ [**is-great.uk**](https://is-great.uk) | 🔒 - ✅ | *2024-08-16T14:05:54.783Z* | [0.4.47](https://is-great.uk/xrpc/_health) |
 | ❌ [**psd.hriddo.com**](https://psd.hriddo.com) | 🔓 - ❌ | *2024-08-17T15:17:39.698Z* | [⁉️](https://psd.hriddo.com/xrpc/_health) |
 | ❌ [**tiddings.com**](https://tiddings.com) | 🔓 - ❌ | *2024-08-17T11:14:36.001Z* | [⁉️](https://tiddings.com/xrpc/_health) |
