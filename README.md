@@ -4,7 +4,7 @@ This is a list of ATProto PDS crawled from the ATProto website.
 
 You can follow me on Bluesky: https://bsky.app/profile/pirmax.fr
 
-Last Updated: 2024-08-21T15:26:37.538Z
+Last Updated: 2024-08-21T15:33:50.711Z
 
 ## 🌐 [plc.directory](https://plc.directory)
 
