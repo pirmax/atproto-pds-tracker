@@ -4,7 +4,7 @@ This is a list of ATProto PDS crawled from the ATProto website.
 
 You can follow me on Bluesky: https://bsky.app/profile/pirmax.fr
 
-Last Updated: 2024-08-21T03:34:43.195Z
+Last Updated: 2024-08-21T03:43:42.170Z
 
 ## 🌐 [plc.directory](https://plc.directory)
 
@@ -137,7 +137,7 @@ Last Crawled: 2024-08-21T03:23:46.519Z
 | ❌ [**zombie.beauty**](https://zombie.beauty) | 🔓 - ❌ | *2024-08-01T03:16:43.947Z* | [⁉️](https://zombie.beauty/xrpc/_health) |
 | ✅ [**goeo.lol**](https://goeo.lol) | 🔒 - ✅ | *2024-07-31T23:43:47.193Z* | [0.4.51](https://goeo.lol/xrpc/_health) |
 | ❌ [**collantes.me**](https://collantes.me) | 🔓 - ❌ | *2024-08-01T22:32:05.205Z* | [⁉️](https://collantes.me/xrpc/_health) |
-| ✅ [**hedgehog.us-west.host.bsky.network**](https://hedgehog.us-west.host.bsky.network) | 🔒 - ✅ | *2024-08-01T23:38:25.446Z* | [922b2e8...](https://hedgehog.us-west.host.bsky.network/xrpc/_health) |
+| ❌ [**hedgehog.us-west.host.bsky.network**](https://hedgehog.us-west.host.bsky.network) | 🔓 - ❌ | *2024-08-01T23:38:25.446Z* | [⁉️](https://hedgehog.us-west.host.bsky.network/xrpc/_health) |
 | ❌ [**tubyte.net**](https://tubyte.net) | 🔓 - ❌ | *2024-08-02T12:35:36.903Z* | [⁉️](https://tubyte.net/xrpc/_health) |
 | ✅ [**social.panache.so**](https://social.panache.so) | 🔒 - ✅ | *2024-08-02T18:12:22.638Z* | [0.4.51](https://social.panache.so/xrpc/_health) |
 | ❌ [**baconisyeserpik.com**](https://baconisyeserpik.com) | 🔓 - ❌ | *2024-08-02T22:03:27.800Z* | [⁉️](https://baconisyeserpik.com/xrpc/_health) |
@@ -170,7 +170,7 @@ Last Crawled: 2024-08-21T03:23:46.519Z
 | ❌ [**bs.duidui.xyz**](https://bs.duidui.xyz) | 🔓 - ❌ | *2024-08-13T13:43:21.740Z* | [⁉️](https://bs.duidui.xyz/xrpc/_health) |
 | ✅ [**blue.eldritch.gift**](https://blue.eldritch.gift) | 🔒 - ✅ | *2024-08-13T14:06:18.069Z* | [0.4.47](https://blue.eldritch.gift/xrpc/_health) |
 | ❌ [**bluesky.q2r.net**](https://bluesky.q2r.net) | 🔓 - ❌ | *2024-08-13T20:10:58.213Z* | [⁉️](https://bluesky.q2r.net/xrpc/_health) |
-| ✅ [**tbsky2.vasco-shot.com**](https://tbsky2.vasco-shot.com) | 🔒 - ✅ | *2024-08-21T02:00:29.270Z* | [0.4.47](https://tbsky2.vasco-shot.com/xrpc/_health) |
+| ❌ [**tbsky2.vasco-shot.com**](https://tbsky2.vasco-shot.com) | 🔓 - ❌ | *2024-08-21T02:00:29.270Z* | [⁉️](https://tbsky2.vasco-shot.com/xrpc/_health) |
 | ✅ [**bsky.pavli.cc**](https://bsky.pavli.cc) | 🔒 - ✅ | *2024-08-16T11:34:28.602Z* | [0.4.51](https://bsky.pavli.cc/xrpc/_health) |
 | ✅ [**waverly.social**](https://waverly.social) | 🔒 - ✅ | *2024-08-14T18:15:28.257Z* | [0.13.1](https://waverly.social/xrpc/_health) |
 | ❌ [**test.bluesky.metalbanana.net**](https://test.bluesky.metalbanana.net) | 🔓 - ❌ | *2024-08-16T08:52:12.843Z* | [⁉️](https://test.bluesky.metalbanana.net/xrpc/_health) |
