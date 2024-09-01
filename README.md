@@ -4,7 +4,7 @@ This is a list of ATProto PDS crawled from the ATProto website.
 
 You can follow me on Bluesky: https://bsky.app/profile/pirmax.fr
 
-Last Updated: 2024-09-01T16:24:50.567Z
+Last Updated: 2024-09-01T16:30:31.661Z
 
 ## 🌐 [plc.directory](https://plc.directory)
 
@@ -185,7 +185,7 @@ Last Crawled: 2024-09-01T16:24:49.512Z
 | ✅ [**rulestheworld.co.uk**](https://rulestheworld.co.uk) | 🔒 - ✅ | *2024-08-22T07:23:54.453Z* | [0.4.55](https://rulestheworld.co.uk/xrpc/_health) |
 | ❌ [**insider3.io**](https://insider3.io) | 🔓 - ❌ | *2024-08-28T06:27:18.345Z* | [⁉️](https://insider3.io/xrpc/_health) |
 | ✅ [**bsky.vasco-shot.com**](https://bsky.vasco-shot.com) | 🔒 - ✅ | *2024-08-27T08:46:34.269Z* | [0.4.47](https://bsky.vasco-shot.com/xrpc/_health) |
-| ✅ [**devsky.vasco-shot.com**](https://devsky.vasco-shot.com) | 🔒 - ✅ | *2024-08-22T08:02:56.876Z* | [0.4.47](https://devsky.vasco-shot.com/xrpc/_health) |
+| ❌ [**devsky.vasco-shot.com**](https://devsky.vasco-shot.com) | 🔓 - ❌ | *2024-08-22T08:02:56.876Z* | [⁉️](https://devsky.vasco-shot.com/xrpc/_health) |
 | ✅ [**pds.tentacle.expert**](https://pds.tentacle.expert) | 🔒 - ✅ | *2024-08-21T23:07:45.271Z* | [0.4.55](https://pds.tentacle.expert/xrpc/_health) |
 | ❌ [**kazikivrc.net**](https://kazikivrc.net) | 🔓 - ❌ | *2024-08-22T15:35:43.980Z* | [⁉️](https://kazikivrc.net/xrpc/_health) |
 | ✅ [**bs.aiforward.jp**](https://bs.aiforward.jp) | 🔒 - ✅ | *2024-08-22T10:54:04.020Z* | [0.4.55](https://bs.aiforward.jp/xrpc/_health) |
@@ -206,4 +206,4 @@ Last Crawled: 2024-09-01T16:24:49.512Z
 | ❌ [**ixcat.ovh**](https://ixcat.ovh) | 🔓 - ❌ | *2024-08-31T13:35:13.893Z* | [⁉️](https://ixcat.ovh/xrpc/_health) |
 | ❌ [**bsky.qilin.moe**](https://bsky.qilin.moe) | 🔓 - ❌ | *2024-08-31T15:07:06.889Z* | [⁉️](https://bsky.qilin.moe/xrpc/_health) |
 | ❌ [**alyx.pink**](https://alyx.pink) | 🔓 - ❌ | *2024-09-01T06:43:04.805Z* | [⁉️](https://alyx.pink/xrpc/_health) |
-| ✅ [**bsky.alyx.pink**](https://bsky.alyx.pink) | 🔒 - ✅ | *2024-09-01T07:44:03.127Z* | [0.4.55](https://bsky.alyx.pink/xrpc/_health) |
+| ❌ [**bsky.alyx.pink**](https://bsky.alyx.pink) | 🔓 - ❌ | *2024-09-01T07:44:03.127Z* | [⁉️](https://bsky.alyx.pink/xrpc/_health) |
