@@ -4,7 +4,7 @@ This is a list of ATProto PDS crawled from the ATProto website.
 
 You can follow me on Bluesky: https://bsky.app/profile/pirmax.fr
 
-Last Updated: 2024-09-03T16:07:15.161Z
+Last Updated: 2024-09-03T16:18:34.027Z
 
 ## 🌐 [plc.directory](https://plc.directory)
 
@@ -52,7 +52,7 @@ Last Crawled: 2024-09-03T16:07:14.045Z
 | ✅ [**joost.social**](https://joost.social) | 🔒 - ✅ | *2023-10-16T13:38:44.156Z* | [0.4.55](https://joost.social/xrpc/_health) |
 | ✅ [**pds.vriska.dev**](https://pds.vriska.dev) | 🔒 - ✅ | *2023-10-18T01:46:59.636Z* | [0.4.55](https://pds.vriska.dev/xrpc/_health) |
 | ✅ [**matthews-kennington.com**](https://matthews-kennington.com) | 🔒 - ✅ | *2023-10-18T14:26:47.447Z* | [0.4.55](https://matthews-kennington.com/xrpc/_health) |
-| ✅ [**bluesky.migennes.org**](https://bluesky.migennes.org) | 🔒 - ✅ | *2023-10-19T13:06:00.705Z* | [0.4.55](https://bluesky.migennes.org/xrpc/_health) |
+| ❌ [**bluesky.migennes.org**](https://bluesky.migennes.org) | 🔓 - ❌ | *2023-10-19T13:06:00.705Z* | [⁉️](https://bluesky.migennes.org/xrpc/_health) |
 | ✅ [**bsky.akurosia.de**](https://bsky.akurosia.de) | 🔓 - ❌ | *2023-10-27T15:54:00.289Z* | [⁉️](https://bsky.akurosia.de/xrpc/_health) |
 | ✅ [**bsky.action0.com**](https://bsky.action0.com) | 🔒 - ✅ | *2023-10-30T11:02:16.088Z* | [0.3.0-b...](https://bsky.action0.com/xrpc/_health) |
 | ✅ [**montpeyroux.social**](https://montpeyroux.social) | 🔒 - ✅ | *2023-11-08T19:10:22.308Z* | [0.4.55](https://montpeyroux.social/xrpc/_health) |
@@ -149,7 +149,7 @@ Last Crawled: 2024-09-03T16:07:14.045Z
 | ✅ [**divy.zone**](https://divy.zone) | 🔒 - ✅ | *2024-08-05T20:10:39.637Z* | [0.4.55](https://divy.zone/xrpc/_health) |
 | ✅ [**spectrumsaas.com**](https://spectrumsaas.com) | 🔒 - ✅ | *2024-08-06T11:09:55.249Z* | [0.4.55](https://spectrumsaas.com/xrpc/_health) |
 | ✅ [**girl.technology**](https://girl.technology) | 🔒 - ✅ | *2024-08-06T03:32:40.789Z* | [0.4.47](https://girl.technology/xrpc/_health) |
-| ✅ [**trashcave.net**](https://trashcave.net) | 🔒 - ✅ | *2024-08-06T08:32:00.638Z* | [0.4.55](https://trashcave.net/xrpc/_health) |
+| ❌ [**trashcave.net**](https://trashcave.net) | 🔓 - ❌ | *2024-08-06T08:32:00.638Z* | [⁉️](https://trashcave.net/xrpc/_health) |
 | ❌ [**tbsky-dev.vasco-shot.com**](https://tbsky-dev.vasco-shot.com) | 🔓 - ❌ | *2024-08-28T08:14:37.191Z* | [⁉️](https://tbsky-dev.vasco-shot.com/xrpc/_health) |
 | ✅ [**bitemy.app**](https://bitemy.app) | 🔒 - ✅ | *2024-08-07T02:31:11.094Z* | [0.4.55](https://bitemy.app/xrpc/_health) |
 | ❌ [**gibweb.com**](https://gibweb.com) | 🔓 - ❌ | *2024-08-07T19:50:21.768Z* | [⁉️](https://gibweb.com/xrpc/_health) |
@@ -214,7 +214,7 @@ Last Crawled: 2024-09-03T16:07:14.045Z
 | ❌ [**localho.st**](https://localho.st) | 🔓 - ❌ | *2024-09-02T14:37:53.381Z* | [⁉️](https://localho.st/xrpc/_health) |
 | ✅ [**edwz.com.br**](https://edwz.com.br) | 🔒 - ✅ | *2024-09-02T19:51:11.235Z* | [0.4.55](https://edwz.com.br/xrpc/_health) |
 | ✅ [**bluesky.fitzsky.com**](https://bluesky.fitzsky.com) | 🔒 - ✅ | *2024-09-03T02:10:26.596Z* | [0.4.55](https://bluesky.fitzsky.com/xrpc/_health) |
-| ✅ [**1998.social**](https://1998.social) | 🔒 - ✅ | *2024-09-03T03:09:14.368Z* | [0.4.55](https://1998.social/xrpc/_health) |
+| ❌ [**1998.social**](https://1998.social) | 🔓 - ❌ | *2024-09-03T03:09:14.368Z* | [⁉️](https://1998.social/xrpc/_health) |
 | ✅ [**guaxinim.me**](https://guaxinim.me) | 🔒 - ✅ | *2024-09-03T05:50:52.326Z* | [0.4.55](https://guaxinim.me/xrpc/_health) |
 | ✅ [**dev-bsky.xsns.jp**](https://dev-bsky.xsns.jp) | 🔒 - ✅ | *2024-09-03T08:49:12.793Z* | [0.4.55](https://dev-bsky.xsns.jp/xrpc/_health) |
 | ✅ [**dev-sky.vasco-shot.com**](https://dev-sky.vasco-shot.com) | 🔒 - ✅ | *2024-09-03T08:52:47.505Z* | [0.4.55](https://dev-sky.vasco-shot.com/xrpc/_health) |
