@@ -62,9 +62,9 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "fefb0da211ab811e17263dc68de0f6e794a2f097",
-          "createdAt": "2024-09-20T08:07:35.653Z",
-          "indexedAt": "2024-09-20T08:08:11.973Z",
-          "updatedAt": "2024-09-20T08:28:38.636Z"
+          "createdAt": "2024-09-20T08:34:26.480Z",
+          "indexedAt": "2024-09-20T08:37:19.963Z",
+          "updatedAt": "2024-09-20T08:37:19.963Z"
         },
         {
           "domain": "https://shimeji.us-east.host.bsky.network",
@@ -125,9 +125,9 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "fefb0da211ab811e17263dc68de0f6e794a2f097",
-          "createdAt": "2024-09-20T08:17:50.381Z",
-          "indexedAt": "2024-09-20T08:25:06.154Z",
-          "updatedAt": "2024-09-20T08:28:40.422Z"
+          "createdAt": "2024-09-20T08:31:55.829Z",
+          "indexedAt": "2024-09-20T08:37:19.246Z",
+          "updatedAt": "2024-09-20T08:37:19.246Z"
         },
         {
           "domain": "https://chaga.us-west.host.bsky.network",
@@ -161,9 +161,9 @@
           "isActive": true,
           "isInviteCodeRequired": false,
           "version": null,
-          "createdAt": "2024-09-20T07:47:27.680Z",
-          "indexedAt": "2024-09-20T07:49:07.738Z",
-          "updatedAt": "2024-09-20T08:28:43.891Z"
+          "createdAt": "2024-09-20T08:29:52.309Z",
+          "indexedAt": "2024-09-20T08:37:18.581Z",
+          "updatedAt": "2024-09-20T08:37:18.581Z"
         },
         {
           "domain": "https://pds.dholms.xyz",
@@ -818,18 +818,18 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "fefb0da211ab811e17263dc68de0f6e794a2f097",
-          "createdAt": "2024-09-20T07:21:51.246Z",
-          "indexedAt": "2024-09-20T07:23:29.889Z",
-          "updatedAt": "2024-09-20T08:29:31.613Z"
+          "createdAt": "2024-09-20T08:32:57.710Z",
+          "indexedAt": "2024-09-20T08:37:19.860Z",
+          "updatedAt": "2024-09-20T08:37:19.860Z"
         },
         {
           "domain": "https://blewit.us-west.host.bsky.network",
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "fefb0da211ab811e17263dc68de0f6e794a2f097",
-          "createdAt": "2024-09-20T08:16:02.054Z",
-          "indexedAt": "2024-09-20T08:25:05.542Z",
-          "updatedAt": "2024-09-20T08:29:31.951Z"
+          "createdAt": "2024-09-20T08:36:48.795Z",
+          "indexedAt": "2024-09-20T08:37:20.465Z",
+          "updatedAt": "2024-09-20T08:37:20.465Z"
         },
         {
           "domain": "https://conocybe.us-west.host.bsky.network",
@@ -2123,18 +2123,18 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "bcefbdbc6b775ab57134c7d1a8d0b129f7d9f40a",
-          "createdAt": "2024-09-20T08:08:37.783Z",
-          "indexedAt": "2024-09-20T08:25:04.202Z",
-          "updatedAt": "2024-09-20T08:31:49.521Z"
+          "createdAt": "2024-09-20T08:25:29.995Z",
+          "indexedAt": "2024-09-20T08:37:18.306Z",
+          "updatedAt": "2024-09-20T08:37:18.306Z"
         },
         {
           "domain": "https://coral.us-east.host.bsky.network",
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "bcefbdbc6b775ab57134c7d1a8d0b129f7d9f40a",
-          "createdAt": "2024-09-20T08:08:53.898Z",
-          "indexedAt": "2024-09-20T08:25:04.362Z",
-          "updatedAt": "2024-09-20T08:31:49.714Z"
+          "createdAt": "2024-09-20T08:25:10.971Z",
+          "indexedAt": "2024-09-20T08:37:17.011Z",
+          "updatedAt": "2024-09-20T08:37:17.011Z"
         },
         {
           "domain": "https://666.fail",
@@ -2294,18 +2294,18 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "bcefbdbc6b775ab57134c7d1a8d0b129f7d9f40a",
-          "createdAt": "2024-09-20T08:08:18.687Z",
-          "indexedAt": "2024-09-20T08:25:04.051Z",
-          "updatedAt": "2024-09-20T08:32:00.647Z"
+          "createdAt": "2024-09-20T08:25:26.387Z",
+          "indexedAt": "2024-09-20T08:37:18.188Z",
+          "updatedAt": "2024-09-20T08:37:18.188Z"
         },
         {
           "domain": "https://woodear.us-west.host.bsky.network",
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "bcefbdbc6b775ab57134c7d1a8d0b129f7d9f40a",
-          "createdAt": "2024-09-20T08:09:12.345Z",
-          "indexedAt": "2024-09-20T08:25:04.923Z",
-          "updatedAt": "2024-09-20T08:32:00.989Z"
+          "createdAt": "2024-09-20T08:25:24.114Z",
+          "indexedAt": "2024-09-20T08:37:17.508Z",
+          "updatedAt": "2024-09-20T08:37:17.508Z"
         },
         {
           "domain": "https://bsky.buldy.eu",
@@ -2677,7 +2677,7 @@
           "updatedAt": "2024-09-20T08:32:41.504Z"
         }
       ],
-      "lastCrawledAt": "2024-09-20T08:25:07.236Z"
+      "lastCrawledAt": "2024-09-20T08:37:20.465Z"
     }
   ]
 }
