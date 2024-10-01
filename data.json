@@ -62,9 +62,9 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "b298bfd280c5de8b38b843fd852e6d2739a776d8",
-          "createdAt": "2024-10-01T07:04:31.883Z",
-          "indexedAt": "2024-10-01T07:23:27.342Z",
-          "updatedAt": "2024-10-01T08:16:03.518Z"
+          "createdAt": "2024-10-01T08:14:51.846Z",
+          "indexedAt": "2024-10-01T08:25:34.857Z",
+          "updatedAt": "2024-10-01T08:25:34.857Z"
         },
         {
           "domain": "https://shimeji.us-east.host.bsky.network",
@@ -134,9 +134,9 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "b298bfd280c5de8b38b843fd852e6d2739a776d8",
-          "createdAt": "2024-10-01T06:12:10.310Z",
-          "indexedAt": "2024-10-01T06:25:44.407Z",
-          "updatedAt": "2024-10-01T08:16:06.477Z"
+          "createdAt": "2024-10-01T08:23:46.048Z",
+          "indexedAt": "2024-10-01T08:25:36.036Z",
+          "updatedAt": "2024-10-01T08:25:36.036Z"
         },
         {
           "domain": "https://rebroad.com",
@@ -845,9 +845,9 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "b298bfd280c5de8b38b843fd852e6d2739a776d8",
-          "createdAt": "2024-10-01T06:37:23.154Z",
-          "indexedAt": "2024-10-01T06:40:57.657Z",
-          "updatedAt": "2024-10-01T08:17:05.646Z"
+          "createdAt": "2024-10-01T08:21:02.080Z",
+          "indexedAt": "2024-10-01T08:25:35.492Z",
+          "updatedAt": "2024-10-01T08:25:35.492Z"
         },
         {
           "domain": "https://pds.furtenbach.social",
@@ -2123,18 +2123,18 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "bcefbdbc6b775ab57134c7d1a8d0b129f7d9f40a",
-          "createdAt": "2024-10-01T07:49:46.939Z",
-          "indexedAt": "2024-10-01T08:08:38.576Z",
-          "updatedAt": "2024-10-01T08:19:37.424Z"
+          "createdAt": "2024-10-01T08:12:05.015Z",
+          "indexedAt": "2024-10-01T08:25:33.065Z",
+          "updatedAt": "2024-10-01T08:25:33.065Z"
         },
         {
           "domain": "https://coral.us-east.host.bsky.network",
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "bcefbdbc6b775ab57134c7d1a8d0b129f7d9f40a",
-          "createdAt": "2024-10-01T07:50:50.893Z",
-          "indexedAt": "2024-10-01T08:08:39.348Z",
-          "updatedAt": "2024-10-01T08:19:37.847Z"
+          "createdAt": "2024-10-01T08:08:49.430Z",
+          "indexedAt": "2024-10-01T08:25:31.681Z",
+          "updatedAt": "2024-10-01T08:25:31.681Z"
         },
         {
           "domain": "https://666.fail",
@@ -2294,18 +2294,18 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "bcefbdbc6b775ab57134c7d1a8d0b129f7d9f40a",
-          "createdAt": "2024-10-01T07:49:46.877Z",
-          "indexedAt": "2024-10-01T08:08:37.928Z",
-          "updatedAt": "2024-10-01T08:19:50.303Z"
+          "createdAt": "2024-10-01T08:08:55.258Z",
+          "indexedAt": "2024-10-01T08:25:32.250Z",
+          "updatedAt": "2024-10-01T08:25:32.250Z"
         },
         {
           "domain": "https://woodear.us-west.host.bsky.network",
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "bcefbdbc6b775ab57134c7d1a8d0b129f7d9f40a",
-          "createdAt": "2024-10-01T07:50:09.769Z",
-          "indexedAt": "2024-10-01T08:08:38.800Z",
-          "updatedAt": "2024-10-01T08:19:50.429Z"
+          "createdAt": "2024-10-01T08:09:03.909Z",
+          "indexedAt": "2024-10-01T08:25:32.904Z",
+          "updatedAt": "2024-10-01T08:25:32.904Z"
         },
         {
           "domain": "https://bsky.buldy.eu",
@@ -2972,9 +2972,18 @@
           "createdAt": "2024-10-01T05:46:39.971Z",
           "indexedAt": "2024-10-01T05:49:14.666Z",
           "updatedAt": "2024-10-01T08:20:57.432Z"
+        },
+        {
+          "domain": "https://liurnia.rishav.io",
+          "isActive": true,
+          "isInviteCodeRequired": true,
+          "version": "0.4.59",
+          "createdAt": "2024-10-01T08:13:27.375Z",
+          "indexedAt": "2024-10-01T08:25:34.766Z",
+          "updatedAt": "2024-10-01T08:25:34.766Z"
         }
       ],
-      "lastCrawledAt": "2024-10-01T08:08:40.953Z"
+      "lastCrawledAt": "2024-10-01T08:25:36.036Z"
     }
   ]
 }
