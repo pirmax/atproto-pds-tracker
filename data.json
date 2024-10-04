@@ -26,9 +26,9 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "b298bfd280c5de8b38b843fd852e6d2739a776d8",
-          "createdAt": "2024-10-04T08:02:53.175Z",
-          "indexedAt": "2024-10-04T08:25:12.766Z",
-          "updatedAt": "2024-10-04T09:51:53.061Z"
+          "createdAt": "2024-10-04T10:00:26.539Z",
+          "indexedAt": "2024-10-04T10:06:44.684Z",
+          "updatedAt": "2024-10-04T10:06:44.684Z"
         },
         {
           "domain": "https://inkcap.us-east.host.bsky.network",
@@ -44,9 +44,9 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "b298bfd280c5de8b38b843fd852e6d2739a776d8",
-          "createdAt": "2024-10-04T09:08:24.266Z",
-          "indexedAt": "2024-10-04T09:24:32.269Z",
-          "updatedAt": "2024-10-04T09:51:53.380Z"
+          "createdAt": "2024-10-04T10:02:29.350Z",
+          "indexedAt": "2024-10-04T10:06:45.492Z",
+          "updatedAt": "2024-10-04T10:06:45.492Z"
         },
         {
           "domain": "https://enoki.us-east.host.bsky.network",
@@ -116,9 +116,9 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "b298bfd280c5de8b38b843fd852e6d2739a776d8",
-          "createdAt": "2024-10-04T09:31:51.603Z",
-          "indexedAt": "2024-10-04T09:35:49.765Z",
-          "updatedAt": "2024-10-04T09:51:55.216Z"
+          "createdAt": "2024-10-04T10:01:39.227Z",
+          "indexedAt": "2024-10-04T10:06:45.223Z",
+          "updatedAt": "2024-10-04T10:06:45.223Z"
         },
         {
           "domain": "https://maitake.us-west.host.bsky.network",
@@ -158,12 +158,12 @@
         },
         {
           "domain": "https://atproto.brid.gy",
-          "isActive": false,
+          "isActive": true,
           "isInviteCodeRequired": false,
           "version": null,
-          "createdAt": "2024-10-04T09:39:11.932Z",
-          "indexedAt": "2024-10-04T09:49:13.570Z",
-          "updatedAt": "2024-10-04T09:52:00.440Z"
+          "createdAt": "2024-10-04T10:05:40.108Z",
+          "indexedAt": "2024-10-04T10:06:45.784Z",
+          "updatedAt": "2024-10-04T10:06:45.784Z"
         },
         {
           "domain": "https://pds.dholms.xyz",
@@ -800,9 +800,9 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "b298bfd280c5de8b38b843fd852e6d2739a776d8",
-          "createdAt": "2024-10-04T09:15:55.417Z",
-          "indexedAt": "2024-10-04T09:24:33.477Z",
-          "updatedAt": "2024-10-04T09:52:41.348Z"
+          "createdAt": "2024-10-04T09:56:48.315Z",
+          "indexedAt": "2024-10-04T10:06:44.476Z",
+          "updatedAt": "2024-10-04T10:06:44.476Z"
         },
         {
           "domain": "https://boletus.us-west.host.bsky.network",
@@ -827,9 +827,9 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "b298bfd280c5de8b38b843fd852e6d2739a776d8",
-          "createdAt": "2024-10-04T07:48:29.129Z",
-          "indexedAt": "2024-10-04T07:49:20.687Z",
-          "updatedAt": "2024-10-04T09:52:42.382Z"
+          "createdAt": "2024-10-04T09:51:42.932Z",
+          "indexedAt": "2024-10-04T10:06:43.788Z",
+          "updatedAt": "2024-10-04T10:06:43.788Z"
         },
         {
           "domain": "https://conocybe.us-west.host.bsky.network",
@@ -2123,18 +2123,18 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "bcefbdbc6b775ab57134c7d1a8d0b129f7d9f40a",
-          "createdAt": "2024-10-04T09:35:55.765Z",
-          "indexedAt": "2024-10-04T09:49:12.462Z",
-          "updatedAt": "2024-10-04T09:55:06.448Z"
+          "createdAt": "2024-10-04T09:49:32.472Z",
+          "indexedAt": "2024-10-04T10:06:42.136Z",
+          "updatedAt": "2024-10-04T10:06:42.136Z"
         },
         {
           "domain": "https://coral.us-east.host.bsky.network",
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "bcefbdbc6b775ab57134c7d1a8d0b129f7d9f40a",
-          "createdAt": "2024-10-04T09:35:51.654Z",
-          "indexedAt": "2024-10-04T09:49:12.275Z",
-          "updatedAt": "2024-10-04T09:55:06.610Z"
+          "createdAt": "2024-10-04T09:50:01.092Z",
+          "indexedAt": "2024-10-04T10:06:42.531Z",
+          "updatedAt": "2024-10-04T10:06:42.531Z"
         },
         {
           "domain": "https://666.fail",
@@ -2294,18 +2294,18 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "bcefbdbc6b775ab57134c7d1a8d0b129f7d9f40a",
-          "createdAt": "2024-10-04T09:36:55.341Z",
-          "indexedAt": "2024-10-04T09:49:13.229Z",
-          "updatedAt": "2024-10-04T09:55:17.927Z"
+          "createdAt": "2024-10-04T09:50:10.158Z",
+          "indexedAt": "2024-10-04T10:06:43.204Z",
+          "updatedAt": "2024-10-04T10:06:43.204Z"
         },
         {
           "domain": "https://woodear.us-west.host.bsky.network",
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "bcefbdbc6b775ab57134c7d1a8d0b129f7d9f40a",
-          "createdAt": "2024-10-04T09:36:24.887Z",
-          "indexedAt": "2024-10-04T09:49:12.844Z",
-          "updatedAt": "2024-10-04T09:55:18.281Z"
+          "createdAt": "2024-10-04T09:49:19.601Z",
+          "indexedAt": "2024-10-04T10:06:41.571Z",
+          "updatedAt": "2024-10-04T10:06:41.571Z"
         },
         {
           "domain": "https://bsky.buldy.eu",
@@ -3056,15 +3056,15 @@
         },
         {
           "domain": "https://labs.ocbwoy3.dev",
-          "isActive": true,
-          "isInviteCodeRequired": true,
+          "isActive": false,
+          "isInviteCodeRequired": false,
           "version": null,
-          "createdAt": "2024-10-04T07:51:43.476Z",
-          "indexedAt": "2024-10-04T08:25:10.590Z",
-          "updatedAt": "2024-10-04T09:56:40.388Z"
+          "createdAt": "2024-10-04T09:52:11.481Z",
+          "indexedAt": "2024-10-04T10:06:43.978Z",
+          "updatedAt": "2024-10-04T10:06:43.978Z"
         }
       ],
-      "lastCrawledAt": "2024-10-04T09:49:14.168Z"
+      "lastCrawledAt": "2024-10-04T10:06:45.784Z"
     }
   ]
 }
