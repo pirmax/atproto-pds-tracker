@@ -35,9 +35,9 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "b298bfd280c5de8b38b843fd852e6d2739a776d8",
-          "createdAt": "2024-10-04T09:08:45.483Z",
-          "indexedAt": "2024-10-04T09:24:32.422Z",
-          "updatedAt": "2024-10-04T10:15:19.066Z"
+          "createdAt": "2024-10-04T10:07:33.921Z",
+          "indexedAt": "2024-10-04T10:24:36.896Z",
+          "updatedAt": "2024-10-04T10:24:36.896Z"
         },
         {
           "domain": "https://oyster.us-east.host.bsky.network",
@@ -80,9 +80,9 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "b298bfd280c5de8b38b843fd852e6d2739a776d8",
-          "createdAt": "2024-10-04T09:35:21.258Z",
-          "indexedAt": "2024-10-04T09:35:49.919Z",
-          "updatedAt": "2024-10-04T10:15:19.623Z"
+          "createdAt": "2024-10-04T10:10:11.657Z",
+          "indexedAt": "2024-10-04T10:24:37.042Z",
+          "updatedAt": "2024-10-04T10:24:37.042Z"
         },
         {
           "domain": "https://lionsmane.us-east.host.bsky.network",
@@ -161,9 +161,9 @@
           "isActive": true,
           "isInviteCodeRequired": false,
           "version": null,
-          "createdAt": "2024-10-04T10:05:40.108Z",
-          "indexedAt": "2024-10-04T10:06:45.784Z",
-          "updatedAt": "2024-10-04T10:15:25.223Z"
+          "createdAt": "2024-10-04T10:16:07.439Z",
+          "indexedAt": "2024-10-04T10:24:37.246Z",
+          "updatedAt": "2024-10-04T10:24:37.246Z"
         },
         {
           "domain": "https://pds.dholms.xyz",
@@ -2123,18 +2123,18 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "bcefbdbc6b775ab57134c7d1a8d0b129f7d9f40a",
-          "createdAt": "2024-10-04T09:49:32.472Z",
-          "indexedAt": "2024-10-04T10:06:42.136Z",
-          "updatedAt": "2024-10-04T10:18:22.444Z"
+          "createdAt": "2024-10-04T10:07:26.608Z",
+          "indexedAt": "2024-10-04T10:24:36.740Z",
+          "updatedAt": "2024-10-04T10:24:36.740Z"
         },
         {
           "domain": "https://coral.us-east.host.bsky.network",
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "bcefbdbc6b775ab57134c7d1a8d0b129f7d9f40a",
-          "createdAt": "2024-10-04T09:50:01.092Z",
-          "indexedAt": "2024-10-04T10:06:42.531Z",
-          "updatedAt": "2024-10-04T10:18:22.552Z"
+          "createdAt": "2024-10-04T10:06:48.091Z",
+          "indexedAt": "2024-10-04T10:24:35.658Z",
+          "updatedAt": "2024-10-04T10:24:35.658Z"
         },
         {
           "domain": "https://666.fail",
@@ -2294,18 +2294,18 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "bcefbdbc6b775ab57134c7d1a8d0b129f7d9f40a",
-          "createdAt": "2024-10-04T09:50:10.158Z",
-          "indexedAt": "2024-10-04T10:06:43.204Z",
-          "updatedAt": "2024-10-04T10:18:33.307Z"
+          "createdAt": "2024-10-04T10:07:07.355Z",
+          "indexedAt": "2024-10-04T10:24:36.411Z",
+          "updatedAt": "2024-10-04T10:24:36.411Z"
         },
         {
           "domain": "https://woodear.us-west.host.bsky.network",
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "bcefbdbc6b775ab57134c7d1a8d0b129f7d9f40a",
-          "createdAt": "2024-10-04T09:49:19.601Z",
-          "indexedAt": "2024-10-04T10:06:41.571Z",
-          "updatedAt": "2024-10-04T10:18:33.799Z"
+          "createdAt": "2024-10-04T10:06:57.596Z",
+          "indexedAt": "2024-10-04T10:24:36.016Z",
+          "updatedAt": "2024-10-04T10:24:36.016Z"
         },
         {
           "domain": "https://bsky.buldy.eu",
@@ -3062,9 +3062,18 @@
           "createdAt": "2024-10-04T09:52:11.481Z",
           "indexedAt": "2024-10-04T10:06:43.978Z",
           "updatedAt": "2024-10-04T10:19:53.271Z"
+        },
+        {
+          "domain": "https://rem.ocbwoy3.dev",
+          "isActive": true,
+          "isInviteCodeRequired": true,
+          "version": null,
+          "createdAt": "2024-10-04T10:17:30.735Z",
+          "indexedAt": "2024-10-04T10:24:37.417Z",
+          "updatedAt": "2024-10-04T10:24:37.417Z"
         }
       ],
-      "lastCrawledAt": "2024-10-04T10:06:45.784Z"
+      "lastCrawledAt": "2024-10-04T10:24:37.418Z"
     }
   ]
 }
