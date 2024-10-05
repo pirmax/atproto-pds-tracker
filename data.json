@@ -17,9 +17,9 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "b298bfd280c5de8b38b843fd852e6d2739a776d8",
-          "createdAt": "2024-10-05T08:17:42.255Z",
-          "indexedAt": "2024-10-05T08:24:57.197Z",
-          "updatedAt": "2024-10-05T08:28:01.674Z"
+          "createdAt": "2024-10-05T08:39:41.771Z",
+          "indexedAt": "2024-10-05T08:49:00.464Z",
+          "updatedAt": "2024-10-05T08:49:00.464Z"
         },
         {
           "domain": "https://puffball.us-east.host.bsky.network",
@@ -107,9 +107,9 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "b298bfd280c5de8b38b843fd852e6d2739a776d8",
-          "createdAt": "2024-10-05T08:11:23.861Z",
-          "indexedAt": "2024-10-05T08:24:56.647Z",
-          "updatedAt": "2024-10-05T08:28:03.715Z"
+          "createdAt": "2024-10-05T08:42:48.043Z",
+          "indexedAt": "2024-10-05T08:49:01.147Z",
+          "updatedAt": "2024-10-05T08:49:01.147Z"
         },
         {
           "domain": "https://verpa.us-west.host.bsky.network",
@@ -161,9 +161,9 @@
           "isActive": true,
           "isInviteCodeRequired": false,
           "version": null,
-          "createdAt": "2024-10-05T08:25:17.052Z",
-          "indexedAt": "2024-10-05T08:37:02.048Z",
-          "updatedAt": "2024-10-05T08:37:02.048Z"
+          "createdAt": "2024-10-05T08:37:25.175Z",
+          "indexedAt": "2024-10-05T08:48:59.708Z",
+          "updatedAt": "2024-10-05T08:48:59.708Z"
         },
         {
           "domain": "https://pds.dholms.xyz",
@@ -2123,18 +2123,18 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "bcefbdbc6b775ab57134c7d1a8d0b129f7d9f40a",
-          "createdAt": "2024-10-05T08:25:01.120Z",
-          "indexedAt": "2024-10-05T08:37:00.046Z",
-          "updatedAt": "2024-10-05T08:37:00.046Z"
+          "createdAt": "2024-10-05T08:38:11.040Z",
+          "indexedAt": "2024-10-05T08:49:00.370Z",
+          "updatedAt": "2024-10-05T08:49:00.370Z"
         },
         {
           "domain": "https://coral.us-east.host.bsky.network",
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "bcefbdbc6b775ab57134c7d1a8d0b129f7d9f40a",
-          "createdAt": "2024-10-05T08:26:08.055Z",
-          "indexedAt": "2024-10-05T08:37:02.633Z",
-          "updatedAt": "2024-10-05T08:37:02.633Z"
+          "createdAt": "2024-10-05T08:37:24.585Z",
+          "indexedAt": "2024-10-05T08:48:59.455Z",
+          "updatedAt": "2024-10-05T08:48:59.455Z"
         },
         {
           "domain": "https://666.fail",
@@ -2291,21 +2291,21 @@
         },
         {
           "domain": "https://magic.us-west.host.bsky.network",
-          "isActive": false,
-          "isInviteCodeRequired": false,
-          "version": null,
-          "createdAt": "2024-10-05T08:25:09.791Z",
-          "indexedAt": "2024-10-05T08:37:01.650Z",
-          "updatedAt": "2024-10-05T08:37:01.650Z"
+          "isActive": true,
+          "isInviteCodeRequired": true,
+          "version": "bcefbdbc6b775ab57134c7d1a8d0b129f7d9f40a",
+          "createdAt": "2024-10-05T08:37:15.058Z",
+          "indexedAt": "2024-10-05T08:48:59.324Z",
+          "updatedAt": "2024-10-05T08:48:59.324Z"
         },
         {
           "domain": "https://woodear.us-west.host.bsky.network",
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "bcefbdbc6b775ab57134c7d1a8d0b129f7d9f40a",
-          "createdAt": "2024-10-05T08:25:03.160Z",
-          "indexedAt": "2024-10-05T08:37:00.282Z",
-          "updatedAt": "2024-10-05T08:37:00.282Z"
+          "createdAt": "2024-10-05T08:37:48.204Z",
+          "indexedAt": "2024-10-05T08:49:00.229Z",
+          "updatedAt": "2024-10-05T08:49:00.229Z"
         },
         {
           "domain": "https://bsky.buldy.eu",
@@ -3091,7 +3091,7 @@
           "updatedAt": "2024-10-05T08:32:30.543Z"
         }
       ],
-      "lastCrawledAt": "2024-10-05T08:37:02.769Z"
+      "lastCrawledAt": "2024-10-05T08:49:01.148Z"
     }
   ]
 }
