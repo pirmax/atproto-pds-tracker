@@ -17,9 +17,9 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "b298bfd280c5de8b38b843fd852e6d2739a776d8",
-          "createdAt": "2024-10-05T09:22:35.484Z",
-          "indexedAt": "2024-10-05T09:24:32.306Z",
-          "updatedAt": "2024-10-05T09:51:38.760Z"
+          "createdAt": "2024-10-05T09:54:42.595Z",
+          "indexedAt": "2024-10-05T10:05:54.875Z",
+          "updatedAt": "2024-10-05T10:05:54.875Z"
         },
         {
           "domain": "https://puffball.us-east.host.bsky.network",
@@ -44,9 +44,9 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "b298bfd280c5de8b38b843fd852e6d2739a776d8",
-          "createdAt": "2024-10-05T07:02:05.107Z",
-          "indexedAt": "2024-10-05T07:07:00.681Z",
-          "updatedAt": "2024-10-05T09:51:39.620Z"
+          "createdAt": "2024-10-05T10:02:43.778Z",
+          "indexedAt": "2024-10-05T10:05:55.165Z",
+          "updatedAt": "2024-10-05T10:05:55.165Z"
         },
         {
           "domain": "https://enoki.us-east.host.bsky.network",
@@ -71,9 +71,9 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "b298bfd280c5de8b38b843fd852e6d2739a776d8",
-          "createdAt": "2024-10-05T07:07:42.589Z",
-          "indexedAt": "2024-10-05T07:23:09.098Z",
-          "updatedAt": "2024-10-05T09:51:40.120Z"
+          "createdAt": "2024-10-05T09:57:18.242Z",
+          "indexedAt": "2024-10-05T10:05:55.061Z",
+          "updatedAt": "2024-10-05T10:05:55.061Z"
         },
         {
           "domain": "https://amanita.us-east.host.bsky.network",
@@ -134,9 +134,9 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "b298bfd280c5de8b38b843fd852e6d2739a776d8",
-          "createdAt": "2024-10-05T08:53:17.156Z",
-          "indexedAt": "2024-10-05T09:06:41.221Z",
-          "updatedAt": "2024-10-05T09:51:42.234Z"
+          "createdAt": "2024-10-05T10:05:12.587Z",
+          "indexedAt": "2024-10-05T10:05:55.654Z",
+          "updatedAt": "2024-10-05T10:05:55.654Z"
         },
         {
           "domain": "https://rebroad.com",
@@ -161,9 +161,9 @@
           "isActive": true,
           "isInviteCodeRequired": false,
           "version": null,
-          "createdAt": "2024-10-05T09:37:29.201Z",
-          "indexedAt": "2024-10-05T09:48:59.169Z",
-          "updatedAt": "2024-10-05T09:51:45.361Z"
+          "createdAt": "2024-10-05T09:50:06.188Z",
+          "indexedAt": "2024-10-05T10:05:54.127Z",
+          "updatedAt": "2024-10-05T10:05:54.127Z"
         },
         {
           "domain": "https://pds.dholms.xyz",
@@ -827,9 +827,9 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "b298bfd280c5de8b38b843fd852e6d2739a776d8",
-          "createdAt": "2024-10-05T06:02:30.709Z",
-          "indexedAt": "2024-10-05T06:25:19.468Z",
-          "updatedAt": "2024-10-05T09:52:28.258Z"
+          "createdAt": "2024-10-05T09:54:24.195Z",
+          "indexedAt": "2024-10-05T10:05:54.783Z",
+          "updatedAt": "2024-10-05T10:05:54.783Z"
         },
         {
           "domain": "https://conocybe.us-west.host.bsky.network",
@@ -2123,18 +2123,18 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "bcefbdbc6b775ab57134c7d1a8d0b129f7d9f40a",
-          "createdAt": "2024-10-05T09:35:16.811Z",
-          "indexedAt": "2024-10-05T09:48:57.743Z",
-          "updatedAt": "2024-10-05T09:54:47.819Z"
+          "createdAt": "2024-10-05T09:49:06.075Z",
+          "indexedAt": "2024-10-05T10:05:51.337Z",
+          "updatedAt": "2024-10-05T10:05:51.337Z"
         },
         {
           "domain": "https://coral.us-east.host.bsky.network",
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "bcefbdbc6b775ab57134c7d1a8d0b129f7d9f40a",
-          "createdAt": "2024-10-05T09:35:19.753Z",
-          "indexedAt": "2024-10-05T09:48:57.855Z",
-          "updatedAt": "2024-10-05T09:54:47.989Z"
+          "createdAt": "2024-10-05T09:49:09.691Z",
+          "indexedAt": "2024-10-05T10:05:52.912Z",
+          "updatedAt": "2024-10-05T10:05:52.912Z"
         },
         {
           "domain": "https://666.fail",
@@ -2291,21 +2291,21 @@
         },
         {
           "domain": "https://magic.us-west.host.bsky.network",
-          "isActive": true,
-          "isInviteCodeRequired": true,
-          "version": "bcefbdbc6b775ab57134c7d1a8d0b129f7d9f40a",
-          "createdAt": "2024-10-05T09:35:25.428Z",
-          "indexedAt": "2024-10-05T09:48:58.898Z",
-          "updatedAt": "2024-10-05T09:54:59.895Z"
+          "isActive": false,
+          "isInviteCodeRequired": false,
+          "version": null,
+          "createdAt": "2024-10-05T09:49:07.326Z",
+          "indexedAt": "2024-10-05T10:05:52.785Z",
+          "updatedAt": "2024-10-05T10:05:52.785Z"
         },
         {
           "domain": "https://woodear.us-west.host.bsky.network",
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "bcefbdbc6b775ab57134c7d1a8d0b129f7d9f40a",
-          "createdAt": "2024-10-05T09:35:19.786Z",
-          "indexedAt": "2024-10-05T09:48:58.351Z",
-          "updatedAt": "2024-10-05T09:55:00.257Z"
+          "createdAt": "2024-10-05T09:49:23.490Z",
+          "indexedAt": "2024-10-05T10:05:53.782Z",
+          "updatedAt": "2024-10-05T10:05:53.782Z"
         },
         {
           "domain": "https://bsky.buldy.eu",
@@ -3091,7 +3091,7 @@
           "updatedAt": "2024-10-05T09:56:19.890Z"
         }
       ],
-      "lastCrawledAt": "2024-10-05T09:49:00.363Z"
+      "lastCrawledAt": "2024-10-05T10:05:55.654Z"
     }
   ]
 }
