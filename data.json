@@ -2123,18 +2123,18 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "bcefbdbc6b775ab57134c7d1a8d0b129f7d9f40a",
-          "createdAt": "2024-10-08T08:25:27.495Z",
-          "indexedAt": "2024-10-08T08:38:32.230Z",
-          "updatedAt": "2024-10-08T08:43:12.582Z"
+          "createdAt": "2024-10-08T08:39:06.629Z",
+          "indexedAt": "2024-10-08T08:50:24.616Z",
+          "updatedAt": "2024-10-08T08:50:24.616Z"
         },
         {
           "domain": "https://coral.us-east.host.bsky.network",
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "bcefbdbc6b775ab57134c7d1a8d0b129f7d9f40a",
-          "createdAt": "2024-10-08T08:25:50.045Z",
-          "indexedAt": "2024-10-08T08:38:32.736Z",
-          "updatedAt": "2024-10-08T08:43:12.983Z"
+          "createdAt": "2024-10-08T08:40:25.394Z",
+          "indexedAt": "2024-10-08T08:50:25.569Z",
+          "updatedAt": "2024-10-08T08:50:25.569Z"
         },
         {
           "domain": "https://666.fail",
@@ -2294,18 +2294,18 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "bcefbdbc6b775ab57134c7d1a8d0b129f7d9f40a",
-          "createdAt": "2024-10-08T08:26:04.276Z",
-          "indexedAt": "2024-10-08T08:38:33.301Z",
-          "updatedAt": "2024-10-08T08:43:25.056Z"
+          "createdAt": "2024-10-08T08:40:40.092Z",
+          "indexedAt": "2024-10-08T08:50:25.842Z",
+          "updatedAt": "2024-10-08T08:50:25.842Z"
         },
         {
           "domain": "https://woodear.us-west.host.bsky.network",
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "bcefbdbc6b775ab57134c7d1a8d0b129f7d9f40a",
-          "createdAt": "2024-10-08T08:25:57.798Z",
-          "indexedAt": "2024-10-08T08:38:33.029Z",
-          "updatedAt": "2024-10-08T08:43:25.178Z"
+          "createdAt": "2024-10-08T08:39:38.035Z",
+          "indexedAt": "2024-10-08T08:50:25.040Z",
+          "updatedAt": "2024-10-08T08:50:25.040Z"
         },
         {
           "domain": "https://bsky.buldy.eu",
@@ -3172,7 +3172,7 @@
           "updatedAt": "2024-10-08T08:44:54.757Z"
         }
       ],
-      "lastCrawledAt": "2024-10-08T08:38:34.154Z"
+      "lastCrawledAt": "2024-10-08T08:50:25.843Z"
     }
   ]
 }
