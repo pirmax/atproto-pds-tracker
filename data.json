@@ -134,9 +134,9 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "b298bfd280c5de8b38b843fd852e6d2739a776d8",
-          "createdAt": "2024-10-15T04:58:15.747Z",
-          "indexedAt": "2024-10-15T05:07:06.562Z",
-          "updatedAt": "2024-10-15T09:51:38.118Z"
+          "createdAt": "2024-10-15T09:51:04.357Z",
+          "indexedAt": "2024-10-15T10:07:25.660Z",
+          "updatedAt": "2024-10-15T10:07:25.660Z"
         },
         {
           "domain": "https://rebroad.com",
@@ -809,9 +809,9 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "b298bfd280c5de8b38b843fd852e6d2739a776d8",
-          "createdAt": "2024-10-15T07:08:51.099Z",
-          "indexedAt": "2024-10-15T07:23:47.310Z",
-          "updatedAt": "2024-10-15T09:52:24.473Z"
+          "createdAt": "2024-10-15T10:04:36.544Z",
+          "indexedAt": "2024-10-15T10:07:25.793Z",
+          "updatedAt": "2024-10-15T10:07:25.793Z"
         },
         {
           "domain": "https://lepista.us-west.host.bsky.network",
@@ -2123,18 +2123,18 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "bcefbdbc6b775ab57134c7d1a8d0b129f7d9f40a",
-          "createdAt": "2024-10-15T09:36:00.127Z",
-          "indexedAt": "2024-10-15T09:49:09.770Z",
-          "updatedAt": "2024-10-15T09:54:40.737Z"
+          "createdAt": "2024-10-15T09:49:56.258Z",
+          "indexedAt": "2024-10-15T10:07:24.925Z",
+          "updatedAt": "2024-10-15T10:07:24.925Z"
         },
         {
           "domain": "https://coral.us-east.host.bsky.network",
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "bcefbdbc6b775ab57134c7d1a8d0b129f7d9f40a",
-          "createdAt": "2024-10-15T09:36:59.229Z",
-          "indexedAt": "2024-10-15T09:49:10.894Z",
-          "updatedAt": "2024-10-15T09:54:40.914Z"
+          "createdAt": "2024-10-15T09:50:24.944Z",
+          "indexedAt": "2024-10-15T10:07:25.363Z",
+          "updatedAt": "2024-10-15T10:07:25.363Z"
         },
         {
           "domain": "https://666.fail",
@@ -2294,18 +2294,18 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "bcefbdbc6b775ab57134c7d1a8d0b129f7d9f40a",
-          "createdAt": "2024-10-15T09:36:04.389Z",
-          "indexedAt": "2024-10-15T09:49:10.262Z",
-          "updatedAt": "2024-10-15T09:54:53.890Z"
+          "createdAt": "2024-10-15T09:49:34.450Z",
+          "indexedAt": "2024-10-15T10:07:24.469Z",
+          "updatedAt": "2024-10-15T10:07:24.469Z"
         },
         {
           "domain": "https://woodear.us-west.host.bsky.network",
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "bcefbdbc6b775ab57134c7d1a8d0b129f7d9f40a",
-          "createdAt": "2024-10-15T09:36:29.323Z",
-          "indexedAt": "2024-10-15T09:49:10.757Z",
-          "updatedAt": "2024-10-15T09:54:54.251Z"
+          "createdAt": "2024-10-15T09:49:12.982Z",
+          "indexedAt": "2024-10-15T10:07:24.338Z",
+          "updatedAt": "2024-10-15T10:07:24.338Z"
         },
         {
           "domain": "https://bsky.buldy.eu",
@@ -3314,9 +3314,18 @@
           "createdAt": "2024-10-15T08:33:35.452Z",
           "indexedAt": "2024-10-15T08:38:23.508Z",
           "updatedAt": "2024-10-15T09:56:26.325Z"
+        },
+        {
+          "domain": "https://lockard.me",
+          "isActive": true,
+          "isInviteCodeRequired": true,
+          "version": "0.4.59",
+          "createdAt": "2024-10-15T10:05:10.498Z",
+          "indexedAt": "2024-10-15T10:07:26.340Z",
+          "updatedAt": "2024-10-15T10:07:26.340Z"
         }
       ],
-      "lastCrawledAt": "2024-10-15T09:49:11.874Z"
+      "lastCrawledAt": "2024-10-15T10:07:26.340Z"
     }
   ]
 }
