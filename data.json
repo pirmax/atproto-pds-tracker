@@ -35,9 +35,9 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "b298bfd280c5de8b38b843fd852e6d2739a776d8",
-          "createdAt": "2024-10-16T03:32:30.498Z",
-          "indexedAt": "2024-10-16T03:39:18.514Z",
-          "updatedAt": "2024-10-16T08:15:58.062Z"
+          "createdAt": "2024-10-16T08:04:59.756Z",
+          "indexedAt": "2024-10-16T08:25:25.420Z",
+          "updatedAt": "2024-10-16T08:25:25.420Z"
         },
         {
           "domain": "https://oyster.us-east.host.bsky.network",
@@ -71,9 +71,9 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "b298bfd280c5de8b38b843fd852e6d2739a776d8",
-          "createdAt": "2024-10-16T07:02:31.164Z",
-          "indexedAt": "2024-10-16T07:06:44.759Z",
-          "updatedAt": "2024-10-16T08:15:59.768Z"
+          "createdAt": "2024-10-16T07:51:28.379Z",
+          "indexedAt": "2024-10-16T08:25:24.957Z",
+          "updatedAt": "2024-10-16T08:25:24.957Z"
         },
         {
           "domain": "https://amanita.us-east.host.bsky.network",
@@ -116,9 +116,9 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "b298bfd280c5de8b38b843fd852e6d2739a776d8",
-          "createdAt": "2024-10-16T04:39:50.523Z",
-          "indexedAt": "2024-10-16T04:49:19.474Z",
-          "updatedAt": "2024-10-16T08:16:01.067Z"
+          "createdAt": "2024-10-16T08:21:31.111Z",
+          "indexedAt": "2024-10-16T08:25:26.867Z",
+          "updatedAt": "2024-10-16T08:25:26.867Z"
         },
         {
           "domain": "https://maitake.us-west.host.bsky.network",
@@ -161,9 +161,9 @@
           "isActive": true,
           "isInviteCodeRequired": false,
           "version": null,
-          "createdAt": "2024-10-16T07:08:55.287Z",
-          "indexedAt": "2024-10-16T07:23:07.076Z",
-          "updatedAt": "2024-10-16T08:16:05.736Z"
+          "createdAt": "2024-10-16T08:02:42.186Z",
+          "indexedAt": "2024-10-16T08:25:25.237Z",
+          "updatedAt": "2024-10-16T08:25:25.237Z"
         },
         {
           "domain": "https://pds.dholms.xyz",
@@ -800,9 +800,9 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "b298bfd280c5de8b38b843fd852e6d2739a776d8",
-          "createdAt": "2024-10-16T06:23:11.013Z",
-          "indexedAt": "2024-10-16T06:25:34.999Z",
-          "updatedAt": "2024-10-16T08:16:45.802Z"
+          "createdAt": "2024-10-16T08:09:03.628Z",
+          "indexedAt": "2024-10-16T08:25:25.789Z",
+          "updatedAt": "2024-10-16T08:25:25.789Z"
         },
         {
           "domain": "https://boletus.us-west.host.bsky.network",
@@ -818,9 +818,9 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "b298bfd280c5de8b38b843fd852e6d2739a776d8",
-          "createdAt": "2024-10-16T04:27:58.476Z",
-          "indexedAt": "2024-10-16T04:37:24.711Z",
-          "updatedAt": "2024-10-16T08:16:46.769Z"
+          "createdAt": "2024-10-16T08:21:11.289Z",
+          "indexedAt": "2024-10-16T08:25:26.496Z",
+          "updatedAt": "2024-10-16T08:25:26.496Z"
         },
         {
           "domain": "https://blewit.us-west.host.bsky.network",
@@ -836,9 +836,9 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "b298bfd280c5de8b38b843fd852e6d2739a776d8",
-          "createdAt": "2024-10-16T06:36:16.893Z",
-          "indexedAt": "2024-10-16T06:39:44.975Z",
-          "updatedAt": "2024-10-16T08:16:47.806Z"
+          "createdAt": "2024-10-16T08:11:52.692Z",
+          "indexedAt": "2024-10-16T08:25:26.141Z",
+          "updatedAt": "2024-10-16T08:25:26.141Z"
         },
         {
           "domain": "https://russula.us-west.host.bsky.network",
@@ -2123,18 +2123,18 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "bcefbdbc6b775ab57134c7d1a8d0b129f7d9f40a",
-          "createdAt": "2024-10-16T07:36:24.906Z",
-          "indexedAt": "2024-10-16T07:49:01.908Z",
-          "updatedAt": "2024-10-16T08:19:05.576Z"
+          "createdAt": "2024-10-16T07:50:00.681Z",
+          "indexedAt": "2024-10-16T08:25:24.224Z",
+          "updatedAt": "2024-10-16T08:25:24.224Z"
         },
         {
           "domain": "https://coral.us-east.host.bsky.network",
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "bcefbdbc6b775ab57134c7d1a8d0b129f7d9f40a",
-          "createdAt": "2024-10-16T07:35:28.736Z",
-          "indexedAt": "2024-10-16T07:49:01.003Z",
-          "updatedAt": "2024-10-16T08:19:05.675Z"
+          "createdAt": "2024-10-16T07:50:08.260Z",
+          "indexedAt": "2024-10-16T08:25:24.762Z",
+          "updatedAt": "2024-10-16T08:25:24.762Z"
         },
         {
           "domain": "https://666.fail",
@@ -2294,18 +2294,18 @@
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "bcefbdbc6b775ab57134c7d1a8d0b129f7d9f40a",
-          "createdAt": "2024-10-16T07:35:05.036Z",
-          "indexedAt": "2024-10-16T07:49:00.606Z",
-          "updatedAt": "2024-10-16T08:19:17.820Z"
+          "createdAt": "2024-10-16T07:50:00.160Z",
+          "indexedAt": "2024-10-16T08:25:24.039Z",
+          "updatedAt": "2024-10-16T08:25:24.039Z"
         },
         {
           "domain": "https://woodear.us-west.host.bsky.network",
           "isActive": true,
           "isInviteCodeRequired": true,
           "version": "bcefbdbc6b775ab57134c7d1a8d0b129f7d9f40a",
-          "createdAt": "2024-10-16T07:35:28.803Z",
-          "indexedAt": "2024-10-16T07:49:01.496Z",
-          "updatedAt": "2024-10-16T08:19:18.320Z"
+          "createdAt": "2024-10-16T07:50:04.660Z",
+          "indexedAt": "2024-10-16T08:25:24.597Z",
+          "updatedAt": "2024-10-16T08:25:24.597Z"
         },
         {
           "domain": "https://bsky.buldy.eu",
@@ -3334,7 +3334,7 @@
           "updatedAt": "2024-10-16T08:20:57.399Z"
         }
       ],
-      "lastCrawledAt": "2024-10-16T07:49:02.368Z"
+      "lastCrawledAt": "2024-10-16T08:25:26.868Z"
     }
   ]
 }
