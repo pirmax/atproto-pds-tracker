@@ -1,0 +1,28 @@
+name: PDS Health Check
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/10 * * * *"
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: .node-version
+          cache: npm
+      - name: Install dependencies
+        run: npm install
+      - name: Check PDS Health
+        run: npm run start:health-check
+      - name: Update README
+        run: npm run start:update-readme
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🩺 Checked PDS Health"
+          commit_user_name: 'Healer'
+          commit_user_email: 'bot@users.noreply.github.com'
+          commit_author: 'Bot <bot@users.noreply.github.com>'
